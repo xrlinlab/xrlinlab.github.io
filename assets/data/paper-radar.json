@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:25:34Z",
+  "generatedAt": "2026-09-05T23:04:34Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -218,7 +218,14 @@
       "summaryZh": "新在哪里：将含氟基团仅布置在聚酰亚胺链端，以提高界面电子势垒和抗氧化能力，同时避免主链氟化造成的Li+传输损失，针对富锂层状氧化物界面提出了位置选择性氟化策略。\n性能：端基氟化聚酰亚胺包覆的富锂正极循环1000次后保持80.8%容量；Si/C||富锂正极软包电池达到409 Wh kg−1，并在100次循环后保持90.1%容量。\n怎么解释：吸电子CF3端基抑制活性氧引发的聚合物降解、副反应和氧释放，高模量聚酰亚胺层同时限制应力诱导的颗粒开裂；摘要称其未明显牺牲Li+动力学，但未量化端基与主链效应的独立贡献。\n为什么重要：结果表明界面聚合物的取代位置与取代基本身同样关键，可在化学稳定性、机械保护和离子传输之间取得更合理平衡，为高电压正极人工界面设计提供具体分子变量。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-04T09:45:01.610Z",
-      "summaryPromptVersion": 1
+      "summaryPromptVersion": 1,
+      "correspondingAuthors": [
+        "Guoqing Wang",
+        "Xianwei Guo",
+        "Haijun Yu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Breaking Low-Temperature Bottlenecks via p–d–π-Type Local Environment toward High-Performance Polymer-Based All-Solid-State Lithium Battery",
@@ -330,7 +337,14 @@
       "summaryZh": "新在哪里：揭示Mg金属与Li、Na、Zn不同的反常温度效应：降低温度没有加剧枝晶，反而形成更均匀、无枝晶的Mg沉积，并进一步关联到低温固态电解质界面膜（solid–electrolyte interphase, SEI）的组成与厚度。\n性能：−20 °C形成约2–3 nm、富高模量无机组分的超薄SEI，Mg负极平均库仑效率达到99.92%，并可稳定循环2000次。\n怎么解释：低温改变界面副反应路径，形成更薄且机械强度更高的无机SEI，从而均化Mg沉积。冷冻透射电镜、原子力显微镜和光电子能谱提供了形貌与成分证据，但摘要未建立定量因果关系。\n为什么重要：该结果表明不同金属负极不能套用统一的低温沉积图景，并为Mg电池的低温界面设计提供了一个反常但可利用的机制线索。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1
+      "summaryPromptVersion": 1,
+      "correspondingAuthors": [
+        "Xuefeng Wang",
+        "Ruiguo Cao",
+        "Shuhong Jiao"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Synergistic Molecular and Polymer Network Design Enables Stable LiPF 6 ‐Based Gel Polymer Electrolytes for Lithium Metal Batteries",
@@ -350,7 +364,14 @@
       "summaryZh": "新在哪里：将溶剂化调节与含氟聚合物网络限域结合，通过网络对PF6−的强作用抑制PF5生成，从源头切断LiPF6–PF5诱导FEC脱氟和HF形成的连续降解路径。\n性能：该凝胶聚合物电解质（gel polymer electrolyte, GPE）使Li||LiCoO2电池在4.5 V循环400次后保持82.6%容量；1.3 Ah软包电池在N/P=1.1条件下循环30次后保持80.7%容量。\n怎么解释：四氟乙氧基苯调节Li+溶剂化并促进稳定正极界面，原位聚合的含氟芳香网络结合PF6−、减少Lewis酸性PF5，最终使两极界面偏向形成致密富LiF层。\n为什么重要：工作将LiPF6/FEC体系的失效具体定位到PF5介导的化学链条，并展示了如何用分子添加剂和网络功能分工进行阻断，对高电压凝胶电解质设计具有明确启示。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1
+      "summaryPromptVersion": 1,
+      "correspondingAuthors": [
+        "Mengjie Li",
+        "Cuiping Han",
+        "Baohua Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Synchronous Interfacial Chemistry via a Fluorine‐Free Bifunctional Additive for Ultrastable Aqueous Zinc‐Iodine Batteries",
@@ -370,7 +391,13 @@
       "summaryZh": "新在哪里：用无氟双功能小分子麦芽酚在共享电解液中同步调控锌负极和碘正极，避免传统策略分别修饰两极却忽略物种跨界面迁移的问题。\n性能：I−正极液体系循环超过35000次，单圈容量衰减0.0007%；固载碘体系在约2 mAh cm−2下循环11000次后仍保持83.8%容量，0.54 Ah软包电池累计输出超过250 Ah。\n怎么解释：麦芽酚在锌表面协同平面吸附并重构内亥姆霍兹层（inner Helmholtz plane, IHP），抑制水/硫酸根副反应并调节成核；其多齿氧位点同时锚定并削弱I3−，限制穿梭并促进I2/I−转化。\n为什么重要：该工作说明双电极失效可以通过同一电解液分子的界面选择性作用协同处理，为减少含氟添加剂、构建长寿命锌–碘电池提供了较完整的分子设计范式。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1
+      "summaryPromptVersion": 1,
+      "correspondingAuthors": [
+        "Jian Qin",
+        "Xifei Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Non‐Entangled Chains Enable Rapid Na + Transport Through Ion‐Traps in Gel Polymer Electrolytes at Low Temperatures",
@@ -390,7 +417,14 @@
       "summaryZh": "新在哪里：将低温凝胶聚合物电解质中的链缠结明确为“离子陷阱”来源，并以非缠结聚1,3-二氧戊环构建连续、均一的Na+配位环境，而不是单纯通过增加液相含量提高电导率。\n性能：非缠结网络使Na+迁移数达到0.85，在−50 °C仍具有0.25 mS cm−1离子电导率；Na||Na3V2(PO4)3全电池在−40 °C下容量保持率接近100%。\n怎么解释：减少链缠结可缩短链松弛时间、增加自由体积并降低离子陷阱密度，同时促进NaTFSI解离和连续Na+扩散；更均匀的Na+通量进一步对应更薄、更均一的SEI。\n为什么重要：工作把低温传输瓶颈从笼统的链段运动不足细化为可由拓扑结构调节的离子陷阱，为在不依赖大量增塑剂的情况下设计低温聚合物电解质提供了新路径。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1
+      "summaryPromptVersion": 1,
+      "correspondingAuthors": [
+        "Xiaochuan Duan",
+        "Zhong Li",
+        "Xian‐Ming Zhang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Engineering the Interfacial Microenvironment of Fe–N–C Cathode to Boost Proton Conduction for High-Performance Fuel Cells",
@@ -430,7 +464,12 @@
       "summaryZh": "新在哪里：以仅0.5 wt.%的区域异构腈类添加剂3-(三氟甲基)苯甲腈调控正、负极电解质界面，同时保持与商业LP57电解液兼容。\n性能：在1 Ah石墨||NCM811软包电池中实现更好的快充表现，并改善低温、高温和高电压稳定性；摘要未给出软包快充循环的具体倍率与保持率。\n怎么解释：添加剂在负极优先还原，形成约10 nm的受控固体电解质界面膜（solid electrolyte interphase, SEI），而LP57形成约450 nm的富锂层；在正极侧则形成更薄、更均匀的正极电解质界面膜（cathode electrolyte interphase, CEI）。弛豫时间分布（distribution of relaxation times, DRT）分析显示界面阻抗降低，并伴随锂沉积受抑。\n为什么重要：该工作把添加剂的区域异构结构与双界面成膜差异联系起来，为不更换主体电解液条件下改善快充提供了较接近产业配方的路径。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Arumugam Manthiram"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Data-Driven Design of Asymmetric, Fluorine-Free Ethers for High-Voltage Lithium-Metal Batteries under Extreme Conditions",
@@ -491,7 +530,14 @@
       "summaryZh": "新在哪里：以3-吡啶基三氟硼酸钾作为双界面添加剂，利用吡啶基调节阴离子电子结构和Na⁺结合能力，使同一分子分别参与负极SEI与正极CEI形成。\n性能：Na||Na对称电池在5 mA cm⁻²下循环6000 h；Na||Cu平均库仑效率为99.89%；Na||Na₃V₂(PO₄)₂F₃电池在4.3 V、10 C循环10000次后容量保持率为90.8%，在4.4 V循环2500次后为90.0%。\n怎么解释：PBF₃⁻优先还原并形成富NaF的SEI，抑制枝晶；B–F键断裂同时促进薄而均匀的富NaF CEI，降低高电压电解液氧化。摘要支持成膜组成与性能相关，但尚不能单凭这些信息确认两侧界面作用的相对贡献。\n为什么重要：该设计尝试用单一添加剂同时解决钠金属沉积与高电压正极氧化两个失效源，为低添加量双界面调控提供了明确的分子电子结构依据。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Liang Ma",
+        "Junpeng Xie",
+        "Qifeng Zheng"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Descriptor‐Guided Dynamic Solvation‐Shell Reconstruction Enables PEO‐Based Polymer Electrolytes With 10.9 mS cm −1 Ionic Conductivity",
@@ -511,7 +557,13 @@
       "summaryZh": "新在哪里：采用描述符引导的动态溶剂化壳层重构，在聚氧化乙烯（poly(ethylene oxide), PEO）准固态电解质中引入兼具竞争性Li⁺亲和力和快速局部扩散的腈类增塑剂。\n性能：优化电解质室温离子电导率达到10.9 mS cm⁻¹，较原始PEO提高近三个数量级；摘要仅说明Li||NCM811电池可稳定快充和低温运行，未提供对应倍率、温度与循环数据。\n怎么解释：腈配体进入第一溶剂化壳层，削弱持续的Li⁺–醚氧配位，使迁移由聚合物笼限跳跃转向配体交换辅助传输；同时改变界面分解路径，抑制高电压下PEO氧化并形成更致密的CEI。\n为什么重要：工作将体相离子输运与高电压界面稳定性放在同一溶剂化结构变量下讨论，为PEO体系中电导率与界面稳定性同步改善提供了可量化的分子筛选思路。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Haiming Xie",
+        "Yulong Liu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Adaptive Solvation Evolution by Molecular Design Enables High‐Performance Wide‐Temperature Lithium‐Ion Batteries",
@@ -531,7 +583,13 @@
       "summaryZh": "新在哪里：通过α-甲基取代溶剂产生局部位阻屏蔽，调节溶剂–Li⁺–阴离子配位随温度的变化，构建温度自适应溶剂化结构。\n性能：1 Ah LFP||石墨软包电池在25 °C、2 C循环2000次后保持87.4%容量，并在−60 °C输出0.47 Ah；1 Ah NMC811||石墨软包电池在25 °C、1 C循环4000次后保持83.2%，在−80 °C输出0.49 Ah，并可在100 °C运行。\n怎么解释：作者将宽温性能归因于α-甲基位阻对配位强度的动态调节，使低温离子传输与高温稳定性得到兼顾。摘要没有列出不同温度下溶剂化结构的直接表征，因此具体温度响应机制仍需正文证据确认。\n为什么重要：相比为单一低温或高温条件优化固定溶剂化结构，该策略关注配位关系随温度的演化，并在商业尺寸软包电池中检验，具有更明确的宽温应用相关性。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Long Chen",
+        "Chunzhong Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "A Fullerene-Based Interphase Confines Interfacial Electrons for Long-Lived Zinc Metal Anodes in Aqueous Electrolytes",
@@ -572,7 +630,12 @@
       "summaryZh": "新在哪里：通过酯羰基的位阻–电子协同调节，同时在热力学和动力学上限制电子转移，并改变溶剂化结构，使乙酸新戊酯类电解液的无序还原转化为受控界面成膜。\n性能：电解液支持−40至50 °C运行，并在4.6 V、10 C条件下驱动Li||NCM811电池；2.5 Ah软包电池在负正极容量比0.94、1.17 g Ah⁻¹贫液条件下达到432 Wh kg⁻¹。摘要称4.6 V循环300次容量衰减可忽略，但未给出数值。\n怎么解释：作者认为酯羰基周围的电子与空间环境降低其接受电子并发生非受控还原的倾向，同时重塑Li⁺溶剂化和界面分解路径。摘要未给出热力学势垒与电子转移速率的独立证据，二者的相对作用仍需正文确认。\n为什么重要：酯类溶剂成本和质量优势明显，但还原稳定性通常不足；该工作提供了从羰基局部结构出发改善锂金属兼容性的分子设计方向。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Jinkui Feng"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Moderately Solvated Electrolyte Enabling Fast Charging of a Lithium-Ion Battery at Low Temperature",
@@ -632,7 +695,13 @@
       "summaryZh": "新在哪里：该综述不把无负极钠金属电池视为具有固定界面的体系，而是以“溶剂化控制的界面进入—集流体调节的钠重构—反应路径与力学完整性控制的SEI更新”三个连续阶段组织失效机制。\n性能：本文为机制综述，不报告单一材料的性能纪录；重点比较电流密度、剥离深度、压力、温度、钠库存和电池构型如何改变界面连续性。\n怎么解释：早期去溶剂化和异相成核产生的不均匀性可传递至金属并合、钠孤立和后续SEI反复更新，因此局部界面改善只有在后续阶段保持连续性时才可能转化为循环收益。\n为什么重要：该框架把配位化学、金属连续性、界面更新和器件边界条件放入同一时间序列，有助于避免仅凭某一阶段的局部表征判断无负极体系稳定性。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Shengan Wu",
+        "Haiyan Wang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Ultrathin Membrane With Ion‐Specific Gating Enables Interfacial Decoupling of Conductivity–Selectivity for Aqueous Flow Batteries",
@@ -648,7 +717,12 @@
       "abstract": "ABSTRACT Ion‐exchange membranes (IEMs) are essential for efficient and durable flow batteries, yet their inherent conductivity–selectivity trade‐off severely limits flow battery performance. Most conventional strategies to improve selectivity rely on regulating ion diffusion within ion‐exchange channels through size exclusion and electrostatic repulsion, inevitably compromising ionic conductivity. Here we shift the paradigm to ion partitioning at the membrane–electrolyte interface by establishing ion‐specific gating that selectively intercepts active species while preserving rapid charge carrier transport. The developed ultrathin (29 ± 2 µm) polar oxygen‐vacancy‐enhanced (POVE) membrane suppresses polysulfide crossover through strong chemisorption and a strengthened hydration layer, delivering over 3.4 times the selectivity of the base membrane at comparable conductivity and over 24.8 times the selectivity of commercial Nafion membranes. In the polysulfide–ferrocyanide flow battery, it achieved 82% energy efficiency at 40 mA cm −2 and sustained over 2000 cycles with negligible capacity decay, far exceeding 286 cycles for the base membrane and",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "correspondingAuthors": [
+        "Yi‐Chun Lu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Synergistic Surface and Interface Regulation of Ultralow-Pt-Loading Cathodes for Low-Alkalinity AEMWEs",
