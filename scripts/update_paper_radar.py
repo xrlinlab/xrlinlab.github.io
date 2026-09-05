@@ -156,9 +156,11 @@ def main():
     end = date.today()
     start = end - timedelta(days=WINDOW_DAYS - 1)
     existing = {}
+    previous_payload = None
     if OUTPUT.exists():
         try:
             previous = json.loads(OUTPUT.read_text(encoding="utf-8"))
+            previous_payload = previous
             existing = {
                 (paper.get("doi") or re.sub(r"[^a-z0-9]+", "", paper.get("title", "").lower())): paper
                 for paper in previous.get("papers", []) if isinstance(paper, dict)
@@ -214,6 +216,12 @@ def main():
         "source": "Crossref",
         "errors": errors,
     }
+    if previous_payload is not None:
+        previous_semantic = {key: value for key, value in previous_payload.items() if key != "generatedAt"}
+        current_semantic = {key: value for key, value in payload.items() if key != "generatedAt"}
+        if previous_semantic == current_semantic:
+            print("Paper data is unchanged.")
+            return
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Saved {len(papers)} papers; {len(errors)} source errors.")
