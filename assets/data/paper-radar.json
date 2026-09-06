@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T22:26:31Z",
+  "generatedAt": "2026-09-06T23:04:17Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -675,7 +675,14 @@
       "summaryZh": "新在哪里：通过反应–扩散耦合界面聚合构建沿厚度方向变化的溶剂化梯度膜，将铁氰根排斥与OH⁻传导分配到不同空间区域。\n性能：优化膜的Fe(CN)₆³⁻渗透率为8.07 × 10⁻⁷ cm² h⁻¹，OH⁻电导率为41.08 mS cm⁻¹；碱性锌–铁液流电池在80 mA cm⁻²下能量效率为89.94%，稳定运行超过800 h。\n怎么解释：约35 nm致密外层以约6 Å孔径提高大离子进入和去溶剂化势垒；约400 nm富NH内层通过再溶剂化与氢键重排促进OH⁻迁移。深度分辨光谱和分子动力学模拟支持膜内溶剂化环境随深度变化。\n为什么重要：该结构不要求单一均匀通道同时满足高选择性和高电导率，而是用空间分工缓解二者的竞争，为电化学分离膜的非均相结构设计提供了清晰范式。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
+      "summaryPromptVersion": "performance-v2",
+      "correspondingAuthors": [
+        "Dan Li",
+        "Yuzhang Zhu",
+        "Jian Jin"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "A Stage‐Coupled View of Interfacial Reconstruction in Anode‐Free Sodium Metal Batteries",
@@ -767,7 +774,16 @@
       "summaryZh": "新在哪里：利用自由基聚合与阳离子开环聚合的速率差，一步原位形成双层聚合物电解质及薄的富氟界面层，使界面同时具备Li+动力学缓冲和阴离子锚定功能。\n性能：Li∥Li对称电池稳定循环超过1500 h；Li∥LiFePO4电池在5 C下循环3500次后容量接近完全保持。\n怎么解释：PHFBMA界面层固定FSI−并形成局部高Li+浓度，使离子先快速跨越界面、再在沉积前被均化；摘要将其与较稳定的化学/力学界面联系起来，但未分别量化阴离子固定与局部浓度效应。\n为什么重要：该设计把固态聚合物电解质的关注点从体相电导率推进到界面供离子动力学，为高倍率锂金属沉积提供了可构筑的空间分层结构。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Lifeng Hou",
+        "Yinghui Wei",
+        "Shi Wang",
+        "Zhong Jin",
+        "Qian Wang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Nanofiber-Reinforced Composite Polymer Electrolyte Enables Continuous Lithium-Ion Transport and Anion-Rich Solvation Structure for 670 Wh kg–1 Lithium Batteries",
@@ -848,7 +864,13 @@
       "summaryZh": "新在哪里：把液态电解液的添加剂思路移植到卤化物固态电解质，通过少量氧化物纳米颗粒调节局部结构，而不是整体改变主体晶相。\n性能：改性固态电解质兼具较高离子电导率、氧化稳定性和耐湿性；全固态电池在1 C下稳定循环超过3300次，并在4.8 V仍保持可逆运行。\n怎么解释：部分添加剂参与界面重构，生成无序Li+配位环境；其余则作为稳定纳米域保留。前者有利于传输，后者提升化学与环境稳定性，但摘要未分离两类结构的定量贡献。\n为什么重要：该工作提供了一种低成本、可推广到多种卤化物体系的局部调控方式，用于缓解固态电解质长期存在的稳定性—电导率权衡。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xueliang Sun",
+        "Wei Xia"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Self-Transformed MOF-on-MXene Heterostructure as an Ion-Expedited Interphase toward Low-Temperature Multivalent Metal Batteries",
@@ -908,7 +930,13 @@
       "summaryZh": "新在哪里：通过共溶剂重构Cl−微环境，提高氯离子活度并稳定I+物种，从而在水系Zn–I液流电池中启用I0/I+二电子反应。\n性能：电池稳定循环超过1000次、约1600 h，库仑效率达到99.9%，按正极电解液体积计算的放电能量密度为72.88 Wh L−1。\n怎么解释：高给体数、低氢键酸性的DMF削弱Zn2+–Cl−缔合并扰乱Cl−水合，使较低总体氯盐浓度下仍能形成稳定ICl2−；摘要据此将I+水解副反应的降低归因于氯离子活度提升。\n为什么重要：工作指出决定活性卤素稳定性的不是单纯Cl−浓度，而是其局部活度，为水系多电子卤素化学提供了更精确的溶剂化设计指标。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yuanmiao Sun",
+        "Qing Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Implanted Zn 2+ ‐Conducting Hydrogel Interphase Enables Highly Compacted Thick Iodine Electrodes for Ah‐Level Aqueous Zinc–Iodine Pouch Batteries",
@@ -928,7 +956,13 @@
       "summaryZh": "新在哪里：在高压实、干法厚碘电极内部原位植入Zn2+导电水凝胶界面，使离子储库、跨厚度传输和多碘化物阻隔由同一聚合物网络承担。\n性能：在约0.5 g cm−3压实条件下，电池于0.5 C达到9.6 mAh cm−2面容量，并在5 C循环超过4400次；约1.2 Ah软包电池稳定循环850次。\n怎么解释：固定磺酸根配位Zn2+并缓解局部离子耗竭，连通水凝胶网络绕开PTFE疏水性和高曲折度造成的电解液渗透限制；负电且受控含水的界面同时排斥多碘化物。\n为什么重要：该工作直接面向厚电极的离子输运瓶颈，并以Ah级软包验证，说明界面聚合物可用于连接材料级选择性与电极级传质。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jinbao Zhao",
+        "Yang Yang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Interfacial Chemistry of Storage-Induced Degradation in High-Nickel Cathodes",
@@ -989,7 +1023,12 @@
       "summaryZh": "新在哪里：以焓—熵协同的分子设计同时调节Li+与多硫化物的溶剂化结构，把去溶剂化和Li2S成核纳入同一凝胶聚合物电解质设计。\n性能：室温离子电导率达到1.21 mS cm−1，Li+迁移数为0.82，Li∥Li稳定超过2250 h；Li–S电池在2 C循环1000次的单圈衰减为0.043%，1.8 Ah软包能量密度为403.7 Wh kg−1。\n怎么解释：受控配位降低Li+和多硫化物的去溶剂化焓，并限制可访问反应路径，因而促进更均匀的Li2S成核；摘要未给出熵贡献的独立实验量化。\n为什么重要：工作尝试把凝胶网络、溶剂化热力学与硫转化动力学连接起来，并以Ah级电芯检验，为Li–S凝胶电解质提供了超越单一电导率优化的设计框架。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Fangyuan Hu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Electronic conductivity of solid electrolytes causes physical self-discharge in all-solid-state batteries",
@@ -1029,7 +1068,13 @@
       "summaryZh": "新在哪里：以功能化离子型共价有机框架作为“装甲”辅助原位聚合，在固定溶剂的同时构建分级低势垒Li+通道，以缓解导电性与固化程度的矛盾。\n性能：电解质在25 °C的离子电导率为7.6 × 10−4 S cm−1，Li+迁移数为0.66；Li∥LFP在1 C循环1500次后容量保持率92.2%，在2 C循环2200次后为83.8%。\n怎么解释：iCOF减弱Li+—聚合物相互作用并提供连续迁移环境，其氢键网络限制溶剂流动；摘要支持传输与固化同步改善，但缺少两种作用的独立定量。\n为什么重要：该设计把多孔离子骨架从被动填料转化为聚合和传输的结构模板，为安全准固态电解质的力学—输运解耦提供了可测试的思路。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jiujun Zhang",
+        "Yun Zheng"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Toward Robust Anion‐Derived Interphases: A Novel Ternary‐Solvent Electrolyte for High‐Voltage Fast‐Charging Sodium Batteries",
@@ -1049,7 +1094,12 @@
       "summaryZh": "新在哪里：以环丁砜、碳酸二甲酯和含氟磷腈三溶剂协同调节Na+溶剂化，使PF6−进入第一溶剂化壳层并构建阴离子衍生CEI。\n性能：NaNFM电池在2–4.1 V、3 C循环300次后容量保持率为85.72%，初始库仑效率92.03%，20 C容量为57.83 mAh g−1。\n怎么解释：环丁砜竞争配位Na+并抑制DMC氧化，PFPN主要作为游离共溶剂参与界面稳定；协同作用生成约7 nm、模量19.967 GPa的均匀无机富集CEI，降低开裂、金属溶解和产气。\n为什么重要：工作把高压稳定性与快充传输统一到溶剂—阴离子协同结构中，为钠电正极界面从“添加剂成膜”走向可设计溶剂化提供了依据。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xinming Fan"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Programming Ion‐Engineered Interphase for Practical Zinc Batteries Through Exogenous Cation‐Anion Synergy Chemistry",
@@ -1069,7 +1119,12 @@
       "summaryZh": "新在哪里：以可水解阴离子和弱水合大体积阳离子的外源协同，编程水系Zn界面形成过程，将快速无机成膜与动态静电屏蔽结合。\n性能：Zn∥Zn在1 mA cm−2、1 mAh cm−2下运行3400 h，在5 mA cm−2、5 mAh cm−2下运行1800 h；42.7%放电深度下仍可运行410 h。\n怎么解释：阴离子诱导ZnF2、ZnS、ZnO及C–N物种组成的复合界面，大体积阳离子作为非腐蚀性静电屏蔽和场驱动阴离子受体，调节H2O、SO42−与Zn2+分布并均化深度沉积。\n为什么重要：该工作给出水系金属负极中可控“阳离子—阴离子配对”策略，突破只依赖盐浓度或单一添加剂成膜的界面调控方式。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yuejiao Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-07"
     },
     {
       "title": "Interfacial Lithium Redox Kinetics Regulated by Solvent Asymmetry and Moment of Inertia in Li Metal Batteries",
