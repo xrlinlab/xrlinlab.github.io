@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:06:25Z",
+  "generatedAt": "2026-09-06T22:26:31Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -718,15 +718,15 @@
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
       ],
+      "summaryZh": "新在哪里：把离子交换膜（ion-exchange membrane, IEM）的选择机制从膜内扩散筛分转向膜—电解液界面的离子特异性门控，以界面分配解耦电导率与选择性。\n性能：29 ± 2 µm的POVE膜在电导率相当时，选择性为基膜的3.4倍以上、Nafion的24.8倍以上；多硫化物—铁氰化物液流电池在40 mA cm−2下能量效率为82%，循环超过2000次且容量衰减可忽略。\n怎么解释：富含极性氧空位的界面通过强化学吸附截留多硫化物，并以增强的水合层维持载流离子快速通过；摘要支持两种作用并存，但未量化各自贡献。\n为什么重要：该工作表明，选择性不必完全依赖收窄膜内通道，界面门控可为高功率、长寿命液流电池提供更可迁移的膜设计变量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Yi‐Chun Lu"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-06",
-      "summaryZh": "新在哪里：把离子交换膜（ion-exchange membrane, IEM）的选择机制从膜内扩散筛分转向膜—电解液界面的离子特异性门控，以界面分配解耦电导率与选择性。\n性能：29 ± 2 µm的POVE膜在电导率相当时，选择性为基膜的3.4倍以上、Nafion的24.8倍以上；多硫化物—铁氰化物液流电池在40 mA cm−2下能量效率为82%，循环超过2000次且容量衰减可忽略。\n怎么解释：富含极性氧空位的界面通过强化学吸附截留多硫化物，并以增强的水合层维持载流离子快速通过；摘要支持两种作用并存，但未量化各自贡献。\n为什么重要：该工作表明，选择性不必完全依赖收窄膜内通道，界面门控可为高功率、长寿命液流电池提供更可迁移的膜设计变量。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-09-06"
     },
     {
       "title": "Synergistic Surface and Interface Regulation of Ultralow-Pt-Loading Cathodes for Low-Alkalinity AEMWEs",
@@ -1268,46 +1268,6 @@
         "Fast charging and interfacial ion transport"
       ],
       "summaryZh": "新在哪里：提出电子耦合界面自由能描述符ΔG，把添加剂吸附和界面电荷转移合并为一个可解释参数，并与分子本征特征共同用于机器学习筛选。\n性能：筛得的季戊四醇添加剂使Zn沉积/剥离平均库仑效率达到99.71%，稳定循环超过1000 h，寿命约为仅靠分子描述符筛得添加剂的2倍。\n怎么解释：较小ΔG的分子更易富集在Zn界面并排出水，随后形成由添加剂和阴离子共同衍生的稳定SEI；模型预测与实验筛选一致，但跨添加剂家族的外推性仍需更多体系检验。\n为什么重要：该工作把经验添加剂筛选转化为包含金属—分子电子耦合的物理指标，为水系锌电界面材料建立了更具机制约束的数据驱动路线。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Prismatic Na-Ion Coordination in the Sulfide-Chloride Solid Electrolyte Enables Fast Na-Ion Transport",
-      "authors": "Shufan Jia, Yu-Jie Guo, Xiaodong Qi, Liang Ma, Xu-Sheng Zhang, Wanli Wang, Lin-Bo Huang, Manyi Xie, Jian Wang, Haizhou Liu, Rui Wen, Yu-Guo Guo",
-      "authorsCitation": "S. Jia, Y.-J. Guo, X. Qi, L. Ma, X.-S. Zhang, W. Wang, L.-B. Huang, M. Xie, J. Wang, H. Liu, R. Wen, Y.-G. Guo",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-07",
-      "volume": "148",
-      "issue": "32",
-      "page": "34748",
-      "doi": "10.1021/jacs.6c10148",
-      "link": "https://doi.org/10.1021/jacs.6c10148",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：通过Al3+/S2−诱导P21/n相发生玻璃—陶瓷演化，在硫氯化物固态电解质中建立有利于Na+迁移的棱柱配位单元。\n性能：Na1.0Zr0.5Al0.5Cl3.5S0.5在室温和60 °C的离子电导率分别为3.2 × 10−4和1.0 × 10−3 S cm−1，活化能0.35 eV；电池在0.1 C循环150次后保持93%容量，在1 C循环800次后保持80%。\n怎么解释：局部棱柱配位和玻璃—陶瓷结构降低Na+迁移势垒，同时材料的成形性与氧化稳定性改善固—固接触；摘要支持结构—传输关联，但未单独量化界面接触的贡献。\n为什么重要：工作把卤化物钠导体的优化推进到局部配位几何层面，为通过精细结构工程提高Na+电导而非仅改变总体组成提供了范例。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Electron-Deficient Species-Driven Interphase Transformation for Practical Lithium Batteries",
-      "authors": "Xinru Wu, Zhihong Piao, Gongxun Lu, Guohuang Kang, Zhiyuan Han, Ruyu Shi, Yanze Song, Runhua Gao, Junfeng Li, Guangmin Zhou",
-      "authorsCitation": "X. Wu, Z. Piao, G. Lu, G. Kang, Z. Han, R. Shi, Y. Song, R. Gao, J. Li, G. Zhou",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-07",
-      "volume": "148",
-      "issue": "32",
-      "page": "34666",
-      "doi": "10.1021/jacs.6c09703",
-      "link": "https://doi.org/10.1021/jacs.6c09703",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：利用含硼物种的缺电子性持续引发不稳定烷基锂链式聚合，使运行中的界面由易失效组分动态转化为含硼聚合物，而非一次性形成静态SEI。\n性能：Li∥NCM811在4.6 V下稳定循环450次；1.5 Ah石墨软包电池循环1600次后容量保持率为84%。\n怎么解释：含硼聚合物提高界面力学强度和离子传导；同时较小、富多阴离子的溶剂化结构促进Li+传输并生成富LiF界面。摘要支持两条路径并行，但不能确定各自的主导程度。\n为什么重要：该工作提出“界面持续转化”而非单次成膜的稳定化思路，并显示其可推广至多种LiPF6碳酸酯电解液，具有较低配方门槛。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
