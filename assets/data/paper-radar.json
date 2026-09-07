@@ -1218,7 +1218,13 @@
       "summaryZh": "新在哪里：在单一醚电解液中构建体相与界面不同的空间异质溶剂化结构，使体相离子解离和界面去溶剂化分别优化。\n性能：Na∥NaNFM电池在−40 °C初始容量为109.9 mAh g−1，循环140次后容量保持率87.3%，并可在−60至55 °C范围运行。\n怎么解释：体相DGDE形成以溶剂分离离子对为主的结构以提高电导；界面TTMS优先吸附，建立富阴离子的接触离子对/聚集体并提供去溶剂化活性位点，随后形成无机富集界面。\n为什么重要：工作说明“高体相解离”和“低界面去溶剂化势垒”无需由同一种局部结构承担，为宽温域钠电电解液提供了空间分工式设计。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Chuankai Fu",
+        "Pengjian Zuo"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-08"
     },
     {
       "title": "Unlocking the Potential of Sparingly Soluble LiNO 3 in Carbonate Electrolytes With Pyridine as a Carrier Cosolvent for 450 Wh Kg −1 High‐Voltage Lithium Metal Batteries",
@@ -1238,7 +1244,15 @@
       "summaryZh": "新在哪里：以吡啶作为载体共溶剂提高LiNO3在碳酸酯中的溶解度，使传统醚系有效添加剂进入高压碳酸酯锂金属体系。\n性能：Li∥Cu在2 mA cm−2下库仑效率为97.3%；5.6 Ah软包电池能量密度达到453 Wh kg−1，循环50次后容量保持率95.5%。\n怎么解释：吡啶配位Li+、削弱Li+—碳酸酯作用并促进NO3−进入界面反应；吡啶与LiNO3协同分解生成富Li3N、LiNxOy和LiF的刚柔互穿界面，同时配位抑制吡啶过度反应。\n为什么重要：工作提供了一种“载体共溶剂”方法，用于把低溶解度功能盐引入不相容的电解液平台，并以Ah级高压电芯验证其应用潜力。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Junwei Meng",
+        "Chilin Li",
+        "Changzhou Yuan",
+        "Feixiang Wu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-08"
     },
     {
       "title": "Enhanced Sodium-Ion Transport across Solid Electrolyte Interphase via Electric-Field Modulation",
