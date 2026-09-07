@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T23:04:17Z",
+  "generatedAt": "2026-09-07T22:27:22Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,39 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
+      "authors": "Rui Qiu, Xueliang Zhang, Hairong Gong, Jialing Huang, Jiawei Lai, Kui Ding, Liang Ma, Yuepeng Cai, Qifeng Zheng",
+      "authorsCitation": "R. Qiu, X. Zhang, H. Gong, J. Huang, J. Lai, K. Ding, L. Ma, Y. Cai, Q. Zheng",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-07",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c14457",
+      "link": "https://doi.org/10.1021/jacs.6c14457",
+      "abstract": "Abstract Lithium–metal batteries (LMBs) hold great promise for high-energy-density energy storage yet suffer from low Li plating/stripping Coulombic efficiency (CE), which originates from persistent electrolyte decomposition at the electrolyte/anode interface. Such parasitic reactions are driven by interfacial electron transfer, closely tied to both the passivation capability of solid electrolyte interphase (SEI) and reductive stability of electrolytes. Herein, the interfacial energy gap (ΔEgap) between Fermi level of Li/SEI and lowest unoccupied molecular orbital level of electrolyte is proposed as a descriptor to quantify the driving force for interfacial electron transfer, demonstrating that a reduced ΔEgap could effectively suppress interfacial parasitic reaction and thus enhance Li CE. Machine learning modeling coupled with Shapley additive analysis identifies the solvent minimum electrostatic potential (ESPmin) as the dominant governing factor of ΔEgap. Guided by these insights, we design two out-of-sample solvents with small ΔEgap, achieving high CEs exceeding 99%. Combined experimental and simulation results elucidate an ESPmin-governed interfacial regulation mechanism. This work provides a quantitative and interpretable strategy for rational electrolyte design toward highly reversible LMBs.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "A Three-Descriptor Framework for Solvation Design of Low-Temperature Electrolytes in Lithium Batteries",
+      "authors": "Linlin Xue, Jiantao Guo, Yuqiang Wu, Yang Dong, Jinhan Li, Meng Yao, Yiyang Peng, Fengming Zhang, Shucheng Liu, Meng Yu, Jianwei Li, Fangyi Cheng",
+      "authorsCitation": "L. Xue, J. Guo, Y. Wu, Y. Dong, J. Li, M. Yao, Y. Peng, F. Zhang, S. Liu, M. Yu, J. Li, F. Cheng",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-07",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c08135",
+      "link": "https://doi.org/10.1021/jacs.6c08135",
+      "abstract": "Abstract Low-temperature operation of lithium–metal batteries is limited by kinetic penalties in electrolytes, yet electrolyte discovery for subzero operation remains largely empirical, lacking a predictive basis linking molecular structure to Li+–solvent interactions. Here, we establish a three-descriptor topology–electronic coupling framework combining O–O bond separation, lone pair orbital contribution and net oxygen charge to predict Li+–solvent binding energetics by screening a diverse ether, ester, ketone, carbonate, and sulfone solvent library. 2,2,2-trifluoroethylmethanesulfonate (TM) featuring S═O moiety and −CF3 group is identified as a solvent model that favors weakly point-contact Li+ coordination, which effectively lowers the desolvation barrier, induces anion-involved solvation structures, and promotes the formation of an inorganic LiF-rich interphase. A newly formulated electrolyte consisting of lithium bis(fluorosulfonyl)imide (LiFSI), 1,1,2,2-tetrafluoroethyl-2,2,3,3-tetrafluoropropyl ether (TTE), and TM delivers 99.38% Li plating/stripping Coulombic efficiency and enables reversible Li||Ni0.8Mn0.1Co0.1O2 cells at −60 °C with a cutoff voltage of 4.6 V. This multi-factor solvent-screening strategy advances electrolyte design from empirical trial-and-error toward descriptor-guided development.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Machine Learning‐Driven Alloy Anode Accompanied by Interfacial Kinetic Compensation Design Toward High‐Rate Zinc Pouch Cells",
       "authors": "Mingzhu Li, Shengwei Du, Shuquan Liang, Xin Wang, Guozhao Fang",
@@ -1223,106 +1256,6 @@
         "Fast charging and interfacial ion transport"
       ],
       "summaryZh": "新在哪里：提出SEI内部电场随厚度衰减会触发Na+由近界面的弹道式传输转为扩散传输，并以成膜电荷量作为可测代理指标。\n性能：23种电解液中，SEI成膜电荷与界面电阻呈R2 = 0.993相关；1 M NaPF6/TEGDME形成约21 nm SEI、成膜电荷损失31.7%，Na∥硬碳界面阻抗为24.48 Ω cm2，循环1200次后容量保持率99.4%。\n怎么解释：薄SEI中的强电场降低碰撞影响，使Na+快速穿越；厚SEI电场减弱后散射与扩散主导。计算和恒电位计时库仑法共同支持模型，但“弹道式”机制仍主要依赖模型解释。\n为什么重要：工作把SEI厚度、成膜副反应和离子传输机制连接起来，为通过电解液减少过度成膜来降低界面阻抗提供了定量框架。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Regulating Solvation Chemistry via Strongly Coordinating Anion and Weakly Solvating Cosolvent for Low‐Temperature Sodium Metal Batteries",
-      "authors": "Genliang Yu, Qian Yang, Tongtong Huo, Mingyue Li, Xuejie Bai, Xiaobo Zhang, Jie Xu, Ting Lv, Xunzhu Zhou, Lin Li, Kaixiang Lei, Shijian Zheng",
-      "authorsCitation": "G. Yu, Q. Yang, T. Huo, M. Li, X. Bai, X. Zhang, J. Xu, T. Lv, X. Zhou, L. Li, K. Lei, S. Zheng",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-08",
-      "volume": "",
-      "issue": "",
-      "page": "e2602693",
-      "doi": "10.1002/anie.2602693",
-      "link": "https://doi.org/10.1002/anie.2602693",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以强配位阴离子和弱溶剂化共溶剂协同构建富阴离子、可变配位的溶剂化结构，面向低温钠金属电池同时调节液相和界面动力学。\n性能：−20 °C下Na沉积稳定超过500 h；全电池在−20和−40 °C循环1000次后的容量保持率分别为70.54%和68.28%。\n怎么解释：富阴离子溶剂化降低Na+去溶剂化势垒、缓解浓差极化并促进液相传输，同时诱导稳定且高离子导电的界面；摘要支持协同效应，但未给出各因素的独立贡献。\n为什么重要：该工作将低温失效拆分为液相传输、去溶剂化和界面稳定三个相连环节，为寒冷条件下的钠金属电解液提供了系统设计路线。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Reflex Charging for Anion‐Derived Solid Electrolyte Interphase Formation",
-      "authors": "Gyeoul Seong, Min‐Gyun Kim, Eunyeong Jung, Yerin Kang, Hong‐I Kim, Kwon‐Hyung Lee, Kohei Shimokawa, Won Bo Lee, Sang‐Young Lee, Seung‐Hyeok Kim",
-      "authorsCitation": "G. Seong, M. Kim, E. Jung, Y. Kang, H. Kim, K. Lee, K. Shimokawa, W. Bo Lee, S. Lee, S. Kim",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-08",
-      "volume": "",
-      "issue": "",
-      "page": "e4035251",
-      "doi": "10.1002/anie.4035251",
-      "link": "https://doi.org/10.1002/anie.4035251",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：用充电过程中插入短暂放电脉冲的反射充电（reflex charging）主动重编程早期界面形成，而不是改变电解液材料组成。\n性能：形成后的锂沉积/剥离可逆性和循环、日历老化抗性均提高；Li∥LFP全电池循环500次后容量保持率为73%。\n怎么解释：放电脉冲维持电极附近阴离子富集，使Li+溶剂化由溶剂主导转向阴离子配位，优先形成无机富集界面并降低阻抗，进而促进致密均匀沉积。\n为什么重要：工作把formation protocol确立为独立界面化学杠杆，为锂金属稳定化提供了不增加材料复杂度、可与电解液设计叠加的操作策略。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Ion Bridging Enables Dual‐Interface Engineering for High Capacity and Long Cycling Aqueous Zinc–Sulfur Battery",
-      "authors": "Boao Wanyan, Xiang Liu, Jiahe Geng, Chaoyi Qiu, Zhichao Wang, Yaoyuan Zhan, Xikun Zhang, Hongxu Chen, Haoxiang Yu, Lei Yan, Xiaoting Lin, Liyuan Zhang, Ting‐Feng Yi, Jie Shu, Bao‐Lian Su",
-      "authorsCitation": "B. Wanyan, X. Liu, J. Geng, C. Qiu, Z. Wang, Y. Zhan, X. Zhang, H. Chen, H. Yu, L. Yan, X. Lin, L. Zhang, T. Yi, J. Shu, B. Su",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-08",
-      "volume": "",
-      "issue": "",
-      "page": "e9631813",
-      "doi": "10.1002/anie.9631813",
-      "link": "https://doi.org/10.1002/anie.9631813",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以四甲基脲和KI共同建立界面限域的动态离子桥，把Zn2+传输与I3−/I−介导的硫正极电荷转移耦合，并同步调节锌负极。\n性能：Zn–S电池在5 A g−1下容量达到759 mAh g−1，循环1000次后容量保持率超过71.2%。\n怎么解释：四甲基脲重构Zn2+配位，碘物种介导ZnS转化；二者降低离子传输和硫转化势垒，同时均化负极Zn2+通量并抑制副反应。摘要支持双界面改善，但未分离各添加剂贡献。\n为什么重要：该工作用一套电解液化学同时处理正极转化和负极沉积，为水系Zn–S电池避免两端独立改性提供了可整合方案。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Component Self‐Initiated Photopolymerization for Gel Polymer Electrolytes in Zinc–Air Batteries",
-      "authors": "Ping Li, Dagang Zhou, Boyi Fu, Lin Luo, Quan Liu, Wenli Yang, Mingming Deng, Jilan Long, Chi Huang, Qi Liu",
-      "authorsCitation": "P. Li, D. Zhou, B. Fu, L. Luo, Q. Liu, W. Yang, M. Deng, J. Long, C. Huang, Q. Liu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-08",
-      "volume": "",
-      "issue": "",
-      "page": "e3048454",
-      "doi": "10.1002/anie.3048454",
-      "link": "https://doi.org/10.1002/anie.3048454",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：利用电解液组分柠檬酸钠在富质子环境中的质子耦合电子转移，自发产生自由基，在可见光下无需外加引发剂快速构筑双网络凝胶。\n性能：优化凝胶在−40 °C的离子电导率为109 mS cm−1，凝固点为−69.1 °C；柔性锌空气电池在−40 °C稳定运行超过4220次。\n怎么解释：柠檬酸钠既引发乙烯基单体聚合，又通过Hofmeister效应致密化网络并调节电化学环境，从而兼顾低温传导、力学强度和枝晶抑制。\n为什么重要：工作把通常作为被动添加剂的电解液组分转化为聚合引发和网络构筑单元，简化凝胶制造并扩展其低温适用性。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "An Electronically Coupled Interfacial Energy Descriptor for Predicting Coulombic Efficiency in Aqueous Zinc Batteries",
-      "authors": "Yuwei Cao, Song Yuan, Jiaqi Wei, Shengkai Cao, Huarong Xia, Bao Jin, Yang Hang, Tianyi Wang, Yuying Wang, Hao Chen, Wanlin Guo, Xian Jun Loh, Lin Jiang, Xiaodong Chen",
-      "authorsCitation": "Y. Cao, S. Yuan, J. Wei, S. Cao, H. Xia, B. Jin, Y. Hang, T. Wang, Y. Wang, H. Chen, W. Guo, X. J. Loh, L. Jiang, X. Chen",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-08",
-      "volume": "148",
-      "issue": "32",
-      "page": "34364",
-      "doi": "10.1021/jacs.6c08057",
-      "link": "https://doi.org/10.1021/jacs.6c08057",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：提出电子耦合界面自由能描述符ΔG，把添加剂吸附和界面电荷转移合并为一个可解释参数，并与分子本征特征共同用于机器学习筛选。\n性能：筛得的季戊四醇添加剂使Zn沉积/剥离平均库仑效率达到99.71%，稳定循环超过1000 h，寿命约为仅靠分子描述符筛得添加剂的2倍。\n怎么解释：较小ΔG的分子更易富集在Zn界面并排出水，随后形成由添加剂和阴离子共同衍生的稳定SEI；模型预测与实验筛选一致，但跨添加剂家族的外推性仍需更多体系检验。\n为什么重要：该工作把经验添加剂筛选转化为包含金属—分子电子耦合的物理指标，为水系锌电界面材料建立了更具机制约束的数据驱动路线。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
