@@ -33,10 +33,14 @@
       "page": "",
       "doi": "10.1021/jacs.6c15211",
       "link": "https://doi.org/10.1021/jacs.6c15211",
-      "abstract": "Abstract Anode-free Zn batteries are attractive for zero-excess-Zn operation and maximized anode utilization, but reversible high-areal-capacity Zn plating/stripping over large hostless interfaces remains difficult, especially in Ah-level Zn–I2 pouch cells where polyiodide shuttling accelerates capacity decay and corrodes the nascent anode interface. Here, we integrate machine-learning-guided polyiodide regulation with dynamic interfacial reconstruction to establish a self-activating Zn deposition pathway for reversible anode-free Zn–I2 cells. DFT-supervised screening reveals multidentate weak O–C–H···I interactions and chain-assisted confinement as key molecular design principles for polyiodide confinement, guiding the selection of polyethylene glycol 4000 (PE4000). More importantly, PE4000 gates trace reversible Sn/Sn2+ interfacial conversion, enabling dynamic Zn–Sn reconstruction, persistent zincophilic sites, and orientation-regulated Zn nucleation/growth during repeated plating/stripping. Consequently, the optimized anode-free Zn–I2 cells sustain 16,000 cycles at 10 mA cm–2. Single-layer pouch cells operate for over 3000 cycles at 4.65 mAh cm–2, with recovered Sn remaining reusable for another 1000 cycles. Ah-level pouch cells further deliver 2390 Ah cumulative capacity over 2800 cycles. This work establishes a system-level interface-matching strategy for practical high-utilization anode-free batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：将机器学习引导的多碘化物调控与动态界面重构结合，以聚乙二醇4000（polyethylene glycol 4000, PE4000）同时约束正极穿梭物种并触发无负极（anode-free）锌沉积界面的自激活过程。\\n性能：优化后的无负极Zn–I2电池在10 mA cm−2下循环16000次；单层软包在4.65 mAh cm−2下运行超过3000次，回收Sn可再使用1000次；Ah级软包循环2800次，累积容量达到2390 Ah。\\n怎么解释：密度泛函理论（density functional theory, DFT）监督筛选将多位点弱O–C–H···I相互作用和链段限域识别为抑制多碘化物迁移的分子特征；同时，PE4000调节微量可逆Sn/Sn2+转化，促使Zn–Sn界面动态重构并维持亲锌位点和取向成核。摘要支持这些过程与循环稳定性的关联，但未分别量化多碘化物限域和界面重构的贡献。\\n为什么重要：工作把正极穿梭控制与无宿主负极界面演化纳入同一分子设计，并在Ah级电芯中验证，为高锌利用率Zn–I2电池提供了更接近实际条件的界面匹配策略。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-08T23:59:08.765Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Engineering a Fast Li + -Diffusion Secondary Phase in Sn Anodes for Low-Pressure All-Solid-State Batteries",
@@ -49,7 +53,7 @@
       "page": "",
       "doi": "10.1021/jacs.6c11667",
       "link": "https://doi.org/10.1021/jacs.6c11667",
-      "abstract": "Abstract Alloys are promising anode candidates for all-solid-state batteries (ASSBs) due to their high specific capacities and regulated interphase with the nonflowing solid-state electrolytes (SSEs). However, selection of alloys is constrained by low initial Coulombic efficiency (ICE), which often excludes candidates with high specific capacity and mechanical deformability─parameters essential for high energy density and low-stack pressure operation. In this work, we reassess and unlock the potential of tin (Sn) anodes in ASSBs. By incorporating bismuth (Bi) as a secondary element, we developed low-cost, diffusion-engineered Sn–Bi binary elemental anodes achieving a high ICE (∼90%) and specific capacity (∼700 mAh g–1). Electrochemical characterizations, first-principles calculations, and cross-sectional morphologies reveal that Li3Bi exhibits a significantly higher Li diffusion coefficient (3.5 × 10–6 cm2 s–1) compared to LiSn and Li13Sn5 (1.5 × 10–14 and 1.3 × 10–11 cm2 s–1, respectively), remains stable in a larger voltage window, and facilitates diffusion throughout the electrode for reversible Sn (de)lithiation. Sn–Bi full cells coupled with a LiNi0.82Co0.11Mn0.07O2 (NCM82) cathode demonstrate high rate capability (1 C) and stable cycling with areal capacities up to 10 mAh cm–2 at 23 °C. Multidimensional engineering strategies, from grain to matrix and interface, are further investigated to improve low-stack pressure (5 MPa) performance. This work advances the potential of alloy anodes for practical application of ASSBs.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries"
       ],
@@ -58,7 +62,11 @@
         "Zheng Chen"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-09"
+      "correspondingAuthorVerifiedAt": "2026-09-09",
+      "summaryZh": "新在哪里：在Sn合金负极中引入Bi形成快速Li+扩散的Li3Bi第二相，以扩散动力学补偿Sn的低初始库仑效率和低压接触问题，使高容量合金能够用于低堆压全固态电池（all-solid-state batteries, ASSBs）。\\n性能：Sn–Bi负极的初始库仑效率约为90%，比容量约为700 mAh g−1；与NCM82正极配对后可在23 °C、1 C下运行，面容量最高达到10 mAh cm−2，并针对5 MPa低堆压条件进行了结构优化。摘要未给出低堆压下的循环次数和容量保持率。\\n怎么解释：计算与实验显示，Li3Bi的Li扩散系数为3.5 × 10−6 cm2 s−1，显著高于LiSn和Li13Sn5的1.5 × 10−14和1.3 × 10−11 cm2 s−1；其较宽稳定电位窗口和快速扩散通道有助于Li在电极内传输并维持Sn的可逆（脱）锂。现有证据支持第二相促进扩散，但低压性能还受到晶粒、基体和界面工程共同影响。\\n为什么重要：该工作将第二相的离子扩散能力作为筛选合金负极的关键变量，说明初始库仑效率、容量和机械可变形性可以协同优化，为低压力、高面容量全固态电池中的合金负极提供了可检验的设计路径。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-08T23:59:08.765Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
