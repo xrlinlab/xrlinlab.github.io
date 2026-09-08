@@ -19,75 +19,29 @@ document.addEventListener("DOMContentLoaded", function () {
     return new Intl.DateTimeFormat("en", {month: "long", day: "numeric", year: "numeric", timeZone: "UTC"}).format(date);
   }
 
-  var journalAbbreviations = {
-    "Science": "Science",
-    "Nature": "Nature",
-    "Nature Materials": "Nat. Mater.",
-    "Nature Chemistry": "Nat. Chem.",
-    "Nature Energy": "Nat. Energy",
-    "Nature Nanotechnology": "Nat. Nanotechnol.",
-    "Joule": "Joule",
-    "Chem": "Chem",
-    "Journal of the American Chemical Society": "J. Am. Chem. Soc.",
-    "Angewandte Chemie International Edition": "Angew. Chem. Int. Ed.",
-    "Macromolecules": "Macromolecules",
-    "Nature Sustainability": "Nat. Sustain."
-  };
-
-  function initialsName(name) {
-    var words = String(name || "").trim().split(/\s+/);
-    if (words.length < 2) return name;
-    var family = words.pop();
-    return words.map(function (word) {
-      return word.split("-").filter(Boolean).map(function (part) { return part.charAt(0).toUpperCase() + "."; }).join("-");
-    }).join(" ") + " " + family;
-  }
-
   function normalizedAuthorName(name) {
     return String(name || "").normalize("NFKD").replace(/[^\p{L}\p{N}]+/gu, "").toLowerCase();
   }
 
-  function citationAuthors(paper) {
-    var fullNames = String(paper.authors || "").split(",").map(function (name) { return name.trim(); }).filter(Boolean);
-    var citationNames = paper.authorsCitation
-      ? String(paper.authorsCitation).split(",").map(function (name) { return name.trim(); }).filter(Boolean)
-      : fullNames.map(initialsName);
+  function authorLineNode(paper) {
+    var line = element("p", "radar-paper-authors");
+    var authors = String(paper.authors || "").split(",").map(function (name) { return name.trim(); }).filter(Boolean);
     var corresponding = (paper.correspondingAuthors || []).map(normalizedAuthorName);
-    return citationNames.map(function (name, index) {
-      return {
-        name: name,
-        corresponding: corresponding.indexOf(normalizedAuthorName(fullNames[index])) !== -1
-      };
-    });
-  }
-
-  function citationNode(paper) {
-    var citation = element("p", "radar-paper-citation");
-    var authors = citationAuthors(paper);
-    authors.forEach(function (author, index) {
-      if (index) citation.appendChild(document.createTextNode(", "));
-      citation.appendChild(document.createTextNode(author.name));
-      if (author.corresponding) {
+    if (!authors.length) {
+      line.textContent = "Authors unavailable";
+      return line;
+    }
+    authors.forEach(function (name, index) {
+      if (index) line.appendChild(document.createTextNode(", "));
+      line.appendChild(document.createTextNode(name));
+      if (corresponding.indexOf(normalizedAuthorName(name)) !== -1) {
         var marker = element("sup", "radar-corresponding-mark", "*");
         marker.title = "Corresponding author";
         marker.setAttribute("aria-label", " corresponding author");
-        citation.appendChild(marker);
+        line.appendChild(marker);
       }
     });
-    if (authors.length) citation.appendChild(document.createTextNode(", "));
-    citation.appendChild(element("em", "", journalAbbreviations[paper.journal] || paper.journal || "Journal"));
-    var year = String(paper.publicationDate || "").slice(0, 4);
-    if (year) {
-      citation.appendChild(document.createTextNode(" "));
-      citation.appendChild(element("strong", "", year));
-    }
-    if (paper.volume) {
-      citation.appendChild(document.createTextNode(", "));
-      citation.appendChild(element("em", "", paper.volume));
-    }
-    if (paper.page) citation.appendChild(document.createTextNode(", " + paper.page));
-    citation.appendChild(document.createTextNode("."));
-    return citation;
+    return line;
   }
 
   function renderFilters() {
@@ -110,7 +64,8 @@ document.addEventListener("DOMContentLoaded", function () {
     link.rel = "noopener noreferrer";
     title.appendChild(link);
     article.appendChild(title);
-    article.appendChild(citationNode(paper));
+    article.appendChild(authorLineNode(paper));
+    article.appendChild(element("p", "radar-paper-meta", [paper.journal, paper.publicationDate].filter(Boolean).join(" · ")));
     if (paper.doi) {
       var doiLine = element("p", "radar-paper-doi");
       var doiLink = element("a", "", "DOI: " + paper.doi);
