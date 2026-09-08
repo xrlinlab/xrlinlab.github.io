@@ -38,7 +38,7 @@
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
       ],
-      "summaryZh": "新在哪里：提出界面能隙（interfacial energy gap, ΔEgap）作为描述符，以锂/固态电解质界面膜（solid electrolyte interphase, SEI）的费米能级与电解液最低未占分子轨道能级之差，定量表征界面电子转移的驱动力；机器学习与Shapley加和解释进一步将溶剂最小静电势（minimum electrostatic potential, ESPmin）识别为关键分子参数。\n性能：该框架筛选出的两种训练集外溶剂均使锂沉积/剥离库仑效率超过99%。摘要未提供具体电流密度、面容量或循环次数，因此不宜据此比较其绝对性能水平。\n怎么解释：作者将较小的ΔEgap与较弱的界面电子转移驱动力联系起来，认为这可减少电解液持续还原和寄生反应；实验与模拟共同支持ESPmin调控ΔEgap的关联，但其普适性仍需在更广泛电解液体系中验证。\n为什么重要：工作把SEI钝化能力、电解液还原稳定性与一个可计算的能量描述符联系起来，为锂金属电解液从经验筛选转向可解释的分子设计提供了定量入口。",
+      "summaryZh": "新在哪里：提出界面能隙（interfacial energy gap, ΔEgap）作为描述符，以锂/固态电解质界面膜（solid electrolyte interphase, SEI）的费米能级与电解液最低未占分子轨道能级之差，定量表征界面电子转移的驱动力；机器学习与Shapley加性解释（Shapley additive explanations, SHAP）进一步将溶剂最小静电势（minimum electrostatic potential, ESPmin）识别为关键分子参数。\n性能：该框架筛选出的两种训练集外溶剂均使锂沉积/剥离库仑效率超过99%。摘要未提供具体电流密度、面容量或循环次数，因此不宜据此比较其绝对性能水平。\n怎么解释：作者将较小的ΔEgap与较弱的界面电子转移驱动力联系起来，认为这可减少电解液持续还原和寄生反应；实验与模拟共同支持ESPmin调控ΔEgap的关联，但其普适性仍需在更广泛电解液体系中验证。\n为什么重要：工作把SEI钝化能力、电解液还原稳定性与一个可计算的能量描述符联系起来，为锂金属电解液从经验筛选转向可解释的分子设计提供了定量入口。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-07T23:59:15.000Z",
       "summaryPromptVersion": 2
