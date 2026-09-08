@@ -33,11 +33,15 @@
       "page": "",
       "doi": "10.1021/jacs.6c14457",
       "link": "https://doi.org/10.1021/jacs.6c14457",
-      "abstract": "Abstract Lithium–metal batteries (LMBs) hold great promise for high-energy-density energy storage yet suffer from low Li plating/stripping Coulombic efficiency (CE), which originates from persistent electrolyte decomposition at the electrolyte/anode interface. Such parasitic reactions are driven by interfacial electron transfer, closely tied to both the passivation capability of solid electrolyte interphase (SEI) and reductive stability of electrolytes. Herein, the interfacial energy gap (ΔEgap) between Fermi level of Li/SEI and lowest unoccupied molecular orbital level of electrolyte is proposed as a descriptor to quantify the driving force for interfacial electron transfer, demonstrating that a reduced ΔEgap could effectively suppress interfacial parasitic reaction and thus enhance Li CE. Machine learning modeling coupled with Shapley additive analysis identifies the solvent minimum electrostatic potential (ESPmin) as the dominant governing factor of ΔEgap. Guided by these insights, we design two out-of-sample solvents with small ΔEgap, achieving high CEs exceeding 99%. Combined experimental and simulation results elucidate an ESPmin-governed interfacial regulation mechanism. This work provides a quantitative and interpretable strategy for rational electrolyte design toward highly reversible LMBs.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：提出界面能隙（interfacial energy gap, ΔEgap）作为描述符，以锂/固态电解质界面膜（solid electrolyte interphase, SEI）的费米能级与电解液最低未占分子轨道能级之差，定量表征界面电子转移的驱动力；机器学习与Shapley加和解释进一步将溶剂最小静电势（minimum electrostatic potential, ESPmin）识别为关键分子参数。\n性能：该框架筛选出的两种训练集外溶剂均使锂沉积/剥离库仑效率超过99%。摘要未提供具体电流密度、面容量或循环次数，因此不宜据此比较其绝对性能水平。\n怎么解释：作者将较小的ΔEgap与较弱的界面电子转移驱动力联系起来，认为这可减少电解液持续还原和寄生反应；实验与模拟共同支持ESPmin调控ΔEgap的关联，但其普适性仍需在更广泛电解液体系中验证。\n为什么重要：工作把SEI钝化能力、电解液还原稳定性与一个可计算的能量描述符联系起来，为锂金属电解液从经验筛选转向可解释的分子设计提供了定量入口。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-07T23:59:15.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "A Three-Descriptor Framework for Solvation Design of Low-Temperature Electrolytes in Lithium Batteries",
@@ -50,10 +54,14 @@
       "page": "",
       "doi": "10.1021/jacs.6c08135",
       "link": "https://doi.org/10.1021/jacs.6c08135",
-      "abstract": "Abstract Low-temperature operation of lithium–metal batteries is limited by kinetic penalties in electrolytes, yet electrolyte discovery for subzero operation remains largely empirical, lacking a predictive basis linking molecular structure to Li+–solvent interactions. Here, we establish a three-descriptor topology–electronic coupling framework combining O–O bond separation, lone pair orbital contribution and net oxygen charge to predict Li+–solvent binding energetics by screening a diverse ether, ester, ketone, carbonate, and sulfone solvent library. 2,2,2-trifluoroethylmethanesulfonate (TM) featuring S═O moiety and −CF3 group is identified as a solvent model that favors weakly point-contact Li+ coordination, which effectively lowers the desolvation barrier, induces anion-involved solvation structures, and promotes the formation of an inorganic LiF-rich interphase. A newly formulated electrolyte consisting of lithium bis(fluorosulfonyl)imide (LiFSI), 1,1,2,2-tetrafluoroethyl-2,2,3,3-tetrafluoropropyl ether (TTE), and TM delivers 99.38% Li plating/stripping Coulombic efficiency and enables reversible Li||Ni0.8Mn0.1Co0.1O2 cells at −60 °C with a cutoff voltage of 4.6 V. This multi-factor solvent-screening strategy advances electrolyte design from empirical trial-and-error toward descriptor-guided development.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：建立由氧—氧间距、孤对电子轨道贡献和氧原子净电荷组成的三描述符拓扑—电子耦合框架，用于跨醚、酯、酮、碳酸酯和砜类溶剂预测Li+—溶剂结合能，并据此筛得2,2,2-三氟乙基甲磺酸酯（2,2,2-trifluoroethyl methanesulfonate, TM）。\n性能：LiFSI/TTE/TM电解液实现99.38%的锂沉积/剥离库仑效率，并使Li||NCM811电池在−60 °C、4.6 V截止电压下保持可逆运行；摘要未给出容量、倍率和循环寿命。\n怎么解释：TM的S═O基团与−CF3基团形成较弱的点接触式Li+配位，降低去溶剂化势垒，同时促进阴离子参与溶剂化并形成富LiF界面。现有摘要支持这一关联链条，但不足以单独量化去溶剂化与界面化学对低温性能的相对贡献。\n为什么重要：该方法把低温电解液设计从单一经验参数扩展为同时考虑分子拓扑与电子结构的多变量筛选，并在−60 °C锂金属全电池中给出验证，为跨溶剂类别的描述符驱动设计提供了可检验框架。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-07T23:59:15.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Machine Learning‐Driven Alloy Anode Accompanied by Interfacial Kinetic Compensation Design Toward High‐Rate Zinc Pouch Cells",
