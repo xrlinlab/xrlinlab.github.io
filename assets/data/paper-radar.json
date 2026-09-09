@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T05:46:45Z",
+  "generatedAt": "2026-09-09T22:27:39Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Engineering Directional Ion Transport Channels in Three‐Dimensional Covalent Organic Frameworks for High‐Performance Sodium‐Ion Batteries",
+      "authors": "Jing‐Dong Feng, Ruo‐Meng Zhu, Yong Liu, Jun Zhang, Wang‐Kang Han, Qingqing Wang, Hui Qiao, Huan Pang, Zhi‐Guo Gu",
+      "authorsCitation": "J. Feng, R. Zhu, Y. Liu, J. Zhang, W. Han, Q. Wang, H. Qiao, H. Pang, Z. Gu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-09",
+      "volume": "",
+      "issue": "",
+      "page": "e4794052",
+      "doi": "10.1002/anie.4794052",
+      "link": "https://doi.org/10.1002/anie.4794052",
+      "abstract": "ABSTRACT Covalent organic frameworks (COFs) with abundant redox‐active sites are promising electrode materials for sodium‐ion batteries (SIBs). However, conventional design strategies are often limited by sluggish Na + transport and low utilization of active sites. Here, we report a pair of 3D COFs (COF‐O and COF‐H). In COF‐O, the C═O groups are precisely oriented toward the pore channels, allowing the O atoms to serve as effective Na + storage sites. In contrast, COF‐H contains only C–H groups within the pores, which lack Na + storage capability. When employed as an anode material in SIBs, COF‐O exhibits a high specific capacity of 318 mAh/g (1.9 times that of COF‐H) and excellent cycling stability over 6000 cycles. In situ spectroscopic studies combined with theoretical calculations reveal that the C═O groups in COF‐O act as efficient Na + storage sites, effectively enhancing the capacity and accelerating Na + transport kinetics. This work demonstrates that precisely orienting functional groups in 3D COFs can create effective ion transport channels, providing a promising strategy for designing advanced organic electrode materials for SIBs.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Spatially Decoupled Ion Transport and Mechanical Robustness Enabled by a Molecular Scaffold Strap in Gel Polymer Electrolytes",
       "authors": "Xin Shen, Chang Gao, Ke‐Feng Ren, Yun‐Fei Du, Zi‐Yi Wang, Feng Jiang, Zhao‐Yu Qu, Jia‐Xing Guo, He Liu, Rui Zhang, Yuping Wu, Xin‐Bing Cheng",
@@ -83,6 +99,41 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-09"
+    },
+    {
+      "title": "Cyano‐Driven Solvation Structure Reconstruction and Interfacial Passivation for 4.5 V Solid‐State Lithium Metal Batteries",
+      "authors": "Baozhan Wu, Jinlin Li, Xin‐Gai Wang, Jianxin Deng, Letian Chen, Mengrao Luo, Yunfei Hao, Wen Cheng, Zhaojun Xie, Jinping Wei, Xiaodan Wang, Bin Tang, Zhen Zhou",
+      "authorsCitation": "B. Wu, J. Li, X. Wang, J. Deng, L. Chen, M. Luo, Y. Hao, W. Cheng, Z. Xie, J. Wei, X. Wang, B. Tang, Z. Zhou",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-08",
+      "volume": "",
+      "issue": "",
+      "page": "e3609669",
+      "doi": "10.1002/anie.3609669",
+      "link": "https://doi.org/10.1002/anie.3609669",
+      "abstract": "ABSTRACT Solid polymer electrolytes hold great promise for high‐energy‐density lithium metal batteries, yet their practical implementation is still hindered by sluggish room‐temperature Li + transport and insufficient high‐voltage tolerance ( i.e ., unstable above 4.3 V) especially when coupled with Ni‐rich layered cathodes. Herein, we report a cyano‐coordinating strategy to reconstruct the Li + solvation environment by precisely regulating the content of cyanoacrylate adhesive. This abandonment of ether‐oxygen polymers as the main material, that is, the competitive Li + –C≡N coordination reorganizes the primary solvation shell of Li + . This regulated solvation sheath simultaneously provides continuous low‐barrier hopping sites of Li + and improves the oxidative stability of the electrolytes. More importantly, the strong coordination anchoring between −C≡N and transition‐metal cations ( i.e ., TM δ+ –N≡C), suppresses irreversible dissolution of transition‐metal cations during cycling. The Li//NCM811 cells retain 88.2% of their initial capacity after 500 cycles at 4.3 V and 3 C and 80.1% after 350 cycles at 4.5 V and 1 C. Meanwhile, the cells exhibited a high operating voltage over 3.85 V, showing great potential for high‐energy‐density solid‐state batteries. This study establishes molecular coordination reconstruction to synergistically regulate the solvation behavior and high‐voltage interfacial chemistry of polymer electrolytes, providing a general design rationale for high‐energy‐density and long‐life solid‐state lithium‐metal batteries.",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Backbone‐Mediated Coordination‐Environment Reshaping in Gel Polymer Electrolytes for High‐Voltage Lithium Metal Batteries",
+      "authors": "Yajie Hu, Jianxing Wang, Ting Li, Jinyu Tian, Ying Xu, Yifan Deng, Xin Zhang, Jie Hu, Zihan Chen, Miao He, Qi Liu, Zhenzhen Shen, Hao Shi, Jianping Long, Shimou Chen, Anjun Hu",
+      "authorsCitation": "Y. Hu, J. Wang, T. Li, J. Tian, Y. Xu, Y. Deng, X. Zhang, J. Hu, Z. Chen, M. He, Q. Liu, Z. Shen, H. Shi, J. Long, S. Chen, A. Hu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-08",
+      "volume": "",
+      "issue": "",
+      "page": "e5855662",
+      "doi": "10.1002/anie.5855662",
+      "link": "https://doi.org/10.1002/anie.5855662",
+      "abstract": "ABSTRACT Conventional linear polyether electrolytes feature abundant ether‐oxygen sites that dominate the primary Li + solvation shell, limiting anion participation and undermining ion transport and high‐voltage stability. A backbone‐mediated coordination‐environment reshaping strategy is proposed by incorporating diglycidyl 1,2‐cyclohexanedicarboxylate (DCD) into the copolymerization of 1,3‐dioxolane (DOL), yielding an in situ crosslinked gel polymer electrolyte, P(DCD‐DOL). The weakly coordinating ester carbonyl groups and the spatially restricted ether‐oxygen sites in the crosslinked network jointly weaken backbone–Li + coordination and promote anion/solvent participation in the Li + solvation shell. Multiscale characterizations and theoretical simulations confirm that P(DCD‐DOL) effectively optimizes the Li + solvation structure, leading to a high Li + transference number of 0.64, an oxidative stability window of 5.20 V, and inorganic‐rich electrode–electrolyte interphases. Consequently, Li||NCM811 cells with P(DCD‐DOL) retain 84.21% capacity after 500 cycles at 4.3 V, and 80.62% after 200 cycles at 4.5 V. Moreover, a 0.9 Ah pouch cell achieves an energy density of 305 Wh kg −1 and retains 82.33% capacity over 180 cycles. This work highlights polymer backbone engineering as an effective route to regulate Li + coordination and interfacial chemistry in high‐voltage lithium metal batteries.",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors",
+        "Lithium-metal and anode-free batteries"
+      ]
     },
     {
       "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
@@ -535,9 +586,9 @@
       "authorsCitation": "J. Tao, Y. Ruan, Y. Liu, P. Wang, M. Yang, C. Liu, X. Duan, M. Shao, J. Zhu, M. Xiao, W. Xing",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-08-26",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "35",
+      "page": "38184",
       "doi": "10.1021/jacs.6c10041",
       "link": "https://doi.org/10.1021/jacs.6c10041",
       "abstract": "",
@@ -580,9 +631,9 @@
       "authorsCitation": "H. Li, Y. Leng, W. Wu, T. Wu, Y. Yang, X. Zhang, C. Li, M. Cui, X. Ning, X. Zhu, Y. Zhao, H. Zhou, Y. Ding",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-08-26",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "35",
+      "page": "37930",
       "doi": "10.1021/jacs.6c08864",
       "link": "https://doi.org/10.1021/jacs.6c08864",
       "abstract": "",
@@ -600,9 +651,9 @@
       "authorsCitation": "T. Yu, H. Li, Z. Cheng, Z. Liu, D. Zuo, S. Xu, B. Peng, R. Hou, Y. Rao, S. Guo, M. Wagemaker, H. Zhou",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-08-26",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "35",
+      "page": "37998",
       "doi": "10.1021/jacs.6c09270",
       "link": "https://doi.org/10.1021/jacs.6c09270",
       "abstract": "",
@@ -700,9 +751,9 @@
       "authorsCitation": "B. Wu, W. Tang, T. Zhang, M. An, Z. Hao, Z. Chen, H. Tian, N. Zhao, J. Fan, P. Du, Y. Wang, P. Zhao, X. Niu",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-08-25",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "35",
+      "page": "38291",
       "doi": "10.1021/jacs.6c11153",
       "link": "https://doi.org/10.1021/jacs.6c11153",
       "abstract": "",
