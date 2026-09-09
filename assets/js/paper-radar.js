@@ -84,7 +84,8 @@ document.addEventListener("DOMContentLoaded", function () {
       var label = element("div", "radar-summary-label", "AI 中文导读");
       if (paper.summarySource === "title-only") label.appendChild(element("span", "radar-summary-caveat", "基于标题"));
       guide.appendChild(label);
-      String(paper.summaryZh).split(/\r?\n/).filter(Boolean).forEach(function (line) {
+      var summaryText = String(paper.summaryZh).replace(/\\r\\n|\\n|\\r/g, "\n");
+      summaryText.split(/\r?\n/).filter(Boolean).forEach(function (line) {
         var match = line.match(/^(.+?)[？?]?\s*[：:]\s*(.+)$/);
         var row = element("p", "radar-summary-text");
         row.lang = "zh-CN";
