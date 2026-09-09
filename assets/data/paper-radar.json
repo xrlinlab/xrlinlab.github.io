@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:27:50Z",
+  "generatedAt": "2026-09-09T05:46:45Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Spatially Decoupled Ion Transport and Mechanical Robustness Enabled by a Molecular Scaffold Strap in Gel Polymer Electrolytes",
+      "authors": "Xin Shen, Chang Gao, Ke‐Feng Ren, Yun‐Fei Du, Zi‐Yi Wang, Feng Jiang, Zhao‐Yu Qu, Jia‐Xing Guo, He Liu, Rui Zhang, Yuping Wu, Xin‐Bing Cheng",
+      "authorsCitation": "X. Shen, C. Gao, K. Ren, Y. Du, Z. Wang, F. Jiang, Z. Qu, J. Guo, H. Liu, R. Zhang, Y. Wu, X. Cheng",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-08",
+      "volume": "",
+      "issue": "",
+      "page": "e3049996",
+      "doi": "10.1002/anie.3049996",
+      "link": "https://doi.org/10.1002/anie.3049996",
+      "abstract": "ABSTRACT In situ gel polymer electrolytes (GPEs), which confine liquid electrolytes within a polymer matrix, are promising for realizing high‐safety lithium (Li) metal batteries. However, the liquid phase and the polymer matrix act as reciprocal chokes: the liquid expedites ion transport but plasticizes the matrix and compromises its mechanical strength, whereas the matrix provides rigidity yet obstructs ionic conduction. In this study, we propose a molecular scaffold strap strategy that decouples the regulation of mechanical robustness and ion transport in GPEs. Specifically, six‐arm monomers are employed to form a 3D polymer matrix, while ethylene glycol dibutyl ether, with a size‐matched anchoring character, acts as a scaffold strap that strengthens adjacent polymer segments. Fluorinated carbonate cosolvents further facilitate Li + transport and interfacial stability. The engineered GPE exhibits a high modulus of 8.9 MPa, ionic conductivity of 3.82 × 10 −4 S cm −1 , Li + transference number of 0.68, and stable electrode interfaces. The Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 pouch cell (2.7 Ah) achieves 87% capacity retention after 100 cycles and exhibits an elevated self‐heating onset temperature of 160.7°C. Furthermore, a high energy density of 506 Wh kg −1 is demonstrated in the Cu||LiNi 0.92 Co 0.03 Mn 0.05 O 2 pouch cell (3.5 Ah).",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ]
+    },
     {
       "title": "Machine-Learning-Guided Molecular Design for Dynamic Self-Activating Interface toward Ah-Level Anode-Free Zn–I2 Pouch Cells",
       "authors": "Jia Wu, Shan Guo, Yuren Liu, Qianyi Qu, Shuquan Liang, Guozhao Fang",
@@ -57,16 +73,16 @@
       "matchedTopics": [
         "Solid-state batteries"
       ],
+      "summaryZh": "新在哪里：在Sn合金负极中引入Bi形成快速Li+扩散的Li3Bi第二相，以扩散动力学补偿Sn的低初始库仑效率和低压接触问题，使高容量合金能够用于低堆压全固态电池（all-solid-state batteries, ASSBs）。\\n性能：Sn–Bi负极的初始库仑效率约为90%，比容量约为700 mAh g−1；与NCM82正极配对后可在23 °C、1 C下运行，面容量最高达到10 mAh cm−2，并针对5 MPa低堆压条件进行了结构优化。摘要未给出低堆压下的循环次数和容量保持率。\\n怎么解释：计算与实验显示，Li3Bi的Li扩散系数为3.5 × 10−6 cm2 s−1，显著高于LiSn和Li13Sn5的1.5 × 10−14和1.3 × 10−11 cm2 s−1；其较宽稳定电位窗口和快速扩散通道有助于Li在电极内传输并维持Sn的可逆（脱）锂。现有证据支持第二相促进扩散，但低压性能还受到晶粒、基体和界面工程共同影响。\\n为什么重要：该工作将第二相的离子扩散能力作为筛选合金负极的关键变量，说明初始库仑效率、容量和机械可变形性可以协同优化，为低压力、高面容量全固态电池中的合金负极提供了可检验的设计路径。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-08T23:59:08.765Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Anton Van der Ven",
         "Zheng Chen"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-09",
-      "summaryZh": "新在哪里：在Sn合金负极中引入Bi形成快速Li+扩散的Li3Bi第二相，以扩散动力学补偿Sn的低初始库仑效率和低压接触问题，使高容量合金能够用于低堆压全固态电池（all-solid-state batteries, ASSBs）。\\n性能：Sn–Bi负极的初始库仑效率约为90%，比容量约为700 mAh g−1；与NCM82正极配对后可在23 °C、1 C下运行，面容量最高达到10 mAh cm−2，并针对5 MPa低堆压条件进行了结构优化。摘要未给出低堆压下的循环次数和容量保持率。\\n怎么解释：计算与实验显示，Li3Bi的Li扩散系数为3.5 × 10−6 cm2 s−1，显著高于LiSn和Li13Sn5的1.5 × 10−14和1.3 × 10−11 cm2 s−1；其较宽稳定电位窗口和快速扩散通道有助于Li在电极内传输并维持Sn的可逆（脱）锂。现有证据支持第二相促进扩散，但低压性能还受到晶粒、基体和界面工程共同影响。\\n为什么重要：该工作将第二相的离子扩散能力作为筛选合金负极的关键变量，说明初始库仑效率、容量和机械可变形性可以协同优化，为低压力、高面容量全固态电池中的合金负极提供了可检验的设计路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-08T23:59:08.765Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-09-09"
     },
     {
       "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
@@ -1279,54 +1295,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-08"
-    },
-    {
-      "title": "Unlocking the Potential of Sparingly Soluble LiNO 3 in Carbonate Electrolytes With Pyridine as a Carrier Cosolvent for 450 Wh Kg −1 High‐Voltage Lithium Metal Batteries",
-      "authors": "Fulu Chu, Zehao An, Junwei Meng, Chilin Li, Changzhou Yuan, Feixiang Wu",
-      "authorsCitation": "F. Chu, Z. An, J. Meng, C. Li, C. Yuan, F. Wu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-10",
-      "volume": "",
-      "issue": "",
-      "page": "e6581071",
-      "doi": "10.1002/anie.6581071",
-      "link": "https://doi.org/10.1002/anie.6581071",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：以吡啶作为载体共溶剂提高LiNO3在碳酸酯中的溶解度，使传统醚系有效添加剂进入高压碳酸酯锂金属体系。\n性能：Li∥Cu在2 mA cm−2下库仑效率为97.3%；5.6 Ah软包电池能量密度达到453 Wh kg−1，循环50次后容量保持率95.5%。\n怎么解释：吡啶配位Li+、削弱Li+—碳酸酯作用并促进NO3−进入界面反应；吡啶与LiNO3协同分解生成富Li3N、LiNxOy和LiF的刚柔互穿界面，同时配位抑制吡啶过度反应。\n为什么重要：工作提供了一种“载体共溶剂”方法，用于把低溶解度功能盐引入不相容的电解液平台，并以Ah级高压电芯验证其应用潜力。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Junwei Meng",
-        "Chilin Li",
-        "Changzhou Yuan",
-        "Feixiang Wu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-08"
-    },
-    {
-      "title": "Enhanced Sodium-Ion Transport across Solid Electrolyte Interphase via Electric-Field Modulation",
-      "authors": "Lu Jiang, Jinze Wang, Fei Chu, Jiale Zheng, Sen Jiang, Long Chen, Lixin Chen, Ping Wu, Ruhong Li, Tao Deng, Xiulin Fan",
-      "authorsCitation": "L. Jiang, J. Wang, F. Chu, J. Zheng, S. Jiang, L. Chen, L. Chen, P. Wu, R. Li, T. Deng, X. Fan",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-10",
-      "volume": "148",
-      "issue": "33",
-      "page": "35772",
-      "doi": "10.1021/jacs.6c08495",
-      "link": "https://doi.org/10.1021/jacs.6c08495",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：提出SEI内部电场随厚度衰减会触发Na+由近界面的弹道式传输转为扩散传输，并以成膜电荷量作为可测代理指标。\n性能：23种电解液中，SEI成膜电荷与界面电阻呈R2 = 0.993相关；1 M NaPF6/TEGDME形成约21 nm SEI、成膜电荷损失31.7%，Na∥硬碳界面阻抗为24.48 Ω cm2，循环1200次后容量保持率99.4%。\n怎么解释：薄SEI中的强电场降低碰撞影响，使Na+快速穿越；厚SEI电场减弱后散射与扩散主导。计算和恒电位计时库仑法共同支持模型，但“弹道式”机制仍主要依赖模型解释。\n为什么重要：工作把SEI厚度、成膜副反应和离子传输机制连接起来，为通过电解液减少过度成膜来降低界面阻抗提供了定量框架。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
