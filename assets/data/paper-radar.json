@@ -52,7 +52,12 @@
       "abstract": "ABSTRACT In situ gel polymer electrolytes (GPEs), which confine liquid electrolytes within a polymer matrix, are promising for realizing high‐safety lithium (Li) metal batteries. However, the liquid phase and the polymer matrix act as reciprocal chokes: the liquid expedites ion transport but plasticizes the matrix and compromises its mechanical strength, whereas the matrix provides rigidity yet obstructs ionic conduction. In this study, we propose a molecular scaffold strap strategy that decouples the regulation of mechanical robustness and ion transport in GPEs. Specifically, six‐arm monomers are employed to form a 3D polymer matrix, while ethylene glycol dibutyl ether, with a size‐matched anchoring character, acts as a scaffold strap that strengthens adjacent polymer segments. Fluorinated carbonate cosolvents further facilitate Li + transport and interfacial stability. The engineered GPE exhibits a high modulus of 8.9 MPa, ionic conductivity of 3.82 × 10 −4 S cm −1 , Li + transference number of 0.68, and stable electrode interfaces. The Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 pouch cell (2.7 Ah) achieves 87% capacity retention after 100 cycles and exhibits an elevated self‐heating onset temperature of 160.7°C. Furthermore, a high energy density of 506 Wh kg −1 is demonstrated in the Cu||LiNi 0.92 Co 0.03 Mn 0.05 O 2 pouch cell (3.5 Ah).",
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
-      ]
+      ],
+      "correspondingAuthors": [
+        "Xin-Bing Cheng"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-10"
     },
     {
       "title": "Machine-Learning-Guided Molecular Design for Dynamic Self-Activating Interface toward Ah-Level Anode-Free Zn–I2 Pouch Cells",
@@ -116,7 +121,14 @@
         "Solid-state batteries",
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "correspondingAuthors": [
+        "Xiaodan Wang",
+        "Bin Tang",
+        "Zhen Zhou"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-10"
     },
     {
       "title": "Backbone‐Mediated Coordination‐Environment Reshaping in Gel Polymer Electrolytes for High‐Voltage Lithium Metal Batteries",
@@ -133,7 +145,12 @@
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors",
         "Lithium-metal and anode-free batteries"
-      ]
+      ],
+      "correspondingAuthors": [
+        "Ting Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-10"
     },
     {
       "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
