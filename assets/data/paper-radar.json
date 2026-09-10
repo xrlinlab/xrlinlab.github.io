@@ -33,10 +33,14 @@
       "page": "e4794052",
       "doi": "10.1002/anie.4794052",
       "link": "https://doi.org/10.1002/anie.4794052",
-      "abstract": "ABSTRACT Covalent organic frameworks (COFs) with abundant redox‐active sites are promising electrode materials for sodium‐ion batteries (SIBs). However, conventional design strategies are often limited by sluggish Na + transport and low utilization of active sites. Here, we report a pair of 3D COFs (COF‐O and COF‐H). In COF‐O, the C═O groups are precisely oriented toward the pore channels, allowing the O atoms to serve as effective Na + storage sites. In contrast, COF‐H contains only C–H groups within the pores, which lack Na + storage capability. When employed as an anode material in SIBs, COF‐O exhibits a high specific capacity of 318 mAh/g (1.9 times that of COF‐H) and excellent cycling stability over 6000 cycles. In situ spectroscopic studies combined with theoretical calculations reveal that the C═O groups in COF‐O act as efficient Na + storage sites, effectively enhancing the capacity and accelerating Na + transport kinetics. This work demonstrates that precisely orienting functional groups in 3D COFs can create effective ion transport channels, providing a promising strategy for designing advanced organic electrode materials for SIBs.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：在三维共价有机框架（three-dimensional covalent organic framework, 3D COF）中把羰基定向朝向孔道，使氧化还原位点同时成为钠离子存储位点和定向传输通道；不含孔内羰基的COF-H作为结构对照。\n性能：COF-O作为钠离子电池（sodium-ion battery, SIB）负极时比容量达到318 mAh g−1，为COF-H的1.9倍，并可稳定循环6000次。摘要未给出倍率、电流密度和循环后的容量保持率。\n怎么解释：原位光谱与理论计算共同支持孔道内C═O氧原子参与Na+存储并加快传输动力学；但摘要没有分别量化活性位点增加、位点利用率提高和扩散加快对容量与循环性能的贡献。\n为什么重要：工作把COF电极设计从“含有什么官能团”推进到“官能团朝向何处”，说明三维孔道中的空间定向可同时调节储钠位点与离子输运，为有机电极的结构精确设计提供了可检验的变量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Spatially Decoupled Ion Transport and Mechanical Robustness Enabled by a Molecular Scaffold Strap in Gel Polymer Electrolytes",
@@ -49,7 +53,7 @@
       "page": "e3049996",
       "doi": "10.1002/anie.3049996",
       "link": "https://doi.org/10.1002/anie.3049996",
-      "abstract": "ABSTRACT In situ gel polymer electrolytes (GPEs), which confine liquid electrolytes within a polymer matrix, are promising for realizing high‐safety lithium (Li) metal batteries. However, the liquid phase and the polymer matrix act as reciprocal chokes: the liquid expedites ion transport but plasticizes the matrix and compromises its mechanical strength, whereas the matrix provides rigidity yet obstructs ionic conduction. In this study, we propose a molecular scaffold strap strategy that decouples the regulation of mechanical robustness and ion transport in GPEs. Specifically, six‐arm monomers are employed to form a 3D polymer matrix, while ethylene glycol dibutyl ether, with a size‐matched anchoring character, acts as a scaffold strap that strengthens adjacent polymer segments. Fluorinated carbonate cosolvents further facilitate Li + transport and interfacial stability. The engineered GPE exhibits a high modulus of 8.9 MPa, ionic conductivity of 3.82 × 10 −4 S cm −1 , Li + transference number of 0.68, and stable electrode interfaces. The Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 pouch cell (2.7 Ah) achieves 87% capacity retention after 100 cycles and exhibits an elevated self‐heating onset temperature of 160.7°C. Furthermore, a high energy density of 506 Wh kg −1 is demonstrated in the Cu||LiNi 0.92 Co 0.03 Mn 0.05 O 2 pouch cell (3.5 Ah).",
+      "abstract": "",
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
       ],
@@ -57,7 +61,11 @@
         "Xin-Bing Cheng"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10"
+      "correspondingAuthorVerifiedAt": "2026-09-10",
+      "summaryZh": "新在哪里：提出分子支架束带（molecular scaffold strap）策略，用六臂单体构建三维凝胶网络，再以尺寸匹配的乙二醇二丁醚锚定相邻链段，使机械增强与离子传输在空间上分工；含氟碳酸酯共溶剂进一步调节Li+传输和界面稳定性。\n性能：凝胶聚合物电解质（gel polymer electrolyte, GPE）模量为8.9 MPa，离子电导率为3.82 × 10−4 S cm−1，Li+迁移数为0.68。2.7 Ah Li∥NCM811软包循环100次后容量保持率为87%，自加热起始温度提高至160.7 °C；3.5 Ah Cu∥NCM920305软包能量密度达到506 Wh kg−1。\n怎么解释：六臂交联网络提供骨架刚性，尺寸匹配的醚分子通过链段锚定强化网络，而含氟共溶剂维持较快Li+迁移并促进稳定电极界面。摘要支持力学、输运与界面性能同步改善，但未独立量化支架束带和含氟共溶剂各自的贡献。\n为什么重要：该设计正面处理GPE中“液相促进传导却削弱力学、聚合物增强力学却阻碍传导”的互相牵制，并在Ah级高能量软包中验证，为凝胶网络的力学—传输解耦提供了分子尺度路径。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Machine-Learning-Guided Molecular Design for Dynamic Self-Activating Interface toward Ah-Level Anode-Free Zn–I2 Pouch Cells",
@@ -116,7 +124,7 @@
       "page": "e3609669",
       "doi": "10.1002/anie.3609669",
       "link": "https://doi.org/10.1002/anie.3609669",
-      "abstract": "ABSTRACT Solid polymer electrolytes hold great promise for high‐energy‐density lithium metal batteries, yet their practical implementation is still hindered by sluggish room‐temperature Li + transport and insufficient high‐voltage tolerance ( i.e ., unstable above 4.3 V) especially when coupled with Ni‐rich layered cathodes. Herein, we report a cyano‐coordinating strategy to reconstruct the Li + solvation environment by precisely regulating the content of cyanoacrylate adhesive. This abandonment of ether‐oxygen polymers as the main material, that is, the competitive Li + –C≡N coordination reorganizes the primary solvation shell of Li + . This regulated solvation sheath simultaneously provides continuous low‐barrier hopping sites of Li + and improves the oxidative stability of the electrolytes. More importantly, the strong coordination anchoring between −C≡N and transition‐metal cations ( i.e ., TM δ+ –N≡C), suppresses irreversible dissolution of transition‐metal cations during cycling. The Li//NCM811 cells retain 88.2% of their initial capacity after 500 cycles at 4.3 V and 3 C and 80.1% after 350 cycles at 4.5 V and 1 C. Meanwhile, the cells exhibited a high operating voltage over 3.85 V, showing great potential for high‐energy‐density solid‐state batteries. This study establishes molecular coordination reconstruction to synergistically regulate the solvation behavior and high‐voltage interfacial chemistry of polymer electrolytes, providing a general design rationale for high‐energy‐density and long‐life solid‐state lithium‐metal batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries",
         "Lithium-metal and anode-free batteries",
@@ -128,7 +136,11 @@
         "Zhen Zhou"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10"
+      "correspondingAuthorVerifiedAt": "2026-09-10",
+      "summaryZh": "新在哪里：以氰基配位重构（cyano-coordination reconstruction）取代聚醚中醚氧主导的Li+配位，通过调节氰基丙烯酸酯含量，同时改变Li+溶剂化环境并钝化高镍正极界面。\n性能：Li∥NCM811电池在4.3 V、3 C下循环500次后容量保持率为88.2%，在4.5 V、1 C下循环350次后保持80.1%，平均工作电压超过3.85 V。\n怎么解释：竞争性的Li+–C≡N配位重组第一溶剂化壳层并形成连续的低势垒跳跃位点，从而关联于更快的室温传输和更高的氧化稳定性；同时，−C≡N与过渡金属阳离子的配位锚定被用于解释金属溶解受抑。摘要支持这些过程与循环稳定性的关联，但未分别量化体相溶剂化重构和正极界面钝化的贡献。\n为什么重要：工作把聚合物电解质的配位结构与高电压正极界面化学放进同一分子设计中，为4.5 V锂金属固态电池兼顾室温传输与界面稳定提供了不同于传统聚醚优化的路线。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Backbone‐Mediated Coordination‐Environment Reshaping in Gel Polymer Electrolytes for High‐Voltage Lithium Metal Batteries",
@@ -141,7 +153,7 @@
       "page": "e5855662",
       "doi": "10.1002/anie.5855662",
       "link": "https://doi.org/10.1002/anie.5855662",
-      "abstract": "ABSTRACT Conventional linear polyether electrolytes feature abundant ether‐oxygen sites that dominate the primary Li + solvation shell, limiting anion participation and undermining ion transport and high‐voltage stability. A backbone‐mediated coordination‐environment reshaping strategy is proposed by incorporating diglycidyl 1,2‐cyclohexanedicarboxylate (DCD) into the copolymerization of 1,3‐dioxolane (DOL), yielding an in situ crosslinked gel polymer electrolyte, P(DCD‐DOL). The weakly coordinating ester carbonyl groups and the spatially restricted ether‐oxygen sites in the crosslinked network jointly weaken backbone–Li + coordination and promote anion/solvent participation in the Li + solvation shell. Multiscale characterizations and theoretical simulations confirm that P(DCD‐DOL) effectively optimizes the Li + solvation structure, leading to a high Li + transference number of 0.64, an oxidative stability window of 5.20 V, and inorganic‐rich electrode–electrolyte interphases. Consequently, Li||NCM811 cells with P(DCD‐DOL) retain 84.21% capacity after 500 cycles at 4.3 V, and 80.62% after 200 cycles at 4.5 V. Moreover, a 0.9 Ah pouch cell achieves an energy density of 305 Wh kg −1 and retains 82.33% capacity over 180 cycles. This work highlights polymer backbone engineering as an effective route to regulate Li + coordination and interfacial chemistry in high‐voltage lithium metal batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors",
         "Lithium-metal and anode-free batteries"
@@ -150,7 +162,11 @@
         "Ting Li"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10"
+      "correspondingAuthorVerifiedAt": "2026-09-10",
+      "summaryZh": "新在哪里：在1,3-二氧戊环聚合中引入二缩水甘油基1,2-环己烷二甲酸酯，构建原位交联网络；利用弱配位酯羰基和空间受限的醚氧共同重塑聚合物骨架周围的Li+配位环境。\n性能：所得凝胶聚合物电解质（gel polymer electrolyte, GPE）的Li+迁移数为0.64，氧化稳定窗口为5.20 V。Li∥NCM811电池在4.3 V循环500次后容量保持率为84.21%，在4.5 V循环200次后为80.62%；0.9 Ah软包能量密度达到305 Wh kg−1，并在180次循环后保持82.33%容量。\n怎么解释：交联网络削弱骨架—Li+配位并提高阴离子和溶剂对第一配位壳层的参与，进而关联于更快的Li+迁移和富无机质电极—电解质界面。多尺度表征与理论模拟支持这一溶剂化—界面关联，但摘要未单独区分弱配位羰基、醚氧空间限制和交联拓扑的相对作用。\n为什么重要：该工作把聚合物骨架本身从被动支撑体提升为可调节Li+配位和界面化学的设计变量，为高电压锂金属GPE提供了超越单纯提高电导率的结构策略。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
