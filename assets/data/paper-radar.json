@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:27:39Z",
+  "generatedAt": "2026-09-11T22:27:13Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Mixed-Linker Metal–Organic Frameworks Modified Separators as Li+-Transport Accelerators for Wide-Temperature and Long-Cycling Lithium Metal Batteries",
+      "authors": "Yaoda Wang, Xiao-Cheng Zhou, Jingjie Sun, Yu-Hao Gu, Tianyu Shen, Zuoxiu Tie, Shuai Yuan, Jing-Lin Zuo, Zhong Jin",
+      "authorsCitation": "Y. Wang, X.-C. Zhou, J. Sun, Y.-H. Gu, T. Shen, Z. Tie, S. Yuan, J.-L. Zuo, Z. Jin",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-11",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c11237",
+      "link": "https://doi.org/10.1021/jacs.6c11237",
+      "abstract": "Abstract The inherent interfacial instability and severe dendritic growth of lithium (Li) metal anodes pose significant challenges to the operational safety and cycling stability of rechargeable Li metal batteries. Herein, we report three mixed-linker metal–organic frameworks (MOFs) by integrating tetrathiafulvalene (TTF)-based ligands and benzene/trimethylbenzene/triazine-based tritopic linkers with robust zirconium-oxo (Zr6) clusters, and utilize them to functionalize conventional polypropylene separators. The incorporated TTF-based functional sites are demonstrated to serve as efficient ion-transport channels to facilitate rapid Li+ migration and homogeneous Li+ flux distribution at the molecular level. Compared with benzene- and trimethylbenzene-based linkers, the integration of electron-deficient triazine linkers with N-rich sites results in more effective interactions with PF6– anions in electrolytes to enhance Li+ transference number and inhibit PF6– decomposition, thereby improving Li+ concentration gradient and inhibiting Li dendrite growth. Consequently, the Li||LiFePO4 and Li||LiNi0.8Co0.1Mn0.1O2 batteries with MOF-functionalized separators demonstrate impressive redox reversibility, rate performance, and cycling stability. Even within a wide temperature range from −15 to 100 °C, the upgraded Li||LiNi0.8Co0.1Mn0.1O2 batteries can still cycle stably for over 500 cycles with ultrahigh Coulombic efficiency and considerable capacity retentions. This study presents a feasible and scalable MOF-based separator modification strategy, paving the way for developing practical wide-temperature Li metal batteries.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ]
+    },
     {
       "title": "Engineering Directional Ion Transport Channels in Three‐Dimensional Covalent Organic Frameworks for High‐Performance Sodium‐Ion Batteries",
       "authors": "Jing‐Dong Feng, Ruo‐Meng Zhu, Yong Liu, Jun Zhang, Wang‐Kang Han, Qingqing Wang, Hui Qiao, Huan Pang, Zhi‐Guo Gu",
@@ -57,15 +73,15 @@
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
       ],
+      "summaryZh": "新在哪里：提出分子支架束带（molecular scaffold strap）策略，用六臂单体构建三维凝胶网络，再以尺寸匹配的乙二醇二丁醚锚定相邻链段，使机械增强与离子传输在空间上分工；含氟碳酸酯共溶剂进一步调节Li+传输和界面稳定性。\n性能：凝胶聚合物电解质（gel polymer electrolyte, GPE）模量为8.9 MPa，离子电导率为3.82 × 10−4 S cm−1，Li+迁移数为0.68。2.7 Ah Li∥NCM811软包循环100次后容量保持率为87%，自加热起始温度提高至160.7 °C；3.5 Ah Cu∥NCM920305软包能量密度达到506 Wh kg−1。\n怎么解释：六臂交联网络提供骨架刚性，尺寸匹配的醚分子通过链段锚定强化网络，而含氟共溶剂维持较快Li+迁移并促进稳定电极界面。摘要支持力学、输运与界面性能同步改善，但未独立量化支架束带和含氟共溶剂各自的贡献。\n为什么重要：该设计正面处理GPE中“液相促进传导却削弱力学、聚合物增强力学却阻碍传导”的互相牵制，并在Ah级高能量软包中验证，为凝胶网络的力学—传输解耦提供了分子尺度路径。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Xin-Bing Cheng"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10",
-      "summaryZh": "新在哪里：提出分子支架束带（molecular scaffold strap）策略，用六臂单体构建三维凝胶网络，再以尺寸匹配的乙二醇二丁醚锚定相邻链段，使机械增强与离子传输在空间上分工；含氟碳酸酯共溶剂进一步调节Li+传输和界面稳定性。\n性能：凝胶聚合物电解质（gel polymer electrolyte, GPE）模量为8.9 MPa，离子电导率为3.82 × 10−4 S cm−1，Li+迁移数为0.68。2.7 Ah Li∥NCM811软包循环100次后容量保持率为87%，自加热起始温度提高至160.7 °C；3.5 Ah Cu∥NCM920305软包能量密度达到506 Wh kg−1。\n怎么解释：六臂交联网络提供骨架刚性，尺寸匹配的醚分子通过链段锚定强化网络，而含氟共溶剂维持较快Li+迁移并促进稳定电极界面。摘要支持力学、输运与界面性能同步改善，但未独立量化支架束带和含氟共溶剂各自的贡献。\n为什么重要：该设计正面处理GPE中“液相促进传导却削弱力学、聚合物增强力学却阻碍传导”的互相牵制，并在Ah级高能量软包中验证，为凝胶网络的力学—传输解耦提供了分子尺度路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-09-10"
     },
     {
       "title": "Machine-Learning-Guided Molecular Design for Dynamic Self-Activating Interface toward Ah-Level Anode-Free Zn–I2 Pouch Cells",
@@ -130,17 +146,17 @@
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
       ],
+      "summaryZh": "新在哪里：以氰基配位重构（cyano-coordination reconstruction）取代聚醚中醚氧主导的Li+配位，通过调节氰基丙烯酸酯含量，同时改变Li+溶剂化环境并钝化高镍正极界面。\n性能：Li∥NCM811电池在4.3 V、3 C下循环500次后容量保持率为88.2%，在4.5 V、1 C下循环350次后保持80.1%，平均工作电压超过3.85 V。\n怎么解释：竞争性的Li+–C≡N配位重组第一溶剂化壳层并形成连续的低势垒跳跃位点，从而关联于更快的室温传输和更高的氧化稳定性；同时，−C≡N与过渡金属阳离子的配位锚定被用于解释金属溶解受抑。摘要支持这些过程与循环稳定性的关联，但未分别量化体相溶剂化重构和正极界面钝化的贡献。\n为什么重要：工作把聚合物电解质的配位结构与高电压正极界面化学放进同一分子设计中，为4.5 V锂金属固态电池兼顾室温传输与界面稳定提供了不同于传统聚醚优化的路线。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Xiaodan Wang",
         "Bin Tang",
         "Zhen Zhou"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10",
-      "summaryZh": "新在哪里：以氰基配位重构（cyano-coordination reconstruction）取代聚醚中醚氧主导的Li+配位，通过调节氰基丙烯酸酯含量，同时改变Li+溶剂化环境并钝化高镍正极界面。\n性能：Li∥NCM811电池在4.3 V、3 C下循环500次后容量保持率为88.2%，在4.5 V、1 C下循环350次后保持80.1%，平均工作电压超过3.85 V。\n怎么解释：竞争性的Li+–C≡N配位重组第一溶剂化壳层并形成连续的低势垒跳跃位点，从而关联于更快的室温传输和更高的氧化稳定性；同时，−C≡N与过渡金属阳离子的配位锚定被用于解释金属溶解受抑。摘要支持这些过程与循环稳定性的关联，但未分别量化体相溶剂化重构和正极界面钝化的贡献。\n为什么重要：工作把聚合物电解质的配位结构与高电压正极界面化学放进同一分子设计中，为4.5 V锂金属固态电池兼顾室温传输与界面稳定提供了不同于传统聚醚优化的路线。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-09-10"
     },
     {
       "title": "Backbone‐Mediated Coordination‐Environment Reshaping in Gel Polymer Electrolytes for High‐Voltage Lithium Metal Batteries",
@@ -158,15 +174,15 @@
         "Ion-conducting polymers and single-ion conductors",
         "Lithium-metal and anode-free batteries"
       ],
+      "summaryZh": "新在哪里：在1,3-二氧戊环聚合中引入二缩水甘油基1,2-环己烷二甲酸酯，构建原位交联网络；利用弱配位酯羰基和空间受限的醚氧共同重塑聚合物骨架周围的Li+配位环境。\n性能：所得凝胶聚合物电解质（gel polymer electrolyte, GPE）的Li+迁移数为0.64，氧化稳定窗口为5.20 V。Li∥NCM811电池在4.3 V循环500次后容量保持率为84.21%，在4.5 V循环200次后为80.62%；0.9 Ah软包能量密度达到305 Wh kg−1，并在180次循环后保持82.33%容量。\n怎么解释：交联网络削弱骨架—Li+配位并提高阴离子和溶剂对第一配位壳层的参与，进而关联于更快的Li+迁移和富无机质电极—电解质界面。多尺度表征与理论模拟支持这一溶剂化—界面关联，但摘要未单独区分弱配位羰基、醚氧空间限制和交联拓扑的相对作用。\n为什么重要：该工作把聚合物骨架本身从被动支撑体提升为可调节Li+配位和界面化学的设计变量，为高电压锂金属GPE提供了超越单纯提高电导率的结构策略。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Ting Li"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10",
-      "summaryZh": "新在哪里：在1,3-二氧戊环聚合中引入二缩水甘油基1,2-环己烷二甲酸酯，构建原位交联网络；利用弱配位酯羰基和空间受限的醚氧共同重塑聚合物骨架周围的Li+配位环境。\n性能：所得凝胶聚合物电解质（gel polymer electrolyte, GPE）的Li+迁移数为0.64，氧化稳定窗口为5.20 V。Li∥NCM811电池在4.3 V循环500次后容量保持率为84.21%，在4.5 V循环200次后为80.62%；0.9 Ah软包能量密度达到305 Wh kg−1，并在180次循环后保持82.33%容量。\n怎么解释：交联网络削弱骨架—Li+配位并提高阴离子和溶剂对第一配位壳层的参与，进而关联于更快的Li+迁移和富无机质电极—电解质界面。多尺度表征与理论模拟支持这一溶剂化—界面关联，但摘要未单独区分弱配位羰基、醚氧空间限制和交联拓扑的相对作用。\n为什么重要：该工作把聚合物骨架本身从被动支撑体提升为可调节Li+配位和界面化学的设计变量，为高电压锂金属GPE提供了超越单纯提高电导率的结构策略。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-09-10"
     },
     {
       "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
@@ -1353,32 +1369,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Decoupling Ion Transport and Desolvation via Spatially Heterogeneous Solvation Structure for Wide‐Temperature Sodium‐Ion Batteries",
-      "authors": "Xin Chen, Jiaxin Yan, Xingyu Wang, Shilin Xu, Haixia Yang, Yuanheng Wang, Chunyu Du, Yulin Ma, Chuankai Fu, Pengjian Zuo",
-      "authorsCitation": "X. Chen, J. Yan, X. Wang, S. Xu, H. Yang, Y. Wang, C. Du, Y. Ma, C. Fu, P. Zuo",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-12",
-      "volume": "",
-      "issue": "",
-      "page": "e4522198",
-      "doi": "10.1002/anie.4522198",
-      "link": "https://doi.org/10.1002/anie.4522198",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：在单一醚电解液中构建体相与界面不同的空间异质溶剂化结构，使体相离子解离和界面去溶剂化分别优化。\n性能：Na∥NaNFM电池在−40 °C初始容量为109.9 mAh g−1，循环140次后容量保持率87.3%，并可在−60至55 °C范围运行。\n怎么解释：体相DGDE形成以溶剂分离离子对为主的结构以提高电导；界面TTMS优先吸附，建立富阴离子的接触离子对/聚集体并提供去溶剂化活性位点，随后形成无机富集界面。\n为什么重要：工作说明“高体相解离”和“低界面去溶剂化势垒”无需由同一种局部结构承担，为宽温域钠电电解液提供了空间分工式设计。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Chuankai Fu",
-        "Pengjian Zuo"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-08"
     }
   ],
   "source": "Crossref",
