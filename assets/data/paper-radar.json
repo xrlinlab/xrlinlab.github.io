@@ -36,7 +36,14 @@
       "abstract": "Abstract The inherent interfacial instability and severe dendritic growth of lithium (Li) metal anodes pose significant challenges to the operational safety and cycling stability of rechargeable Li metal batteries. Herein, we report three mixed-linker metal–organic frameworks (MOFs) by integrating tetrathiafulvalene (TTF)-based ligands and benzene/trimethylbenzene/triazine-based tritopic linkers with robust zirconium-oxo (Zr6) clusters, and utilize them to functionalize conventional polypropylene separators. The incorporated TTF-based functional sites are demonstrated to serve as efficient ion-transport channels to facilitate rapid Li+ migration and homogeneous Li+ flux distribution at the molecular level. Compared with benzene- and trimethylbenzene-based linkers, the integration of electron-deficient triazine linkers with N-rich sites results in more effective interactions with PF6– anions in electrolytes to enhance Li+ transference number and inhibit PF6– decomposition, thereby improving Li+ concentration gradient and inhibiting Li dendrite growth. Consequently, the Li||LiFePO4 and Li||LiNi0.8Co0.1Mn0.1O2 batteries with MOF-functionalized separators demonstrate impressive redox reversibility, rate performance, and cycling stability. Even within a wide temperature range from −15 to 100 °C, the upgraded Li||LiNi0.8Co0.1Mn0.1O2 batteries can still cycle stably for over 500 cycles with ultrahigh Coulombic efficiency and considerable capacity retentions. This study presents a feasible and scalable MOF-based separator modification strategy, paving the way for developing practical wide-temperature Li metal batteries.",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries"
-      ]
+      ],
+      "correspondingAuthors": [
+        "Shuai Yuan",
+        "Jing-Lin Zuo",
+        "Zhong Jin"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-12"
     },
     {
       "title": "Engineering Directional Ion Transport Channels in Three‐Dimensional Covalent Organic Frameworks for High‐Performance Sodium‐Ion Batteries",
