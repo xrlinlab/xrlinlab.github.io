@@ -33,10 +33,14 @@
       "page": "e5747023",
       "doi": "10.1002/anie.5747023",
       "link": "https://doi.org/10.1002/anie.5747023",
-      "abstract": "ABSTRACT Ni‐rich layered cathodes operated at high voltages suffer from pronounced lattice‐oxygen activation during deep delithiation, which triggers oxygen release, interfacial parasitic reactions, transition‐metal destabilization, and rapid structural degradation. Here, a biomimetic interfacial‐regulation strategy is reported for high‐voltage LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) cathodes by introducing natural anthocyanins as π‐conjugated polyphenol additives. Enabled by their conjugated electronic framework and catechol‐derived binding sites, anthocyanin molecules preferentially accumulate at the cathode/electrolyte interface, where they regulate the local charge environment through anion coordination and interfacial electron delocalization. This molecularly regulated interphase moderates excessive lattice‐oxygen involvement during deep delithiation and suppresses irreversible oxygen‐related degradation, while promoting a thin, uniform CEI with reduced interfacial resistance and improved apparent Li + transport kinetics. As a result, gas evolution, transition‐metal dissolution, phase transition, and intragranular cracking are all effectively alleviated under high‐voltage operation. Li||NCM811 cells deliver markedly improved cycling stability, retaining 81.4% of their capacity after 200 cycles at 4.6 V and 80.0% after over 500 cycles at 4.3 V. This work establishes π‐conjugated polyphenols as a class of interfacial charge regulators for stabilizing lattice oxygen in Ni‐rich layered cathodes and offers a molecular design principle for high‐energy cathode interfaces.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：以天然花青素作为π共轭多酚界面添加剂，在高电压NCM811正极表面同时调节阴离子配位与界面电荷离域，目标不是单纯形成保护膜，而是限制深度脱锂时的晶格氧活化（lattice-oxygen activation）。\n性能：Li∥NCM811电池在4.6 V循环200次后容量保持率为81.4%，在4.3 V循环超过500次后保持80.0%；同时气体释放、过渡金属溶出、相变和颗粒内部开裂均受到抑制。\n怎么解释：摘要显示花青素优先富集于正极/电解液界面，其儿茶酚结合位点与π共轭骨架改变局部电荷环境，并促进形成较薄、均匀且阻抗较低的正极电解质界面膜（cathode–electrolyte interphase, CEI）。这些变化与晶格氧不可逆反应减弱和表观Li+传输改善相关，但摘要尚未分离电子离域、阴离子配位与成膜作用各自的贡献。\n为什么重要：该工作把天然多酚从常规牺牲型添加剂推进为界面电荷调节分子，为高镍正极高电压稳定提供了可由分子结构继续优化的设计变量。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Electrolyte Lubricants for Solid-State Batteries",
@@ -49,10 +53,14 @@
       "page": "",
       "doi": "10.1021/jacs.6c08623",
       "link": "https://doi.org/10.1021/jacs.6c08623",
-      "abstract": "Abstract Solid-state batteries (SSBs) promise higher energy density and improved safety, but interparticle voids and unstable solid–solid interfaces still limit their performance. Here, we translate the concept of lubrication into an electrolyte-lubrication strategy for SSBs. We design a solvation-tailored electrolyte lubricant, termed ACE (aggregate cluster electrolyte), in which spatially structured ion-pair clusters direct interphase formation. In ACE, molecular-orbital reconfiguration within Li+–anion clusters favors the growth of a thin, electronically insulating, inorganic-rich solid–liquid electrolyte interphase (SLEI) on sulfide electrolytes, mitigating their intrinsic instability. The fluid ACE infiltrates interparticle voids, forming percolating Li+-conduction networks and facilitating dynamic reconstruction of the solid–electrolyte interphase during cycling. These attributes enable stable Li-metal cycling at reduced external pressure and enhance cathode active-material utilization. Electrochemical–thermal simulations further show that ACE homogenizes ionic fluxes and thermal gradients at the cell scale. Electrolyte lubrication thus emerges as a scalable interfacial-engineering approach for making sulfide-based SSBs operate under more practical conditions.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries"
-      ]
+      ],
+      "summaryZh": "新在哪里：提出“电解液润滑剂”概念，以聚集簇电解液（aggregate cluster electrolyte, ACE）填充硫化物固态电池中的颗粒空隙，并在固–液接触处原位建立可重构的离子传输与保护界面。\n性能：该体系支持锂金属在较低外加压力下稳定循环，并提高正极活性材料利用率；摘要未给出临界电流密度、循环寿命、容量保持率或压力数值，因此暂不能判断其相对现有润湿型界面方案的性能增量。\n怎么解释：ACE中的Li+–阴离子聚集簇发生分子轨道重构，倾向于在硫化物表面生成薄、电子绝缘且富无机组分的固–液电解质界面膜（solid–liquid electrolyte interphase, SLEI）。流动相同时渗入颗粒空隙，形成贯通Li+通道；电化学–热模拟进一步表明离子通量与温度梯度更均匀。摘要支持这些现象间的关联，但尚不能单独量化“润滑”、成膜与补隙的贡献。\n为什么重要：它把少量液体从被动润湿剂重新定义为具有结构化溶剂化和界面反应选择性的功能组分，为降低硫化物固态电池堆压和改善固–固接触提供了更接近工程条件的路径。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "A Sphere−Sheet Hetero−Interlayer With Mechanoadaptivity and Li + Selectivity for High Performance Anode Free Lithium Sulfur Batteries",
@@ -65,10 +73,14 @@
       "page": "e2370748",
       "doi": "10.1002/anie.2370748",
       "link": "https://doi.org/10.1002/anie.2370748",
-      "abstract": "ABSTRACT Anode free lithium sulfur batteries (AFLSBs) can fully exploit the ultra−high energy density of Li−S systems. However, issues such as irreversible lithium loss caused by uneven solid electrolyte interphase (SEI) on anode during the charging/discharging process, along with severe volume changes leading to structural instability, are key factors limiting their lifespan far below practical application. Herein, a sphere−sheet hetero−interlayer (2DLP−PASF) is designed, which adapts to volume changes and exhibits Li + selectivity. The interlayer is fabricated by electrophoretic deposition of −SO 3 Li rich elastic ionomer emulsion (PASF) particles and laponite nanosheets (2DLP) onto a copper current collector. The elastic PASF particles support 2DLP to form a dispersed stress−buffering structure, which can accommodate volume changes during the charging/discharging process and suppress dendrite growth. Furthermore, rich −SO 3 Li in densely packed PASF shells between 2DLP repel anions electrostatically through the Donnan effect, which facilitates efficient Li + transport and flux homogenization, thereby inhibiting the polysulfide shuttle. Additionally, −C≡N and −CF 3 in PASF cores transform into a stable, Li 3 N/LiF−rich secondary SEI on anode, which in turn synergizes with the tough 2DLP−PASF to further stabilize lithium deposition. As a result, the AFLSB assembled with 2DLP−PASF modified copper current collector and Li 2 S cathode demonstrated significantly improved comprehensive electrochemical performance.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries"
-      ]
+      ],
+      "summaryZh": "新在哪里：在无负极锂硫电池的铜集流体上构建球–片异质中间层，由富–SO3Li的弹性离聚物颗粒与锂皂石纳米片组成，同时引入力学自适应、Li+选择性传输和界面成膜功能。\n性能：采用该中间层和Li2S正极的无负极锂硫电池表现出综合电化学性能改善；摘要未给出面容量、N/P比、循环寿命、容量保持率或库仑效率，因此只能确认改善方向，不能评价其实际竞争力。\n怎么解释：弹性离聚物颗粒支撑二维纳米片形成分散的应力缓冲结构，以适应沉积/剥离体积变化；致密–SO3Li壳层通过Donnan效应（Donnan effect）排斥阴离子、均化Li+通量，并限制多硫化物穿梭。–C≡N和–CF3进一步转化为富Li3N/LiF的二次固态电解质界面膜（solid–electrolyte interphase, SEI）。这些机制由摘要提出，但各作用之间的独立贡献仍需对照实验确认。\n为什么重要：无负极锂硫电池同时受有限锂库存、体积变化和多硫化物穿梭制约；该设计试图用一个可加工中间层同步处理三类失效，为多功能界面从材料堆叠转向结构协同提供了思路。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Mixed-Linker Metal–Organic Frameworks Modified Separators as Li+-Transport Accelerators for Wide-Temperature and Long-Cycling Lithium Metal Batteries",
@@ -108,11 +120,15 @@
       "page": "e3651820",
       "doi": "10.1002/anie.3651820",
       "link": "https://doi.org/10.1002/anie.3651820",
-      "abstract": "ABSTRACT Conventional LiPF 6 ‐based carbonate electrolytes undergo severe oxidative decomposition above 4.3 V, triggering uncontrolled interphase growth, transition‐metal dissolution, and accelerated capacity decay—challenges further compounded under fast‐charging and elevated‐temperature conditions. Herein, we propose a reactive‐cluster‐guided solvation reorganization strategy to reconstruct the Li + solvation structure and interfacial reaction pathways, thereby enabling dual‐interface stabilization. Highly polar MMDS spontaneously anchors PF 6 − via ion–dipole interactions, forming reactive (PF 6 − )–MMDS clusters, which redirect cathode‐side interfacial decomposition toward sulfur‐containing inorganic‐rich CEI formation, while LiDFOB reconstructs the primary Li + solvation sheath to enhance desolvation kinetics. Their coupled action yields thin, dense, and inorganic‐rich CEI/SEI layers, jointly suppressing parasitic reactions, transition‐metal dissolution, and rock‐salt surface reconstruction. With ultra‐low additive loading, LE‐HV@GPE delivers an ionic conductivity of 2.64 mS cm − 1 and a Li + transference number of 0.57. Gr‖NCM811 pouch cells achieve outstanding durability under high‐voltage (4.6 V), fast‐charging (3C), and elevated‐temperature (45°C) conditions, with full compatibility with existing manufacturing operations. This work establishes a solvation‐engineering paradigm for dual‐interface‐stabilized gel polymer electrolytes under harsh operating conditions.",
+      "abstract": "",
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：以反应簇引导的溶剂化重组同时调控凝胶聚合物电解质两侧界面：MMDS锚定PF6−形成反应簇，LiDFOB则重构Li+第一溶剂化鞘，从而将高电压成膜与快速去溶剂化纳入同一添加剂体系。\n性能：凝胶聚合物电解质的离子电导率为2.64 mS cm−1，Li+迁移数为0.57；石墨∥NCM811软包电池可在4.6 V、3C和45 °C条件下运行。摘要称其耐久性突出，但未给出循环次数、容量保持率和具体快充时间，因此不作超出原文的性能比较。\n怎么解释：MMDS与PF6−的离子–偶极作用改变阴离子反应路径，促进形成含硫、富无机组分的正极电解质界面膜（cathode–electrolyte interphase, CEI）；LiDFOB改变Li+溶剂化环境并促进去溶剂化。二者共同对应更薄、更致密的CEI/SEI，以及副反应、过渡金属溶出和岩盐相表面重构的减弱。摘要支持协同关联，但未证明每个界面效应均由单一组分独立主导。\n为什么重要：该工作针对高电压、快充和高温三个通常相互放大的失效条件，展示了以低添加量同时设计正负极界面的可能性，并强调与现有制造流程兼容，对凝胶电解质从材料参数走向软包验证具有现实意义。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Engineering Directional Ion Transport Channels in Three‐Dimensional Covalent Organic Frameworks for High‐Performance Sodium‐Ion Batteries",
