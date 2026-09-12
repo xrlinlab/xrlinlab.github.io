@@ -33,7 +33,7 @@
       "page": "",
       "doi": "10.1021/jacs.6c11237",
       "link": "https://doi.org/10.1021/jacs.6c11237",
-      "abstract": "Abstract The inherent interfacial instability and severe dendritic growth of lithium (Li) metal anodes pose significant challenges to the operational safety and cycling stability of rechargeable Li metal batteries. Herein, we report three mixed-linker metal–organic frameworks (MOFs) by integrating tetrathiafulvalene (TTF)-based ligands and benzene/trimethylbenzene/triazine-based tritopic linkers with robust zirconium-oxo (Zr6) clusters, and utilize them to functionalize conventional polypropylene separators. The incorporated TTF-based functional sites are demonstrated to serve as efficient ion-transport channels to facilitate rapid Li+ migration and homogeneous Li+ flux distribution at the molecular level. Compared with benzene- and trimethylbenzene-based linkers, the integration of electron-deficient triazine linkers with N-rich sites results in more effective interactions with PF6– anions in electrolytes to enhance Li+ transference number and inhibit PF6– decomposition, thereby improving Li+ concentration gradient and inhibiting Li dendrite growth. Consequently, the Li||LiFePO4 and Li||LiNi0.8Co0.1Mn0.1O2 batteries with MOF-functionalized separators demonstrate impressive redox reversibility, rate performance, and cycling stability. Even within a wide temperature range from −15 to 100 °C, the upgraded Li||LiNi0.8Co0.1Mn0.1O2 batteries can still cycle stably for over 500 cycles with ultrahigh Coulombic efficiency and considerable capacity retentions. This study presents a feasible and scalable MOF-based separator modification strategy, paving the way for developing practical wide-temperature Li metal batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries"
       ],
@@ -43,7 +43,11 @@
         "Zhong Jin"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-12"
+      "correspondingAuthorVerifiedAt": "2026-09-12",
+      "summaryZh": "新在哪里：以混合连接体金属–有机框架（mixed-linker metal–organic framework, MOF）修饰聚丙烯隔膜，将四硫富瓦烯（tetrathiafulvalene, TTF）位点提供的Li+传输通道与含氮三嗪连接体的阴离子调控结合，并以苯和三甲基苯连接体MOF作为结构对照。\\n性能：MOF修饰隔膜改善了Li∥LiFePO4和Li∥LiNi0.8Co0.1Mn0.1O2电池的倍率与循环表现；其中Li∥LiNi0.8Co0.1Mn0.1O2电池在−15至100 °C范围内可稳定循环超过500次。摘要未给出电流密度、容量保持率和库仑效率的具体数值，因此暂不作横向性能比较。\\n怎么解释：TTF功能位点被用于促进Li+迁移并均化Li+通量；相比苯和三甲基苯连接体，缺电子、富氮的三嗪位点与PF6−作用更强，与Li+迁移数提高、PF6−分解受抑及锂枝晶减少相关。现有摘要支持连接体化学与这些界面过程的关联，但未分别量化离子通道和阴离子配位的贡献。\\n为什么重要：该工作把MOF隔膜的连接体化学转化为可比较的设计变量，说明Li+传输与阴离子反应性可以在同一多孔骨架中协同调节，为宽温锂金属电池隔膜设计提供了比单纯物理涂层更具体的分子路径。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-12T00:00:04.000Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Engineering Directional Ion Transport Channels in Three‐Dimensional Covalent Organic Frameworks for High‐Performance Sodium‐Ion Batteries",
