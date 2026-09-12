@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:27:13Z",
+  "generatedAt": "2026-09-12T22:26:49Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,6 +23,70 @@
   ],
   "papers": [
     {
+      "title": "Π‐Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High‐Voltage Ni‐Rich Cathodes",
+      "authors": "Yupeng Feng, Xin Liu, Anjun Hu, Yaoyu Yin, Yuhang Shu, Haohan Chen, Ruizhe Xu, Youwei Wang, Xiangsong Jiang, Maokun Li, Yongbiao Mu, Chunwei Dong, Zhenzhen Shen, Qi Liu, Lin Zeng, Jianping Long, Shimou Chen",
+      "authorsCitation": "Y. Feng, X. Liu, A. Hu, Y. Yin, Y. Shu, H. Chen, R. Xu, Y. Wang, X. Jiang, M. Li, Y. Mu, C. Dong, Z. Shen, Q. Liu, L. Zeng, J. Long, S. Chen",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-12",
+      "volume": "",
+      "issue": "",
+      "page": "e5747023",
+      "doi": "10.1002/anie.5747023",
+      "link": "https://doi.org/10.1002/anie.5747023",
+      "abstract": "ABSTRACT Ni‐rich layered cathodes operated at high voltages suffer from pronounced lattice‐oxygen activation during deep delithiation, which triggers oxygen release, interfacial parasitic reactions, transition‐metal destabilization, and rapid structural degradation. Here, a biomimetic interfacial‐regulation strategy is reported for high‐voltage LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) cathodes by introducing natural anthocyanins as π‐conjugated polyphenol additives. Enabled by their conjugated electronic framework and catechol‐derived binding sites, anthocyanin molecules preferentially accumulate at the cathode/electrolyte interface, where they regulate the local charge environment through anion coordination and interfacial electron delocalization. This molecularly regulated interphase moderates excessive lattice‐oxygen involvement during deep delithiation and suppresses irreversible oxygen‐related degradation, while promoting a thin, uniform CEI with reduced interfacial resistance and improved apparent Li + transport kinetics. As a result, gas evolution, transition‐metal dissolution, phase transition, and intragranular cracking are all effectively alleviated under high‐voltage operation. Li||NCM811 cells deliver markedly improved cycling stability, retaining 81.4% of their capacity after 200 cycles at 4.6 V and 80.0% after over 500 cycles at 4.3 V. This work establishes π‐conjugated polyphenols as a class of interfacial charge regulators for stabilizing lattice oxygen in Ni‐rich layered cathodes and offers a molecular design principle for high‐energy cathode interfaces.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Regulating Sodium Deposition Behavior via Polar Functional Group‐Based Interfacial Engineering on an Industrial‐Scale Anode for High‐Performance Na‐CO 2 Batteries",
+      "authors": "Hanqi Zhang, Shaochen Peng, Yiming Fan, Ning Zhao, Han Yun, Xiuxia Zhao, Xuan Lu, Feng Jin, Weiwei Huang, Xiaofei Hu",
+      "authorsCitation": "H. Zhang, S. Peng, Y. Fan, N. Zhao, H. Yun, X. Zhao, X. Lu, F. Jin, W. Huang, X. Hu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-12",
+      "volume": "",
+      "issue": "",
+      "page": "e5076332",
+      "doi": "10.1002/anie.5076332",
+      "link": "https://doi.org/10.1002/anie.5076332",
+      "abstract": "ABSTRACT The development of sodium‐carbon dioxide (Na‐CO 2 ) batteries is crucial for renewable energy utilization and CO 2 fixation. However, their practical application is severely hindered by Na dendrite formation coupled with aggressive CO 2 electro‐/chemical corrosion, and extremely low Na anode utilization rates. This study addresses these interconnected challenges by employing a multifunctional covalent organic framework (COF) coating. Specifically, the C 6 O 6 ‐TAPT COF features a fully conjugated skeleton for rapid electron cloud response, abundantly distributed sodiophilic chelation sites (C═O and C═N) for Na + capture, and ordered AB stacked structure for homogenizing Na + flux. The COMSOL simulations further demonstrate the stress‐regulating strategy in mitigate solid electrolyte interphase (SEI) cracking and separator puncturing risks. Consequently, Na‐CO 2 batteries using the designed industrial‐scale anode achieve low polarization (1.4 V) and sustain stable cycling for over 1100 h at 100 mA g −1 across 0–60 °C. Remarkably, it maintained over 100 cycles at reduced N/P of 10 and delivered a high discharge capacity of 11552 mAh g −1 under lean electrolyte conditions (8.7 µL mAh −1 ). This study validates stable and functionalized COF substrates with dendrite suppression capability in Na‐CO 2 batteries, proposing a scalable pathway with implications for next‐generation energy storage.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Electrolyte Lubricants for Solid-State Batteries",
+      "authors": "Won-Yeong Kim, Seokhyeon Ryu, Hyobin Lee, Minwoo Kim, Jongjun Lee, Kyeong-Seok Oh, Dokyung Kim, Taeryeol Kim, Wonseok Yang, Sun-Phil Han, Tae Woong Lee, Jaejin Lim, Hong-I Kim, Minsang Kang, Seungyeop Choi, Seung-Hyeok Kim, Rhokyun Kwak, Young Joo Lee, Won Bo Lee, Yong Min Lee, Sang-Young Lee",
+      "authorsCitation": "W.-Y. Kim, S. Ryu, H. Lee, M. Kim, J. Lee, K.-S. Oh, D. Kim, T. Kim, W. Yang, S.-P. Han, T. W. Lee, J. Lim, H.-I. Kim, M. Kang, S. Choi, S.-H. Kim, R. Kwak, Y. J. Lee, W. B. Lee, Y. M. Lee, S.-Y. Lee",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-12",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c08623",
+      "link": "https://doi.org/10.1021/jacs.6c08623",
+      "abstract": "Abstract Solid-state batteries (SSBs) promise higher energy density and improved safety, but interparticle voids and unstable solid–solid interfaces still limit their performance. Here, we translate the concept of lubrication into an electrolyte-lubrication strategy for SSBs. We design a solvation-tailored electrolyte lubricant, termed ACE (aggregate cluster electrolyte), in which spatially structured ion-pair clusters direct interphase formation. In ACE, molecular-orbital reconfiguration within Li+–anion clusters favors the growth of a thin, electronically insulating, inorganic-rich solid–liquid electrolyte interphase (SLEI) on sulfide electrolytes, mitigating their intrinsic instability. The fluid ACE infiltrates interparticle voids, forming percolating Li+-conduction networks and facilitating dynamic reconstruction of the solid–electrolyte interphase during cycling. These attributes enable stable Li-metal cycling at reduced external pressure and enhance cathode active-material utilization. Electrochemical–thermal simulations further show that ACE homogenizes ionic fluxes and thermal gradients at the cell scale. Electrolyte lubrication thus emerges as a scalable interfacial-engineering approach for making sulfide-based SSBs operate under more practical conditions.",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ]
+    },
+    {
+      "title": "A Sphere−Sheet Hetero−Interlayer With Mechanoadaptivity and Li + Selectivity for High Performance Anode Free Lithium Sulfur Batteries",
+      "authors": "Chao Ding, Yifan Zhang, Jiacheng Lin, Fangrong Xiao, Chenxu Zheng, Wenqiang Wang, Gengchao Wang, Chunzhong Li",
+      "authorsCitation": "C. Ding, Y. Zhang, J. Lin, F. Xiao, C. Zheng, W. Wang, G. Wang, C. Li",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-12",
+      "volume": "",
+      "issue": "",
+      "page": "e2370748",
+      "doi": "10.1002/anie.2370748",
+      "link": "https://doi.org/10.1002/anie.2370748",
+      "abstract": "ABSTRACT Anode free lithium sulfur batteries (AFLSBs) can fully exploit the ultra−high energy density of Li−S systems. However, issues such as irreversible lithium loss caused by uneven solid electrolyte interphase (SEI) on anode during the charging/discharging process, along with severe volume changes leading to structural instability, are key factors limiting their lifespan far below practical application. Herein, a sphere−sheet hetero−interlayer (2DLP−PASF) is designed, which adapts to volume changes and exhibits Li + selectivity. The interlayer is fabricated by electrophoretic deposition of −SO 3 Li rich elastic ionomer emulsion (PASF) particles and laponite nanosheets (2DLP) onto a copper current collector. The elastic PASF particles support 2DLP to form a dispersed stress−buffering structure, which can accommodate volume changes during the charging/discharging process and suppress dendrite growth. Furthermore, rich −SO 3 Li in densely packed PASF shells between 2DLP repel anions electrostatically through the Donnan effect, which facilitates efficient Li + transport and flux homogenization, thereby inhibiting the polysulfide shuttle. Additionally, −C≡N and −CF 3 in PASF cores transform into a stable, Li 3 N/LiF−rich secondary SEI on anode, which in turn synergizes with the tough 2DLP−PASF to further stabilize lithium deposition. As a result, the AFLSB assembled with 2DLP−PASF modified copper current collector and Li 2 S cathode demonstrated significantly improved comprehensive electrochemical performance.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ]
+    },
+    {
       "title": "Mixed-Linker Metal–Organic Frameworks Modified Separators as Li+-Transport Accelerators for Wide-Temperature and Long-Cycling Lithium Metal Batteries",
       "authors": "Yaoda Wang, Xiao-Cheng Zhou, Jingjie Sun, Yu-Hao Gu, Tianyu Shen, Zuoxiu Tie, Shuai Yuan, Jing-Lin Zuo, Zhong Jin",
       "authorsCitation": "Y. Wang, X.-C. Zhou, J. Sun, Y.-H. Gu, T. Shen, Z. Tie, S. Yuan, J.-L. Zuo, Z. Jin",
@@ -37,17 +101,50 @@
       "matchedTopics": [
         "Lithium-metal and anode-free batteries"
       ],
+      "summaryZh": "新在哪里：以混合连接体金属–有机框架（mixed-linker metal–organic framework, MOF）修饰聚丙烯隔膜，将四硫富瓦烯（tetrathiafulvalene, TTF）位点提供的Li+传输通道与含氮三嗪连接体的阴离子调控结合，并以苯和三甲基苯连接体MOF作为结构对照。\\n性能：MOF修饰隔膜改善了Li∥LiFePO4和Li∥LiNi0.8Co0.1Mn0.1O2电池的倍率与循环表现；其中Li∥LiNi0.8Co0.1Mn0.1O2电池在−15至100 °C范围内可稳定循环超过500次。摘要未给出电流密度、容量保持率和库仑效率的具体数值，因此暂不作横向性能比较。\\n怎么解释：TTF功能位点被用于促进Li+迁移并均化Li+通量；相比苯和三甲基苯连接体，缺电子、富氮的三嗪位点与PF6−作用更强，与Li+迁移数提高、PF6−分解受抑及锂枝晶减少相关。现有摘要支持连接体化学与这些界面过程的关联，但未分别量化离子通道和阴离子配位的贡献。\\n为什么重要：该工作把MOF隔膜的连接体化学转化为可比较的设计变量，说明Li+传输与阴离子反应性可以在同一多孔骨架中协同调节，为宽温锂金属电池隔膜设计提供了比单纯物理涂层更具体的分子路径。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-12T00:00:04.000Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Shuai Yuan",
         "Jing-Lin Zuo",
         "Zhong Jin"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-12",
-      "summaryZh": "新在哪里：以混合连接体金属–有机框架（mixed-linker metal–organic framework, MOF）修饰聚丙烯隔膜，将四硫富瓦烯（tetrathiafulvalene, TTF）位点提供的Li+传输通道与含氮三嗪连接体的阴离子调控结合，并以苯和三甲基苯连接体MOF作为结构对照。\\n性能：MOF修饰隔膜改善了Li∥LiFePO4和Li∥LiNi0.8Co0.1Mn0.1O2电池的倍率与循环表现；其中Li∥LiNi0.8Co0.1Mn0.1O2电池在−15至100 °C范围内可稳定循环超过500次。摘要未给出电流密度、容量保持率和库仑效率的具体数值，因此暂不作横向性能比较。\\n怎么解释：TTF功能位点被用于促进Li+迁移并均化Li+通量；相比苯和三甲基苯连接体，缺电子、富氮的三嗪位点与PF6−作用更强，与Li+迁移数提高、PF6−分解受抑及锂枝晶减少相关。现有摘要支持连接体化学与这些界面过程的关联，但未分别量化离子通道和阴离子配位的贡献。\\n为什么重要：该工作把MOF隔膜的连接体化学转化为可比较的设计变量，说明Li+传输与阴离子反应性可以在同一多孔骨架中协同调节，为宽温锂金属电池隔膜设计提供了比单纯物理涂层更具体的分子路径。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-12T00:00:04.000Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-09-12"
+    },
+    {
+      "title": "Loose Al 3+ Solvation Aggregates Enable Reversible Aluminum Anodes in Chlorine‐Free Electrolyte",
+      "authors": "Meng Zhang, Jinlei Zhang, Wanyu Zhao, Xiaowei Yang",
+      "authorsCitation": "M. Zhang, J. Zhang, W. Zhao, X. Yang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-11",
+      "volume": "",
+      "issue": "",
+      "page": "e1544949",
+      "doi": "10.1002/anie.1544949",
+      "link": "https://doi.org/10.1002/anie.1544949",
+      "abstract": "ABSTRACT Sustained reversible Aluminum plating/stripping with long cycle life is scarcely realized in chlorine‐free organic electrolytes. The electrolyte formula exerts the deposition/stripping behavior of metal anodes. Highly polarizing Al 3+ cations show strong binding with electrolyte components, resulting in a significantly different ionic solvation structure from lithium. Here we reveal that pervasive compact ion aggregates (CAGs) solvation structures with an Al 3+ –Al 3+ interatomic distance of ∼5 Å were formed within typical ether or ester electrolytes, leading to low ionic conductivity and passivation interphases. On this basis, we developed a chlorine‐free ester electrolyte featuring loose solvation aggregates (LAGs) with an Al 3+ –Al 3+ interatomic distance of 7 Å through modulating the balance of Al 3+ coordination between the OTf − anion and solvent. Tris(pentafluorophenyl)borane (TPFPB) interacts with anions to suppress anion over‐coordination in Al 3+ solvation structures, thereby inducing an organic–inorganic hybrid solid electrolyte interphase (SEI). This loosely solvated Al 3+ electrolyte delivers nearly twofold enhanced ionic conductivity and a hybrid SEI, which endows the system with a low Al‐plating/stripping overpotential of ∼0.4 V and durable cycling exceeding 4000 h.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Cluster‐Directed Solvation Engineering for Dual‐Interface Stabilized Gel Polymer Electrolytes Enabling High‐Voltage and Fast‐Charging Lithium‐Ion Batteries",
+      "authors": "Xiangyu Chen, Meng Feng, Aohong Tang, Lina Zhang, Xiangru Su, Tianpeng Zhang, Yanjun Xie, Fangyuan Hu",
+      "authorsCitation": "X. Chen, M. Feng, A. Tang, L. Zhang, X. Su, T. Zhang, Y. Xie, F. Hu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-11",
+      "volume": "",
+      "issue": "",
+      "page": "e3651820",
+      "doi": "10.1002/anie.3651820",
+      "link": "https://doi.org/10.1002/anie.3651820",
+      "abstract": "ABSTRACT Conventional LiPF 6 ‐based carbonate electrolytes undergo severe oxidative decomposition above 4.3 V, triggering uncontrolled interphase growth, transition‐metal dissolution, and accelerated capacity decay—challenges further compounded under fast‐charging and elevated‐temperature conditions. Herein, we propose a reactive‐cluster‐guided solvation reorganization strategy to reconstruct the Li + solvation structure and interfacial reaction pathways, thereby enabling dual‐interface stabilization. Highly polar MMDS spontaneously anchors PF 6 − via ion–dipole interactions, forming reactive (PF 6 − )–MMDS clusters, which redirect cathode‐side interfacial decomposition toward sulfur‐containing inorganic‐rich CEI formation, while LiDFOB reconstructs the primary Li + solvation sheath to enhance desolvation kinetics. Their coupled action yields thin, dense, and inorganic‐rich CEI/SEI layers, jointly suppressing parasitic reactions, transition‐metal dissolution, and rock‐salt surface reconstruction. With ultra‐low additive loading, LE‐HV@GPE delivers an ionic conductivity of 2.64 mS cm − 1 and a Li + transference number of 0.57. Gr‖NCM811 pouch cells achieve outstanding durability under high‐voltage (4.6 V), fast‐charging (3C), and elevated‐temperature (45°C) conditions, with full compatibility with existing manufacturing operations. This work establishes a solvation‐engineering paradigm for dual‐interface‐stabilized gel polymer electrolytes under harsh operating conditions.",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors",
+        "Fast charging and interfacial ion transport"
+      ]
     },
     {
       "title": "Engineering Directional Ion Transport Channels in Three‐Dimensional Covalent Organic Frameworks for High‐Performance Sodium‐Ion Batteries",
@@ -1357,26 +1454,6 @@
         "Fast charging and interfacial ion transport"
       ],
       "summaryZh": "新在哪里：构建12种对称性和氟化程度系统变化的醚溶剂库，提出分子不对称性、偶极倾斜和转动惯量是调节锂界面氧化还原动力学的可量化变量。\n性能：低转动惯量的不对称F5MPE支持高倍率Li∥NMC全电池稳定循环超过170次，优于此前单盐—单溶剂醚体系F5DEE。\n怎么解释：更倾斜的偶极和更低的转动惯量与更高交换电流密度显著相关，并伴随更稳定的锂表面SEI；该关联支持动力学解释，但摘要未证明两个分子描述符具有独立因果性。\n为什么重要：工作把溶剂几何和动力学参数与界面电荷转移直接连接，为快充锂金属电解液提供了超越供体数、介电常数等传统指标的设计方向。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Quantitative Dielectric Constant Engineering of the Separator for Reversible Lithium Metal Batteries",
-      "authors": "Tao Zhang, Xiao Li, Yuxuan Yu, Keith C. Gordon, Guiyin Xu, Meifang Zhu",
-      "authorsCitation": "T. Zhang, X. Li, Y. Yu, K. C. Gordon, G. Xu, M. Zhu",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-13",
-      "volume": "148",
-      "issue": "33",
-      "page": "35729",
-      "doi": "10.1021/jacs.6c06934",
-      "link": "https://doi.org/10.1021/jacs.6c06934",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：把隔膜介电常数确立为可连续调节的界面极化描述符，并揭示其与离子传输之间存在非单调关系。\n性能：通过界面缩聚把聚丙烯隔膜介电常数调至2.7–9.1；约5.4时综合性能最优，Li∥LFP软包电池达到416.4 Wh kg−1，并在1000次循环后保持76.88%容量。\n怎么解释：介电常数过低倾向形成有机富集SEI，过高则限制离子传输；中间值在界面极化、SEI稳定和锂沉积均匀性之间取得平衡。\n为什么重要：该工作把经验性的隔膜涂层优化转化为可量化参数窗口，为锂金属电池隔膜设计提供了可比较、可验证的物理尺度。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
