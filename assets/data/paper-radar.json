@@ -39,22 +39,6 @@
       ]
     },
     {
-      "title": "Regulating Sodium Deposition Behavior via Polar Functional Group‐Based Interfacial Engineering on an Industrial‐Scale Anode for High‐Performance Na‐CO 2 Batteries",
-      "authors": "Hanqi Zhang, Shaochen Peng, Yiming Fan, Ning Zhao, Han Yun, Xiuxia Zhao, Xuan Lu, Feng Jin, Weiwei Huang, Xiaofei Hu",
-      "authorsCitation": "H. Zhang, S. Peng, Y. Fan, N. Zhao, H. Yun, X. Zhao, X. Lu, F. Jin, W. Huang, X. Hu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-12",
-      "volume": "",
-      "issue": "",
-      "page": "e5076332",
-      "doi": "10.1002/anie.5076332",
-      "link": "https://doi.org/10.1002/anie.5076332",
-      "abstract": "ABSTRACT The development of sodium‐carbon dioxide (Na‐CO 2 ) batteries is crucial for renewable energy utilization and CO 2 fixation. However, their practical application is severely hindered by Na dendrite formation coupled with aggressive CO 2 electro‐/chemical corrosion, and extremely low Na anode utilization rates. This study addresses these interconnected challenges by employing a multifunctional covalent organic framework (COF) coating. Specifically, the C 6 O 6 ‐TAPT COF features a fully conjugated skeleton for rapid electron cloud response, abundantly distributed sodiophilic chelation sites (C═O and C═N) for Na + capture, and ordered AB stacked structure for homogenizing Na + flux. The COMSOL simulations further demonstrate the stress‐regulating strategy in mitigate solid electrolyte interphase (SEI) cracking and separator puncturing risks. Consequently, Na‐CO 2 batteries using the designed industrial‐scale anode achieve low polarization (1.4 V) and sustain stable cycling for over 1100 h at 100 mA g −1 across 0–60 °C. Remarkably, it maintained over 100 cycles at reduced N/P of 10 and delivered a high discharge capacity of 11552 mAh g −1 under lean electrolyte conditions (8.7 µL mAh −1 ). This study validates stable and functionalized COF substrates with dendrite suppression capability in Na‐CO 2 batteries, proposing a scalable pathway with implications for next‐generation energy storage.",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ]
-    },
-    {
       "title": "Electrolyte Lubricants for Solid-State Batteries",
       "authors": "Won-Yeong Kim, Seokhyeon Ryu, Hyobin Lee, Minwoo Kim, Jongjun Lee, Kyeong-Seok Oh, Dokyung Kim, Taeryeol Kim, Wonseok Yang, Sun-Phil Han, Tae Woong Lee, Jaejin Lim, Hong-I Kim, Minsang Kang, Seungyeop Choi, Seung-Hyeok Kim, Rhokyun Kwak, Young Joo Lee, Won Bo Lee, Yong Min Lee, Sang-Young Lee",
       "authorsCitation": "W.-Y. Kim, S. Ryu, H. Lee, M. Kim, J. Lee, K.-S. Oh, D. Kim, T. Kim, W. Yang, S.-P. Han, T. W. Lee, J. Lim, H.-I. Kim, M. Kang, S. Choi, S.-H. Kim, R. Kwak, Y. J. Lee, W. B. Lee, Y. M. Lee, S.-Y. Lee",
@@ -112,22 +96,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-12"
-    },
-    {
-      "title": "Loose Al 3+ Solvation Aggregates Enable Reversible Aluminum Anodes in Chlorine‐Free Electrolyte",
-      "authors": "Meng Zhang, Jinlei Zhang, Wanyu Zhao, Xiaowei Yang",
-      "authorsCitation": "M. Zhang, J. Zhang, W. Zhao, X. Yang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-11",
-      "volume": "",
-      "issue": "",
-      "page": "e1544949",
-      "doi": "10.1002/anie.1544949",
-      "link": "https://doi.org/10.1002/anie.1544949",
-      "abstract": "ABSTRACT Sustained reversible Aluminum plating/stripping with long cycle life is scarcely realized in chlorine‐free organic electrolytes. The electrolyte formula exerts the deposition/stripping behavior of metal anodes. Highly polarizing Al 3+ cations show strong binding with electrolyte components, resulting in a significantly different ionic solvation structure from lithium. Here we reveal that pervasive compact ion aggregates (CAGs) solvation structures with an Al 3+ –Al 3+ interatomic distance of ∼5 Å were formed within typical ether or ester electrolytes, leading to low ionic conductivity and passivation interphases. On this basis, we developed a chlorine‐free ester electrolyte featuring loose solvation aggregates (LAGs) with an Al 3+ –Al 3+ interatomic distance of 7 Å through modulating the balance of Al 3+ coordination between the OTf − anion and solvent. Tris(pentafluorophenyl)borane (TPFPB) interacts with anions to suppress anion over‐coordination in Al 3+ solvation structures, thereby inducing an organic–inorganic hybrid solid electrolyte interphase (SEI). This loosely solvated Al 3+ electrolyte delivers nearly twofold enhanced ionic conductivity and a hybrid SEI, which endows the system with a low Al‐plating/stripping overpotential of ∼0.4 V and durable cycling exceeding 4000 h.",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ]
     },
     {
       "title": "Cluster‐Directed Solvation Engineering for Dual‐Interface Stabilized Gel Polymer Electrolytes Enabling High‐Voltage and Fast‐Charging Lithium‐Ion Batteries",
