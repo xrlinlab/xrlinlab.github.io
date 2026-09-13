@@ -31,6 +31,13 @@ TOPICS = [
     "Fast charging and interfacial ion transport",
 ]
 
+# Explicitly reviewed false positives that match broad interface keywords but fall
+# outside the configured Paper Radar research scope.
+EXCLUDED_DOIS = {
+    "10.1002/anie.5076332",  # Na–CO2 battery
+    "10.1002/anie.1544949",  # aluminum-metal battery
+}
+
 def clean(value):
     text = html.unescape(str(value or ""))
     text = re.sub(r"<[^>]+>", " ", text)
@@ -184,6 +191,8 @@ def main():
             if not topics or not pub_date or not title or not (start <= pub_date <= end):
                 continue
             doi = clean(item.get("DOI")).lower()
+            if doi in EXCLUDED_DOIS:
+                continue
             key = doi or re.sub(r"[^a-z0-9]+", "", title.lower())
             paper = {
                 "title": title,
