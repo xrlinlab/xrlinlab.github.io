@@ -33,10 +33,20 @@
       "page": "e8475331",
       "doi": "10.1002/anie.8475331",
       "link": "https://doi.org/10.1002/anie.8475331",
-      "abstract": "ABSTRACT While the pore mouth (PM) of hard carbon (HC) is known to be critical for performance, the specific impact of its properties (e.g., size, conductivity, and role in electrolyte decomposition) on key metrics like initial Coulombic efficiency (ICE), capacity, and rate capability remains poorly understood. Herein, we originally clarified this critical but poorly understood issue. By sealing the conductive 5.23 Å PM of commercial HC with an insulating microporous glassy metal–organic framework (MOF glass), we engineered a 2.98 Å, nonconductive MOF PM that fundamentally alters ion transport and interfacial chemistry. This tailored structure promotes Na + pre‑desolvation, facilitates a highly aggregated electrolyte configuration, and suppresses parasitic decomposition—collectively fostering a superior inorganic‑rich solid–electrolyte interphase (SEI). As a result, the modified HC (1G‐HC) exhibits a largely enhanced ICE of 87.8% and a capacity of ∼400 mAh/g, alongside excellent cycling stability at high rate (∼12 C, 80% capacity retention after 3000 cycles) and good low‐temperature performance of −25°C (∼5 C, 79.3% capacity retention over 500 cycles). In a practical 3.19 Ah‐level 1G‐HC||Na 3 V 2 (PO 4 ) 3 pouch cell, it achieves 108 mAh/g with 92.0% retention over 160 cycles. This work establishes PM design as a pivotal strategy for advancing sodium‐ion battery anodes.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：把硬碳孔口（pore mouth, PM）从被动孔结构转化为可设计的界面单元，用绝缘微孔金属有机框架玻璃（metal–organic framework glass, MOF glass）将导电孔口由5.23 Å收窄至2.98 Å，同时调节孔口尺寸、电子传导与电解液分解。\n性能：改性硬碳的初始库仑效率为87.8%，容量约400 mAh g−1；约12 C下循环3000次后容量保持率为80%，−25 °C、约5 C下循环500次后保持79.3%。3.19 Ah级硬碳||Na3V2(PO4)3软包电池提供108 mAh g−1，循环160次后保持92.0%。\n怎么解释：出版社摘要表明，绝缘且更窄的孔口促进Na+预脱溶剂化并形成更聚集的局部电解液结构，同时抑制寄生分解，最终与无机物丰富、NaF富集的固态电解质界面膜（solid–electrolyte interphase, SEI）相关。现有摘要支持结构—界面—性能的关联，但尚不能单独量化尺寸效应与绝缘效应的贡献。\n为什么重要：该工作说明硬碳孔口不只是储钠通道，也是决定界面反应路径的设计变量，为兼顾首效、倍率、低温和软包性能提供了可工程化思路。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-14T23:00:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Sijie Li",
+        "Zhi Chang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-15"
     },
     {
       "title": "Engineering Interfacial Chemistry of Spinel Indium Sulfides via Iron‐Substitution‐Mediated Selective Catalysis for High‐Performance Sodium‐Ion Batteries",
@@ -49,10 +59,14 @@
       "page": "e6440082",
       "doi": "10.1002/anie.6440082",
       "link": "https://doi.org/10.1002/anie.6440082",
-      "abstract": "ABSTRACT Tailoring the decomposition dynamics of salts and solvents at the electrode–electrolyte interface is crucial for constructing a high‐quality solid electrolyte interphase (SEI) and achieving high‐performance sodium‐ion batteries (SIBs). Herein, we propose an iron‐substitution strategy to selectively catalyze salt–solvent decomposition and thereby realize a high‐quality SEI. Specifically, spinel indium sulfide with intrinsic indium vacancies (V In ‐In 3 S 4 ) predominantly adsorbs and promotes the reduction of ether molecules, forming a thick, nonuniform, and NaF‐deficient SEI layer. Conversely, Fe substitution eliminates the unfavorable indium vacancies and selectively catalyzes the preferential dissociation of P─F bond in PF 6 − anion while weakening C─O bond cleavage in ether molecules, thereby facilitating rapid NaF formation. Moreover, the Fe substitution greatly enhances the affinity of Fe‐In 3 S 4 toward NaF, facilitating rapid and uniform NaF deposition. As a result, a thin (∼8.0 nm), uniform, and ultra‐stable NaF‐rich SEI layer forms on Fe‐In 3 S 4 , enabling a high initial Coulombic efficiency (∼92.3%, 0.5 A g −1 ), remarkable rate capability (457.2 mAh g −1 at 10 A g −1 ), and long cycle life (0.011% capacity decay per cycle over 2000 cycles at 5 A g −1 ). The Fe‐substitution strategy also demonstrates universality across various electrolyte systems, offering a powerful approach to modulate interfacial chemistry and unlock the potential for high‐performance SIB anodes.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：以铁取代调控尖晶石硫化铟负极的界面选择性催化，使电解液分解由醚溶剂主导转向PF6−阴离子优先反应，从反应路径层面设计固态电解质界面膜（solid–electrolyte interphase, SEI）。\n性能：Fe–In3S4负极的初始库仑效率约92.3%（0.5 A g−1），在10 A g−1下容量为457.2 mAh g−1；在5 A g−1下循环2000次，单圈容量衰减约0.011%。形成的NaF富集SEI厚度约8.0 nm。\n怎么解释：出版社摘要显示，Fe取代消除了不利的铟空位，促进PF6−中P–F键优先断裂并削弱醚分子的C–O键断裂，同时增强基底对NaF的亲和力，使NaF更快、更均匀沉积。由此形成的薄而均匀的SEI与较高首效、倍率和循环稳定性相对应；不过摘要证据不足以把全部性能提升唯一归因于某一条催化路径。\n为什么重要：这项工作把异元素取代从常规体相电子结构调节拓展到电解液分解选择性的控制，为通过电极表面催化而非仅靠电解液配方构筑稳定界面提供了路线。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-14T23:00:00Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Π‐Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High‐Voltage Ni‐Rich Cathodes",
