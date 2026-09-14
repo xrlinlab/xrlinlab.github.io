@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T22:28:10Z",
+  "generatedAt": "2026-09-14T22:29:28Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,38 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Pore Mouth Engineering: An Insulating Strategy to Dictate Interfacial Chemistry in Hard Carbon Anodes",
+      "authors": "Yan Xu, Ying He, Yiyue He, Yue Liu, Feiyan Yu, Lishun Bai, Chengjun Liu, Sijie Li, Zhi Chang",
+      "authorsCitation": "Y. Xu, Y. He, Y. He, Y. Liu, F. Yu, L. Bai, C. Liu, S. Li, Z. Chang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-14",
+      "volume": "",
+      "issue": "",
+      "page": "e8475331",
+      "doi": "10.1002/anie.8475331",
+      "link": "https://doi.org/10.1002/anie.8475331",
+      "abstract": "ABSTRACT While the pore mouth (PM) of hard carbon (HC) is known to be critical for performance, the specific impact of its properties (e.g., size, conductivity, and role in electrolyte decomposition) on key metrics like initial Coulombic efficiency (ICE), capacity, and rate capability remains poorly understood. Herein, we originally clarified this critical but poorly understood issue. By sealing the conductive 5.23 Å PM of commercial HC with an insulating microporous glassy metal–organic framework (MOF glass), we engineered a 2.98 Å, nonconductive MOF PM that fundamentally alters ion transport and interfacial chemistry. This tailored structure promotes Na + pre‑desolvation, facilitates a highly aggregated electrolyte configuration, and suppresses parasitic decomposition—collectively fostering a superior inorganic‑rich solid–electrolyte interphase (SEI). As a result, the modified HC (1G‐HC) exhibits a largely enhanced ICE of 87.8% and a capacity of ∼400 mAh/g, alongside excellent cycling stability at high rate (∼12 C, 80% capacity retention after 3000 cycles) and good low‐temperature performance of −25°C (∼5 C, 79.3% capacity retention over 500 cycles). In a practical 3.19 Ah‐level 1G‐HC||Na 3 V 2 (PO 4 ) 3 pouch cell, it achieves 108 mAh/g with 92.0% retention over 160 cycles. This work establishes PM design as a pivotal strategy for advancing sodium‐ion battery anodes.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Engineering Interfacial Chemistry of Spinel Indium Sulfides via Iron‐Substitution‐Mediated Selective Catalysis for High‐Performance Sodium‐Ion Batteries",
+      "authors": "Qi An, Manman Zhang, Mingze Ma, Peng Mei, Zhiyi Hu, Dong Yan, Daohong Zhang, Shaozhuan Huang, Bao‐Lian Su",
+      "authorsCitation": "Q. An, M. Zhang, M. Ma, P. Mei, Z. Hu, D. Yan, D. Zhang, S. Huang, B. Su",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-14",
+      "volume": "",
+      "issue": "",
+      "page": "e6440082",
+      "doi": "10.1002/anie.6440082",
+      "link": "https://doi.org/10.1002/anie.6440082",
+      "abstract": "ABSTRACT Tailoring the decomposition dynamics of salts and solvents at the electrode–electrolyte interface is crucial for constructing a high‐quality solid electrolyte interphase (SEI) and achieving high‐performance sodium‐ion batteries (SIBs). Herein, we propose an iron‐substitution strategy to selectively catalyze salt–solvent decomposition and thereby realize a high‐quality SEI. Specifically, spinel indium sulfide with intrinsic indium vacancies (V In ‐In 3 S 4 ) predominantly adsorbs and promotes the reduction of ether molecules, forming a thick, nonuniform, and NaF‐deficient SEI layer. Conversely, Fe substitution eliminates the unfavorable indium vacancies and selectively catalyzes the preferential dissociation of P─F bond in PF 6 − anion while weakening C─O bond cleavage in ether molecules, thereby facilitating rapid NaF formation. Moreover, the Fe substitution greatly enhances the affinity of Fe‐In 3 S 4 toward NaF, facilitating rapid and uniform NaF deposition. As a result, a thin (∼8.0 nm), uniform, and ultra‐stable NaF‐rich SEI layer forms on Fe‐In 3 S 4 , enabling a high initial Coulombic efficiency (∼92.3%, 0.5 A g −1 ), remarkable rate capability (457.2 mAh g −1 at 10 A g −1 ), and long cycle life (0.011% capacity decay per cycle over 2000 cycles at 5 A g −1 ). The Fe‐substitution strategy also demonstrates universality across various electrolyte systems, offering a powerful approach to modulate interfacial chemistry and unlock the potential for high‐performance SIB anodes.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Π‐Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High‐Voltage Ni‐Rich Cathodes",
       "authors": "Yupeng Feng, Xin Liu, Anjun Hu, Yaoyu Yin, Yuhang Shu, Haohan Chen, Ruizhe Xu, Youwei Wang, Xiangsong Jiang, Maokun Li, Yongbiao Mu, Chunwei Dong, Zhenzhen Shen, Qi Liu, Lin Zeng, Jianping Long, Shimou Chen",
