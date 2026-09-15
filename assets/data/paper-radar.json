@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:29:28Z",
+  "generatedAt": "2026-09-15T22:27:47Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Stabilizing Zinc Anodes via a Zeolite‐Induced Localized Supersaturated Electrolyte Interface",
+      "authors": "Xiaoqi Liu, Yipu Xu, Linjiao Wei, Hongman Sun, Zhengxing Qin, Xizhi Zhang, Dahai Zhang, Xianguo Li, Han Hu, Wei Xing, Yu Zhang, Bin Luo, Zifeng Yan",
+      "authorsCitation": "X. Liu, Y. Xu, L. Wei, H. Sun, Z. Qin, X. Zhang, D. Zhang, X. Li, H. Hu, W. Xing, Y. Zhang, B. Luo, Z. Yan",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-15",
+      "volume": "",
+      "issue": "",
+      "page": "e5744163",
+      "doi": "10.1002/anie.5744163",
+      "link": "https://doi.org/10.1002/anie.5744163",
+      "abstract": "ABSTRACT Aqueous Zn‐ion batteries (AZIBs) hold great potential for cost‐effective and safe grid‐scale energy storage, yet their lifespan is limited by dendrite growth and side reactions arising from an unstable electrode/electrolyte interface. Although high‐concentration electrolytes can tune solvation structure and enhance Zn plating/stripping stability, they suffer from high cost and low practicality. Herein, we propose a localized supersaturated electrolyte interface (LSEI) concept via constructing a low Si/Al ratio ZSM‐5 zeolite (LZ5) interphase on the Zn surface. The abundant Brønsted acid sites inside the LZ5 nanochannels function as “ion tentacles” to spontaneously capture and confine Zn 2+ , dramatically raising the localized Zn 2+ concentration on the Zn surface even in a dilute ZnSO 4 electrolyte (1 M). This LSEI creates a H 2 O‐deficient and anion‐enriched Zn 2+ solvation structure at the LZ5 interface, which concurrently accelerates Zn 2+ desolvation and transport dynamics for dendrite‐free deposition and suppresses H 2 O‐induced side reactions. Consequently, the LZ5@Zn symmetric cells deliver a lifespan of over 2400 h and a high cumulative capacity exceeding 5.5 Ah cm −2 . The assembled LZ5@Zn//NH 4 V 4 O 10 full cells achieve 96% capacity retention over 1200 cycles at 3 A g −1 . Our findings highlight the potential of LSEI design for developing durable Zn anodes toward practical AZIBs.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Pore Mouth Engineering: An Insulating Strategy to Dictate Interfacial Chemistry in Hard Carbon Anodes",
       "authors": "Yan Xu, Ying He, Yiyue He, Yue Liu, Feiyan Yu, Lishun Bai, Chengjun Liu, Sijie Li, Zhi Chang",
@@ -1390,57 +1406,6 @@
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "“Armor Polymerization” Unlocks Polymer Electrolytes With Simultaneous Rapid Li + Conduction and High Solidification",
-      "authors": "Tianzhu Zhang, Song Duan, Bingsen Qin, Hongyao Wang, Sijie Liu, Tao Wang, Wei Yan, Jiujun Zhang, Yun Zheng",
-      "authorsCitation": "T. Zhang, S. Duan, B. Qin, H. Wang, S. Liu, T. Wang, W. Yan, J. Zhang, Y. Zheng",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-16",
-      "volume": "",
-      "issue": "",
-      "page": "e4583501",
-      "doi": "10.1002/anie.4583501",
-      "link": "https://doi.org/10.1002/anie.4583501",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：以功能化离子型共价有机框架作为“装甲”辅助原位聚合，在固定溶剂的同时构建分级低势垒Li+通道，以缓解导电性与固化程度的矛盾。\n性能：电解质在25 °C的离子电导率为7.6 × 10−4 S cm−1，Li+迁移数为0.66；Li∥LFP在1 C循环1500次后容量保持率92.2%，在2 C循环2200次后为83.8%。\n怎么解释：iCOF减弱Li+—聚合物相互作用并提供连续迁移环境，其氢键网络限制溶剂流动；摘要支持传输与固化同步改善，但缺少两种作用的独立定量。\n为什么重要：该设计把多孔离子骨架从被动填料转化为聚合和传输的结构模板，为安全准固态电解质的力学—输运解耦提供了可测试的思路。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Jiujun Zhang",
-        "Yun Zheng"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-07"
-    },
-    {
-      "title": "Toward Robust Anion‐Derived Interphases: A Novel Ternary‐Solvent Electrolyte for High‐Voltage Fast‐Charging Sodium Batteries",
-      "authors": "Qingyuan Yang, Qian Wang, Yongtian Li, Yong Ji, Dong Li, Qinghua Tian, Xinming Fan",
-      "authorsCitation": "Q. Yang, Q. Wang, Y. Li, Y. Ji, D. Li, Q. Tian, X. Fan",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-16",
-      "volume": "",
-      "issue": "",
-      "page": "e3464448",
-      "doi": "10.1002/anie.3464448",
-      "link": "https://doi.org/10.1002/anie.3464448",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以环丁砜、碳酸二甲酯和含氟磷腈三溶剂协同调节Na+溶剂化，使PF6−进入第一溶剂化壳层并构建阴离子衍生CEI。\n性能：NaNFM电池在2–4.1 V、3 C循环300次后容量保持率为85.72%，初始库仑效率92.03%，20 C容量为57.83 mAh g−1。\n怎么解释：环丁砜竞争配位Na+并抑制DMC氧化，PFPN主要作为游离共溶剂参与界面稳定；协同作用生成约7 nm、模量19.967 GPa的均匀无机富集CEI，降低开裂、金属溶解和产气。\n为什么重要：工作把高压稳定性与快充传输统一到溶剂—阴离子协同结构中，为钠电正极界面从“添加剂成膜”走向可设计溶剂化提供了依据。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Xinming Fan"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-07"
     }
   ],
   "source": "Crossref",
