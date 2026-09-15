@@ -33,10 +33,22 @@
       "page": "e5744163",
       "doi": "10.1002/anie.5744163",
       "link": "https://doi.org/10.1002/anie.5744163",
-      "abstract": "ABSTRACT Aqueous Zn‐ion batteries (AZIBs) hold great potential for cost‐effective and safe grid‐scale energy storage, yet their lifespan is limited by dendrite growth and side reactions arising from an unstable electrode/electrolyte interface. Although high‐concentration electrolytes can tune solvation structure and enhance Zn plating/stripping stability, they suffer from high cost and low practicality. Herein, we propose a localized supersaturated electrolyte interface (LSEI) concept via constructing a low Si/Al ratio ZSM‐5 zeolite (LZ5) interphase on the Zn surface. The abundant Brønsted acid sites inside the LZ5 nanochannels function as “ion tentacles” to spontaneously capture and confine Zn 2+ , dramatically raising the localized Zn 2+ concentration on the Zn surface even in a dilute ZnSO 4 electrolyte (1 M). This LSEI creates a H 2 O‐deficient and anion‐enriched Zn 2+ solvation structure at the LZ5 interface, which concurrently accelerates Zn 2+ desolvation and transport dynamics for dendrite‐free deposition and suppresses H 2 O‐induced side reactions. Consequently, the LZ5@Zn symmetric cells deliver a lifespan of over 2400 h and a high cumulative capacity exceeding 5.5 Ah cm −2 . The assembled LZ5@Zn//NH 4 V 4 O 10 full cells achieve 96% capacity retention over 1200 cycles at 3 A g −1 . Our findings highlight the potential of LSEI design for developing durable Zn anodes toward practical AZIBs.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：在锌表面构筑低硅铝比ZSM-5沸石界面层，利用纳米孔道内的Brønsted酸位点捕获并限域Zn2+，在1 M ZnSO4稀电解液中形成局部过饱和电解液界面（localized supersaturated electrolyte interface, LSEI），而不是提高整个电解液的盐浓度。\n性能：LZ5@Zn对称电池运行超过2400 h，累计容量超过5.5 Ah cm−2；LZ5@Zn||NH4V4O10全电池在3 A g−1下循环1200次后容量保持率为96%。出版社图文摘要还报告界面局部Zn2+浓度超过10 M。\n怎么解释：沸石孔道持续富集Zn2+，在界面形成缺水、富阴离子的溶剂化环境，从而促进Zn2+脱溶剂化与传输，并与均匀无枝晶沉积和水诱导副反应受抑相对应。现有摘要支持这些过程之间的关联，但不能据此把寿命提升完全归因于单一溶剂化效应。\n为什么重要：该设计用纳米限域在电极附近获得高浓度电解液效应，避免了整体高盐电解液的成本和实用性负担，为水系锌负极界面调控提供了局部浓度工程路线。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-15T23:05:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Hongman Sun",
+        "Yu Zhang",
+        "Bin Luo",
+        "Zifeng Yan"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-16"
     },
     {
       "title": "Pore Mouth Engineering: An Insulating Strategy to Dictate Interfacial Chemistry in Hard Carbon Anodes",
