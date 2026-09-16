@@ -94,7 +94,14 @@
       "summaryZh": "新在哪里：以铁取代调控尖晶石硫化铟负极的界面选择性催化，使电解液分解由醚溶剂主导转向PF6−阴离子优先反应，从反应路径层面设计固态电解质界面膜（solid–electrolyte interphase, SEI）。\n性能：Fe–In3S4负极的初始库仑效率约92.3%（0.5 A g−1），在10 A g−1下容量为457.2 mAh g−1；在5 A g−1下循环2000次，单圈容量衰减约0.011%。形成的NaF富集SEI厚度约8.0 nm。\n怎么解释：出版社摘要显示，Fe取代消除了不利的铟空位，促进PF6−中P–F键优先断裂并削弱醚分子的C–O键断裂，同时增强基底对NaF的亲和力，使NaF更快、更均匀沉积。由此形成的薄而均匀的SEI与较高首效、倍率和循环稳定性相对应；不过摘要证据不足以把全部性能提升唯一归因于某一条催化路径。\n为什么重要：这项工作把异元素取代从常规体相电子结构调节拓展到电解液分解选择性的控制，为通过电极表面催化而非仅靠电解液配方构筑稳定界面提供了路线。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-14T23:00:00Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Dong Yan",
+        "Shaozhuan Huang",
+        "Bao-Lian Su"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-17"
     },
     {
       "title": "Π‐Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High‐Voltage Ni‐Rich Cathodes",
