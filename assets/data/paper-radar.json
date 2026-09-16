@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:27:47Z",
+  "generatedAt": "2026-09-16T22:27:33Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -602,9 +602,9 @@
       "authorsCitation": "T. Wang, B. Chen, T. Liu, Z. Fang, Y. Liu, X. Jiang, D. Wang, T. Zhu, X. Liu",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-08-30",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "36",
+      "page": "38994",
       "doi": "10.1021/jacs.6c11263",
       "link": "https://doi.org/10.1021/jacs.6c11263",
       "abstract": "",
@@ -1350,72 +1350,6 @@
       ],
       "summaryZh": "新在哪里：把高镍NCM811储存衰减解析为电解液分解与界面Ni溶解相互关联的化学过程，并用DFT与机器学习势筛选界面成膜添加剂。\n性能：加入0.05 M LiBOB后，60 °C储存28天的容量保持率由82%提高到95.5%，且软包电池呈现一致趋势。\n怎么解释：分子描述符聚类筛出LiBOB等候选物；实验验证其稳定正极—电解液界面，并以弛豫时间分布分析追踪界面演变。现有结果支持添加剂与储存稳定性的联系，但不能仅凭摘要断定Ni溶解是唯一主因。\n为什么重要：工作把通常被循环测试掩盖的静置老化纳入界面设计，并提供可用于快速筛选CEI添加剂的数据驱动流程。",
       "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Revealing Excited-State Electrochemical Reaction Pathways at Solid Electrolyte Interphases by Ab Initio Nonadiabatic Molecular Dynamics",
-      "authors": "Zhan Shi, Linjie Chen, Zhi Li, Siqi Shi, Chuanyu Zhao, Oleg V. Prezhdo, Chenru Duan, Haojun Jia, Qijing Zheng, Jin Zhao",
-      "authorsCitation": "Z. Shi, L. Chen, Z. Li, S. Shi, C. Zhao, O. V. Prezhdo, C. Duan, H. Jia, Q. Zheng, J. Zhao",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-17",
-      "volume": "148",
-      "issue": "33",
-      "page": "36175",
-      "doi": "10.1021/jacs.6c12254",
-      "link": "https://doi.org/10.1021/jacs.6c12254",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：用第一性原理非绝热分子动力学（nonadiabatic molecular dynamics, NAMD）研究电子注入后飞秒至皮秒尺度的激发态界面反应，补充传统基态热力学框架。\n性能：模型显示，电子进入溶剂化Li+–EC复合物的不同电子态时会产生定性不同的分解路径；摘要未给出电池循环性能。\n怎么解释：电极电位改变可访问的电子态，局部溶剂化环境及相邻反应单元耦合进一步重塑非绝热能量景观，从而改变与SEI形成有关的产物通道。\n为什么重要：该工作提醒界面还原反应不一定由单一基态势能面决定，为解释电位依赖的SEI化学提供了一个非平衡微观框架，但仍需实验验证具体路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Enthalpy‐Entropy Molecular Design of Gel Polymer Electrolytes for Regulating Solvation Chemistry in Lithium–Sulfur Batteries",
-      "authors": "Zirui Guo, Zihui Song, Runyue Mao, Naiwen Hu, Chang Su, Shuo Zhuo, Xigao Jian, Fangyuan Hu",
-      "authorsCitation": "Z. Guo, Z. Song, R. Mao, N. Hu, C. Su, S. Zhuo, X. Jian, F. Hu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-17",
-      "volume": "",
-      "issue": "",
-      "page": "e7695165",
-      "doi": "10.1002/anie.7695165",
-      "link": "https://doi.org/10.1002/anie.7695165",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以焓—熵协同的分子设计同时调节Li+与多硫化物的溶剂化结构，把去溶剂化和Li2S成核纳入同一凝胶聚合物电解质设计。\n性能：室温离子电导率达到1.21 mS cm−1，Li+迁移数为0.82，Li∥Li稳定超过2250 h；Li–S电池在2 C循环1000次的单圈衰减为0.043%，1.8 Ah软包能量密度为403.7 Wh kg−1。\n怎么解释：受控配位降低Li+和多硫化物的去溶剂化焓，并限制可访问反应路径，因而促进更均匀的Li2S成核；摘要未给出熵贡献的独立实验量化。\n为什么重要：工作尝试把凝胶网络、溶剂化热力学与硫转化动力学连接起来，并以Ah级电芯检验，为Li–S凝胶电解质提供了超越单一电导率优化的设计框架。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Fangyuan Hu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-07"
-    },
-    {
-      "title": "Electronic conductivity of solid electrolytes causes physical self-discharge in all-solid-state batteries",
-      "authors": "Changhong Wang, Rong Xu, Yu Zhong, Han Su, Suzhe Liang, Haoqi Ren, Jung Tae Kim, Huan Huang, Bing Xiao, Longan Jiao, Jiangping Tu, Xueliang Sun",
-      "authorsCitation": "C. Wang, R. Xu, Y. Zhong, H. Su, S. Liang, H. Ren, J. T. Kim, H. Huang, B. Xiao, L. Jiao, J. Tu, X. Sun",
-      "journal": "Nature Energy",
-      "publicationDate": "2026-08-17",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1038/s41560-026-02090-x",
-      "link": "https://doi.org/10.1038/s41560-026-02090-x",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：指出无机固态电解质中通常被忽略的微弱电子电导会造成全固态电池的物理自放电，并建立电子电导率与电解质厚度的定量约束。\n性能：常见固态电解质电子电导率约为10−8–10−9 S cm−1；当厚度降至数十微米时会产生显著自放电，而将其抑制到可接受水平需约10−12 S cm−1，现有主流材料尚未达到。\n怎么解释：残余电子可穿过固态电解质形成内部泄漏通路；膜越薄，等效电子阻抗越低，因此提升离子电导同时减薄电解质可能反而放大自放电。\n为什么重要：工作把电子绝缘性提升为固态电解质的独立核心指标，说明高离子电导与薄膜化之外，还必须协同设计电子阻断和电池界面。",
-      "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
     }
