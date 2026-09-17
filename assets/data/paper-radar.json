@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T22:27:33Z",
+  "generatedAt": "2026-09-17T22:26:05Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,54 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
+      "authors": "Qianxiong Wen, Pandeng Zhao, Yun Gao, Hang Zhang, Lin Li, Zhuo Yang, Li Li, Huakun Liu, Shixue Dou, Shulei Chou, Xingqiao Wu",
+      "authorsCitation": "Q. Wen, P. Zhao, Y. Gao, H. Zhang, L. Li, Z. Yang, L. Li, H. Liu, S. Dou, S. Chou, X. Wu",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-17",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c10488",
+      "link": "https://doi.org/10.1021/jacs.6c10488",
+      "abstract": "Abstract The sodium storage structure–performance relationship of hard carbon anodes has long been regarded as an intrinsic material property and forms the basis for electrode design. This common view, however, does not hold with varying operating temperatures. At room temperature, optimally structured hard carbon with enhanced plateau capacity still exhibits poor rate performance due to kinetic limitations. In contrast, the same hard carbon delivers drastically improved high-rate capability at elevated temperatures from 36.89 mAh g–1 to 253.97 mAh g–1 at 1.0 A g–1, with the plateau capacity further increasing from 12.75 mAh g–1 to 203.42 mAh g–1, which cannot be explained by the conventional structure–performance relationship. Our mechanistic work shows that the accelerated ion/electron transport and a thin, inorganic-rich solid electrolyte interphase synergistically unlock pore-filling sodium storage, dominating the performance enhancement. These results go against the conventional steady view and establish a non-steady-state structure–performance relationship, where hard carbon’s sodium storage behavior is dynamically regulated by testing conditions. This concept is validated in Ah-level pouch cells (28.2% vs 85.0% high capacity retention at 0.75 A g–1) and commercial cylindrical cells (60.1% vs 84.5% at 6.0 A g–1), providing a new design guideline for sodium ion batteries under practical temperature-varying conditions.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Solid‐State‐Enabled Three‐Stage Delithiation Pathway of Li 5 FeO 4 for Silicon‐Based All‐Solid‐State Batteries",
+      "authors": "Tingting Liu, Shengjie Xia, Kaiyong Tuo, Jiamin Fu, Junwu Sang, Suze Liang, Zhimin Zhou, Mengfei Zhu, Mingfeng Wei, Ziqing Wang, Luting Xie, Hongrui Huang, Jian Peng, Qiaobao Zhang, Xueliang Sun, Changhong Wang",
+      "authorsCitation": "T. Liu, S. Xia, K. Tuo, J. Fu, J. Sang, S. Liang, Z. Zhou, M. Zhu, M. Wei, Z. Wang, L. Xie, H. Huang, J. Peng, Q. Zhang, X. Sun, C. Wang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-16",
+      "volume": "",
+      "issue": "",
+      "page": "e9668428",
+      "doi": "10.1002/anie.9668428",
+      "link": "https://doi.org/10.1002/anie.9668428",
+      "abstract": "ABSTRACT Li 5 FeO 4 is a prelithiation additive for compensating irreversible lithium loss in lithium‐ion batteries, yet its function and mechanism in all‐solid‐state batteries (ASSBs) remain largely unexplored. Here, we demonstrate that nanosized Li 5 FeO 4 serves as an effective cathode prelithiation additive in halide‐based ASSBs. Through mechanochemical milling, pristine micrometer‐sized Li 5 FeO 4 is reduced to approximately 500 nm, leading to a significant enhancement in delithiation capacity from 43.1 to 752.5 mAh g ‒1 . This enhancement arises from nanosizing‐induced local structural disorder and improved electronic conductivity. Mechanistic analyses reveal a unique three‐stage delithiation pathway in the all‐solid‐state reaction environment, involving low‐potential lattice oxygen oxidation, coupled oxygen/iron oxidation, and lattice oxygen oxidation accompanied by iron reduction. Guided by this mechanism, nanosized Li 5 FeO 4 replenishes lithium consumed by silicon anodes, enabling room‐temperature silicon‐based ASSBs with 70% capacity retention over 1000 cycles and stable operation from −10°C to 55°C. Moreover, a silicon‐based all‐solid‐state pouch cell delivers an energy density of 473.3 Wh kg ‒1 (calculated on electrode mass) and retains 86.1% capacity after 500 cycles under 24.5 MPa. This work reveals the distinct delithiation pathway of Li 5 FeO 4 in an all‐solid‐state reaction environment, thus providing mechanistic guidance for developing efficient prelithiation strategies for high‐energy‐density ASSBs.",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ]
+    },
+    {
+      "title": "Dynamic Interfacial Adsorption via a Thermoresponsive Biomass Interphase Enables Temperature‐Adaptive Zinc Anodes",
+      "authors": "Jin Yan, Ji Qian, Jiacheng Li, Xiaowei Lv, Haonan Chang, Yi Zhao, Yu Li, Renjie Chen, Li Li",
+      "authorsCitation": "J. Yan, J. Qian, J. Li, X. Lv, H. Chang, Y. Zhao, Y. Li, R. Chen, L. Li",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-16",
+      "volume": "",
+      "issue": "",
+      "page": "e6160556",
+      "doi": "10.1002/anie.6160556",
+      "link": "https://doi.org/10.1002/anie.6160556",
+      "abstract": "ABSTRACT Aqueous zinc batteries face temperature‐dependent interfacial challenges, whereas conventional artificial interphases rely on static passivation and therefore lose effectiveness under thermal perturbation. Here we report a thermoresponsive biomass interphase that enables temperature‐adaptive zinc anodes through dynamic interfacial adsorption. Constructed from gelatin and sulfonated cellulose nanocrystals, the interphase undergoes reversible gel‐quasi‐liquid transitions within the operating temperature window of aqueous zinc batteries. At room temperature, the hydrogen‐bonded network homogenizes Zn 2+ flux and spatially confines deposition, thereby suppressing dendrite growth and corrosion. At elevated temperature, the interphase switches to a dynamic adsorption mode, in which reconfigured polymer chains expose zincophilic groups that promote Zn(002)‐preferred deposition and inhibit hydrogen evolution and by‐product formation. This thermally triggered switching mechanism enables symmetric cells to achieve stable cycling over 2000 h at 30°C and 730 h at 60°C. At 30°C, full cells with a V 2 O 4 cathode retain 90.53% of their initial capacity after 2000 cycles at 10C. At 60°C, the I 2 ‐based full cell achieves 91.1% after 2500 cycles at 4C, and can even sustain 9600 cycles at 15C. Life‐cycle assessment further reveals reduced environmental impacts relative to conventional protective films. This work establishes a new interphase design paradigm offering a sustainable route toward high‐temperature‐stable batteries.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Stabilizing Zinc Anodes via a Zeolite‐Induced Localized Supersaturated Electrolyte Interface",
       "authors": "Xiaoqi Liu, Yipu Xu, Linjiao Wei, Hongman Sun, Zhengxing Qin, Xizhi Zhang, Dahai Zhang, Xianguo Li, Han Hu, Wei Xing, Yu Zhang, Bin Luo, Zifeng Yan",
@@ -1339,26 +1387,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-07"
-    },
-    {
-      "title": "Interfacial Chemistry of Storage-Induced Degradation in High-Nickel Cathodes",
-      "authors": "Jun Pan, Abdullah Bin Faheem, Bixian Zhong, Yifan Xu, Leonardo Cancellara, Pei Zhao, Evgeny Senokos, Okkyun Seo, Jian Yang, Dongshuang Wu, Haobo Li, Fuqiang Huang",
-      "authorsCitation": "J. Pan, A. B. Faheem, B. Zhong, Y. Xu, L. Cancellara, P. Zhao, E. Senokos, O. Seo, J. Yang, D. Wu, H. Li, F. Huang",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-18",
-      "volume": "148",
-      "issue": "34",
-      "page": "36620",
-      "doi": "10.1021/jacs.6c06113",
-      "link": "https://doi.org/10.1021/jacs.6c06113",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：把高镍NCM811储存衰减解析为电解液分解与界面Ni溶解相互关联的化学过程，并用DFT与机器学习势筛选界面成膜添加剂。\n性能：加入0.05 M LiBOB后，60 °C储存28天的容量保持率由82%提高到95.5%，且软包电池呈现一致趋势。\n怎么解释：分子描述符聚类筛出LiBOB等候选物；实验验证其稳定正极—电解液界面，并以弛豫时间分布分析追踪界面演变。现有结果支持添加剂与储存稳定性的联系，但不能仅凭摘要断定Ni溶解是唯一主因。\n为什么重要：工作把通常被循环测试掩盖的静置老化纳入界面设计，并提供可用于快速筛选CEI添加剂的数据驱动流程。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
