@@ -33,10 +33,14 @@
       "page": "",
       "doi": "10.1021/jacs.6c10488",
       "link": "https://doi.org/10.1021/jacs.6c10488",
-      "abstract": "Abstract The sodium storage structure–performance relationship of hard carbon anodes has long been regarded as an intrinsic material property and forms the basis for electrode design. This common view, however, does not hold with varying operating temperatures. At room temperature, optimally structured hard carbon with enhanced plateau capacity still exhibits poor rate performance due to kinetic limitations. In contrast, the same hard carbon delivers drastically improved high-rate capability at elevated temperatures from 36.89 mAh g–1 to 253.97 mAh g–1 at 1.0 A g–1, with the plateau capacity further increasing from 12.75 mAh g–1 to 203.42 mAh g–1, which cannot be explained by the conventional structure–performance relationship. Our mechanistic work shows that the accelerated ion/electron transport and a thin, inorganic-rich solid electrolyte interphase synergistically unlock pore-filling sodium storage, dominating the performance enhancement. These results go against the conventional steady view and establish a non-steady-state structure–performance relationship, where hard carbon’s sodium storage behavior is dynamically regulated by testing conditions. This concept is validated in Ah-level pouch cells (28.2% vs 85.0% high capacity retention at 0.75 A g–1) and commercial cylindrical cells (60.1% vs 84.5% at 6.0 A g–1), providing a new design guideline for sodium ion batteries under practical temperature-varying conditions.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：挑战硬碳结构—性能关系是固定材料属性的常见认识，提出其钠存储行为会随运行温度动态改变的非稳态结构—性能关系（non-steady-state structure–performance relationship）。\n性能：升温后，同一硬碳在1.0 A g⁻¹下容量由36.89提高至253.97 mAh g⁻¹，其中平台容量由12.75提高至203.42 mAh g⁻¹；Ah级软包与商业圆柱电池的高倍率容量保持率也分别由28.2%提高至85.0%、由60.1%提高至84.5%。\n怎么解释：摘要证据支持升温同时加快离子/电子传输，并形成较薄的无机富集固态电解质界面膜（solid electrolyte interphase, SEI），从而释放孔填充储钠容量；现有信息支持二者协同，但不足以定量区分各自贡献。\n为什么重要：工作说明硬碳结构优化不能脱离实际温度与倍率条件评价，为宽温、高倍率钠离子电池提供了动态而非静态的材料设计框架。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-17T23:05:39Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Solid‐State‐Enabled Three‐Stage Delithiation Pathway of Li 5 FeO 4 for Silicon‐Based All‐Solid‐State Batteries",
@@ -49,10 +53,14 @@
       "page": "e9668428",
       "doi": "10.1002/anie.9668428",
       "link": "https://doi.org/10.1002/anie.9668428",
-      "abstract": "ABSTRACT Li 5 FeO 4 is a prelithiation additive for compensating irreversible lithium loss in lithium‐ion batteries, yet its function and mechanism in all‐solid‐state batteries (ASSBs) remain largely unexplored. Here, we demonstrate that nanosized Li 5 FeO 4 serves as an effective cathode prelithiation additive in halide‐based ASSBs. Through mechanochemical milling, pristine micrometer‐sized Li 5 FeO 4 is reduced to approximately 500 nm, leading to a significant enhancement in delithiation capacity from 43.1 to 752.5 mAh g ‒1 . This enhancement arises from nanosizing‐induced local structural disorder and improved electronic conductivity. Mechanistic analyses reveal a unique three‐stage delithiation pathway in the all‐solid‐state reaction environment, involving low‐potential lattice oxygen oxidation, coupled oxygen/iron oxidation, and lattice oxygen oxidation accompanied by iron reduction. Guided by this mechanism, nanosized Li 5 FeO 4 replenishes lithium consumed by silicon anodes, enabling room‐temperature silicon‐based ASSBs with 70% capacity retention over 1000 cycles and stable operation from −10°C to 55°C. Moreover, a silicon‐based all‐solid‐state pouch cell delivers an energy density of 473.3 Wh kg ‒1 (calculated on electrode mass) and retains 86.1% capacity after 500 cycles under 24.5 MPa. This work reveals the distinct delithiation pathway of Li 5 FeO 4 in an all‐solid‐state reaction environment, thus providing mechanistic guidance for developing efficient prelithiation strategies for high‐energy‐density ASSBs.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries"
-      ]
+      ],
+      "summaryZh": "新在哪里：把Li₅FeO₄用作卤化物全固态电池的正极预锂化添加剂，并识别出固态反应环境中特有的三阶段脱锂路径（three-stage delithiation pathway）。\n性能：机械化学处理将颗粒减小至约500 nm，使脱锂容量由43.1提高至752.5 mAh g⁻¹；硅基全固态电池循环1000次后保持70%容量，并可在−10–55 °C运行。软包电池按电极质量计算的能量密度为473.3 Wh kg⁻¹，在24.5 MPa下循环500次后保持86.1%。\n怎么解释：纳米化引入局部结构无序并改善电子电导，依次触发低电位晶格氧氧化、氧/铁耦合氧化，以及伴随铁还原的晶格氧氧化；这些结果把容量释放与具体氧化还原阶段联系起来。\n为什么重要：工作不只把预锂化剂用于固态体系，还说明固态环境会改变其反应路径，为补偿硅负极不可逆锂损失提供了机制依据。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-17T23:05:39Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Dynamic Interfacial Adsorption via a Thermoresponsive Biomass Interphase Enables Temperature‐Adaptive Zinc Anodes",
@@ -65,10 +73,14 @@
       "page": "e6160556",
       "doi": "10.1002/anie.6160556",
       "link": "https://doi.org/10.1002/anie.6160556",
-      "abstract": "ABSTRACT Aqueous zinc batteries face temperature‐dependent interfacial challenges, whereas conventional artificial interphases rely on static passivation and therefore lose effectiveness under thermal perturbation. Here we report a thermoresponsive biomass interphase that enables temperature‐adaptive zinc anodes through dynamic interfacial adsorption. Constructed from gelatin and sulfonated cellulose nanocrystals, the interphase undergoes reversible gel‐quasi‐liquid transitions within the operating temperature window of aqueous zinc batteries. At room temperature, the hydrogen‐bonded network homogenizes Zn 2+ flux and spatially confines deposition, thereby suppressing dendrite growth and corrosion. At elevated temperature, the interphase switches to a dynamic adsorption mode, in which reconfigured polymer chains expose zincophilic groups that promote Zn(002)‐preferred deposition and inhibit hydrogen evolution and by‐product formation. This thermally triggered switching mechanism enables symmetric cells to achieve stable cycling over 2000 h at 30°C and 730 h at 60°C. At 30°C, full cells with a V 2 O 4 cathode retain 90.53% of their initial capacity after 2000 cycles at 10C. At 60°C, the I 2 ‐based full cell achieves 91.1% after 2500 cycles at 4C, and can even sustain 9600 cycles at 15C. Life‐cycle assessment further reveals reduced environmental impacts relative to conventional protective films. This work establishes a new interphase design paradigm offering a sustainable route toward high‐temperature‐stable batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：以明胶和磺化纤维素纳米晶构建可逆凝胶—准液体转变的热响应生物质界面层，使锌负极界面由静态钝化转向随温度切换的动态吸附（dynamic interfacial adsorption）。\n性能：Zn‖Zn对称电池在30 °C和60 °C分别稳定循环超过2000 h和730 h；30 °C下V₂O₄全电池以10C循环2000次后容量保持率为90.53%，60 °C下I₂全电池以4C循环2500次后保持91.1%，并可在15C下运行9600次。\n怎么解释：室温下氢键网络均化Zn²⁺通量并限制沉积空间；升温后聚合物链重构，暴露亲锌基团，促进Zn(002)择优沉积并抑制析氢和副产物。摘要结果支持温度触发的两种界面调控模式，但尚不足以分离各机制的定量贡献。\n为什么重要：该设计让人工界面主动适应温度变化，为兼顾室温与高温稳定性的水系锌电池提供了可持续材料路径。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-17T23:05:39Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Stabilizing Zinc Anodes via a Zeolite‐Induced Localized Supersaturated Electrolyte Interface",
