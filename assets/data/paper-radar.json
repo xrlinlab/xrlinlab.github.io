@@ -23,22 +23,6 @@
   ],
   "papers": [
     {
-      "title": "Interplay of Lattice Distortion and Cation Disorder Governs Li-Ion Transport in Cation-Disordered Rocksalt Cathodes",
-      "authors": "Zichang Zhang, Lihua Feng, Jiewei Cheng, Peng-Hu Du, Chu-Liang Fu, Xintao Long, Anchun Tang, Longlong Fan, Kang Dong, Haoyu Wu, Weihan Li, Jian Peng, Shuo Wang, Dingguo Xia, Xueliang Sun, Qiang Sun",
-      "authorsCitation": "Z. Zhang, L. Feng, J. Cheng, P.-H. Du, C.-L. Fu, X. Long, A. Tang, L. Fan, K. Dong, H. Wu, W. Li, J. Peng, S. Wang, D. Xia, X. Sun, Q. Sun",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-18",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c05378",
-      "link": "https://doi.org/10.1021/jacs.6c05378",
-      "abstract": "Abstract Cation-disordered solids provide a chemically complex landscape in which local environments, lattice responses, and configurational disorder collectively influence ion transport. In cation-disordered rocksalt cathodes, Li+ diffusion has traditionally been interpreted using the static 0-transition-metal (0-TM) percolation rule, which assumes an ideal lattice and often underestimates experimentally accessible capacities. Here, we show that lattice distortion constitutes an essential and previously overlooked chemical degree of freedom that actively reshapes the Li+ percolation networks in disordered oxides. By combining Monte Carlo sampling of cation configurations with molecular dynamics simulations accelerated by machine learning interatomic potentials, we develop a lattice-responsive framework that quantitatively predicts Li+ percolation and electrochemical capacities with deviations from experiment below 5%. Our results reveal a causal coupling between lattice distortion and cation short-range order: enhanced local distortions suppress ordering and activate Li+ migration through nominally inaccessible 1-transition-metal (1-TM) diffusion channels, thereby extending the percolation network beyond the conventional 0-TM paradigm. Guided by this insight, we design and synthesize a multication cation-disordered rocksalt cathode, Li1.2Mn0.2Ti0.2V0.2Mo0.2O2, which exhibits increased lattice distortion, an expanded Li+ percolation network, and a high reversible capacity consistent with theoretical predictions. These findings establish lattice distortion as an active chemical parameter governing ion transport in disordered solids and provide a general design principle for ion-conducting materials.",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ]
-    },
-    {
       "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
       "authors": "Qianxiong Wen, Pandeng Zhao, Yun Gao, Hang Zhang, Lin Li, Zhuo Yang, Li Li, Huakun Liu, Shixue Dou, Shulei Chou, Xingqiao Wu",
       "authorsCitation": "Q. Wen, P. Zhao, Y. Gao, H. Zhang, L. Li, Z. Yang, L. Li, H. Liu, S. Dou, S. Chou, X. Wu",
