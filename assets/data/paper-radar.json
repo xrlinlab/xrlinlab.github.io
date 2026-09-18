@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T22:26:05Z",
+  "generatedAt": "2026-09-18T22:26:58Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Interplay of Lattice Distortion and Cation Disorder Governs Li-Ion Transport in Cation-Disordered Rocksalt Cathodes",
+      "authors": "Zichang Zhang, Lihua Feng, Jiewei Cheng, Peng-Hu Du, Chu-Liang Fu, Xintao Long, Anchun Tang, Longlong Fan, Kang Dong, Haoyu Wu, Weihan Li, Jian Peng, Shuo Wang, Dingguo Xia, Xueliang Sun, Qiang Sun",
+      "authorsCitation": "Z. Zhang, L. Feng, J. Cheng, P.-H. Du, C.-L. Fu, X. Long, A. Tang, L. Fan, K. Dong, H. Wu, W. Li, J. Peng, S. Wang, D. Xia, X. Sun, Q. Sun",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-18",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c05378",
+      "link": "https://doi.org/10.1021/jacs.6c05378",
+      "abstract": "Abstract Cation-disordered solids provide a chemically complex landscape in which local environments, lattice responses, and configurational disorder collectively influence ion transport. In cation-disordered rocksalt cathodes, Li+ diffusion has traditionally been interpreted using the static 0-transition-metal (0-TM) percolation rule, which assumes an ideal lattice and often underestimates experimentally accessible capacities. Here, we show that lattice distortion constitutes an essential and previously overlooked chemical degree of freedom that actively reshapes the Li+ percolation networks in disordered oxides. By combining Monte Carlo sampling of cation configurations with molecular dynamics simulations accelerated by machine learning interatomic potentials, we develop a lattice-responsive framework that quantitatively predicts Li+ percolation and electrochemical capacities with deviations from experiment below 5%. Our results reveal a causal coupling between lattice distortion and cation short-range order: enhanced local distortions suppress ordering and activate Li+ migration through nominally inaccessible 1-transition-metal (1-TM) diffusion channels, thereby extending the percolation network beyond the conventional 0-TM paradigm. Guided by this insight, we design and synthesize a multication cation-disordered rocksalt cathode, Li1.2Mn0.2Ti0.2V0.2Mo0.2O2, which exhibits increased lattice distortion, an expanded Li+ percolation network, and a high reversible capacity consistent with theoretical predictions. These findings establish lattice distortion as an active chemical parameter governing ion transport in disordered solids and provide a general design principle for ion-conducting materials.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
       "authors": "Qianxiong Wen, Pandeng Zhao, Yun Gao, Hang Zhang, Lin Li, Zhuo Yang, Li Li, Huakun Liu, Shixue Dou, Shulei Chou, Xingqiao Wu",
@@ -1327,78 +1343,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Tailoring Energy Landscapes for Vehicular Transport in Single-Ion Conducting Organo-Ionic Solids",
-      "authors": "Carson O. Zellmann-Parrotta, Xiaoxu Ruan, J. David Bazak, Libby Katzman, Dong-Min Kim, Bryan D. McCloskey, Tod A. Pascal, Brett A. Helms",
-      "authorsCitation": "C. O. Zellmann-Parrotta, X. Ruan, J. D. Bazak, L. Katzman, D.-M. Kim, B. D. McCloskey, T. A. Pascal, B. A. Helms",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-19",
-      "volume": "148",
-      "issue": "34",
-      "page": "36696",
-      "doi": "10.1021/jacs.6c07483",
-      "link": "https://doi.org/10.1021/jacs.6c07483",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：利用甘醚配体把单离子有机离子固体中的接触离子对转化为可携带Na+迁移的络合物，从而引入可调能量景观下的载体式传输（vehicular transport）。\n性能：增加相对Na+的L型醚配体后，迁移活化能由117.2降至52.2 kJ mol−1；DME体系在60 °C达到0.28 mS cm−1，阳离子迁移数为0.84。\n怎么解释：分子动力学和23Na NMR表明甘醚减少静态接触离子对并形成可移动Na+物种；电泳NMR显示四聚阴离子迁移率很低，因此高电导并未以显著阴离子迁移为代价。\n为什么重要：该工作把载流子浓度、配体质量和离子对状态连接为可设计变量，为非聚合物单离子固体提高阳离子迁移率提供了机制清楚的路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Solvation Reconfiguration Enables Two‐Electron Iodine Chemistry Through Chloride Activation for High‐Energy Zn–Iodine Flow Batteries",
-      "authors": "Zhaoxin Li, Lingwen Liu, Jinhua Guo, Longjun Chang, Shuchang Liu, Zhenyu Jiang, Zhiyuan Xia, Xiumei Zhai, Qiang Fu, Yuanmiao Sun, Qing Li",
-      "authorsCitation": "Z. Li, L. Liu, J. Guo, L. Chang, S. Liu, Z. Jiang, Z. Xia, X. Zhai, Q. Fu, Y. Sun, Q. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-19",
-      "volume": "",
-      "issue": "",
-      "page": "e4798889",
-      "doi": "10.1002/anie.4798889",
-      "link": "https://doi.org/10.1002/anie.4798889",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：通过共溶剂重构Cl−微环境，提高氯离子活度并稳定I+物种，从而在水系Zn–I液流电池中启用I0/I+二电子反应。\n性能：电池稳定循环超过1000次、约1600 h，库仑效率达到99.9%，按正极电解液体积计算的放电能量密度为72.88 Wh L−1。\n怎么解释：高给体数、低氢键酸性的DMF削弱Zn2+–Cl−缔合并扰乱Cl−水合，使较低总体氯盐浓度下仍能形成稳定ICl2−；摘要据此将I+水解副反应的降低归因于氯离子活度提升。\n为什么重要：工作指出决定活性卤素稳定性的不是单纯Cl−浓度，而是其局部活度，为水系多电子卤素化学提供了更精确的溶剂化设计指标。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Yuanmiao Sun",
-        "Qing Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-07"
-    },
-    {
-      "title": "Implanted Zn 2+ ‐Conducting Hydrogel Interphase Enables Highly Compacted Thick Iodine Electrodes for Ah‐Level Aqueous Zinc–Iodine Pouch Batteries",
-      "authors": "Huadong Jiang, Chenxi Sun, Hong Lin, Minghao Zhang, Fanxiang Meng, Jinbao Zhao, Yang Yang",
-      "authorsCitation": "H. Jiang, C. Sun, H. Lin, M. Zhang, F. Meng, J. Zhao, Y. Yang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-19",
-      "volume": "",
-      "issue": "",
-      "page": "e6865881",
-      "doi": "10.1002/anie.6865881",
-      "link": "https://doi.org/10.1002/anie.6865881",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：在高压实、干法厚碘电极内部原位植入Zn2+导电水凝胶界面，使离子储库、跨厚度传输和多碘化物阻隔由同一聚合物网络承担。\n性能：在约0.5 g cm−3压实条件下，电池于0.5 C达到9.6 mAh cm−2面容量，并在5 C循环超过4400次；约1.2 Ah软包电池稳定循环850次。\n怎么解释：固定磺酸根配位Zn2+并缓解局部离子耗竭，连通水凝胶网络绕开PTFE疏水性和高曲折度造成的电解液渗透限制；负电且受控含水的界面同时排斥多碘化物。\n为什么重要：该工作直接面向厚电极的离子输运瓶颈，并以Ah级软包验证，说明界面聚合物可用于连接材料级选择性与电极级传质。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Jinbao Zhao",
-        "Yang Yang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-07"
     }
   ],
   "source": "Crossref",
