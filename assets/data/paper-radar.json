@@ -33,10 +33,14 @@
       "page": "e9043892",
       "doi": "10.1002/anie.9043892",
       "link": "https://doi.org/10.1002/anie.9043892",
-      "abstract": "ABSTRACT Sulfur redox in lithium–sulfur (Li–S) batteries is governed by a multistep liquid–solid conversion network involving soluble polysulfide intermediates and continuously evolving solid–liquid interfaces. Here we identify an electrochemically self‐driven interfacial anion‐transfer process at a CoPSe‐based catalytic interface that reshapes sulfur redox pathway. During discharge, selenium released from the catalyst surface becomes incorporated into sulfur intermediates, redirecting sulfur reduction toward Se‐containing species that facilitate bond cleavage, favor shorter‐chain intermediates, and accelerate Li 2 S formation. Meanwhile, partial selenium extraction generates Se‐deficient catalytic sites with enhanced polysulfide affinity, promoting intermediate anchoring and liquid‐to‐solid conversion. Through this coupled evolution of sulfur species and catalytic sites, the interface operates in an operando adaptive mode rather than merely accelerating conventional polysulfide conversion. The resulting Li–S cells deliver 703 mAh g– 1 at 5 C with a capacity decay of 0.016% per cycle over 1,000 cycles at 2 C. This work establishes interfacial anion transfer as a route to pathway‐level sulfur‐redox regulation and adaptive catalyst evolution as a design principle for multistep electrochemical reactions.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：不再把CoPSe界面仅视为加速多硫化物转化的静态催化剂，而是利用电化学自驱动的界面阴离子转移（interfacial anion transfer），同时改变硫中间体和催化位点。\n性能：锂—硫电池在5C下实现703 mAh g⁻¹，在2C下循环1000次的单圈容量衰减率为0.016%。\n怎么解释：放电时，界面释放的Se进入含硫中间体，促进键断裂、短链物种形成和Li₂S生成；同时产生的缺Se位点增强多硫化物吸附及液—固转化。摘要证据支持这一耦合演化，但尚不能分离Se转移与缺位催化的独立贡献。\n为什么重要：该工作把界面设计从“加快既有反应”推进到“改写反应路径”，为多步液—固转化体系提供了自适应界面催化思路。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-19T23:01:27Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
