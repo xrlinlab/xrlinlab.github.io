@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:26:58Z",
+  "generatedAt": "2026-09-19T22:26:24Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Electrochemically Self‐Driven Interfacial Selenium Transfer Reshapes Sulfur Redox Pathway in Lithium–Sulfur Batteries",
+      "authors": "Yutong Feng, Cunyi Peng, Shufen Tan, Jian Ma, Xiaoning Li, Tongtong Zhang, Lu Chen, Wei Xu, Ruijin Meng, Chi Zhang, Jinhu Yang",
+      "authorsCitation": "Y. Feng, C. Peng, S. Tan, J. Ma, X. Li, T. Zhang, L. Chen, W. Xu, R. Meng, C. Zhang, J. Yang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-19",
+      "volume": "",
+      "issue": "",
+      "page": "e9043892",
+      "doi": "10.1002/anie.9043892",
+      "link": "https://doi.org/10.1002/anie.9043892",
+      "abstract": "ABSTRACT Sulfur redox in lithium–sulfur (Li–S) batteries is governed by a multistep liquid–solid conversion network involving soluble polysulfide intermediates and continuously evolving solid–liquid interfaces. Here we identify an electrochemically self‐driven interfacial anion‐transfer process at a CoPSe‐based catalytic interface that reshapes sulfur redox pathway. During discharge, selenium released from the catalyst surface becomes incorporated into sulfur intermediates, redirecting sulfur reduction toward Se‐containing species that facilitate bond cleavage, favor shorter‐chain intermediates, and accelerate Li 2 S formation. Meanwhile, partial selenium extraction generates Se‐deficient catalytic sites with enhanced polysulfide affinity, promoting intermediate anchoring and liquid‐to‐solid conversion. Through this coupled evolution of sulfur species and catalytic sites, the interface operates in an operando adaptive mode rather than merely accelerating conventional polysulfide conversion. The resulting Li–S cells deliver 703 mAh g– 1 at 5 C with a capacity decay of 0.016% per cycle over 1,000 cycles at 2 C. This work establishes interfacial anion transfer as a route to pathway‐level sulfur‐redox regulation and adaptive catalyst evolution as a design principle for multistep electrochemical reactions.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
       "authors": "Qianxiong Wen, Pandeng Zhao, Yun Gao, Hang Zhang, Lin Li, Zhuo Yang, Li Li, Huakun Liu, Shixue Dou, Shulei Chou, Xingqiao Wu",
@@ -1238,92 +1254,6 @@
         "Fast charging and interfacial ion transport"
       ],
       "summaryZh": "新在哪里：以Li/F共掺杂羟基磷灰石纳米纤维构建连续三维Li+通路，并与主链含氟聚醚共同重构局部溶剂化，使体相传导和界面跳迁在同一复合电解质中耦合。\n性能：电化学稳定窗口扩展至3.0–5.7 V，Li∥NCM811电池在4.5–4.7 V、5 C下循环1000次；7 Ah Li∥LCO和10 Ah Li∥富锂锰基软包能量密度分别达到677和632 Wh kg−1。\n怎么解释：连续纳米纤维网络提供Li+亲和位点和迁移路径，其与含氟聚醚的亲锂性差异形成Li富集/贫化区域，促使阴离子进入局部溶剂化并形成富LiF、Li3N和B–O的无机界面。\n为什么重要：工作从离散填料转向连续“锂活性”骨架，并给出Ah级电芯证据，为兼顾高压、倍率与安全的复合聚合物电解质提供了更接近器件尺度的验证。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Understanding and suppressing gas evolution in lithium metal batteries with ether-based electrolytes",
-      "authors": "Samantha T. Hung, Yuchun Wang, Ziman Cai, Chongzhen Wang, Zirui Shao, Juanjuan Sun, Haoran Li, Jinding Liang, Lu Bai, Erxiao Wu, Ulderico Ulissi, Xiaolin Yan, Fangyun Chen, Falin Zhu, Junhao He, Xiaonan Luo, Na Liu, Hansen Wang, Chuying Ouyang",
-      "authorsCitation": "S. T. Hung, Y. Wang, Z. Cai, C. Wang, Z. Shao, J. Sun, H. Li, J. Liang, L. Bai, E. Wu, U. Ulissi, X. Yan, F. Chen, F. Zhu, J. He, X. Luo, N. Liu, H. Wang, C. Ouyang",
-      "journal": "Nature Chemistry",
-      "publicationDate": "2026-08-20",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1038/s41557-026-02219-1",
-      "link": "https://doi.org/10.1038/s41557-026-02219-1",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：在醚系锂金属软包电池中定量区分正、负极产气来源，并揭示部分气体会在两极之间继续反应，而不是把产气视为单向累积过程。\n性能：高浓度醚电解液经负极活化后，产气起始与电池失效均延后约一个数量级；文中未在摘要中给出统一的循环次数或能量密度指标。\n怎么解释：CO和CO2主要源于正极，随后可在锂负极被消耗并形成Li2CO3等含锂物种；CH4主要来自负极且存在明确起始点。负极活化改善沉积形貌并抑制界面副反应，从而推迟产气。\n为什么重要：该工作把醚系锂金属电池的安全失效与可测量的跨界面气体反应联系起来，说明操作形成过程也可成为抑制产气的变量，而不必先更换电解液配方。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Solvation‐Hierarchy Electrolyte for Balancing Kinetics and Stability in Sodium–Sulfur Batteries",
-      "authors": "Ao Zhong, Jiang Liang, Kangning Zhao, Qiang Yu, Lei Zhang, Feili Lai, Yong Wang, Johan Hofken, Bo Tang, Chao Yang",
-      "authorsCitation": "A. Zhong, J. Liang, K. Zhao, Q. Yu, L. Zhang, F. Lai, Y. Wang, J. Hofken, B. Tang, C. Yang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-20",
-      "volume": "",
-      "issue": "",
-      "page": "e9167252",
-      "doi": "10.1002/anie.9167252",
-      "link": "https://doi.org/10.1002/anie.9167252",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：提出“溶剂化层级”设计，用强、中、弱溶剂化能力建立可比较体系，在多硫化物限域与去溶剂化动力学之间寻找中间窗口。\n性能：以仲丁醚构建的电解液在1 C循环800次后单圈容量衰减为0.015%，并在6.8 mg cm−2硫载量、5.1 µL mg−1贫液及软包条件下保持稳定。\n怎么解释：仲丁醚的对称α-甲基位阻降低多硫化物进入溶剂环境的倾向，同时形成有利于降低去溶剂化势垒的亚稳态；摘要支持稳定性与动力学同时改善，但未给出二者的独立定量贡献。\n为什么重要：工作将“溶剂化强弱”从定性选择转化为层级比较，为金属—硫电池中穿梭抑制与反应速率的协同优化提供了分子筛选思路。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Solid Additive Engineering Breaks the Stability‐Conductivity Trade‐Off in Halide Electrolytes for Robust All‐Solid‐State Batteries",
-      "authors": "Haochang Zhang, Fiaz Hussain, Hailun Jin, Tiancai Ren, Zhepu Shi, Chunlei Zhao, Ying Li, Hongtao Li, Jiuwei Lei, Qi Guo, Jianhui Wang, Wen Tang, Shuaika Liang, Wen Yin, Zi‐Feng Ma, Yusheng Zhao, Xueliang Sun, Wei Xia",
-      "authorsCitation": "H. Zhang, F. Hussain, H. Jin, T. Ren, Z. Shi, C. Zhao, Y. Li, H. Li, J. Lei, Q. Guo, J. Wang, W. Tang, S. Liang, W. Yin, Z. Ma, Y. Zhao, X. Sun, W. Xia",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-20",
-      "volume": "",
-      "issue": "",
-      "page": "e6556933",
-      "doi": "10.1002/anie.6556933",
-      "link": "https://doi.org/10.1002/anie.6556933",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：把液态电解液的添加剂思路移植到卤化物固态电解质，通过少量氧化物纳米颗粒调节局部结构，而不是整体改变主体晶相。\n性能：改性固态电解质兼具较高离子电导率、氧化稳定性和耐湿性；全固态电池在1 C下稳定循环超过3300次，并在4.8 V仍保持可逆运行。\n怎么解释：部分添加剂参与界面重构，生成无序Li+配位环境；其余则作为稳定纳米域保留。前者有利于传输，后者提升化学与环境稳定性，但摘要未分离两类结构的定量贡献。\n为什么重要：该工作提供了一种低成本、可推广到多种卤化物体系的局部调控方式，用于缓解固态电解质长期存在的稳定性—电导率权衡。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Xueliang Sun",
-        "Wei Xia"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-07"
-    },
-    {
-      "title": "Self-Transformed MOF-on-MXene Heterostructure as an Ion-Expedited Interphase toward Low-Temperature Multivalent Metal Batteries",
-      "authors": "Shuang Cheng, Jian Wu, Jing Zhang, Qingbo Xiao, Yongzheng Zhang, Qinghua Guan, Bixian Chen, Huihua Li, Hongzhen Lin, Jian Wang",
-      "authorsCitation": "S. Cheng, J. Wu, J. Zhang, Q. Xiao, Y. Zhang, Q. Guan, B. Chen, H. Li, H. Lin, J. Wang",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-20",
-      "volume": "148",
-      "issue": "34",
-      "page": "37046",
-      "doi": "10.1021/jacs.6c10753",
-      "link": "https://doi.org/10.1021/jacs.6c10753",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：通过MXene部分自转化构建Ti-MOF/MXene异质界面，以电子离域和多孔极性位点共同促进多价离子去溶剂化，而非仅依赖表面亲锌性。\n性能：改性Zn对称电池在0和−20 °C实现约1000 h无枝晶循环；Al∥Al电池的稳定时间由100 h提高至220 h，并降低极化。\n怎么解释：异质界面削弱离子—偶极相互作用，促进Zn2+/Al3+去溶剂化与扩散；多孔结构和离域的–NH2位点还抑制溶剂化水活化，从而减少析氢。光谱与电化学结果支持这一关联，但未完全区分催化和传质效应。\n为什么重要：工作给出一个可跨Zn、Al体系检验的低温多价金属界面设计，说明电子结构调控可以直接参与去溶剂化动力学管理。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
       "summaryPromptVersion": 2
