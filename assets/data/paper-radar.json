@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:26:24Z",
+  "generatedAt": "2026-09-20T22:26:32Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -1240,27 +1240,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-07"
-    },
-    {
-      "title": "Nanofiber-Reinforced Composite Polymer Electrolyte Enables Continuous Lithium-Ion Transport and Anion-Rich Solvation Structure for 670 Wh kg–1 Lithium Batteries",
-      "authors": "Peiran Bian, Xingchen Song, Zhaozhong Wang, Jie Zhu, Yutong Ding, Jinping Zhang, Yuhu Li, Yansong Liu, Genglin Lou, Aihong Li, Chenxi Li, Yong Li, Hongtao Zhang, Yongsheng Chen",
-      "authorsCitation": "P. Bian, X. Song, Z. Wang, J. Zhu, Y. Ding, J. Zhang, Y. Li, Y. Liu, G. Lou, A. Li, C. Li, Y. Li, H. Zhang, Y. Chen",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-21",
-      "volume": "148",
-      "issue": "34",
-      "page": "37007",
-      "doi": "10.1021/jacs.6c09551",
-      "link": "https://doi.org/10.1021/jacs.6c09551",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以Li/F共掺杂羟基磷灰石纳米纤维构建连续三维Li+通路，并与主链含氟聚醚共同重构局部溶剂化，使体相传导和界面跳迁在同一复合电解质中耦合。\n性能：电化学稳定窗口扩展至3.0–5.7 V，Li∥NCM811电池在4.5–4.7 V、5 C下循环1000次；7 Ah Li∥LCO和10 Ah Li∥富锂锰基软包能量密度分别达到677和632 Wh kg−1。\n怎么解释：连续纳米纤维网络提供Li+亲和位点和迁移路径，其与含氟聚醚的亲锂性差异形成Li富集/贫化区域，促使阴离子进入局部溶剂化并形成富LiF、Li3N和B–O的无机界面。\n为什么重要：工作从离散填料转向连续“锂活性”骨架，并给出Ah级电芯证据，为兼顾高压、倍率与安全的复合聚合物电解质提供了更接近器件尺度的验证。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-06T00:06:25.546Z",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
