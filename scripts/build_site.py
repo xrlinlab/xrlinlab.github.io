@@ -439,7 +439,7 @@ def build_people(soup: BeautifulSoup):
         <h2>Dr. Xinrong Lin&nbsp;&nbsp; 林欣蓉博士</h2>
         <div class="leader-meta">
           Email: <a href="mailto:xrlin@sioc.ac.cn">xrlin@sioc.ac.cn</a><br>
-          研究员，博士生导师<br>
+          <a href="mailto:xinronglinlin@gmail.com">xinronglinlin@gmail.com</a><br>
           ORCID: <a href="https://orcid.org/0000-0003-1157-0175" target="_blank" rel="noopener">0000-0003-1157-0175</a>
         </div>
         <p>Xinrong is a Professor at Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences (CAS). She received her B.S. degree in chemistry from Wuhan University in 2008 (Thesis advisor: Prof. Aiwen Lei) and her Ph.D. degree in chemistry from Boston University in 2014 (Supervisor: Mark W. Grinstaff). Her Ph.D. training was also received from Massachusetts Institute of Technology from 2011 to 2013 (Supervisor: Yang Shao-Horn).</p>
