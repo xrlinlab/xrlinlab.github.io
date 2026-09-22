@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:27:04Z",
+  "generatedAt": "2026-09-22T23:20:00Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -33,11 +33,15 @@
       "page": "",
       "doi": "10.1021/jacs.6c11268",
       "link": "https://doi.org/10.1021/jacs.6c11268",
-      "abstract": "Abstract Polyether electrolytes are promising for lithium (Li) metal batteries yet suffer from insufficient Li+ conductivity, low oxidative thresholds, and unstable electrolyte–electrode interphases under high-voltage and fast-charging conditions. Herein, inspired by a natural sponge’s water absorption and release, we develop a unique “electronic sponge” (ES) strategy for bidirectional electron-transfer regulation. The ES withdraws electron density from ether oxygens to weaken Li+–oxygen coordination and stabilize lone-pair electrons while donating electrons to Li-salt anions to promote anion-derived decomposition toward robust LiF-rich solid electrolyte interphase (SEI)/cathode electrolyte interphase (CEI). This straightforward strategy synergistically improves Li+ transport, oxidative stability, and interphase stability. The resulting electrolyte achieves an ionic conductivity of 1.61 mS cm–1 at 25 °C, a Li+ transference number of 0.84, and an extended electrochemical stability window of 5.2 V. Li∥Li symmetric cells cycle stably for over 1000 h at 0.5 mA cm–2. Notably, Li∥LiNi0.8Co0.1Mn0.1O2 cells retain 82.5% capacity after 300 cycles at 4.6 V and sustain 500 cycles with ∼100% Coulombic efficiency and 82.6% capacity retention at 4.5 V and 5C. This work pioneers a universal electron regulation paradigm for designing advanced polyether electrolytes and stable interphases toward high-voltage, fast-charging quasi-solid-state batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：通过兼具受电子与给电子作用的“电子海绵”（electronic sponge）同时调弱聚醚氧对Li⁺的配位，并促进盐阴离子参与界面成膜，试图把体相传输、高压稳定性和界面化学放进同一个电子调控框架。\n性能：电解质在25 °C的离子电导率为1.61 mS cm⁻¹、Li⁺迁移数为0.84；Li‖Li在0.5 mA cm⁻²下循环超过1000 h。Li‖NCM811在4.6 V循环300次后容量保持率为82.5%，在4.5 V、5C循环500次后保持82.6%。\n怎么解释：电子海绵降低醚氧电子密度、削弱Li⁺–O配位，同时向盐阴离子供电子，促进形成富LiF的固态电解质界面/正极电解质界面（SEI/CEI）。摘要支持电子结构、传输和界面组成之间的关联，但尚不足以定量拆分三者对快充性能的独立贡献。\n为什么重要：工作提供了比单纯降低结晶度更集中的分子设计变量，即用电子效应同时调控聚合物配位与界面反应；其普适性仍需通过不同聚醚骨架验证。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-22T23:20:00Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Alkoxyethyl Acetate Electrolytes for High‐Voltage Lithium Metal Batteries",
@@ -50,10 +54,20 @@
       "page": "e2561729",
       "doi": "10.1002/anie.2561729",
       "link": "https://doi.org/10.1002/anie.2561729",
-      "abstract": "ABSTRACT High‐energy‐density lithium metal batteries (LMBs) require electrolytes that can simultaneously support stable lithium metal anodes and high‐voltage cathodes such as NMC811 operated up to 4.5 V. Here, a molecular engineering strategy is introduced in which a carbonyl group and a trifluoromethyl group are incorporated into a glycol‐ether‐type backbone to produce a fluorinated alkoxyethyl acetate solvent, 2‐(2,2,2‐trifluoroethoxy)ethyl acetate (TFE‐EA), used as the main solvent in LiFSI–TFE‐EA–FEC electrolytes. This design breaks the symmetric bidentate solvation typical of ether solvents, establishes carbonyl‐dominant solvation, and depresses the solvating ability and oxidation reactivity of the ethereal oxygen, as revealed by combined DFT, NMR, FTIR, Raman, and AIMD analyses. The resulting TFE‐EA‐based electrolyte exhibits enhanced oxidative stability, improved lithium plating/stripping efficiency, dense and uniform lithium deposition, and robust cathode–electrolyte interphases in Li||NMC811 cells cycled to 4.5 V, delivering markedly superior capacity retention and Coulombic efficiency compared with ethereal counterparts. Parallel studies on the non‐fluorinated alkoxyethyl acetate MEA and its ether analog EME confirm that ester introduction alone improves oxidative stability and cycling, while fluorination further amplifies these benefits. This work establishes alkoxyethyl acetates, exemplified by TFE‐EA, as a promising solvent platform for practical, high‐voltage LMB electrolytes.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries"
-      ]
+      ],
+      "summaryZh": "新在哪里：把醚骨架一端转化为羰基、另一端引入三氟甲基，构建烷氧乙基乙酸酯溶剂TFE-EA，以打破常规醚的对称双齿溶剂化（symmetric bidentate solvation），并分别调控羰基氧和醚氧的配位与氧化反应性。\n性能：在4.5 V的Li‖NMC811电池中，TFE-EA体系循环200次后容量保持率为73%，对应醚ETFE-EE为42%；前100次平均库仑效率分别为99.6%和99.2%。在2.7 mAh cm⁻²正极和50 μm锂箔条件下可稳定循环100次。\n怎么解释：羰基主导Li⁺配位并破坏醚类双齿配位，三氟甲基进一步降低醚氧的溶剂化能力和氧化反应性。非氟化酯/对应醚对照表明酯化本身已提升高压稳定性，氟化进一步放大效果；锂负极稳定仍明显依赖FEC成膜。\n为什么重要：这项工作给出了较干净的“酯化—氟化”逐级分子对照，可用于区分溶剂化重构与含氟界面化学；但尚不能据此认为可取消FEC。",
+      "summarySource": "publisher-fulltext",
+      "summaryGeneratedAt": "2026-09-22T23:20:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Chi-Cheung Su",
+        "Khalil Amine"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-23"
     },
     {
       "title": "Tailoring Local Anion Chemistry Affinity Enables Stable Halide–Sulfide Interfaces and Fast Ion Transport in Dual‐Electrolyte all‐Solid‐State Batteries",
@@ -66,11 +80,22 @@
       "page": "e5372994",
       "doi": "10.1002/anie.5372994",
       "link": "https://doi.org/10.1002/anie.5372994",
-      "abstract": "ABSTRACT All‐solid‐state batteries (ASSBs) employing halide/sulfide bilayer electrolytes offer a promising route toward high energy density by combining the high oxidative stability of halides with the superior reductive stability of sulfides. However, severe halide–sulfide interfacial incompatibility induces continuous interfacial degradation and undermines Li + transport. Unlike conventional interfacial engineering approaches that rely on coatings or artificial buffer layers, we report a local chemistry–driven intrinsic compatibility strategy that fundamentally stabilizes halide–sulfide interfaces. By sulfurizing amorphous halide electrolytes Li 2 O–TaCl 5 , the short‐range coordination chemistry and medium‐range topology are simultaneously reconstructed, in which sulfur‐rich local motifs become thermodynamically more resistant to further sulfur substitution, whereas sulfur‐containing medium‐range networks exhibit stronger binding with PS 4 units in Li 6 PS 5 Cl, thereby intrinsically stabilizing the halide–sulfide interface and suppressing interfacial decomposition. Simultaneously, the sulfurized framework exhibits enhanced structural heterogeneity and interconnected Li + migration pathways, achieving an ultrahigh ionic conductivity of 14.2 mS cm −1 . As a result, the assembled NCM89|8S‐LTOC|LPSC|Li‐In ASSBs exhibit outstanding electrochemical performance from −50°C to 100°C, including 131 mAh g −1 at −50°C, 2000‐cycle stability at 15 C, and high areal capacities up to 21.7 mAh cm −2 . This work highlights local anion chemistry regulation as an effective strategy for developing robust halide–sulfide ASSBs.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：不再用外加涂层隔开卤化物与硫化物，而是硫化非晶Li₂O–TaCl₅，同时重构短程配位和中程拓扑，使两类固态电解质在局部阴离子化学上内生兼容。\n性能：硫化后的卤化物离子电导率达到14.2 mS cm⁻¹；NCM89|8S-LTOC|LPSC|Li-In电池在−50 °C提供131 mAh g⁻¹，在15C循环2000次，并实现最高21.7 mAh cm⁻²的面容量。\n怎么解释：富硫局部基元降低继续硫取代的热力学驱动力，含硫中程网络则增强与LPSC中PS₄基元的结合；与此同时，结构异质性和连通Li⁺通道提高体相传输。摘要支持化学亲和性与传输同步改善，但界面稳定和高电导对器件性能的贡献尚未被独立量化。\n为什么重要：该工作把“界面缓冲层”问题转化为可调的局部配位—中程拓扑匹配问题。对聚合物体系可迁移的变量是界面两侧配位基元的化学亲和性及通道连通性，而不是照搬硫化处理。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-22T23:20:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jianwen Liang",
+        "Xueliang Sun",
+        "Xiaona Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-23"
     },
     {
       "title": "Electrochemically Self‐Driven Interfacial Selenium Transfer Reshapes Sulfur Redox Pathway in Lithium–Sulfur Batteries",
@@ -179,23 +204,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-16"
-    },
-    {
-      "title": "Bottlebrush Architecture Suppresses Crystallization to Enable Soft, Stretchable Solid-State Polymer Electrolyte for Lithium-Metal Batteries",
-      "authors": "Myoeum Kim, Shalin Patil, Baiqiang Huang, Robert Kuphal, Patryk Wąsik, Eliot Gann, Lutz Wiegart, Chengcheng Fang, Shiwang Cheng, Li-Heng Cai",
-      "authorsCitation": "M. Kim, S. Patil, B. Huang, R. Kuphal, P. Wąsik, E. Gann, L. Wiegart, C. Fang, S. Cheng, L.-H. Cai",
-      "journal": "Macromolecules",
-      "publicationDate": "2026-09-15",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/acs.macromol.6c01264",
-      "link": "https://doi.org/10.1021/acs.macromol.6c01264",
-      "abstract": "Abstract High-performance solid-state electrolytes are essential for safe, high-energy-density lithium batteries, yet achieving high ionic conductivity and mechanical resilience at room temperature remains challenging. Polyethylene glycol (PEG)-based electrolytes show promise but crystallize below ∼42 °C, which suppresses segmental dynamics and ion transport. Here, we show that bottlebrush architecture suppresses crystallization in high-molecular-weight PEG, enabling solvent-free polymer electrolytes that combine high conductivity, softness, and stretchability. Bottlebrush polymer electrolytes exhibit smooth temperature-dependent conductivity and achieve room-temperature conductivities more than two orders of magnitude higher than linear PEG systems. The Li+ transport number increases by nearly 20% relative to that of linear PEG–salt electrolytes. Covalently cross-linked bottlebrush networks retain ionic mobility while providing exceptional mechanical robustness, including stable conductivity under compression, extensibility up to 500% strain, and negligible hysteresis over hundreds of mechanical loading–unloading cycles. The bottlebrush PEG electrolyte supports stable lithium-metal battery operation in Li‖NMC811 cells and long-term (&gt;800 h), low-overpotential (100 mV) lithium plating–stripping in symmetric Li‖Li cells. Moreover, the bottlebrush PEG elastomer serves as both the electrolyte and separator in separator-free Li‖NMC811 cells and enables operation at both 333 and 298 K, while promoting dense, nondendritic lithium deposition and a stable solid electrolyte interphase. These results establish bottlebrush PEG as a versatile platform for deformable, high-performance, and stable solid polymer electrolytes.",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Lithium-metal and anode-free batteries"
-      ]
     },
     {
       "title": "Pore Mouth Engineering: An Insulating Strategy to Dictate Interfacial Chemistry in Hard Carbon Anodes",
@@ -1130,52 +1138,6 @@
         "Fast charging and interfacial ion transport"
       ],
       "summaryZh": "新在哪里：在锌表面构建富勒烯聚合物界面层，利用C₆₀较高电子亲和力限制界面电子分布，从电子结构层面调节锌沉积与水系副反应。\n性能：PC60/Zn对称电池稳定循环超过5500 h，半电池在5500次循环中库仑效率超过99.9%，PC60/Zn||ZnI₂全电池循环1000次后容量保持率超过96%。\n怎么解释：电子缺陷C₆₀笼与极性酯、胺基共同形成致密界面，并诱导负电性钝化层；原位差分电化学质谱（differential electrochemical mass spectrometry, DEMS）、X射线衍射、拉曼光谱和开尔文探针力显微镜（Kelvin probe force microscopy, KPFM）共同支持析氢、碱式硫酸锌生成和腐蚀受抑，同时Zn²⁺传输与表面电势更均匀。\n为什么重要：该工作把界面电子分布作为可调变量，尝试将锌氧化还原与析氢、腐蚀等副反应分离，为水系金属负极界面层设计增加了不同于机械阻隔和溶剂化调控的维度。",
-      "summarySource": "abstract",
-      "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
-    },
-    {
-      "title": "Steric‐Electronic Engineering of Ester Carbonyls Enables Thermodynamic‐Kinetic Regulation of Electron Transfer for High‐Voltage and High‐Rate Lithium Metal Batteries",
-      "authors": "Zhiwei Ni, Yuan Li, Huizi Zhang, Chenghui Zhang, Baojuan Xi, Shenglin Xiong, Jinkui Feng",
-      "authorsCitation": "Z. Ni, Y. Li, H. Zhang, C. Zhang, B. Xi, S. Xiong, J. Feng",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-24",
-      "volume": "",
-      "issue": "",
-      "page": "e5288915",
-      "doi": "10.1002/anie.5288915",
-      "link": "https://doi.org/10.1002/anie.5288915",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：通过酯羰基的位阻–电子协同调节，同时在热力学和动力学上限制电子转移，并改变溶剂化结构，使乙酸新戊酯类电解液的无序还原转化为受控界面成膜。\n性能：电解液支持−40至50 °C运行，并在4.6 V、10 C条件下驱动Li||NCM811电池；2.5 Ah软包电池在负正极容量比0.94、1.17 g Ah⁻¹贫液条件下达到432 Wh kg⁻¹。摘要称4.6 V循环300次容量衰减可忽略，但未给出数值。\n怎么解释：作者认为酯羰基周围的电子与空间环境降低其接受电子并发生非受控还原的倾向，同时重塑Li⁺溶剂化和界面分解路径。摘要未给出热力学势垒与电子转移速率的独立证据，二者的相对作用仍需正文确认。\n为什么重要：酯类溶剂成本和质量优势明显，但还原稳定性通常不足；该工作提供了从羰基局部结构出发改善锂金属兼容性的分子设计方向。",
-      "summarySource": "abstract",
-      "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2",
-      "correspondingAuthors": [
-        "Jinkui Feng"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-06"
-    },
-    {
-      "title": "Moderately Solvated Electrolyte Enabling Fast Charging of a Lithium-Ion Battery at Low Temperature",
-      "authors": "Ziwen Zha, Aoxuan Wang, Zhengfei Zhao, Zhenglin Hu, Fuqiang Huang, Jiayan Luo",
-      "authorsCitation": "Z. Zha, A. Wang, Z. Zhao, Z. Hu, F. Huang, J. Luo",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-24",
-      "volume": "148",
-      "issue": "34",
-      "page": "37298",
-      "doi": "10.1021/jacs.6c12417",
-      "link": "https://doi.org/10.1021/jacs.6c12417",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：提出适度溶剂化电解液，通过调节溶剂–Li⁺–阴离子相互作用，在低温体相离子输运与界面去溶剂化之间取得平衡，而非单向追求弱溶剂化。\n性能：石墨||LiCoO₂全电池在−20 °C、1 C循环1500次后容量保持率为82.8%；在−40 °C仍可按0.5 C可逆循环，1 Ah软包电池在−40 °C容量保持率超过90%。\n怎么解释：由亚硫酸二甲酯与丙酮组成的体系富含接触离子对（contact ion pairs, CIPs），既保留足够的液相离子传输，又降低界面去溶剂化能垒，从而缓解低温下两类动力学限制。摘要未给出各过程的定量贡献。\n为什么重要：结果说明低温快充的优化目标不是简单增强解离或减弱溶剂化，而是寻找体相与界面动力学的中间区间，为电解液配位强度设计提供了更可操作的判断框架。",
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
       "summaryPromptVersion": "performance-v2"
