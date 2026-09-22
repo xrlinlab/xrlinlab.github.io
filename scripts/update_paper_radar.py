@@ -7,6 +7,7 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
 
 OUTPUT = Path("assets/data/paper-radar.json")
 WINDOW_DAYS = 30
@@ -162,7 +163,9 @@ def matched_topics(item):
     return matched
 
 def main():
-    end = date.today()
+    # The site and scheduled task use Shanghai time.  Using the runner's UTC
+    # date keeps previous-day papers one day too long during the morning run.
+    end = datetime.now(ZoneInfo("Asia/Shanghai")).date()
     start = end - timedelta(days=WINDOW_DAYS - 1)
     existing = {}
     previous_payload = None

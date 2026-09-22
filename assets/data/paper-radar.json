@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:06:27Z",
+  "generatedAt": "2026-09-22T23:28:00Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -1141,39 +1141,6 @@
       "summarySource": "abstract",
       "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
       "summaryPromptVersion": "performance-v2"
-    },
-    {
-      "title": "Steric‐Electronic Engineering of Ester Carbonyls Enables Thermodynamic‐Kinetic Regulation of Electron Transfer for High‐Voltage and High‐Rate Lithium Metal Batteries",
-      "authors": "Zhiwei Ni, Yuan Li, Huizi Zhang, Chenghui Zhang, Baojuan Xi, Shenglin Xiong, Jinkui Feng",
-      "authorsCitation": "Z. Ni, Y. Li, H. Zhang, C. Zhang, B. Xi, S. Xiong, J. Feng",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-24",
-      "volume": "",
-      "issue": "",
-      "page": "e5288915",
-      "doi": "10.1002/anie.5288915",
-      "link": "https://doi.org/10.1002/anie.5288915",
-      "abstract": "ABSTRACT Ester‐based electrolytes, widely used in lithium‐ion batteries (LIBs), suffer from the intrinsically unstable carbonyl groups that trigger uncontrollable reductive decomposition, along with the narrow operating temperature window, limiting their application in high‐energy lithium metal batteries (LMBs). In this study, we establish a molecular‐level electron transfer regulation strategy toward ester carbonyls that simultaneously suppresses electron transfer thermodynamically and kinetically, while tailoring the solvation structure, thereby converting uncontrolled solvent decomposition into well‐defined interphase chemistry. This strategy ultimately yields a lightweight, wide‐temperature, and stable ethyl pivalate‐based electrolyte. The electrolyte supports stable operation from −40°C to 50°C and robust cycling in Li||NCM 811 cells at 4.6 V and 10 C. Commercially relevant Li||NCM 811 full cells further demonstrate exceptional durability at 4.6 V, with negligible capacity decay over 300 cycles. A 432 Wh kg −1 pouch cell (2.5 Ah) with a low negative/positive ratio of 0.94 and lean electrolyte (1.17 g Ah −1 ), stable cycling under high‐voltage (4.6 V) conditions. We believe the findings may extend to other ester‐based electrolytes and inform sodium/potassium/calcium/magnesium battery systems.",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ]
-    },
-    {
-      "title": "Moderately Solvated Electrolyte Enabling Fast Charging of a Lithium-Ion Battery at Low Temperature",
-      "authors": "Ziwen Zha, Aoxuan Wang, Zhengfei Zhao, Zhenglin Hu, Fuqiang Huang, Jiayan Luo",
-      "authorsCitation": "Z. Zha, A. Wang, Z. Zhao, Z. Hu, F. Huang, J. Luo",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-24",
-      "volume": "148",
-      "issue": "34",
-      "page": "37298",
-      "doi": "10.1021/jacs.6c12417",
-      "link": "https://doi.org/10.1021/jacs.6c12417",
-      "abstract": "Abstract Lithium-ion batteries operating under low-temperature conditions suffer from sluggish ion transport and hindered interfacial desolvation, which limit fast-charging capability and cycling stability. Herein, a moderate solvation strategy is adopted, which enables a rational balance between bulk ionic transport and interfacial kinetics through tuning solvent–Li+–anion interactions. Notably, the as-designed moderately solvated electrolyte (MSE), employing dimethyl sulfite (DMS) and dimethyl ketone (DMK), is enriched with contact ion pairs (CIPs), which simultaneously preserves sufficient ion transport and reduced interfacial desolvation barrier, leading to well-balanced electrochemical kinetics with remarkably fast charging performance under low temperature. Graphite||LiCoO2 full cells achieved 82.8% capacity retention after 1500 cycles at 1 C rate at −20 °C, and even at −40 °C, reversible cycling can still be achieved at a record-breaking rate of 0.5 C. The 1 Ah pouch cells can also achieve over 90% capacity retention at −40 °C. This work reveals how the evolution of electrolyte solvation structures intrinsically governs electrochemical performance and provides new insights into electrolyte design principles for advanced low-temperature energy storage systems.",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ]
     }
   ],
   "source": "Crossref",
