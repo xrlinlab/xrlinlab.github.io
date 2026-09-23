@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:28:00Z",
+  "generatedAt": "2026-09-23T22:27:04Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,22 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Tandem Interphase Design Achieves Two‐Year Cycling of Aqueous Zinc Metal Batteries Under Extreme Conditions",
+      "authors": "Kun Xu, Ruxia Han, Wei Gao, Zhengchunyu Zhang, Jinkui Feng, Baojuan Xi, Shenglin Xiong",
+      "authorsCitation": "K. Xu, R. Han, W. Gao, Z. Zhang, J. Feng, B. Xi, S. Xiong",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-23",
+      "volume": "",
+      "issue": "",
+      "page": "e4098089",
+      "doi": "10.1002/anie.4098089",
+      "link": "https://doi.org/10.1002/anie.4098089",
+      "abstract": "ABSTRACT The development of aqueous zinc metal batteries (AZMBs) is impeded by their limited lifespan, especially at extreme conditions (high current, low temperature etc.), primarily because the solid electrolyte interphase (SEI) on Zn anode cannot simultaneously balance the solvation/desolvation kinetics and deposition/stripping stability of Zn 2 + . The inherent incompatibility of the two properties stems from the inability of the SEI to simultaneously achieve hydrophilic‐zincophobicity for rapid desolvation and hydrophobic‐zincophilicity for stable deposition, which are inherently contradictory characteristics. Herein, we present a tandem structure SEI possessing outer‐hydrophilicity/inner‐zincophilicity (OHIZ) for Zn anode. Carboxylated carbon nanotubes (CCNT) and metallic tin (Sn) are screened as the outer/inner SEI (CCNT‐Sn/Zn) via systematic screening framework. This tandem‐structured SEI achieves a balance between the desolvation kinetics and deposition stability of Zn 2 + even at extreme current (100 mA cm − 2 ) and temperature (–30°C∼‐86°C). Moreover, the inner Sn undergoes a spontaneous phase transformation from β to α‐phase at low temperature, leading to boosted ion transport kinetics. Correspondingly, the CCNT‐Sn/Zn symmetric cells achieve remarkable stability more than two years at –30°C. The 1.3 Ah CCNT‐Sn/Zn||LiMn 2 O 4 pouch cells exhibit 94% capacity retention after 100 cycles. Our strategy provides valuable insight into the advancement of AZMBs.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "“Electronic Sponge” Strategy Enables Polyether Electrolytes for High-Voltage and Fast-Charging Quasi-Solid-State Batteries",
       "authors": "Lifen Zhang, Song Duan, Bingsen Qin, Zongtao Lu, Hongyao Wang, Peng Wang, Zhenghao Li, Zhiyang Yu, Wei Yan, Jiujun Zhang, Yun Zheng",
@@ -324,9 +340,9 @@
       "authorsCitation": "Y. Wang, X.-C. Zhou, J. Sun, Y.-H. Gu, T. Shen, Z. Tie, S. Yuan, J.-L. Zuo, Z. Jin",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-11",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "37",
+      "page": "39946",
       "doi": "10.1021/jacs.6c11237",
       "link": "https://doi.org/10.1021/jacs.6c11237",
       "abstract": "",
@@ -417,9 +433,9 @@
       "authorsCitation": "J. Wu, S. Guo, Y. Liu, Q. Qu, S. Liang, G. Fang",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-08",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "37",
+      "page": "40470",
       "doi": "10.1021/jacs.6c15211",
       "link": "https://doi.org/10.1021/jacs.6c15211",
       "abstract": "",
@@ -437,9 +453,9 @@
       "authorsCitation": "D. J. Lee, S. S. Behara, S. Kim, J. Thomas, J. Lee, J. Zhou, F. Li, Y. Jeon, H. Ahn, D. Xu, Q. Yin, J. Wu, N. Kim, R. Ereno, G. Kim, S.-H. Han, J. B. Lee, K. Nomura, A. Van der Ven, Z. Chen",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-08",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "37",
+      "page": "40053",
       "doi": "10.1021/jacs.6c11667",
       "link": "https://doi.org/10.1021/jacs.6c11667",
       "abstract": "",
@@ -518,9 +534,9 @@
       "authorsCitation": "R. Qiu, X. Zhang, H. Gong, J. Huang, J. Lai, K. Ding, L. Ma, Y. Cai, Q. Zheng",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-07",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "37",
+      "page": "40382",
       "doi": "10.1021/jacs.6c14457",
       "link": "https://doi.org/10.1021/jacs.6c14457",
       "abstract": "",
@@ -1069,78 +1085,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-06"
-    },
-    {
-      "title": "Descriptor‐Guided Dynamic Solvation‐Shell Reconstruction Enables PEO‐Based Polymer Electrolytes With 10.9 mS cm −1 Ionic Conductivity",
-      "authors": "Yutong Zhai, Botian Zheng, Ning Wang, Pingbo Xu, Tianzong Ma, Tong Wu, Lina Cong, Haiming Xie, Yulong Liu",
-      "authorsCitation": "Y. Zhai, B. Zheng, N. Wang, P. Xu, T. Ma, T. Wu, L. Cong, H. Xie, Y. Liu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-25",
-      "volume": "",
-      "issue": "",
-      "page": "e3211208",
-      "doi": "10.1002/anie.3211208",
-      "link": "https://doi.org/10.1002/anie.3211208",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：采用描述符引导的动态溶剂化壳层重构，在聚氧化乙烯（poly(ethylene oxide), PEO）准固态电解质中引入兼具竞争性Li⁺亲和力和快速局部扩散的腈类增塑剂。\n性能：优化电解质室温离子电导率达到10.9 mS cm⁻¹，较原始PEO提高近三个数量级；摘要仅说明Li||NCM811电池可稳定快充和低温运行，未提供对应倍率、温度与循环数据。\n怎么解释：腈配体进入第一溶剂化壳层，削弱持续的Li⁺–醚氧配位，使迁移由聚合物笼限跳跃转向配体交换辅助传输；同时改变界面分解路径，抑制高电压下PEO氧化并形成更致密的CEI。\n为什么重要：工作将体相离子输运与高电压界面稳定性放在同一溶剂化结构变量下讨论，为PEO体系中电导率与界面稳定性同步改善提供了可量化的分子筛选思路。",
-      "summarySource": "abstract",
-      "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2",
-      "correspondingAuthors": [
-        "Haiming Xie",
-        "Yulong Liu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-06"
-    },
-    {
-      "title": "Adaptive Solvation Evolution by Molecular Design Enables High‐Performance Wide‐Temperature Lithium‐Ion Batteries",
-      "authors": "Tianhao Lan, Yun Ji, Xin Fang, Yihui Liu, Haipeng You, Long Chen, Chunzhong Li",
-      "authorsCitation": "T. Lan, Y. Ji, X. Fang, Y. Liu, H. You, L. Chen, C. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-25",
-      "volume": "",
-      "issue": "",
-      "page": "e2577060",
-      "doi": "10.1002/anie.2577060",
-      "link": "https://doi.org/10.1002/anie.2577060",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：通过α-甲基取代溶剂产生局部位阻屏蔽，调节溶剂–Li⁺–阴离子配位随温度的变化，构建温度自适应溶剂化结构。\n性能：1 Ah LFP||石墨软包电池在25 °C、2 C循环2000次后保持87.4%容量，并在−60 °C输出0.47 Ah；1 Ah NMC811||石墨软包电池在25 °C、1 C循环4000次后保持83.2%，在−80 °C输出0.49 Ah，并可在100 °C运行。\n怎么解释：作者将宽温性能归因于α-甲基位阻对配位强度的动态调节，使低温离子传输与高温稳定性得到兼顾。摘要没有列出不同温度下溶剂化结构的直接表征，因此具体温度响应机制仍需正文证据确认。\n为什么重要：相比为单一低温或高温条件优化固定溶剂化结构，该策略关注配位关系随温度的演化，并在商业尺寸软包电池中检验，具有更明确的宽温应用相关性。",
-      "summarySource": "abstract",
-      "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2",
-      "correspondingAuthors": [
-        "Long Chen",
-        "Chunzhong Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-06"
-    },
-    {
-      "title": "A Fullerene-Based Interphase Confines Interfacial Electrons for Long-Lived Zinc Metal Anodes in Aqueous Electrolytes",
-      "authors": "Baoshan Wu, Wei Tang, Tingkuo Zhang, Mingwei An, Ziyang Hao, Zuochang Chen, Hanrui Tian, Nan Zhao, Jianbiao Fan, Peng Du, Yang Wang, Panfeng Zhao, Xiaobin Niu",
-      "authorsCitation": "B. Wu, W. Tang, T. Zhang, M. An, Z. Hao, Z. Chen, H. Tian, N. Zhao, J. Fan, P. Du, Y. Wang, P. Zhao, X. Niu",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-08-25",
-      "volume": "148",
-      "issue": "35",
-      "page": "38291",
-      "doi": "10.1021/jacs.6c11153",
-      "link": "https://doi.org/10.1021/jacs.6c11153",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：在锌表面构建富勒烯聚合物界面层，利用C₆₀较高电子亲和力限制界面电子分布，从电子结构层面调节锌沉积与水系副反应。\n性能：PC60/Zn对称电池稳定循环超过5500 h，半电池在5500次循环中库仑效率超过99.9%，PC60/Zn||ZnI₂全电池循环1000次后容量保持率超过96%。\n怎么解释：电子缺陷C₆₀笼与极性酯、胺基共同形成致密界面，并诱导负电性钝化层；原位差分电化学质谱（differential electrochemical mass spectrometry, DEMS）、X射线衍射、拉曼光谱和开尔文探针力显微镜（Kelvin probe force microscopy, KPFM）共同支持析氢、碱式硫酸锌生成和腐蚀受抑，同时Zn²⁺传输与表面电势更均匀。\n为什么重要：该工作把界面电子分布作为可调变量，尝试将锌氧化还原与析氢、腐蚀等副反应分离，为水系金属负极界面层设计增加了不同于机械阻隔和溶剂化调控的维度。",
-      "summarySource": "abstract",
-      "summaryGeneratedAt": "2026-09-05T05:38:21.937Z",
-      "summaryPromptVersion": "performance-v2"
     }
   ],
   "source": "Crossref",
