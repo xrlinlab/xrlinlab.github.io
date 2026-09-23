@@ -33,10 +33,19 @@
       "page": "e4098089",
       "doi": "10.1002/anie.4098089",
       "link": "https://doi.org/10.1002/anie.4098089",
-      "abstract": "ABSTRACT The development of aqueous zinc metal batteries (AZMBs) is impeded by their limited lifespan, especially at extreme conditions (high current, low temperature etc.), primarily because the solid electrolyte interphase (SEI) on Zn anode cannot simultaneously balance the solvation/desolvation kinetics and deposition/stripping stability of Zn 2 + . The inherent incompatibility of the two properties stems from the inability of the SEI to simultaneously achieve hydrophilic‐zincophobicity for rapid desolvation and hydrophobic‐zincophilicity for stable deposition, which are inherently contradictory characteristics. Herein, we present a tandem structure SEI possessing outer‐hydrophilicity/inner‐zincophilicity (OHIZ) for Zn anode. Carboxylated carbon nanotubes (CCNT) and metallic tin (Sn) are screened as the outer/inner SEI (CCNT‐Sn/Zn) via systematic screening framework. This tandem‐structured SEI achieves a balance between the desolvation kinetics and deposition stability of Zn 2 + even at extreme current (100 mA cm − 2 ) and temperature (–30°C∼‐86°C). Moreover, the inner Sn undergoes a spontaneous phase transformation from β to α‐phase at low temperature, leading to boosted ion transport kinetics. Correspondingly, the CCNT‐Sn/Zn symmetric cells achieve remarkable stability more than two years at –30°C. The 1.3 Ah CCNT‐Sn/Zn||LiMn 2 O 4 pouch cells exhibit 94% capacity retention after 100 cycles. Our strategy provides valuable insight into the advancement of AZMBs.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：针对单一界面层难以同时满足快速脱溶剂化与稳定锌沉积的矛盾，构建外层亲水、内层亲锌的串联界面（outer-hydrophilic/inner-zincophilic tandem interphase, OHIZ），分别承担Zn²⁺传输与沉积调控。\n性能：CCNT-Sn/Zn对称电池在−30 °C下稳定运行超过两年，并可在100 mA cm⁻²及最低−86 °C条件下工作；1.3 Ah CCNT-Sn/Zn‖LiMn₂O₄软包电池循环100次后容量保持率为94%。\n怎么解释：外层羧化碳纳米管促进润湿和Zn²⁺脱溶剂化，内层Sn提供亲锌沉积位点；低温下Sn由β相自发转变为α相，并与更快的离子传输相对应。现有证据支持分层功能协同，但摘要不足以定量拆分两层对超长寿命的独立贡献。\n为什么重要：该工作把界面层内部的空间功能分工设为设计变量，说明相互矛盾的传输与沉积需求不必由同一种表面化学同时满足；这一串联界面思路可迁移到其他金属负极体系。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-23T23:20:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Shenglin Xiong"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-24"
     },
     {
       "title": "“Electronic Sponge” Strategy Enables Polyether Electrolytes for High-Voltage and Fast-Charging Quasi-Solid-State Batteries",
