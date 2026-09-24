@@ -48,22 +48,6 @@
       "correspondingAuthorVerifiedAt": "2026-09-24"
     },
     {
-      "title": "Insights into the Degradation Mechanism of Aqueous LiMn 2 O 4 –Cathode Interfaces by Computational Vibrational Spectroscopy",
-      "authors": "K. Nikolas Lausch, Redouan El Haouari, Philipp Schienbein, Jörg Behler",
-      "authorsCitation": "K. N. Lausch, R. El Haouari, P. Schienbein, J. Behler",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-23",
-      "volume": "",
-      "issue": "",
-      "page": "e3712910",
-      "doi": "10.1002/anie.3712910",
-      "link": "https://doi.org/10.1002/anie.3712910",
-      "abstract": "ABSTRACT (LMO) is a versatile and earth‐abundant Li intercalation compound of high interest for sustainable energy storage and conversion. Yet, its broader adoption as a cathode in Li‐ion batteries or as a water‐splitting electrocatalyst is hindered by severe degradation reactions at the solid–electrolyte interface. This instability is rooted in its mixed‐valence / electronic structure, which is governed by the Li content. Still, the atomistic link between the lithiation state and interfacial degradation remains elusive. Here, we investigate aqueous LMO interfaces across varying lithiation states by atomistic simulations using an ab initio‐quality machine learning potential. We demonstrate that the local Li content determines surface Mn oxidation states and reveal their decisive role in interfacial acid–base chemistry. By analyzing the vibrational features of interfacial species, we identify the O–H stretching band as a sensitive spectroscopic probe of the surface electronic structure. Distinct, oxidation‐state‐dependent shifts reveal a fundamental vulnerability of the mixed‐valence spinel surface: the coexistence of Lewis‐acidic centers and oxygen sites neighboring , which are susceptible to electrophilic attack. These findings provide a compelling atomistic rationale extending the conventional ‐centric view of acid‐promoted Mn dissolution toward a dual‐site mechanism driven by LMO's mixed‐valent nature.",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ]
-    },
-    {
       "title": "Fast‐Charging All‐Solid‐State Lithium Selenium–Tellurium Batteries Enabled by Se–Te Alloy Cathode",
       "authors": "Shufeng Song, Zhixu Long, Chengtao Xiang, Weihua Liang, Wei Xue, Hongyang Shan, Nur Chamidah, Kentaro Yamamoto, Masashi Kotobuki, Chaohe Xu, Guangsheng Huang, Ning Hu",
       "authorsCitation": "S. Song, Z. Long, C. Xiang, W. Liang, W. Xue, H. Shan, N. Chamidah, K. Yamamoto, M. Kotobuki, C. Xu, G. Huang, N. Hu",
@@ -74,10 +58,14 @@
       "page": "e9950898",
       "doi": "10.1002/anie.9950898",
       "link": "https://doi.org/10.1002/anie.9950898",
-      "abstract": "ABSTRACT All‐solid‐state batteries (ASSBs) are considered as a promising pathway toward high energy density and improved safety. However, achieving fast charging capability in energy‐dense ASSBs remains a major challenge, primarily due to sluggish ion transport within solids and poor interfacial compatibility between electrodes and solid electrolytes. These limitations result in inadequate rate capability, low reversible capacity, and shortened cycle life. Here, we report a predominantly amorphous selenium (Se)–tellurium (Te) alloy (a‐Se 0.8 Te 0.2 ) cathode that enables fast‐charging all‐solid‐state lithium Se–Te batteries (ASSLSTBs). Unlike conventional crystalline or single‐chalcogen cathodes, this amorphous alloy exhibits synergistic redox activity, triggering a synergistic redox reaction with the argyrodite Li 5.4 PS 4.4 Cl 1.6 electrolyte during mechanical milling. The reaction generates a surface‐enriched Li 2 TeS 3 /LiCl layer and bulk intermixing Li 2 Se species, which facilitates Li + transport and enhances redox kinetics. The resulting ASSLSTBs deliver high specific capacity of 971.2 mAh g −1 at 0.1C, exceptional fast‐charging rate of 5C (7.7 mA cm −2 ), and stable cycling over 2200 cycles at 2.5 mg cm −2 loading. Even at an ultrahigh loading of 9.68 mg cm −2 , areal capacity of 3.03 mAh cm −2 is maintained after 200 cycles at 0.5C. This work shows rationally designed amorphous alloy cathodes can overcome kinetic limits of solid‐state conversion reactions, offering a promising strategy for fast‐charging.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：采用以非晶态为主的Se₀.₈Te₀.₂合金正极，并利用机械球磨时合金与硫银锗矿Li₅.₄PS₄.₄Cl₁.₆之间的协同氧化还原，原位形成表面富集的Li₂TeS₃/LiCl层和体相混合的Li₂Se物种，以预构筑反应界面而非单纯提高固态电解质电导率。\n性能：电池在0.1C下提供971.2 mAh g⁻¹容量，在5C（7.7 mA cm⁻²）下实现快充，并在2.5 mg cm⁻²负载下循环超过2200次；当负载提高至9.68 mg cm⁻²时，在0.5C循环200次后仍保持3.03 mAh cm⁻²面容量。\n怎么解释：非晶Se–Te降低固态转化反应的结构重排约束，球磨诱导生成的Li₂TeS₃/LiCl界面层和Li₂Se混合相则与更快的Li⁺传输及氧化还原动力学相对应。摘要支持这些物种与性能的关联，但尚不足以定量拆分非晶结构和预反应界面的独立贡献。\n为什么重要：该工作把固态转化型正极的界面预反应和非晶合金化设为可控变量，为绕开固–固反应迟缓提供了路线；其适用性仍需在更高面容量和有限锂条件下检验。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-24T23:20:00Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "“Electronic Sponge” Strategy Enables Polyether Electrolytes for High-Voltage and Fast-Charging Quasi-Solid-State Batteries",
