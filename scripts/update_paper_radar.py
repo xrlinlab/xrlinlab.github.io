@@ -39,6 +39,7 @@ EXCLUDED_DOIS = {
     "10.1002/anie.1544949",  # aluminum-metal battery
     "10.1021/jacs.6c05378",  # bulk Li-ion transport in a disordered cathode
     "10.1021/acs.macromol.6c01264",  # bottlebrush suppresses crystallization: established polymer-electrolyte logic
+    "10.1002/anie.3712910",  # aqueous LMO cathode degradation; outside configured fast-charge/ion-transport scope
 }
 
 def clean(value):
