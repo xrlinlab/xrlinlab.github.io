@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:28:14Z",
+  "generatedAt": "2026-09-26T02:46:17Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Unlocking cycle life of lithium metal batteries",
+      "authors": "Zheng Li, Chang-Xin Zhao, Yuchen Niu, Dejian Dong, Tengrui Wang, Yue Li, Nan Zhang, Yawei Chen, Pei Li, Weiran Zhang, Joseph Burke Roschella, Xilin Chen, Fu Chen, Yijie Liu, Ai-Min Li, Chunsheng Wang",
+      "authorsCitation": "Z. Li, C.-X. Zhao, Y. Niu, D. Dong, T. Wang, Y. Li, N. Zhang, Y. Chen, P. Li, W. Zhang, J. B. Roschella, X. Chen, F. Chen, Y. Liu, A.-M. Li, C. Wang",
+      "journal": "Science",
+      "publicationDate": "2026-09-24",
+      "volume": "393",
+      "issue": "6818",
+      "page": "eaee1630",
+      "doi": "10.1126/science.aee1630",
+      "link": "https://doi.org/10.1126/science.aee1630",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：这项工作指出，锂金属电池中常用的锂沉积/剥离库仑效率（lithium Coulombic efficiency, Li CE）并不是可靠的循环寿命判据；即使 Li CE 更高，电池仍可能因电解液被持续消耗而提前失效。性能：研究面向超贫液、高能量密度锂金属电池，建立了固态电解质界面膜（solid electrolyte interphase, SEI）质量、电解液消耗和循环寿命之间的定量关系，用于比单独依赖 Li CE 更准确地预测寿命。怎么解释：不稳定 SEI 会持续消耗电解液并最终导致干涸；与此同时，负极生成的可溶性阴离子物种迁移到正极并被氧化，从电解质盐中释放 Li⁺，形成负极—正极串扰（anode-to-cathode cross-talk）驱动的锂补偿。该补偿会暂时掩盖活性锂损失，使 Li CE 与真实寿命脱钩。为什么重要：工作把设计目标从追求单一的高 Li CE，推进到同时约束 SEI 质量、电解液寿命和跨电极物种迁移，为超贫液锂金属电池提出了可量化的寿命判据与电解液设计边界。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-26T02:45:00Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Tandem Interphase Design Achieves Two‐Year Cycling of Aqueous Zinc Metal Batteries Under Extreme Conditions",
       "authors": "Kun Xu, Ruxia Han, Wei Gao, Zhengchunyu Zhang, Jinkui Feng, Baojuan Xi, Shenglin Xiong",
