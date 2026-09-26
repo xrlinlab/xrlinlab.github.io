@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T02:46:17Z",
+  "generatedAt": "2026-09-26T22:27:41Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,54 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Synthesis of Ladder and Flexible Polysulfonimides Directly From Anionic Monomers: Investigating Structure–Property Convergence in Succinonitrile–Polymer Electrolyte Blends",
+      "authors": "Abraham Herzog‐Arbeitman, Pablo Leon, Benedikt S. Schreib, KyuJung Jun, Jurgis Ruza, Vanesa Munoz Perales, Yang Shao‐Horn, Rafael Gomez‐Bombarelli, Jeremiah A. Johnson",
+      "authorsCitation": "A. Herzog‐Arbeitman, P. Leon, B. S. Schreib, K. Jun, J. Ruza, V. M. Perales, Y. Shao‐Horn, R. Gomez‐Bombarelli, J. A. Johnson",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-26",
+      "volume": "",
+      "issue": "",
+      "page": "e8257644",
+      "doi": "10.1002/anie.8257644",
+      "link": "https://doi.org/10.1002/anie.8257644",
+      "abstract": "ABSTRACT Insights into how permanent microporosity influences ion transport in polymer electrolytes could facilitate the design of next‐generation single‐ion conducting (SIC) materials. Intrinsically microporous polymers and conventional polymers are typically regarded as fundamentally distinct electrolyte platforms; direct comparisons between compositionally similar examples are lacking. Here, we introduce a strategy for the synthesis of fluorinated aryl sulfonimide‐based polymers of intrinsic microporosity (FAS‐PIMs) together with flexible polysulfonimide analogs of similar composition that lack permanent microporosity. Although these polymers possess fundamentally different dry‐state architectures, incorporation of a common pore‐filling transport medium, succinonitrile (SN), drives the two systems toward remarkably similar nanostructures with similar bulk conductivities (>10 −5 –10 −4 S/cm at 40°C–80°C), thermomechanical properties ( G ʹ within 1–10 MPa over the temperature range of 25°C–120°C), and reprocessability. Molecular dynamics simulations and experiments suggest these unusual combinations of properties arise through different conduction mechanisms within the materials, and that sulfonimide anions are particularly advantageous for conduction in microporous matrices relative to strongly binding anions. Overall, this work introduces the first sulfonimide‐based PIM, establishes a comparison between permanently microporous and transiently porous single‐ion conducting polymers, and demonstrates that these two traditionally distinct electrolyte architectures can converge toward similar, useful bulk properties after incorporation of a pore‐filling transport medium.",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ]
+    },
+    {
+      "title": "Hofmeister‐Regulated Amide‐Protonated Hydrogel Enables Organo‐Interhalogen Conversion‐Type Quasi‐Solid‐State Zn Batteries With Practical Iodine Loadings",
+      "authors": "Fubin Zheng, Zhiheng Shi, Ziyuan He, Chuanping Lei, Yuzhuo Tan, Jinyan Li, Jiayuan Wang, Yue Wei, Jianping Yan, Minghui Ye, Wencheng Du, Yufei Zhang, Zhipeng Wen, Xiaoqing Liu, Qi Yang, Yongchao Tang, Cheng Chao Li",
+      "authorsCitation": "F. Zheng, Z. Shi, Z. He, C. Lei, Y. Tan, J. Li, J. Wang, Y. Wei, J. Yan, M. Ye, W. Du, Y. Zhang, Z. Wen, X. Liu, Q. Yang, Y. Tang, C. C. Li",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-26",
+      "volume": "",
+      "issue": "",
+      "page": "e5159694",
+      "doi": "10.1002/anie.5159694",
+      "link": "https://doi.org/10.1002/anie.5159694",
+      "abstract": "ABSTRACT Organo‐interhalogen‐mediated four‐electron iodine conversion (I − /I 0 /I + ) promises high‐energy Zn batteries (4eZIBs) in noncorrosive aqueous electrolytes. Yet, polyiodide shuttling and I + hydrolysis restrict shorten cycle life at high iodine loadings. Here we report a dual‐anionic Hofmeister‐regulated amide‐protonated polyacrylamide (pPAM) hydrogel electrolyte to solve this issue. Consistent with experimental observations, underlying mechanistic interpretations are proposed. The potential protonated site ─COHNH 2 + in pPAM can interact with iodine species (I 3 − , I 2 , and organo‐interhalogen adduct), effectively suppressing active material loss during cycling. The dual‐anion‐regulated Hofmeister effect may contribute to control molecular mediator (2‐bromoacetamide, BrAce) flux within the pPAM gel, enabling fast organo‐interhalogen conversion. The extensive hydrogen‐bonding network of the hydrogel reshapes the hydrogen‐bonding environment of water, suppressing organo‐interhalogen adduct (I + species) hydrolysis. The resulting quasi‐solid‐state 4eZIBs substantially outperform aqueous counterparts and state‐of‐the‐art results. At 15.6 mg cm −2 iodine loading, stable cycling exceeds 2000 cycles at 15 mA cm −2 . At 28.3 mg cm −2 , the battery delivers an areal capacity of 9.95 mAh cm −2 and an areal energy density of 10.85 mWh cm −2 . An Ah‐level pouch cell cycles 50 times at 0.5 mA cm −2 , with an energy density of 305.27 Wh kg iodine −1 . This work provides a hydrogel design principle for organo‐interhalogen‐mediated conversion, advancing practical high‐loading 4eZIBs and beyond.",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ]
+    },
+    {
+      "title": "Chemical-Delithiation-Induced Surface Reconstruction in Layered Oxide Cathodes for High-Performance All-Solid-State Batteries",
+      "authors": "Yijun Song, Jie Liu, Tianwei Cui, Shiqi Wang, Min Zhang, Yue Zhou, Jintao Liu, Mingxue Tang, Biao Li",
+      "authorsCitation": "Y. Song, J. Liu, T. Cui, S. Wang, M. Zhang, Y. Zhou, J. Liu, M. Tang, B. Li",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-26",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c11457",
+      "link": "https://doi.org/10.1021/jacs.6c11457",
+      "abstract": "Abstract Developing all-solid-state batteries (ASSBs) based on high-capacity cathodes (e.g., Ni-rich and Li-rich layered oxides) offers a promising route toward next-generation batteries with high energy density and safety. However, under high voltage, the cathode/solid electrolyte (SE) interface suffers from severe chemical degradation due to enhanced cathode–catholyte interactions. Here, we propose a chemical-delithiation-induced surface reconstruction strategy for Li-rich layered oxide cathodes, as a proof of concept, to effectively eliminate cathode-catholyte interfacial chemical degradation in ASSBs. We found that chemical-delithiation treatment by NO2BF4 induces a surface reconstruction of Li-rich layered oxide, forming a cation-disordered subsurface layer, which can then incorporate fluorine alike disordered rock-salt cathodes. Such surface reconstruction passivates the oxidative surface of Li-rich cathode in which oxygen redox is prevalent at high potential, thus eliminating the interfacial chemical degradation during cycling. As a result, the treated Li-rich layered cathode achieved a reversible capacity of ∼300.3 mA h g–1 that is comparable to liquid cells and a capacity retention of 82.3% over 1500 cycles at 1 C. By extending this strategy to Ni-rich layered oxides, we further demonstrate its universality in interfacial chemical design for high-energy-density ASSBs.",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ]
+    },
     {
       "title": "Unlocking cycle life of lithium metal batteries",
       "authors": "Zheng Li, Chang-Xin Zhao, Yuchen Niu, Dejian Dong, Tengrui Wang, Yue Li, Nan Zhang, Yawei Chen, Pei Li, Weiran Zhang, Joseph Burke Roschella, Xilin Chen, Fu Chen, Yijie Liu, Ai-Min Li, Chunsheng Wang",
