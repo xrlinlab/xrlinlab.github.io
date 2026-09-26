@@ -98,7 +98,11 @@ def first_page(item):
 
 def fetch_issn(issn, start, end):
     params = {
-        "filter": f"from-online-pub-date:{start},until-online-pub-date:{end},issn:{issn},type:journal-article",
+        # Science and some other publishers deposit newly released articles
+        # with published/issued or published-print, but no published-online
+        # field. Filtering only on the online date silently drops them before
+        # the topic matcher can run.
+        "filter": f"from-pub-date:{start},until-pub-date:{end},issn:{issn},type:journal-article",
         "rows": "1000",
         "select": "DOI,title,author,container-title,published-online,published-print,published,issued,URL,abstract,ISSN,volume,issue,page,article-number",
         "mailto": "xinronglinlin@gmail.com",
