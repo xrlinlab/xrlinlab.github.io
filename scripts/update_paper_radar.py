@@ -56,11 +56,29 @@ def date_parts(item, key):
     except (TypeError, ValueError):
         return None
 
+def partial_date_parts(item, key):
+    parts = ((item.get(key) or {}).get("date-parts") or [[]])[0]
+    try:
+        return tuple(int(part) for part in parts)
+    except (TypeError, ValueError):
+        return ()
+
 def publication_date(item):
     for key in ("published-online", "published-print", "published", "issued"):
         value = date_parts(item, key)
         if value:
             return value
+    # Cell Press frequently deposits only YYYY-MM for the publication date.
+    # Use Crossref's exact registration date only when it falls in that same
+    # publication month; this recovers newly posted Joule/Chem papers without
+    # making older online articles look new merely because a later issue was
+    # assigned to them.
+    incomplete = next((partial_date_parts(item, key) for key in
+                       ("published-online", "published-print", "published", "issued")
+                       if len(partial_date_parts(item, key)) == 2), ())
+    created = date_parts(item, "created")
+    if incomplete and created and incomplete == (created.year, created.month):
+        return created
     return None
 
 def authors(item):
@@ -104,7 +122,7 @@ def fetch_issn(issn, start, end):
         # the topic matcher can run.
         "filter": f"from-pub-date:{start},until-pub-date:{end},issn:{issn},type:journal-article",
         "rows": "1000",
-        "select": "DOI,title,author,container-title,published-online,published-print,published,issued,URL,abstract,ISSN,volume,issue,page,article-number",
+        "select": "DOI,title,author,container-title,published-online,published-print,published,issued,created,URL,abstract,ISSN,volume,issue,page,article-number",
         "mailto": "xinronglinlin@gmail.com",
     }
     url = "https://api.crossref.org/works?" + urlencode(params)
@@ -122,13 +140,14 @@ def matched_topics(item):
 
     matched = []
     storage_context = bool(re.search(
-        r"batter|anode|cathode|solid electrolyte interphase|lithium[- ]rich layered oxide",
+        r"batter|anode|cathode|solid electrolyte interphase|lithium[- ]rich layered oxide|"
+        r"(?:lithium.{0,30}dendrite|dendrite.{0,30}lithium)",
         title_text,
     ))
     ion_material = bool(re.search(
         r"ion[ -]conducting (?:polymer|organo[ -]ionic solid)|single[ -]ion conduct|"
         r"polymer electrolyte|gel polymer electrolyte|composite polymer electrolyte",
-        title_text,
+        corpus,
     ))
     ion_function = bool(re.search(
         r"ionic conductivity|ion transport|proton conduction|cation conduction|"
@@ -142,15 +161,20 @@ def matched_topics(item):
         r"all[ -]solid[ -]state.{0,25}batter|solid[ -]state.{0,25}batter|"
         r"(?:composite|polymer|ceramic|halide|sulfide(?:[ -]chloride)?) solid electrolyte|"
         r"nasicon electrolyte",
-        title_text,
+        corpus,
     )) and not bool(re.search(r"solid electrolyte interphase", title_text))
     if solid_state:
         matched.append(TOPICS[1])
 
-    lithium_metal = storage_context and bool(re.search(
-        r"lithium[ -]metal|li metal|anode[ -]free lithium",
+    lithium_metal = bool(re.search(
+        r"lithium[ -]metal|\bli metal\b|anode[ -]free lithium|"
+        r"lithium.{0,20}failure|li plating/stripping|"
+        r"lithium[ -](?:sulfur|disulfur dichloride) batter",
         title_text,
-    ))
+    )) or (storage_context and bool(re.search(
+        r"lithium[ -]metal|\bli metal\b|anode[ -]free lithium",
+        corpus,
+    )))
     if lithium_metal:
         matched.append(TOPICS[2])
 
