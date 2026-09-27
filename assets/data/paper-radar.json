@@ -58,10 +58,19 @@
       "page": "e6529709",
       "doi": "10.1002/anie.6529709",
       "link": "https://doi.org/10.1002/anie.6529709",
-      "abstract": "ABSTRACT Understanding cathode/electrolyte interfacial reactions is critical for improving the stability of high‐voltage Li‐ion batteries; however, the molecular mechanisms governing cathode/electrolyte interphase (CEI) formation remain poorly understood due to the buried and dynamically evolving nature of the interface. Here, we develop an operando attenuated total reflectance far‐ultraviolet (ATR‐FUV) spectroscopic method to directly probe cathode/electrolyte interfacial chemistry during electrochemical cycling. With the aid of principal component analysis, we isolate a voltage‐dependent interfacial spectral component that emerges at ∼3.9 V, well below the onset potential of electrochemical electrolyte oxidation. Supported by quantum chemical calculations, this component is assigned to dehydrogenated ethylene carbonate (de‐H EC) and vinylene carbonate (VC), revealing a chemically driven proton‐abstraction pathway induced by reactive surface oxygen species generated upon Li + deintercalation. This process recurs upon charging, demonstrating a voltage‐driven yet chemically initiated interfacial reaction distinct from direct electrochemical oxidation. These findings establish operando ATR‐FUV spectroscopy as a powerful tool for resolving transient cathode interfacial chemistry and provide new molecular‐level insights into CEI formation relevant to the design of next‐generation high‐voltage Li‐ion batteries.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：开发原位衰减全反射远紫外光谱（operando attenuated total reflectance far-ultraviolet spectroscopy, operando ATR-FUV），直接追踪充放电过程中被埋藏且持续演化的正极/电解液界面化学，并借助主成分分析分离电压依赖的瞬态光谱组分。\n性能：该组分约在3.9 V出现，明显低于电解液发生直接电化学氧化的起始电位；其在充电过程中重复生成，说明该方法能够捕捉常规终态表征容易遗漏的早期界面反应。\n怎么解释：结合量子化学计算，作者将该组分归属于脱氢碳酸乙烯酯（dehydrogenated ethylene carbonate, de-H EC）和碳酸亚乙烯酯（vinylene carbonate, VC），并提出Li⁺脱嵌产生的活性表面氧物种触发质子抽取，因此反应虽受电压驱动，却属于化学起始路径，而非溶剂达到氧化电位后的直接电子转移。\n为什么重要：工作把正极电解质界面（cathode-electrolyte interphase, CEI）的形成起点从“电解液氧化电位”前移到“脱锂诱导的表面化学活化”，同时提供了可直接检测该过程的测量手段，为高电压电解液与正极表面协同设计提出了更严格的判据。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-09-28T07:35:00+08:00",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Chikashi Ota"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-09-28"
     },
     {
       "title": "Hofmeister‐Regulated Amide‐Protonated Hydrogel Enables Organo‐Interhalogen Conversion‐Type Quasi‐Solid‐State Zn Batteries With Practical Iodine Loadings",
