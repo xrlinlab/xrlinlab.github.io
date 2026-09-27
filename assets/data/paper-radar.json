@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T23:03:37Z",
+  "generatedAt": "2026-09-27T22:28:24Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -37,8 +37,8 @@
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
       ],
-      "summarySource": "publisher-fulltext",
       "summaryZh": "新在哪里：直接由含氟芳基磺酰亚胺离子单体合成永久微孔梯形聚合物及组成相近的柔性聚合物，以琥珀腈作为相同孔填充传输介质，比较永久微孔与溶胀诱导瞬态孔隙对单离子传导的影响。\n性能：两类复合电解质在40–80 °C的体相电导率均达到10⁻⁵–10⁻⁴ S cm⁻¹，25–120 °C储能模量为1–10 MPa，并保持可再加工性。\n怎么解释：加入琥珀腈后，两类起始结构收敛到相似的纳米结构和宏观性能，但机制不同：刚性微孔骨架提高主要由琥珀腈配位的Li⁺比例及孔中心扩散贡献，柔性骨架则更依赖增塑和链段运动。\n为什么重要：这项工作以组成相近的成对对照表明，永久微孔并不必然带来独特的宏观性能；加工后凝聚态结构可能比干态骨架类别更直接决定最终输运。",
+      "summarySource": "publisher-fulltext",
       "summaryGeneratedAt": "2026-09-27T07:20:00+08:00",
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
@@ -46,6 +46,22 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-27"
+    },
+    {
+      "title": "Operando Attenuated Total Reflectance Far‐Ultraviolet Spectroscopic Analysis at the Cathode/Electrolyte Interface",
+      "authors": "Chikashi Ota, Hirotetsu Suzuki, Toshihiro Higuchi, Ichiro Tanabe",
+      "authorsCitation": "C. Ota, H. Suzuki, T. Higuchi, I. Tanabe",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-26",
+      "volume": "",
+      "issue": "",
+      "page": "e6529709",
+      "doi": "10.1002/anie.6529709",
+      "link": "https://doi.org/10.1002/anie.6529709",
+      "abstract": "ABSTRACT Understanding cathode/electrolyte interfacial reactions is critical for improving the stability of high‐voltage Li‐ion batteries; however, the molecular mechanisms governing cathode/electrolyte interphase (CEI) formation remain poorly understood due to the buried and dynamically evolving nature of the interface. Here, we develop an operando attenuated total reflectance far‐ultraviolet (ATR‐FUV) spectroscopic method to directly probe cathode/electrolyte interfacial chemistry during electrochemical cycling. With the aid of principal component analysis, we isolate a voltage‐dependent interfacial spectral component that emerges at ∼3.9 V, well below the onset potential of electrochemical electrolyte oxidation. Supported by quantum chemical calculations, this component is assigned to dehydrogenated ethylene carbonate (de‐H EC) and vinylene carbonate (VC), revealing a chemically driven proton‐abstraction pathway induced by reactive surface oxygen species generated upon Li + deintercalation. This process recurs upon charging, demonstrating a voltage‐driven yet chemically initiated interfacial reaction distinct from direct electrochemical oxidation. These findings establish operando ATR‐FUV spectroscopy as a powerful tool for resolving transient cathode interfacial chemistry and provide new molecular‐level insights into CEI formation relevant to the design of next‐generation high‐voltage Li‐ion batteries.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
     },
     {
       "title": "Hofmeister‐Regulated Amide‐Protonated Hydrogel Enables Organo‐Interhalogen Conversion‐Type Quasi‐Solid‐State Zn Batteries With Practical Iodine Loadings",
@@ -62,8 +78,8 @@
       "matchedTopics": [
         "Solid-state batteries"
       ],
-      "summarySource": "publisher-abstract",
       "summaryZh": "新在哪里：构建双阴离子霍夫迈斯特效应（Hofmeister effect）调控的酰胺质子化聚丙烯酰胺水凝胶，同时限制多碘化物穿梭、调节2-溴乙酰胺介体通量，并抑制I⁺物种水解。\n性能：碘负载15.6 mg cm⁻²时，在15 mA cm⁻²下循环超过2000次；负载28.3 mg cm⁻²时，面容量和面能量密度分别为9.95 mAh cm⁻²和10.85 mWh cm⁻²；Ah级软包循环50次。\n怎么解释：质子化位点与I₃⁻、I₂及有机互卤加合物作用以减少活性物质损失，双阴离子环境调节介体迁移，水凝胶氢键网络则重构水的局部环境并降低I⁺水解。摘要使用“可能有助于”描述部分机制，尚未完全拆分三种作用。\n为什么重要：该工作把凝胶网络的离子特异性作用、介体传质与水活性同时设为设计变量，使四电子锌–碘转化在高负载下得到验证。",
+      "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-27T07:20:00+08:00",
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
@@ -88,8 +104,8 @@
       "matchedTopics": [
         "Solid-state batteries"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：采用NO₂BF₄化学脱锂诱导富锂层状氧化物表面重构，形成阳离子无序的亚表层并引入氟，从源头钝化高电位氧氧化还原活性表面，而不是额外沉积独立涂层。\n性能：处理后的富锂正极可逆容量约300.3 mAh g⁻¹，在1 C循环1500次后容量保持率为82.3%；同一策略还扩展到富镍层状氧化物。\n怎么解释：化学脱锂生成的阳离子无序、含氟表层降低氧化性正极与固态电解质的直接化学反应，从而减轻高电压下的界面降解。摘要支持结构重构与稳定性的关联，但尚未定量区分阳离子无序和氟掺入的贡献。\n为什么重要：它把正极自身的预重构作为固–固界面化学的控制变量，为高容量层状正极与固态电解质的相容性提供了可推广路线。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-27T07:20:00+08:00",
       "summaryPromptVersion": 2
     },
@@ -1127,32 +1143,6 @@
       "correspondingAuthors": [
         "Enyue Zhao",
         "Xiaoling Xiao"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
-    },
-    {
-      "title": "Local Acidity as a Corrosiveness Descriptor of Fluorinated Ether Solvents in Lithium–Metal Batteries",
-      "authors": "Dongmin Park, Kyunam Lee, June Lee, Jisub Kim, Jihoon Oh, Insu Hwang, Sujin Kim, Inwoo Kim, Minkwan Kim, Ali Coskun, Jang Wook Choi",
-      "authorsCitation": "D. Park, K. Lee, J. Lee, J. Kim, J. Oh, I. Hwang, S. Kim, I. Kim, M. Kim, A. Coskun, J. W. Choi",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-29",
-      "volume": "",
-      "issue": "",
-      "page": "e1576222",
-      "doi": "10.1002/anie.1576222",
-      "link": "https://doi.org/10.1002/anie.1576222",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：以位点局部酸度（local pKa）描述氟醚溶剂对锂金属的腐蚀性，替代仅根据最低未占分子轨道（lowest unoccupied molecular orbital, LUMO）判断还原稳定性的常见思路。\n性能：提高氟化程度并非单调改善稳定性；中等氟化的F4MEP兼具富阴离子溶剂化结构和较低腐蚀性，而过度氟化反而增强对锂金属的化学侵蚀。\n怎么解释：局部pKa表征特定位点受氟化诱导电子效应后的热力学反应倾向，可定量关联溶剂腐蚀性；F4MEP由此在弱化Li+–溶剂作用与避免过度活化之间取得平衡。\n为什么重要：工作把“氟越多越稳定”的经验判断改写为可计算的位点反应性问题，为氟化电解液分子的氟化位置和程度提供了更具预测性的筛选参数。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Ali Coskun",
-        "Jang Wook Choi"
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-05"
