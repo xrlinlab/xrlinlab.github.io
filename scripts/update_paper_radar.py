@@ -40,12 +40,15 @@ EXCLUDED_DOIS = {
     "10.1021/jacs.6c05378",  # bulk Li-ion transport in a disordered cathode
     "10.1021/acs.macromol.6c01264",  # bottlebrush suppresses crystallization: established polymer-electrolyte logic
     "10.1002/anie.3712910",  # aqueous LMO cathode degradation; outside configured fast-charge/ion-transport scope
+    "10.1002/anie.2026-m2509035600",  # Inside Front Cover metadata; not a distinct research article
 }
 
 def clean(value):
     text = html.unescape(str(value or ""))
     text = re.sub(r"<[^>]+>", " ", text)
-    return re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+", " ", text).strip()
+    # Superscript markup such as Li<sup>+</sup> otherwise becomes "Li +".
+    return re.sub(r"(?<=[A-Za-z0-9])\s+([+-])(?=\s|$)", r"\1", text)
 
 def date_parts(item, key):
     parts = ((item.get(key) or {}).get("date-parts") or [[]])[0]

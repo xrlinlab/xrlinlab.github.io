@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:02:40Z",
+  "generatedAt": "2026-09-29T23:16:09Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,88 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Weak-Solvation Molecular Ion Gates Enabling Multipath Li+ Hopping and Air Stability in Garnet/Poly(ethylene oxide) Electrolytes",
+      "authors": "Jiuzhi Cui, Zhen Fang, Qiang Hu, Yangyang Chen, Hong Yang, Xingquan Liu, Xue-Jiao Nie, Jin-Zhi Guo, Jingxin Zhao, Xing-Long Wu",
+      "authorsCitation": "J. Cui, Z. Fang, Q. Hu, Y. Chen, H. Yang, X. Liu, X.-J. Nie, J.-Z. Guo, J. Zhao, X.-L. Wu",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-29",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c15811",
+      "link": "https://doi.org/10.1021/jacs.6c15811",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors",
+        "Solid-state batteries"
+      ],
+      "summaryZh": "新在哪里：在石榴石/聚氧化乙烯复合电解质中引入弱溶剂化分子离子门（weak-solvation molecular ion gate, WSMI），试图用同一层界面分子同时处理LLZTO表面Li₂CO₃钝化、空气稳定性和Li⁺跨界面配位交换，而不只是增加无机填料含量。\n性能：复合电解质的Li⁺迁移数为0.622，报告电化学稳定窗口为5.38 V；Li||Li电池在0.2 mA cm⁻²、0.2 mAh cm⁻²下循环超过2000 h，LiFePO₄||Li电池在1 C循环1100次后容量保持率为87.8%。\n怎么解释：羧基用于清除并取代碱性碳酸盐层、建立化学锚定界面，–CF₃基团被认为促进LiTFSI解离并减弱Li⁺–EO和Li⁺–TFSI⁻相互作用，醚氧位点则补充界面跳迁通道；这些作用共同关联于聚合物、界面和石榴石三类传输区域的贯通，但各贡献尚未被完全拆分。\n为什么重要：工作把“填料表面的局部配位化学”提升为可设计变量，提示复合聚合物电解质应同时量化表面净化、配位交换速率和跨相通道，而不能只用体相电导率评价界面改性。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Molecular-Level Cleavage and Kinetics Optimization in PVDF Electrolytes for Anode-Lean Ultrastable Solid-State Sodium Batteries",
+      "authors": "Chen Li, Yongbiao Mu, Tongtong Deng, Jinlong Hu, Mingliu Kuang, Kuiyou Wang, Yangyang Wang, Qizheng Zheng, Ronghua Wang, Chaohe Xu",
+      "authorsCitation": "C. Li, Y. Mu, T. Deng, J. Hu, M. Kuang, K. Wang, Y. Wang, Q. Zheng, R. Wang, C. Xu",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-29",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c03378",
+      "link": "https://doi.org/10.1021/jacs.6c03378",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ],
+      "summaryZh": "新在哪里：把Na₃P作为反应型双功能纳米填料加入聚偏二氟乙烯（poly(vinylidene fluoride), PVDF）电解质，使其既参与Na⁺传导，又利用P³⁻亲核性选择性断裂部分C–F键，把聚合物化学重构与界面成膜联系起来。\n性能：体系报告6.93×10⁻⁴ S cm⁻¹体相电导率；贫钠负极固态电池在5 C循环1000次时平均每圈容量衰减0.002%，在10 C循环超过5700次，高载量软包电池（12 mg cm⁻²）稳定运行超过100次。\n怎么解释：计算表明Na₃P使脱溶剂化势垒由9.96降至2.84 eV，并将F⁻迁移势垒由4.23降至3.0 eV；实验叙事将C–F断裂导致的结晶度下降、Na₃P快离子通道和释放F⁻形成NaF富集固态电解质界面（solid-electrolyte interphase, SEI）共同关联于传输与沉积改善，但这些效应仍相互耦合。\n为什么重要：该研究把“可控断键程度”而非单纯填料比例作为潜在设计变量，为反应型聚合物电解质提供了结构—传输—界面联动路径；后续关键是定量对应断键分数、网络形貌和Na⁺通量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Electrostatically Coupled High-Modulus Interphase with Synergistic Anion–Cation Regulation for Stable Zn Anodes",
+      "authors": "Han Tian, Hao Wu, Yi Ding, Jia-Ning Yang, Jia-Xi Xu, Shang-Qi Li, Yao-Wen Zhang, Jie-Sheng Chen, Kai-Xue Wang",
+      "authorsCitation": "H. Tian, H. Wu, Y. Ding, J.-N. Yang, J.-X. Xu, S.-Q. Li, Y.-W. Zhang, J.-S. Chen, K.-X. Wang",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-09-29",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c14681",
+      "link": "https://doi.org/10.1021/jacs.6c14681",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：通过聚(2-丙烯酰胺基-2-甲基丙磺酸)与聚氨丙基双胍的静电耦合构建高模量富电荷界面层，将阴/阳离子调控和机械约束放在同一聚合物网络中，而不是分别使用离子添加剂与刚性涂层。\n性能：Zn||Zn对称电池在1.0 mA cm⁻²、1.0 mAh cm⁻²下循环超过2200 h，在20.0 mA cm⁻²、10.0 mAh cm⁻²下稳定超过800 h；Zn||Cu循环超过2000次，Zn||NaV₃O₈全电池循环超过3500次。\n怎么解释：带电基团被认为协同促进Zn²⁺脱溶剂化、均化离子通量并抑制副反应，高模量且具韧性的界面层则限制枝晶生长并缓冲镀/剥锌体积波动；现有结果支持协同作用，但电荷密度与模量的独立贡献仍需解耦。\n为什么重要：工作提示稳定金属负极不能只追求更硬的界面，界面固定电荷密度、离子选择性和局部模量应作为成组变量共同报告，这一思路也可迁移到凝胶网络的结构—力学—传输设计。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Monomer Molecule Reconstruction Engineered Heterogeneous Lithium‐Ion Solvation for High‐Performance Lithium‐Metal Batteries",
+      "authors": "Yanxin Jiang, Yan Su, Guoqiang He, Lu Chen, Zhiqiang Yang, Mingnan Song, Liang Wang, Chunling Zhu, Guiling Wang, Jiaxin Yao, Shi‐Xue Dou, Yiju Li",
+      "authorsCitation": "Y. Jiang, Y. Su, G. He, L. Chen, Z. Yang, M. Song, L. Wang, C. Zhu, G. Wang, J. Yao, S. Dou, Y. Li",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-28",
+      "volume": "",
+      "issue": "",
+      "page": "e5513729",
+      "doi": "10.1002/anie.5513729",
+      "link": "https://doi.org/10.1002/anie.5513729",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：利用甲基丙烯酸异丁酯原位聚合后放大的空间位阻，主动改变酯基周围的局部电子与几何环境，使低盐浓度凝胶中的Li⁺配位由溶剂主导转向阴离子富集；这里真正的变量是单体到高分子链的凝聚态重构，而非简单更换溶剂。\n性能：DEE–PIBMA凝胶固态电解质在室温下离子电导率为1.77 mS cm⁻¹，浮充测试支持约4.7 V高电压稳定性；Li||NCM811电池在0.5 C循环500次后容量保持率为81.8%，软包电池报告386.1 Wh kg⁻¹能量密度。\n怎么解释：聚合使酯基周围位阻增大并降低羰基氧电子云密度，从而减弱Li⁺–聚合物配位并提高阴离子进入配位壳层的倾向；TTE被描述为“分子润滑剂”以维持动力学。摘要证据支持相关性，但位阻、电子效应与网络微结构尚未完全分离。\n为什么重要：该工作把聚合诱导的局部配位环境变化定义为可控变量，提示凝胶电解质研究应比较聚合前后相同化学基元的溶剂化、局部网络异质性和界面耗竭，而不只比较最终电导和循环寿命。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium‐Ion Batteries",
       "authors": "Sang Goo Kang, Jeonghyun Ko, Gunyoung Kim, Jaehoon Choi, Jong Hyeok Park",
@@ -609,7 +691,7 @@
       "summaryPromptVersion": 2
     },
     {
-      "title": "A Sphere−Sheet Hetero−Interlayer With Mechanoadaptivity and Li + Selectivity for High Performance Anode Free Lithium Sulfur Batteries",
+      "title": "A Sphere−Sheet Hetero−Interlayer With Mechanoadaptivity and Li+ Selectivity for High Performance Anode Free Lithium Sulfur Batteries",
       "authors": "Chao Ding, Yifan Zhang, Jiacheng Lin, Fangrong Xiao, Chenxu Zheng, Wenqiang Wang, Gengchao Wang, Chunzhong Li",
       "authorsCitation": "C. Ding, Y. Zhang, J. Lin, F. Xiao, C. Zheng, W. Wang, G. Wang, C. Li",
       "journal": "Angewandte Chemie International Edition",
@@ -809,7 +891,7 @@
       "summaryPromptVersion": 2
     },
     {
-      "title": "Engineering a Fast Li + -Diffusion Secondary Phase in Sn Anodes for Low-Pressure All-Solid-State Batteries",
+      "title": "Engineering a Fast Li+ -Diffusion Secondary Phase in Sn Anodes for Low-Pressure All-Solid-State Batteries",
       "authors": "Dong Ju Lee, Sesha Sai Behara, Sihyun Kim, Jeremiah Thomas, Jeongwon Lee, Jianing Zhou, Feng Li, Yuju Jeon, Hyochul Ahn, Dapeng Xu, Qingyang Yin, Junlin Wu, Namseo Kim, Richard Ereno, Geonha Kim, Seung-Hoon Han, Jeong Beom Lee, Kenji Nomura, Anton Van der Ven, Zheng Chen",
       "authorsCitation": "D. J. Lee, S. S. Behara, S. Kim, J. Thomas, J. Lee, J. Zhou, F. Li, Y. Jeon, H. Ahn, D. Xu, Q. Yin, J. Wu, N. Kim, R. Ereno, G. Kim, S.-H. Han, J. B. Lee, K. Nomura, A. Van der Ven, Z. Chen",
       "journal": "Journal of the American Chemical Society",
@@ -1083,32 +1165,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-04T09:45:01.610Z",
       "summaryPromptVersion": 1
-    },
-    {
-      "title": "Na 2 Ti 3 O 7 ‐Assisted Grain‐Boundary Tailoring of NASICON Electrolytes for Room‐to‐Subzero‐Temperature All‐Solid‐State Sodium Metal Batteries",
-      "authors": "Hongyi Liao, Yang Yang, Huaguang Ma, Congcong Liu, Yu Yao, Xi Ke, Wubin Du, Zhijun Wu, Hongge Pan, Xianhong Rui, Yan Yu",
-      "authorsCitation": "H. Liao, Y. Yang, H. Ma, C. Liu, Y. Yao, X. Ke, W. Du, Z. Wu, H. Pan, X. Rui, Y. Yu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-08-31",
-      "volume": "",
-      "issue": "",
-      "page": "e8268615",
-      "doi": "10.1002/anie.8268615",
-      "link": "https://doi.org/10.1002/anie.8268615",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：以界面黏附和Na+迁移势垒为双重准则筛选TiO2异相，并用Na2Ti3O7反应型烧结助剂原位生成TiO2衍生纳米晶，同时处理晶界传输、钠损失与陶瓷致密化。\n性能：加入4 wt.% Na2Ti3O7后，NASICON电解质达到94.20%相对密度、1.65 mS cm−1室温离子电导率和0.27 eV活化能，并支持1.55 mA cm−2临界电流密度及超过1600 h的对称电池循环。\n怎么解释：烧结过程中形成的TiO2衍生纳米晶重构晶界，伴随生成的含钠物种补偿钠挥发并促进致密化；理论计算表明所得异质界面兼具较强黏附和较低Na+迁移势垒。\n为什么重要：该工作说明陶瓷固态电解质（solid-state electrolyte, SSE）的晶界优化不能只追求致密化，而应同步考虑界面结合和离子迁移，为反应型烧结助剂的理性选择提供了明确判据。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T09:45:01.610Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Xianhong Rui",
-        "Yan Yu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
     }
   ],
   "source": "Crossref",
