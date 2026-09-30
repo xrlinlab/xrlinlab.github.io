@@ -199,6 +199,12 @@ def main():
     # date keeps previous-day papers one day too long during the morning run.
     end = datetime.now(ZoneInfo("Asia/Shanghai")).date()
     start = end - timedelta(days=WINDOW_DAYS - 1)
+    # Crossref interprets incomplete YYYY-MM publication dates as the first of
+    # the month when applying its server-side date filter.  Query from the
+    # beginning of the boundary month, then enforce the exact 30-day window
+    # locally after publication_date() resolves Cell Press records by their
+    # registration date.
+    query_start = start.replace(day=1)
     existing = {}
     previous_payload = None
     if OUTPUT.exists():
@@ -217,7 +223,7 @@ def main():
         journal_items = []
         for issn in issns:
             try:
-                journal_items.extend(fetch_issn(issn, start.isoformat(), end.isoformat()))
+                journal_items.extend(fetch_issn(issn, query_start.isoformat(), end.isoformat()))
                 time.sleep(0.25)
             except Exception as exc:
                 errors.append(f"{journal} ({issn}): {exc}")

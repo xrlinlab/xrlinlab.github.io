@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T23:16:09Z",
+  "generatedAt": "2026-09-30T23:05:23Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -44,6 +44,34 @@
       "summaryPromptVersion": 2
     },
     {
+      "title": "Role‐Differentiated Solvation Directs Interfacial Chemistry in Wide‐Temperature Lithium Metal Batteries",
+      "authors": "Hangchen Qu, Yingguang Zhang, Wei Dong, Xiaoping Yi, Zibo Xu, Hanqing Liu, Yug Joshi, Wending Pan, Chu Wang, Ming Dong",
+      "authorsCitation": "H. Qu, Y. Zhang, W. Dong, X. Yi, Z. Xu, H. Liu, Y. Joshi, W. Pan, C. Wang, M. Dong",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-29",
+      "volume": "",
+      "issue": "",
+      "page": "e5489997",
+      "doi": "10.1002/anie.5489997",
+      "link": "https://doi.org/10.1002/anie.5489997",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：提出角色分化溶剂化（role-differentiated solvation），不再要求每种溶剂同时承担低黏度、Li⁺配位和界面成膜，而是让丙酸甲酯主要维持体相流动性，由DME/DOL及FSI⁻/TFSI⁻重构真正参与界面反应的配位壳层。\n性能：Li||LiFePO₄电池可在−30至70 °C工作；25 °C循环1000次后容量保持率为97.1%，−30 °C循环400次后为99.3%。\n怎么解释：仅把酯排除出第一配位壳层并不足够，空出的配位环境还需由稳定的醚–阴离子网络补偿；该网络将还原反应导向DOL和阴离子衍生物，形成外层柔顺富PDOL、内层致密富LiF的空间分化异质界面，从而抑制酯持续分解并降低成核和电荷转移势垒。\n为什么重要：工作把“分子在体相—配位壳层—界面中的功能分工”确立为可设计变量，比经验式增加共溶剂更接近可检验的电解液设计规则；关键不只是弱配位，而是被排出的组分由谁补位并主导后续反应。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-01T07:25:00+08:00",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Wending Pan",
+        "Chu Wang",
+        "Ming Dong"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-01"
+    },
+    {
       "title": "Molecular-Level Cleavage and Kinetics Optimization in PVDF Electrolytes for Anode-Lean Ultrastable Solid-State Sodium Batteries",
       "authors": "Chen Li, Yongbiao Mu, Tongtong Deng, Jinlong Hu, Mingliu Kuang, Kuiyou Wang, Yangyang Wang, Qizheng Zheng, Ronghua Wang, Chaohe Xu",
       "authorsCitation": "C. Li, Y. Mu, T. Deng, J. Hu, M. Kuang, K. Wang, Y. Wang, Q. Zheng, R. Wang, C. Xu",
@@ -62,6 +90,31 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
       "summaryPromptVersion": 2
+    },
+    {
+      "title": "Latent Solvation Chemistry with Low Electrostatic Stickiness Enables Wide‐Temperature Fast‐Charging Lithium‐Ion Batteries",
+      "authors": "Liang Li, Zhuangzhuang Cui, Dazhuang Wang, Jiasen Guo, Jiajia Fan, Jun Ma, Digen Ruan, Junhao Jiang, Xiaodi Ren",
+      "authorsCitation": "L. Li, Z. Cui, D. Wang, J. Guo, J. Fan, J. Ma, D. Ruan, J. Jiang, X. Ren",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-09-29",
+      "volume": "",
+      "issue": "",
+      "page": "e3947346",
+      "doi": "10.1002/anie.3947346",
+      "link": "https://doi.org/10.1002/anie.3947346",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：提出潜伏溶剂化化学（latent solvation chemistry），使稀释剂在室温下保持弱配位，却在降温时被招募进入Li⁺第一配位壳层；这把传统静态溶剂化结构改造成可随温度重组的传输环境。\n性能：电池在−20 °C实现5 C快充，并可在−50 °C稳定循环、可逆容量超过150 mAh g⁻¹；1.2 Ah软包电池在超过600天、2000次循环后保持91.04%初始容量。\n怎么解释：作者以亲锂性和静电黏附度（electrostatic stickiness）筛选分子；降温激活的Li⁺···F配位使稀释剂进入溶剂化壳层，降低离子传输与界面电荷转移阻力，同时形成薄而富LiF的界面。现有证据支持温度相关重组，但各描述符对体相与界面贡献仍需分别定量。\n为什么重要：该研究将“配位随温度开启的阈值”变成可设计、可测量的变量，提示宽温快充电解液不应只比较室温溶剂化结构，而应绘制温度—配位占比—界面动力学的连续关系。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-01T07:25:00+08:00",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xiaodi Ren"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-01"
     },
     {
       "title": "Electrostatically Coupled High-Modulus Interphase with Synergistic Anion–Cation Regulation for Stable Zn Anodes",
@@ -495,9 +548,9 @@
       "authorsCitation": "Q. Wen, P. Zhao, Y. Gao, H. Zhang, L. Li, Z. Yang, L. Li, H. Liu, S. Dou, S. Chou, X. Wu",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-17",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "38",
+      "page": "40992",
       "doi": "10.1021/jacs.6c10488",
       "link": "https://doi.org/10.1021/jacs.6c10488",
       "abstract": "",
@@ -583,9 +636,9 @@
       "authorsCitation": "X. Chen, W. Feng, Z. Zou, L. Shen, D. Gao, J. Ying, K. Ren, Y. Liu, Z. Xu, X. Dong, Y. Wang, F. Wang, Y. Xia",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-15",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "38",
+      "page": "40967",
       "doi": "10.1021/jacs.6c09700",
       "link": "https://doi.org/10.1021/jacs.6c09700",
       "abstract": "",
@@ -676,9 +729,9 @@
       "authorsCitation": "W.-Y. Kim, S. Ryu, H. Lee, M. Kim, J. Lee, K.-S. Oh, D. Kim, T. Kim, W. Yang, S.-P. Han, T. W. Lee, J. Lim, H.-I. Kim, M. Kang, S. Choi, S.-H. Kim, R. Kwak, Y. J. Lee, W. B. Lee, Y. M. Lee, S.-Y. Lee",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-12",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "38",
+      "page": "40869",
       "doi": "10.1021/jacs.6c08623",
       "link": "https://doi.org/10.1021/jacs.6c08623",
       "abstract": "",
