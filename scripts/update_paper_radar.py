@@ -40,6 +40,7 @@ EXCLUDED_DOIS = {
     "10.1021/jacs.6c05378",  # bulk Li-ion transport in a disordered cathode
     "10.1021/acs.macromol.6c01264",  # bottlebrush suppresses crystallization: established polymer-electrolyte logic
     "10.1002/anie.3712910",  # aqueous LMO cathode degradation; outside configured fast-charge/ion-transport scope
+    "10.1002/anie.9049103",  # Li–CO2 cathode catalyst/product crystallography; outside configured scope
     "10.1002/anie.2026-m2509035600",  # Inside Front Cover metadata; not a distinct research article
 }
 

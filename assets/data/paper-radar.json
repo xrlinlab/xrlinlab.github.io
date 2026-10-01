@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T23:05:23Z",
+  "generatedAt": "2026-10-01T23:04:15Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,32 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Reconfiguring Electrolyte Solvation Chemistry via In Situ Solvent Polymerization for High‐Performance Sodium‐Ion Batteries",
+      "authors": "Enmin Li, Huanming Wei, Xinlu Liu, Huanghao Pan, Bingqi Jiang, Chenjun Ju, Wei Shao, Zhenglong Yang",
+      "authorsCitation": "E. Li, H. Wei, X. Liu, H. Pan, B. Jiang, C. Ju, W. Shao, Z. Yang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-01",
+      "volume": "",
+      "issue": "",
+      "page": "e4157238",
+      "doi": "10.1002/anie.4157238",
+      "link": "https://doi.org/10.1002/anie.4157238",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：以痕量LiPF₆触发1,3-二氧戊环（1,3-dioxolane, DOL）在二甘醇二甲醚中的部分开环聚合，形成液态聚合物电解质；核心不是简单增加聚合物，而是把聚合链参与的溶剂化环境作为同时调控体相传输和电极界面的变量。\n性能：在16 mg cm⁻²正极载量下，NFPP||Na扣式电池以2 C循环500次后容量保持率为94.76%；NFPP||硬碳软包电池以0.5 C循环500次后保持96.59%。\n怎么解释：原位生成的聚DOL提供额外配位位点并重构Na⁺溶剂化结构，摘要据此关联到较低的去溶剂化能垒和更快的界面动力学；同时，聚合物调制的溶剂化环境被认为促进富无机、较稳健界面相形成并抑制溶剂持续分解，但各作用的独立贡献仍需进一步拆分。\n为什么重要：该工作提示液态或凝胶聚合物电解质可通过控制原位聚合程度与链上配位位点，在不牺牲离子输运的前提下改善高电压界面，为处理“界面稳定—体相传输”权衡提供了可迁移的设计路径。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-02T07:03:00+08:00",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Zhenglong Yang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-02"
+    },
     {
       "title": "Weak-Solvation Molecular Ion Gates Enabling Multipath Li+ Hopping and Air Stability in Garnet/Poly(ethylene oxide) Electrolytes",
       "authors": "Jiuzhi Cui, Zhen Fang, Qiang Hu, Yangyang Chen, Hong Yang, Xingquan Liu, Xue-Jiao Nie, Jin-Zhi Guo, Jingxin Zhao, Xing-Long Wu",
@@ -1172,52 +1198,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-05"
-    },
-    {
-      "title": "Geometry‐Guided Screening of Metal/Oxide Heterointerfaces Enables Superior Sodium Metal Batteries at −40 °C",
-      "authors": "Yang Yang, Congcong Liu, Yongshi Yu, Yu Yao, Xi Ke, Shengnan He, Zhijun Wu, Hongge Pan, Xianhong Rui, Yan Yu",
-      "authorsCitation": "Y. Yang, C. Liu, Y. Yu, Y. Yao, X. Ke, S. He, Z. Wu, H. Pan, X. Rui, Y. Yu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-02",
-      "volume": "",
-      "issue": "",
-      "page": "e3543240",
-      "doi": "10.1002/anie.3543240",
-      "link": "https://doi.org/10.1002/anie.3543240",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：提出以金属/金属氧化物界面的几何匹配和电流分布为筛选准则，并据此确定Y/Y2O3异质界面用于低温钠沉积，而不是依靠经验逐一筛选亲钠涂层。\n性能：Y/Y2O3修饰集流体在−40 °C仍可维持可逆钠沉积/剥离，并支持Na3V2(PO4)3全电池稳定循环，显示界面设计在极低温下仍能有效调节沉积行为。\n怎么解释：内建电场与适度亲钠性共同均化Na+通量；同时异质界面增强PF6−吸附，使界面反应偏向生成无机SEI组分。摘要据此将均匀沉积与界面稳定性联系起来，但未给出各因素的独立贡献。\n为什么重要：工作把低温金属负极调控从单一亲钠性扩展到结构匹配、电场和界面反应协同设计，为严苛温度下钠金属电池集流体筛选提供了可迁移的设计思路。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T09:45:01.610Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Xianhong Rui",
-        "Yan Yu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
-    },
-    {
-      "title": "Anisotropic Lattice Compression Enables Defect-Rich Lithium-Ion Transport Channels for Extremely Fast-Charging Lithium-Ion Batteries",
-      "authors": "Xin Cheng, Huang Xiao, Wenjing Zhang, Min Liu, Cong Tian, Kaiquan He, Haibo Li, Fang Li, Guoxing Li",
-      "authorsCitation": "X. Cheng, H. Xiao, W. Zhang, M. Liu, C. Tian, K. He, H. Li, F. Li, G. Li",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-02",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c12219",
-      "link": "https://doi.org/10.1021/jacs.6c12219",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：利用石墨炔与La2CuO4的轨道相互作用诱导晶面依赖的各向异性晶格压缩，并提出石墨炔炔键–烯键可逆转变产生“晶格回弹泵送”，将静态缺陷通道与动态晶格响应结合。\n性能：所得负极在10 A g−1下循环15000次后仍保持151.4 mAh g−1和84.9%容量保持率；与高镍正极组成的全电池在6 C下循环1000次几乎无容量衰减。\n怎么解释：不同晶面上碳pz轨道与金属dz2轨道重叠程度不同，造成各向异性压缩并形成富畸变和空位的晶界，从而降低Li+迁移势垒；充放电诱导的晶格回弹被认为进一步促进Li+进入晶格。\n为什么重要：该结果提示快充电极中的离子输运不仅可以通过增加缺陷数量改善，还可利用界面轨道耦合控制缺陷的空间类型及其动态响应，为构建高倍率、长寿命负极提供新路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T09:45:01.610Z",
-      "summaryPromptVersion": 1
     }
   ],
   "source": "Crossref",
