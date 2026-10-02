@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:04:15Z",
+  "generatedAt": "2026-10-02T23:07:36Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Demarcating the Effects of Aliphatic Ester Chain Lengths and Molecular Weight on Electrode–Electrolyte Interphase Formation for Wide-Temperature Operation of Lithium-Ion Batteries",
+      "authors": "Thomas J. Watts, Marshall C. Smart, Arumugam Manthiram",
+      "authorsCitation": "T. J. Watts, M. C. Smart, A. Manthiram",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-02",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c10537",
+      "link": "https://doi.org/10.1021/jacs.6c10537",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：通过成系列改变脂肪族酯的烷基链和烷氧基链长度，将“链长—分子量—溶剂化/界面反应”拆分为可比较变量，而不是仅筛选一个低熔点共溶剂；工作由此建立了面向−60至+60 °C运行的酯类电解液结构–性质关系。\n性能：去除烷基链并延长烷氧基链可改善−40 °C以下的电导率；NMC811||石墨全电池在−60 °C以C/10放电可提供110 mAh g⁻¹，在−40 °C循环时可逆容量为122 mAh g⁻¹。三元溶剂体系改善了+60 °C循环，但以牺牲−60 °C放电容量为代价。\n怎么解释：核磁共振（nuclear magnetic resonance, NMR）和X射线光电子能谱（X-ray photoelectron spectroscopy, XPS）显示，较长烷氧基酯对正负极均具有更高反应性；作者将低温传输改善与酯链内禀电子结构联系起来，同时指出界面副反应随之增强，因此宽温性能受传输和界面稳定之间的权衡控制。\n为什么重要：这项工作把脂肪族酯的链长从经验配方参数提升为可量化的分子设计变量，并明确了低温电导提升并不自动带来宽温器件稳定性，为含酯电解液的同系物对照和温区权衡提供了更可靠的设计框架。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-03T07:12:00+08:00",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Reconfiguring Electrolyte Solvation Chemistry via In Situ Solvent Polymerization for High‐Performance Sodium‐Ion Batteries",
       "authors": "Enmin Li, Huanming Wei, Xinlu Liu, Huanghao Pan, Bingqi Jiang, Chenjun Ju, Wei Shao, Zhenglong Yang",
@@ -1168,33 +1188,6 @@
       "correspondingAuthors": [
         "Liwei Dong",
         "Zuotao Lei"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
-    },
-    {
-      "title": "The Creation of a Dual‐End Interface in Li─S Cathode by Anchoring Independent Metal Atoms on Graphdiyne",
-      "authors": "Jingxiang Yang, Changshui Huang, Jingchi Gao, Xingru Yan, Zhaozhong Wang, Ruiqiao Wu, Xinlong Fu, Yi Wang, Feng He, Hongjie Zhang, Yuliang Li",
-      "authorsCitation": "J. Yang, C. Huang, J. Gao, X. Yan, Z. Wang, R. Wu, X. Fu, Y. Wang, F. He, H. Zhang, Y. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-03",
-      "volume": "",
-      "issue": "",
-      "page": "e2060850",
-      "doi": "10.1002/anie.2060850",
-      "link": "https://doi.org/10.1002/anie.2060850",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：在石墨炔上锚定单原子Nb，构建Nb–S与Li–C“双端结合”，同时调控多硫化物转化和Li+富集/传输，而非只强化催化中心对硫物种的吸附。\n性能：Nb–GDY正极在10 C下仍提供724 mAh g−1，并在5 C下循环1200次，单圈容量衰减仅0.025%，表明高倍率转化与长期抑制穿梭能够同时实现。\n怎么解释：密度泛函理论（density functional theory, DFT）显示Nb–S和Li–C电子耦合可固定多硫化锂并降低转化势垒；原位表征和光电子能谱进一步支持反应动力学与Li+通量同步改善。\n为什么重要：工作指出锂硫正极界面不仅要管理硫阴离子，还要同步管理Li+供给，为多物种参与的转化型电极建立了更完整的界面设计变量。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Feng He",
-        "Yuliang Li",
-        "Changshui Huang"
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-05"
