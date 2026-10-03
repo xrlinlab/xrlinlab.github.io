@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:07:36Z",
+  "generatedAt": "2026-10-03T23:02:38Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -1112,85 +1112,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-07T23:59:15.000Z",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Machine Learning‐Driven Alloy Anode Accompanied by Interfacial Kinetic Compensation Design Toward High‐Rate Zinc Pouch Cells",
-      "authors": "Mingzhu Li, Shengwei Du, Shuquan Liang, Xin Wang, Guozhao Fang",
-      "authorsCitation": "M. Li, S. Du, S. Liang, X. Wang, G. Fang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-04",
-      "volume": "",
-      "issue": "",
-      "page": "e5246689",
-      "doi": "10.1002/anie.5246689",
-      "link": "https://doi.org/10.1002/anie.5246689",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：将主动学习（active learning）材料筛选与成分梯度合金锌负极结合，并引入界面动力学补偿，用同一设计处理高倍率下的传质、极化、析氢和结构失效。\n性能：梯度合金负极在40 mA cm−2下循环20000次，并在80 mA cm−2下实现81.36 Ah累积容量；560 mAh软包电池在20 mA cm−2下循环350次后容量保持率仍超过90%。\n怎么解释：成分梯度用于调节界面反应动力学，梯度晶界则缓解高倍率和高容量沉积造成的应力集中。摘要将二者与均匀沉积和结构稳定联系起来，但没有分别量化各机制的贡献。\n为什么重要：工作把合金组成筛选、界面动力学和宏观应力管理连接起来，并在高面容量软包电池中验证，为评价高倍率锌负极提供了比低电流对称电池更接近应用的证据。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Xin Wang",
-        "Guozhao Fang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
-    },
-    {
-      "title": "Dual‐Interfacial Stabilization via Spatial‐Charge Synergistic Modulation for Durable Zinc‐Iodine Batteries",
-      "authors": "Jiayi He, Changfeng Lin, Baoquan Liu, Yubo Yang, Jing Li, Hui Zhang, Jinlin Yang, Tianyu Qiu, Xinlong Tian",
-      "authorsCitation": "J. He, C. Lin, B. Liu, Y. Yang, J. Li, H. Zhang, J. Yang, T. Qiu, X. Tian",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-04",
-      "volume": "",
-      "issue": "",
-      "page": "e8355145",
-      "doi": "10.1002/anie.8355145",
-      "link": "https://doi.org/10.1002/anie.8355145",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：利用含钛空位、带负电的Ti0.87□0.13O2^0.52−二维纳米片修饰隔膜，以尺寸筛分和静电作用同时调控碘正极穿梭与锌负极沉积。\n性能：亚纳米钛空位允许Zn2+快速通过却排斥多碘阴离子；由此Zn||Zn电池在10 mA cm−2、5 mAh cm−2下运行1600 h，Zn–I2电池在5 A g−1下循环超过32000次。\n怎么解释：纳米孔径形成空间选择性，负电表面进一步排斥多碘阴离子并均化Zn2+通量。摘要支持两种作用并存，但尚不能仅据此区分尺寸筛分与静电排斥的相对贡献。\n为什么重要：该设计把隔膜从被动阻隔层转化为双界面离子调节层，为同时解决穿梭效应和金属枝晶提供了单一材料方案，尤其适合长寿命水系锌–碘电池。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T10:04:10.774Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Jinlin Yang",
-        "Tianyu Qiu",
-        "Xinlong Tian"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
-    },
-    {
-      "title": "A Chemically Selective Fluorescent Probe Visualizes the Non‐Monotonic Evolution of the NaF‐Rich Interphase in Sodium‐Metal Batteries",
-      "authors": "Xiaolin Guo, Zijun Wang, Yining Lv, Min Niu, Jiale Wan, Jin Ren, Zhijun Chen, Liwei Dong, Zuotao Lei",
-      "authorsCitation": "X. Guo, Z. Wang, Y. Lv, M. Niu, J. Wan, J. Ren, Z. Chen, L. Dong, Z. Lei",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-04",
-      "volume": "",
-      "issue": "",
-      "page": "e3926577",
-      "doi": "10.1002/anie.3926577",
-      "link": "https://doi.org/10.1002/anie.3926577",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：建立了对晶态NaF具有化学选择性的荧光探针，使钠金属电池中NaF富集固态电解质界面膜（solid–electrolyte interphase, SEI）能够被原位和非原位半定量成像。\n性能：NaF富集骨架在循环中并非单调累积，而是经历“形成—破坏—再生”；1.0 mA cm−2成膜电流得到的NaF网络最连续，并对应较低容量损失和较稳定循环。\n怎么解释：晶态NaF通过氢键和配位作用限制H4TCPE探针的分子转动，从而触发基质配位诱导发光；其他SEI组分不能提供足够空间限域，因此形成可区分NaF的光学对比。\n为什么重要：该方法把难以直接追踪的无机SEI演化转化为可视、可比较的信号，为判断成膜程序如何影响NaF网络连续性及后续界面稳定性提供了实验工具。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-04T09:45:01.610Z",
-      "summaryPromptVersion": 1,
-      "correspondingAuthors": [
-        "Liwei Dong",
-        "Zuotao Lei"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-05"
     }
   ],
   "source": "Crossref",
