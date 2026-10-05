@@ -42,6 +42,7 @@ EXCLUDED_DOIS = {
     "10.1002/anie.3712910",  # aqueous LMO cathode degradation; outside configured fast-charge/ion-transport scope
     "10.1002/anie.9049103",  # Li–CO2 cathode catalyst/product crystallography; outside configured scope
     "10.1002/anie.2026-m2509035600",  # Inside Front Cover metadata; not a distinct research article
+    "10.1038/s41565-026-02301-2",  # cation-disordered rocksalt cathode hysteresis; bulk positive-electrode mechanism
 }
 
 def clean(value):
