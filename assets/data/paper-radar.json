@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:09:22Z",
+  "generatedAt": "2026-10-06T23:07:31Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Electric-Field-Oriented Interfacial Solvent Engineering Enables High-Voltage Ether Electrolytes for Ni-Rich Lithium-Ion Batteries",
+      "authors": "Qianfeng Zheng, Yanxin Jiang, Guoqiang He, Zhiqiang Yang, Lu Chen, Hongji Pan, Zhaoan Lu, Chenhui Ning, Mingnan Song, Jianping Luo, Jingjing Ouyang, Yan Su, Yi Lv, Huaifang Shang, Lin Zeng, Chao Luo, Yiju Li, Shaojun Guo",
+      "authorsCitation": "Q. Zheng, Y. Jiang, G. He, Z. Yang, L. Chen, H. Pan, Z. Lu, C. Ning, M. Song, J. Luo, J. Ouyang, Y. Su, Y. Lv, H. Shang, L. Zeng, C. Luo, Y. Li, S. Guo",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-06",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c12182",
+      "link": "https://doi.org/10.1021/jacs.6c12182",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：将高电压电场下溶剂在电双层中的定向排列定义为界面设计变量，而不只比较体相溶剂化或轨道能级；刚性不对称溶剂4-氰基四氢吡喃（4-cyano-tetrahydropyran, THP-CN）利用氰基的优先吸附，将易氧化的醚键与α-氢推离高电位正极表面。\n性能：低浓度THP-CN醚类电解液报告氧化稳定性至4.8 V；1.5 Ah石墨||NCM811软包电池在2.8–4.5 V窗口下达到331.2 Wh kg⁻¹，循环600次后容量保持率83.5%。\n怎么解释：常规醚分子在高电场下倾向以氧原子朝向正极，促进邻位α-氢脱氢及后续分解；THP-CN则通过“正极–氰基–醚–体相”的自组装取向降低醚基元与表面直接接触。FSI⁻与NO₃⁻协同分解还形成富无机正极电解质界面（cathode electrolyte interphase, CEI），但溶剂取向与CEI化学的独立贡献仍需拆分。\n为什么重要：该工作把“外加电场下的界面吸附取向”从一个被忽略的结果提升为可设计的分子变量，说明高压电解液不仅要设计“谁进入溶剂化壳层”，还要设计“谁在电场中朝向电极、哪个反应位点被暴露”。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-07T07:20:00+08:00",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Demarcating the Effects of Aliphatic Ester Chain Lengths and Molecular Weight on Electrode–Electrolyte Interphase Formation for Wide-Temperature Operation of Lithium-Ion Batteries",
       "authors": "Thomas J. Watts, Marshall C. Smart, Arumugam Manthiram",
@@ -1070,48 +1090,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-10"
-    },
-    {
-      "title": "Quantifying the Interfacial Energy Gap for Reversible Lithium–Metal Anodes",
-      "authors": "Rui Qiu, Xueliang Zhang, Hairong Gong, Jialing Huang, Jiawei Lai, Kui Ding, Liang Ma, Yuepeng Cai, Qifeng Zheng",
-      "authorsCitation": "R. Qiu, X. Zhang, H. Gong, J. Huang, J. Lai, K. Ding, L. Ma, Y. Cai, Q. Zheng",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-07",
-      "volume": "148",
-      "issue": "37",
-      "page": "40382",
-      "doi": "10.1021/jacs.6c14457",
-      "link": "https://doi.org/10.1021/jacs.6c14457",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：提出界面能隙（interfacial energy gap, ΔEgap）作为描述符，以锂/固态电解质界面膜（solid electrolyte interphase, SEI）的费米能级与电解液最低未占分子轨道能级之差，定量表征界面电子转移的驱动力；机器学习与Shapley加性解释（Shapley additive explanations, SHAP）进一步将溶剂最小静电势（minimum electrostatic potential, ESPmin）识别为关键分子参数。\n性能：该框架筛选出的两种训练集外溶剂均使锂沉积/剥离库仑效率超过99%。摘要未提供具体电流密度、面容量或循环次数，因此不宜据此比较其绝对性能水平。\n怎么解释：作者将较小的ΔEgap与较弱的界面电子转移驱动力联系起来，认为这可减少电解液持续还原和寄生反应；实验与模拟共同支持ESPmin调控ΔEgap的关联，但其普适性仍需在更广泛电解液体系中验证。\n为什么重要：工作把SEI钝化能力、电解液还原稳定性与一个可计算的能量描述符联系起来，为锂金属电解液从经验筛选转向可解释的分子设计提供了定量入口。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-07T23:59:15.000Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "A Three-Descriptor Framework for Solvation Design of Low-Temperature Electrolytes in Lithium Batteries",
-      "authors": "Linlin Xue, Jiantao Guo, Yuqiang Wu, Yang Dong, Jinhan Li, Meng Yao, Yiyang Peng, Fengming Zhang, Shucheng Liu, Meng Yu, Jianwei Li, Fangyi Cheng",
-      "authorsCitation": "L. Xue, J. Guo, Y. Wu, Y. Dong, J. Li, M. Yao, Y. Peng, F. Zhang, S. Liu, M. Yu, J. Li, F. Cheng",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-07",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c08135",
-      "link": "https://doi.org/10.1021/jacs.6c08135",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：建立由氧—氧间距、孤对电子轨道贡献和氧原子净电荷组成的三描述符拓扑—电子耦合框架，用于跨醚、酯、酮、碳酸酯和砜类溶剂预测Li+—溶剂结合能，并据此筛得2,2,2-三氟乙基甲磺酸酯（2,2,2-trifluoroethyl methanesulfonate, TM）。\n性能：LiFSI/TTE/TM电解液实现99.38%的锂沉积/剥离库仑效率，并使Li||NCM811电池在−60 °C、4.6 V截止电压下保持可逆运行；摘要未给出容量、倍率和循环寿命。\n怎么解释：TM的S═O基团与−CF3基团形成较弱的点接触式Li+配位，降低去溶剂化势垒，同时促进阴离子参与溶剂化并形成富LiF界面。现有摘要支持这一关联链条，但不足以单独量化去溶剂化与界面化学对低温性能的相对贡献。\n为什么重要：该方法把低温电解液设计从单一经验参数扩展为同时考虑分子拓扑与电子结构的多变量筛选，并在−60 °C锂金属全电池中给出验证，为跨溶剂类别的描述符驱动设计提供了可检验框架。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-07T23:59:15.000Z",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
