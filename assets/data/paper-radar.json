@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T23:07:31Z",
+  "generatedAt": "2026-10-07T23:02:12Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,54 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Site‐Selective Anion‐Cation Regulation of Sulfide Electrolyte Enables Low‐Pressure Dendrite‐Suppressed All‐Solid‐State Lithium Metal Batteries",
+      "authors": "Xinxin Zhu, Xianji Qiao, Ning Qin, Zhiheng Li, Yanqun Lv, Jun Lu, Zaiping Guo",
+      "authorsCitation": "X. Zhu, X. Qiao, N. Qin, Z. Li, Y. Lv, J. Lu, Z. Guo",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-07",
+      "volume": "",
+      "issue": "",
+      "page": "e3893843",
+      "doi": "10.1002/anie.3893843",
+      "link": "https://doi.org/10.1002/anie.3893843",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：在硫银锗矿型Li6PS5Cl中同时实施位点选择性阴离子—阳离子调控（site-selective anion-cation regulation）：以Al3+取代P5+稳定硫化物骨架，并用F/Cl调节阴离子亚晶格和对锂界面的分解路径，目标是在低堆压下同时改善体相传输和锂金属界面。\n性能：室温离子电导率达到7.22 mS cm−1；Li∥Li对称电池在3 MPa、0.5 mA cm−2下循环超过8000 h。与NCM811或硫正极配对的锂金属全固态电池可在30 MPa下稳定运行，但摘要未给出相应循环次数和容量保持率。\n怎么解释：AlS4相关局部单元及较强Al–S键被用于解释骨架抗氧化还原分解能力增强；Cl进入4a/4d阴离子位点促进Li+迁移，而F/Cl使界面由富Li2S/LiCl转向富LiF/LiCl、贫Li2S的钝化层。计算显示暴露的LiF/LiCl（200）晶面与锂具有更强黏附，支持枝晶受抑与低压接触稳定之间的关联，但体相稳定、传输和界面黏附的独立贡献尚未完全拆分。\n为什么重要：工作把硫化物电解质的框架稳定性、阴离子位点占据和界面产物晶面统一为可调变量，为低堆压锂金属全固态电池提供了不同于单纯加涂层的协同设计路径。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-07T23:18:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": []
+    },
+    {
+      "title": "A Universal Class of Cubic Crystalline Alkali Organic–Inorganic Glyme-Based Halides",
+      "authors": "Anshuman Chaupatnaik, Zlanseu Ruth Tan, Gwenaëlle Rousse, Matteo Calandra, Lise-Marie Chamoreau, Clément Morel, Vincent Sarou-Kanian, Hervé Vezin, Michael Deschamps, Jean-Marie Tarascon",
+      "authorsCitation": "A. Chaupatnaik, Z. R. Tan, G. Rousse, M. Calandra, L.-M. Chamoreau, C. Morel, V. Sarou-Kanian, H. Vezin, M. Deschamps, J.-M. Tarascon",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-07",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c14058",
+      "link": "https://doi.org/10.1021/jacs.6c14058",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ],
+      "summaryZh": "新在哪里：报道一类由卤化物固态电解质与甘醚自组装形成的碱金属有机—无机卤化物ABX6·mGn，并用同一结构框架覆盖Li、Na、K，Ta、Nb，Cl、Br以及单甘醚至四甘醚。其核心不是获得高性能电解质，而是把溶剂分离离子对（solvent-separated ion pair, SSIP）固化成可解析的晶体结构，并观察其受热向接触离子对（contact ion pair, CIP）转变。\n性能：固态离子电导率仅为10−7–10−4 mS cm−1，熔融后提高到1–10 mS cm−1，K基体系在固态和液态中均最高。KTaCl6在钾离子电池中表现出经K2TaCl6形成的低电压置换与嵌入反应；该工作没有展示可直接用于固态电池的高电导或长循环性能。\n怎么解释：热分析、电子顺磁共振（electron paramagnetic resonance, EPR）、核磁共振（nuclear magnetic resonance, NMR）和密度泛函理论共同关联了电荷分布、甘醚构象与转动以及自组装结构。以KTaCl6·1G4为例，加热后出现含无限一维链的CIP相，说明甘醚构象和离子配对方式是相变及传输差异的关键结构变量；摘要尚未建立定量的结构—电导关系。\n为什么重要：该体系当前不是高性能固态电解质候选，但提供了可结晶、可解析的“盐—甘醚”模型平台，用于分离离子配对、溶剂构象和碱金属种类对固态离子学的影响，价值主要在基础机制而非器件性能。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-07T23:18:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jean-Marie Tarascon"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-08"
+    },
     {
       "title": "Electric-Field-Oriented Interfacial Solvent Engineering Enables High-Voltage Ether Electrolytes for Ni-Rich Lithium-Ion Batteries",
       "authors": "Qianfeng Zheng, Yanxin Jiang, Guoqiang He, Zhiqiang Yang, Lu Chen, Hongji Pan, Zhaoan Lu, Chenhui Ning, Mingnan Song, Jianping Luo, Jingjing Ouyang, Yan Su, Yi Lv, Huaifang Shang, Lin Zeng, Chao Luo, Yiju Li, Shaojun Guo",
@@ -200,7 +248,12 @@
       "summaryZh": "新在哪里：通过聚(2-丙烯酰胺基-2-甲基丙磺酸)与聚氨丙基双胍的静电耦合构建高模量富电荷界面层，将阴/阳离子调控和机械约束放在同一聚合物网络中，而不是分别使用离子添加剂与刚性涂层。\n性能：Zn||Zn对称电池在1.0 mA cm⁻²、1.0 mAh cm⁻²下循环超过2200 h，在20.0 mA cm⁻²、10.0 mAh cm⁻²下稳定超过800 h；Zn||Cu循环超过2000次，Zn||NaV₃O₈全电池循环超过3500次。\n怎么解释：带电基团被认为协同促进Zn²⁺脱溶剂化、均化离子通量并抑制副反应，高模量且具韧性的界面层则限制枝晶生长并缓冲镀/剥锌体积波动；现有结果支持协同作用，但电荷密度与模量的独立贡献仍需解耦。\n为什么重要：工作提示稳定金属负极不能只追求更硬的界面，界面固定电荷密度、离子选择性和局部模量应作为成组变量共同报告，这一思路也可迁移到凝胶网络的结构—力学—传输设计。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Kai-Xue Wang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-08"
     },
     {
       "title": "Monomer Molecule Reconstruction Engineered Heterogeneous Lithium‐Ion Solvation for High‐Performance Lithium‐Metal Batteries",
@@ -221,7 +274,14 @@
       "summaryZh": "新在哪里：利用甲基丙烯酸异丁酯原位聚合后放大的空间位阻，主动改变酯基周围的局部电子与几何环境，使低盐浓度凝胶中的Li⁺配位由溶剂主导转向阴离子富集；这里真正的变量是单体到高分子链的凝聚态重构，而非简单更换溶剂。\n性能：DEE–PIBMA凝胶固态电解质在室温下离子电导率为1.77 mS cm⁻¹，浮充测试支持约4.7 V高电压稳定性；Li||NCM811电池在0.5 C循环500次后容量保持率为81.8%，软包电池报告386.1 Wh kg⁻¹能量密度。\n怎么解释：聚合使酯基周围位阻增大并降低羰基氧电子云密度，从而减弱Li⁺–聚合物配位并提高阴离子进入配位壳层的倾向；TTE被描述为“分子润滑剂”以维持动力学。摘要证据支持相关性，但位阻、电子效应与网络微结构尚未完全分离。\n为什么重要：该工作把聚合诱导的局部配位环境变化定义为可控变量，提示凝胶电解质研究应比较聚合前后相同化学基元的溶剂化、局部网络异质性和界面耗竭，而不只比较最终电导和循环寿命。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Liang Wang",
+        "Guiling Wang",
+        "Yiju Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-08"
     },
     {
       "title": "Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium‐Ion Batteries",
@@ -332,9 +392,9 @@
       "authorsCitation": "Y. Song, J. Liu, T. Cui, S. Wang, M. Zhang, Y. Zhou, J. Liu, M. Tang, B. Li",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-09-26",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "39",
+      "page": "42177",
       "doi": "10.1021/jacs.6c11457",
       "link": "https://doi.org/10.1021/jacs.6c11457",
       "abstract": "",
@@ -344,7 +404,12 @@
       "summaryZh": "新在哪里：采用NO₂BF₄化学脱锂诱导富锂层状氧化物表面重构，形成阳离子无序的亚表层并引入氟，从源头钝化高电位氧氧化还原活性表面，而不是额外沉积独立涂层。\n性能：处理后的富锂正极可逆容量约300.3 mAh g⁻¹，在1 C循环1500次后容量保持率为82.3%；同一策略还扩展到富镍层状氧化物。\n怎么解释：化学脱锂生成的阳离子无序、含氟表层降低氧化性正极与固态电解质的直接化学反应，从而减轻高电压下的界面降解。摘要支持结构重构与稳定性的关联，但尚未定量区分阳离子无序和氟掺入的贡献。\n为什么重要：它把正极自身的预重构作为固–固界面化学的控制变量，为高容量层状正极与固态电解质的相容性提供了可推广路线。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-27T07:20:00+08:00",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Biao Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-08"
     },
     {
       "title": "Thermal, Viscoelastic, and Dielectric Properties of Vinylimidazolium-Based Poly(ionic liquid)/Ionic Liquid Mixtures",
@@ -404,7 +469,12 @@
       "summaryZh": "新在哪里：这篇 News & Views 讨论用少量 Mg–La 成核颗粒对锂金属进行“晶粒接种”，把锂沉积晶粒尺寸和空洞演化设为可控变量。\n性能：被评论的研究显示，细化锂晶粒可延缓空洞长大，并提高全固态电池中的临界电流密度与倍率能力；评论正文未给出统一可直接比较的完整数值集。\n怎么解释：分散的异质成核位点促进均匀成核和细晶沉积，改善剥离时的形变协调与界面接触，因此抑制空洞集中和后续枝晶风险。\n为什么重要：它把“锂的初始晶体学与微结构状态”从结果变量变成界面稳定性的前置设计变量，但结论仍需在不同固态电解质和压力条件下验证。",
       "summarySource": "publisher-fulltext",
       "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Naga Phani B. Aetukuri"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-08"
     },
     {
       "title": "Finding hidden factors of a battery’s life",
@@ -511,7 +581,14 @@
       "summaryZh": "新在哪里：在多孔芳香骨架中接枝柔性全氟烷基链，构造弱配位含氟纳米通道，同时调节 Na⁺ 解离、通道输运与界面成膜。\n性能：准固态电解质的离子电导率为2.79 × 10⁻⁴ S cm⁻¹，Na⁺迁移数为0.562，电化学窗口为4.98 V；对称电池稳定沉积/剥离超过5700 h，全电池循环1300次后容量保持率为91.3%，−20 °C下运行超过4000次。\n怎么解释：弱配位环境促进离子对解离，含氟链极化辅助 Na⁺ 沿限域通道迁移，并诱导形成富 NaF 界面。摘要支持这些因素与性能的关联，但尚未独立量化通道限域与界面化学的贡献。\n为什么重要：该工作把纳米通道化学同时连接体相输运和界面稳定，为准固态电解质中“通道—溶剂化—界面”的协同设计提供了路径。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Heng-Guo Wang",
+        "Jiangtao Jia",
+        "Guangshan Zhu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-08"
     },
     {
       "title": "Alkoxyethyl Acetate Electrolytes for High‐Voltage Lithium Metal Batteries",
@@ -963,133 +1040,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Spatially Decoupled Ion Transport and Mechanical Robustness Enabled by a Molecular Scaffold Strap in Gel Polymer Electrolytes",
-      "authors": "Xin Shen, Chang Gao, Ke‐Feng Ren, Yun‐Fei Du, Zi‐Yi Wang, Feng Jiang, Zhao‐Yu Qu, Jia‐Xing Guo, He Liu, Rui Zhang, Yuping Wu, Xin‐Bing Cheng",
-      "authorsCitation": "X. Shen, C. Gao, K. Ren, Y. Du, Z. Wang, F. Jiang, Z. Qu, J. Guo, H. Liu, R. Zhang, Y. Wu, X. Cheng",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-08",
-      "volume": "",
-      "issue": "",
-      "page": "e3049996",
-      "doi": "10.1002/anie.3049996",
-      "link": "https://doi.org/10.1002/anie.3049996",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：提出分子支架束带（molecular scaffold strap）策略，用六臂单体构建三维凝胶网络，再以尺寸匹配的乙二醇二丁醚锚定相邻链段，使机械增强与离子传输在空间上分工；含氟碳酸酯共溶剂进一步调节Li+传输和界面稳定性。\n性能：凝胶聚合物电解质（gel polymer electrolyte, GPE）模量为8.9 MPa，离子电导率为3.82 × 10−4 S cm−1，Li+迁移数为0.68。2.7 Ah Li∥NCM811软包循环100次后容量保持率为87%，自加热起始温度提高至160.7 °C；3.5 Ah Cu∥NCM920305软包能量密度达到506 Wh kg−1。\n怎么解释：六臂交联网络提供骨架刚性，尺寸匹配的醚分子通过链段锚定强化网络，而含氟共溶剂维持较快Li+迁移并促进稳定电极界面。摘要支持力学、输运与界面性能同步改善，但未独立量化支架束带和含氟共溶剂各自的贡献。\n为什么重要：该设计正面处理GPE中“液相促进传导却削弱力学、聚合物增强力学却阻碍传导”的互相牵制，并在Ah级高能量软包中验证，为凝胶网络的力学—传输解耦提供了分子尺度路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Xin-Bing Cheng"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10"
-    },
-    {
-      "title": "Machine-Learning-Guided Molecular Design for Dynamic Self-Activating Interface toward Ah-Level Anode-Free Zn–I2 Pouch Cells",
-      "authors": "Jia Wu, Shan Guo, Yuren Liu, Qianyi Qu, Shuquan Liang, Guozhao Fang",
-      "authorsCitation": "J. Wu, S. Guo, Y. Liu, Q. Qu, S. Liang, G. Fang",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-08",
-      "volume": "148",
-      "issue": "37",
-      "page": "40470",
-      "doi": "10.1021/jacs.6c15211",
-      "link": "https://doi.org/10.1021/jacs.6c15211",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：将机器学习引导的多碘化物调控与动态界面重构结合，以聚乙二醇4000（polyethylene glycol 4000, PE4000）同时约束正极穿梭物种并触发无负极（anode-free）锌沉积界面的自激活过程。\\n性能：优化后的无负极Zn–I2电池在10 mA cm−2下循环16000次；单层软包在4.65 mAh cm−2下运行超过3000次，回收Sn可再使用1000次；Ah级软包循环2800次，累积容量达到2390 Ah。\\n怎么解释：密度泛函理论（density functional theory, DFT）监督筛选将多位点弱O–C–H···I相互作用和链段限域识别为抑制多碘化物迁移的分子特征；同时，PE4000调节微量可逆Sn/Sn2+转化，促使Zn–Sn界面动态重构并维持亲锌位点和取向成核。摘要支持这些过程与循环稳定性的关联，但未分别量化多碘化物限域和界面重构的贡献。\\n为什么重要：工作把正极穿梭控制与无宿主负极界面演化纳入同一分子设计，并在Ah级电芯中验证，为高锌利用率Zn–I2电池提供了更接近实际条件的界面匹配策略。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-08T23:59:08.765Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Engineering a Fast Li+ -Diffusion Secondary Phase in Sn Anodes for Low-Pressure All-Solid-State Batteries",
-      "authors": "Dong Ju Lee, Sesha Sai Behara, Sihyun Kim, Jeremiah Thomas, Jeongwon Lee, Jianing Zhou, Feng Li, Yuju Jeon, Hyochul Ahn, Dapeng Xu, Qingyang Yin, Junlin Wu, Namseo Kim, Richard Ereno, Geonha Kim, Seung-Hoon Han, Jeong Beom Lee, Kenji Nomura, Anton Van der Ven, Zheng Chen",
-      "authorsCitation": "D. J. Lee, S. S. Behara, S. Kim, J. Thomas, J. Lee, J. Zhou, F. Li, Y. Jeon, H. Ahn, D. Xu, Q. Yin, J. Wu, N. Kim, R. Ereno, G. Kim, S.-H. Han, J. B. Lee, K. Nomura, A. Van der Ven, Z. Chen",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-08",
-      "volume": "148",
-      "issue": "37",
-      "page": "40053",
-      "doi": "10.1021/jacs.6c11667",
-      "link": "https://doi.org/10.1021/jacs.6c11667",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：在Sn合金负极中引入Bi形成快速Li+扩散的Li3Bi第二相，以扩散动力学补偿Sn的低初始库仑效率和低压接触问题，使高容量合金能够用于低堆压全固态电池（all-solid-state batteries, ASSBs）。\\n性能：Sn–Bi负极的初始库仑效率约为90%，比容量约为700 mAh g−1；与NCM82正极配对后可在23 °C、1 C下运行，面容量最高达到10 mAh cm−2，并针对5 MPa低堆压条件进行了结构优化。摘要未给出低堆压下的循环次数和容量保持率。\\n怎么解释：计算与实验显示，Li3Bi的Li扩散系数为3.5 × 10−6 cm2 s−1，显著高于LiSn和Li13Sn5的1.5 × 10−14和1.3 × 10−11 cm2 s−1；其较宽稳定电位窗口和快速扩散通道有助于Li在电极内传输并维持Sn的可逆（脱）锂。现有证据支持第二相促进扩散，但低压性能还受到晶粒、基体和界面工程共同影响。\\n为什么重要：该工作将第二相的离子扩散能力作为筛选合金负极的关键变量，说明初始库仑效率、容量和机械可变形性可以协同优化，为低压力、高面容量全固态电池中的合金负极提供了可检验的设计路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-08T23:59:08.765Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Anton Van der Ven",
-        "Zheng Chen"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-09"
-    },
-    {
-      "title": "Cyano‐Driven Solvation Structure Reconstruction and Interfacial Passivation for 4.5 V Solid‐State Lithium Metal Batteries",
-      "authors": "Baozhan Wu, Jinlin Li, Xin‐Gai Wang, Jianxin Deng, Letian Chen, Mengrao Luo, Yunfei Hao, Wen Cheng, Zhaojun Xie, Jinping Wei, Xiaodan Wang, Bin Tang, Zhen Zhou",
-      "authorsCitation": "B. Wu, J. Li, X. Wang, J. Deng, L. Chen, M. Luo, Y. Hao, W. Cheng, Z. Xie, J. Wei, X. Wang, B. Tang, Z. Zhou",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-08",
-      "volume": "",
-      "issue": "",
-      "page": "e3609669",
-      "doi": "10.1002/anie.3609669",
-      "link": "https://doi.org/10.1002/anie.3609669",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Solid-state batteries",
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以氰基配位重构（cyano-coordination reconstruction）取代聚醚中醚氧主导的Li+配位，通过调节氰基丙烯酸酯含量，同时改变Li+溶剂化环境并钝化高镍正极界面。\n性能：Li∥NCM811电池在4.3 V、3 C下循环500次后容量保持率为88.2%，在4.5 V、1 C下循环350次后保持80.1%，平均工作电压超过3.85 V。\n怎么解释：竞争性的Li+–C≡N配位重组第一溶剂化壳层并形成连续的低势垒跳跃位点，从而关联于更快的室温传输和更高的氧化稳定性；同时，−C≡N与过渡金属阳离子的配位锚定被用于解释金属溶解受抑。摘要支持这些过程与循环稳定性的关联，但未分别量化体相溶剂化重构和正极界面钝化的贡献。\n为什么重要：工作把聚合物电解质的配位结构与高电压正极界面化学放进同一分子设计中，为4.5 V锂金属固态电池兼顾室温传输与界面稳定提供了不同于传统聚醚优化的路线。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Xiaodan Wang",
-        "Bin Tang",
-        "Zhen Zhou"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10"
-    },
-    {
-      "title": "Backbone‐Mediated Coordination‐Environment Reshaping in Gel Polymer Electrolytes for High‐Voltage Lithium Metal Batteries",
-      "authors": "Yajie Hu, Jianxing Wang, Ting Li, Jinyu Tian, Ying Xu, Yifan Deng, Xin Zhang, Jie Hu, Zihan Chen, Miao He, Qi Liu, Zhenzhen Shen, Hao Shi, Jianping Long, Shimou Chen, Anjun Hu",
-      "authorsCitation": "Y. Hu, J. Wang, T. Li, J. Tian, Y. Xu, Y. Deng, X. Zhang, J. Hu, Z. Chen, M. He, Q. Liu, Z. Shen, H. Shi, J. Long, S. Chen, A. Hu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-08",
-      "volume": "",
-      "issue": "",
-      "page": "e5855662",
-      "doi": "10.1002/anie.5855662",
-      "link": "https://doi.org/10.1002/anie.5855662",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：在1,3-二氧戊环聚合中引入二缩水甘油基1,2-环己烷二甲酸酯，构建原位交联网络；利用弱配位酯羰基和空间受限的醚氧共同重塑聚合物骨架周围的Li+配位环境。\n性能：所得凝胶聚合物电解质（gel polymer electrolyte, GPE）的Li+迁移数为0.64，氧化稳定窗口为5.20 V。Li∥NCM811电池在4.3 V循环500次后容量保持率为84.21%，在4.5 V循环200次后为80.62%；0.9 Ah软包能量密度达到305 Wh kg−1，并在180次循环后保持82.33%容量。\n怎么解释：交联网络削弱骨架—Li+配位并提高阴离子和溶剂对第一配位壳层的参与，进而关联于更快的Li+迁移和富无机质电极—电解质界面。多尺度表征与理论模拟支持这一溶剂化—界面关联，但摘要未单独区分弱配位羰基、醚氧空间限制和交联拓扑的相对作用。\n为什么重要：该工作把聚合物骨架本身从被动支撑体提升为可调节Li+配位和界面化学的设计变量，为高电压锂金属GPE提供了超越单纯提高电导率的结构策略。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-10T00:02:19.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Ting Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-10"
     }
   ],
   "source": "Crossref",
