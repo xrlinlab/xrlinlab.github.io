@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:02:12Z",
+  "generatedAt": "2026-10-08T01:58:22Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -42,8 +42,7 @@
       "summaryZh": "新在哪里：在硫银锗矿型Li6PS5Cl中同时实施位点选择性阴离子—阳离子调控（site-selective anion-cation regulation）：以Al3+取代P5+稳定硫化物骨架，并用F/Cl调节阴离子亚晶格和对锂界面的分解路径，目标是在低堆压下同时改善体相传输和锂金属界面。\n性能：室温离子电导率达到7.22 mS cm−1；Li∥Li对称电池在3 MPa、0.5 mA cm−2下循环超过8000 h。与NCM811或硫正极配对的锂金属全固态电池可在30 MPa下稳定运行，但摘要未给出相应循环次数和容量保持率。\n怎么解释：AlS4相关局部单元及较强Al–S键被用于解释骨架抗氧化还原分解能力增强；Cl进入4a/4d阴离子位点促进Li+迁移，而F/Cl使界面由富Li2S/LiCl转向富LiF/LiCl、贫Li2S的钝化层。计算显示暴露的LiF/LiCl（200）晶面与锂具有更强黏附，支持枝晶受抑与低压接触稳定之间的关联，但体相稳定、传输和界面黏附的独立贡献尚未完全拆分。\n为什么重要：工作把硫化物电解质的框架稳定性、阴离子位点占据和界面产物晶面统一为可调变量，为低堆压锂金属全固态电池提供了不同于单纯加涂层的协同设计路径。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-07T23:18:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": []
+      "summaryPromptVersion": 2
     },
     {
       "title": "A Universal Class of Cubic Crystalline Alkali Organic–Inorganic Glyme-Based Halides",
