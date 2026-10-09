@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:03:55Z",
+  "generatedAt": "2026-10-09T23:07:27Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,57 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Crown Ether‐Engineered Porous Liquid‐Based Electrolytes Decouple Redox Kinetics and Stability in Zinc–Sulfur Batteries",
+      "authors": "Xin Liu, Weimian Zhang, Qingqing Chen, Haoliang Huang, Jingcheng Lu, Steven T. Boles, Lifeng Liu",
+      "authorsCitation": "X. Liu, W. Zhang, Q. Chen, H. Huang, J. Lu, S. T. Boles, L. Liu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-08",
+      "volume": "",
+      "issue": "",
+      "page": "e7425389",
+      "doi": "10.1002/anie.7425389",
+      "link": "https://doi.org/10.1002/anie.7425389",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：构建冠醚主体参与的多孔液体电解液（porous liquid-based electrolyte），利用同一大环分子的两类作用拆分水系锌硫电池中的动力学—稳定性矛盾：冠醚动态配位部分Zn2+并重构局部溶剂化，同时以体积位阻限制多碘化物缔合与接近锌负极。\n性能：在0.2 A g−1下，放电平台提高至0.77 V（相对于Zn2+/Zn），电池极化降至0.38 V；在1 A g−1下循环1000次后容量保持率为89%。\n怎么解释：溶剂化调节促进短寿命可溶硫中间体参与，使界面S↔ZnS转化更可逆；冠醚骨架的位阻同时削弱碘介体穿梭及其诱发的锌腐蚀。实验与计算共同支持这一解释，但配位效应和位阻效应对性能的独立贡献仍未完全定量拆分。\n为什么重要：工作没有停留在增加一种硫转化催化剂，而是把主体分子的配位能力与空间可达性设为两个可设计变量，为兼顾反应介体活性和金属负极稳定提供了可迁移的微环境设计思路。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-10T07:15:00+08:00",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Lifeng Liu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-10"
+    },
+    {
+      "title": "Anion‐Dipole Catalytic Decomposition Enables Robust Solid Electrolyte Interfaces for Ah‐Level Aqueous Zinc Batteries",
+      "authors": "Mi Xu, Yue Shi, Jie Zhang, Zhiyuan Bai, Jingshuai Li, Shuwei Zhao, Haozhen Dou, Zhongwei Chen",
+      "authorsCitation": "M. Xu, Y. Shi, J. Zhang, Z. Bai, J. Li, S. Zhao, H. Dou, Z. Chen",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-08",
+      "volume": "",
+      "issue": "",
+      "page": "e7075150",
+      "doi": "10.1002/anie.7075150",
+      "link": "https://doi.org/10.1002/anie.7075150",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：以阴离子—偶极结合能（anion-dipole binding energy）和静电势差（electrostatic potential difference）作为筛选痕量添加剂的双描述符，并提出阴离子—偶极催化分解策略。缺电子芳香酮以苯乙酮为代表进入电双层，识别并富集阴离子，同时降低其键断裂能垒，以原位构建无机富集的固体电解质界面。\n性能：调控后Zn2+迁移数达到0.75，Zn∥Zn对称电池稳定循环7200 h；正极载量20 mg cm−2的Zn∥VO2软包在0.2 A g−1下容量达到4.28 Ah，并在1 A g−1循环100次后保持88.9%的初始容量。\n怎么解释：作者将阴离子局部富集、分解活化自由能降低、去溶剂化加快和Zn（002）取向沉积关联起来，用以解释无机富集界面及稳定沉积的形成；这些过程彼此耦合，摘要证据尚不能完全区分描述符筛选与特定苯乙酮反应性的贡献。\n为什么重要：该工作把锌界面添加剂设计从经验筛选推进到可计算的分子描述符，并把添加剂作用由被动吸附扩展为催化阴离子分解，为反应型界面调控提供了可检验的设计规则。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-10T07:15:00+08:00",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Haozhen Dou",
+        "Zhongwei Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-10"
+    },
     {
       "title": "Site‐Selective Anion‐Cation Regulation of Sulfide Electrolyte Enables Low‐Pressure Dendrite‐Suppressed All‐Solid‐State Lithium Metal Batteries",
       "authors": "Xinxin Zhu, Xianji Qiao, Ning Qin, Zhiheng Li, Yanqun Lv, Jun Lu, Zaiping Guo",
@@ -668,7 +719,14 @@
       "summaryZh": "新在哪里：不再把CoPSe界面仅视为加速多硫化物转化的静态催化剂，而是利用电化学自驱动的界面阴离子转移（interfacial anion transfer），同时改变硫中间体和催化位点。\n性能：锂—硫电池在5C下实现703 mAh g⁻¹，在2C下循环1000次的单圈容量衰减率为0.016%。\n怎么解释：放电时，界面释放的Se进入含硫中间体，促进键断裂、短链物种形成和Li₂S生成；同时产生的缺Se位点增强多硫化物吸附及液—固转化。摘要证据支持这一耦合演化，但尚不能分离Se转移与缺位催化的独立贡献。\n为什么重要：该工作把界面设计从“加快既有反应”推进到“改写反应路径”，为多步液—固转化体系提供了自适应界面催化思路。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-19T23:01:27Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Ruijin Meng",
+        "Chi Zhang",
+        "Jinhu Yang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-10"
     },
     {
       "title": "Screening Lithium-Ion Conductors Based on Local and Global Topology",
@@ -748,7 +806,14 @@
       "summaryZh": "新在哪里：以明胶和磺化纤维素纳米晶构建可逆凝胶—准液体转变的热响应生物质界面层，使锌负极界面由静态钝化转向随温度切换的动态吸附（dynamic interfacial adsorption）。\n性能：Zn‖Zn对称电池在30 °C和60 °C分别稳定循环超过2000 h和730 h；30 °C下V₂O₄全电池以10C循环2000次后容量保持率为90.53%，60 °C下I₂全电池以4C循环2500次后保持91.1%，并可在15C下运行9600次。\n怎么解释：室温下氢键网络均化Zn²⁺通量并限制沉积空间；升温后聚合物链重构，暴露亲锌基团，促进Zn(002)择优沉积并抑制析氢和副产物。摘要结果支持温度触发的两种界面调控模式，但尚不足以分离各机制的定量贡献。\n为什么重要：该设计让人工界面主动适应温度变化，为兼顾室温与高温稳定性的水系锌电池提供了可持续材料路径。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-17T23:05:39Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Ji Qian",
+        "Renjie Chen",
+        "Li Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-10"
     },
     {
       "title": "Stabilizing Zinc Anodes via a Zeolite‐Induced Localized Supersaturated Electrolyte Interface",
@@ -869,7 +934,15 @@
       "summaryZh": "新在哪里：以天然花青素作为π共轭多酚界面添加剂，在高电压NCM811正极表面同时调节阴离子配位与界面电荷离域，目标不是单纯形成保护膜，而是限制深度脱锂时的晶格氧活化（lattice-oxygen activation）。\n性能：Li∥NCM811电池在4.6 V循环200次后容量保持率为81.4%，在4.3 V循环超过500次后保持80.0%；同时气体释放、过渡金属溶出、相变和颗粒内部开裂均受到抑制。\n怎么解释：摘要显示花青素优先富集于正极/电解液界面，其儿茶酚结合位点与π共轭骨架改变局部电荷环境，并促进形成较薄、均匀且阻抗较低的正极电解质界面膜（cathode–electrolyte interphase, CEI）。这些变化与晶格氧不可逆反应减弱和表观Li+传输改善相关，但摘要尚未分离电子离域、阴离子配位与成膜作用各自的贡献。\n为什么重要：该工作把天然多酚从常规牺牲型添加剂推进为界面电荷调节分子，为高镍正极高电压稳定提供了可由分子结构继续优化的设计变量。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Anjun Hu",
+        "Lin Zeng",
+        "Jianping Long",
+        "Shimou Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-10"
     },
     {
       "title": "Electrolyte Lubricants for Solid-State Batteries",
@@ -909,7 +982,14 @@
       "summaryZh": "新在哪里：在无负极锂硫电池的铜集流体上构建球–片异质中间层，由富–SO3Li的弹性离聚物颗粒与锂皂石纳米片组成，同时引入力学自适应、Li+选择性传输和界面成膜功能。\n性能：采用该中间层和Li2S正极的无负极锂硫电池表现出综合电化学性能改善；摘要未给出面容量、N/P比、循环寿命、容量保持率或库仑效率，因此只能确认改善方向，不能评价其实际竞争力。\n怎么解释：弹性离聚物颗粒支撑二维纳米片形成分散的应力缓冲结构，以适应沉积/剥离体积变化；致密–SO3Li壳层通过Donnan效应（Donnan effect）排斥阴离子、均化Li+通量，并限制多硫化物穿梭。–C≡N和–CF3进一步转化为富Li3N/LiF的二次固态电解质界面膜（solid–electrolyte interphase, SEI）。这些机制由摘要提出，但各作用之间的独立贡献仍需对照实验确认。\n为什么重要：无负极锂硫电池同时受有限锂库存、体积变化和多硫化物穿梭制约；该设计试图用一个可加工中间层同步处理三类失效，为多功能界面从材料堆叠转向结构协同提供了思路。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Wenqiang Wang",
+        "Gengchao Wang",
+        "Chunzhong Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-10"
     },
     {
       "title": "Mixed-Linker Metal–Organic Frameworks Modified Separators as Li+-Transport Accelerators for Wide-Temperature and Long-Cycling Lithium Metal Batteries",
@@ -977,54 +1057,14 @@
       "summaryZh": "新在哪里：以反应簇引导的溶剂化重组同时调控凝胶聚合物电解质两侧界面：MMDS锚定PF6−形成反应簇，LiDFOB则重构Li+第一溶剂化鞘，从而将高电压成膜与快速去溶剂化纳入同一添加剂体系。\n性能：凝胶聚合物电解质的离子电导率为2.64 mS cm−1，Li+迁移数为0.57；石墨∥NCM811软包电池可在4.6 V、3C和45 °C条件下运行。摘要称其耐久性突出，但未给出循环次数、容量保持率和具体快充时间，因此不作超出原文的性能比较。\n怎么解释：MMDS与PF6−的离子–偶极作用改变阴离子反应路径，促进形成含硫、富无机组分的正极电解质界面膜（cathode–electrolyte interphase, CEI）；LiDFOB改变Li+溶剂化环境并促进去溶剂化。二者共同对应更薄、更致密的CEI/SEI，以及副反应、过渡金属溶出和岩盐相表面重构的减弱。摘要支持协同关联，但未证明每个界面效应均由单一组分独立主导。\n为什么重要：该工作针对高电压、快充和高温三个通常相互放大的失效条件，展示了以低添加量同时设计正负极界面的可能性，并强调与现有制造流程兼容，对凝胶电解质从材料参数走向软包验证具有现实意义。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Stress-coupled lithium transport in all-solid-state batteries",
-      "authors": "Hwiho Kim, Dalyu Kim, Chihyun Nam, Jun Tae Kim, Yujeong Hwang, Sooseong Hwang, Sugeun Jo, Sungjae Seo, Hyunji You, Eugene Choi, Yong S. Chu, Hun-Gi Jung, Mingyuan Ge, Yun Seog Lee, Jongwoo Lim",
-      "authorsCitation": "H. Kim, D. Kim, C. Nam, J. T. Kim, Y. Hwang, S. Hwang, S. Jo, S. Seo, H. You, E. Choi, Y. S. Chu, H.-G. Jung, M. Ge, Y. S. Lee, J. Lim",
-      "journal": "Joule",
-      "publicationDate": "2026-09-10",
-      "volume": "",
-      "issue": "",
-      "page": "102680",
-      "doi": "10.1016/j.joule.2026.102680",
-      "link": "https://doi.org/10.1016/j.joule.2026.102680",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "title-only：出版社可核验信息目前仅足以确认该文研究“全固态电池中的应力耦合锂传输”。其新意可能在于把应力场与锂迁移直接关联，但尚无可靠摘要或正文可用于确认测量方法、性能数据、机制方向及适用边界，因此不作进一步推断。",
-      "summarySource": "title-only",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Lithium–disulfur dichloride batteries",
-      "authors": "Nan Zhang, Jinyi Zhang, Weiran Zhang, Zeyi Wang, Chang-Xin Zhao, Ai-Min Li, Yijie Liu, Kangxuan Xia, Cal Mesirow, Yuxin Yang, Brett L. Lucht, Enyuan Hu, Xiulei Ji, De-en Jiang, Jijian Xu, Chunsheng Wang",
-      "authorsCitation": "N. Zhang, J. Zhang, W. Zhang, Z. Wang, C.-X. Zhao, A.-M. Li, Y. Liu, K. Xia, C. Mesirow, Y. Yang, B. L. Lucht, E. Hu, X. Ji, D.-E. Jiang, J. Xu, C. Wang",
-      "journal": "Nature Energy",
-      "publicationDate": "2026-09-10",
-      "volume": "11",
-      "issue": "9",
-      "page": "1297",
-      "doi": "10.1038/s41560-026-02120-8",
-      "link": "https://doi.org/10.1038/s41560-026-02120-8",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：以富自由氯离子的离子液体电解液稳定 Li∥S₂Cl₂ 体系，使硫从传统两电子反应扩展为可逆三电子氧化还原。\n性能：反应电压由约2.05 V提升至2.54 V，硫基比容量提高58%，电极层级比能量超过1700 Wh kg⁻¹，并实现超过100次循环。\n怎么解释：自由 Cl⁻ 参与并稳定含氯硫物种，使放电/充电可沿更高电子数的硫—氯反应路径进行；光谱和计算支持该路径，但其长期副反应及锂负极消耗仍需进一步量化。\n为什么重要：该工作不是简单优化多硫化物转化，而是改变硫正极可访问的电子数和电压平台，为液态活性物质电池提供新的反应计量设计空间。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
-        "De-en Jiang",
-        "Jijian Xu",
-        "Chunsheng Wang"
+        "Tianpeng Zhang",
+        "Yanjun Xie",
+        "Fangyuan Hu"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-26"
+      "correspondingAuthorVerifiedAt": "2026-10-10"
     }
   ],
   "source": "Crossref",
