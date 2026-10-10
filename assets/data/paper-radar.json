@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:07:27Z",
+  "generatedAt": "2026-10-10T23:04:11Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -987,81 +987,6 @@
         "Wenqiang Wang",
         "Gengchao Wang",
         "Chunzhong Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-10"
-    },
-    {
-      "title": "Mixed-Linker Metal–Organic Frameworks Modified Separators as Li+-Transport Accelerators for Wide-Temperature and Long-Cycling Lithium Metal Batteries",
-      "authors": "Yaoda Wang, Xiao-Cheng Zhou, Jingjie Sun, Yu-Hao Gu, Tianyu Shen, Zuoxiu Tie, Shuai Yuan, Jing-Lin Zuo, Zhong Jin",
-      "authorsCitation": "Y. Wang, X.-C. Zhou, J. Sun, Y.-H. Gu, T. Shen, Z. Tie, S. Yuan, J.-L. Zuo, Z. Jin",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-11",
-      "volume": "148",
-      "issue": "37",
-      "page": "39946",
-      "doi": "10.1021/jacs.6c11237",
-      "link": "https://doi.org/10.1021/jacs.6c11237",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：以混合连接体金属–有机框架（mixed-linker metal–organic framework, MOF）修饰聚丙烯隔膜，将四硫富瓦烯（tetrathiafulvalene, TTF）位点提供的Li+传输通道与含氮三嗪连接体的阴离子调控结合，并以苯和三甲基苯连接体MOF作为结构对照。\\n性能：MOF修饰隔膜改善了Li∥LiFePO4和Li∥LiNi0.8Co0.1Mn0.1O2电池的倍率与循环表现；其中Li∥LiNi0.8Co0.1Mn0.1O2电池在−15至100 °C范围内可稳定循环超过500次。摘要未给出电流密度、容量保持率和库仑效率的具体数值，因此暂不作横向性能比较。\\n怎么解释：TTF功能位点被用于促进Li+迁移并均化Li+通量；相比苯和三甲基苯连接体，缺电子、富氮的三嗪位点与PF6−作用更强，与Li+迁移数提高、PF6−分解受抑及锂枝晶减少相关。现有摘要支持连接体化学与这些界面过程的关联，但未分别量化离子通道和阴离子配位的贡献。\\n为什么重要：该工作把MOF隔膜的连接体化学转化为可比较的设计变量，说明Li+传输与阴离子反应性可以在同一多孔骨架中协同调节，为宽温锂金属电池隔膜设计提供了比单纯物理涂层更具体的分子路径。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-12T00:00:04.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Shuai Yuan",
-        "Jing-Lin Zuo",
-        "Zhong Jin"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-12"
-    },
-    {
-      "title": "Disentangling Lithium Failure Mechanisms in Liquid Electrolytes by 2D Exchange Solid-State NMR",
-      "authors": "Zhuo Han, Likun Chen, Chenjie Lou, Yuhang Li, Yongqi Chen, Yubin Li, Weijie Liu, Zhihao Lei, Xufei An, Kun Peng, Jiawang Meng, Ming Liu",
-      "authorsCitation": "Z. Han, L. Chen, C. Lou, Y. Li, Y. Chen, Y. Li, W. Liu, Z. Lei, X. An, K. Peng, J. Meng, M. Liu",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-11",
-      "volume": "148",
-      "issue": "37",
-      "page": "40177",
-      "doi": "10.1021/jacs.6c12458",
-      "link": "https://doi.org/10.1021/jacs.6c12458",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：利用二维交换固体核磁共振（2D exchange solid-state NMR, 2D EXSY ssNMR）定义两个描述符，直接区分死锂累积、电子失联和跨 SEI 离子交换衰减。\n性能：研究聚焦失效诊断而非刷新器件纪录；其适用目标是库仑效率高于99.9%的薄锂和无负极体系。\n怎么解释：酯类电解液中失活锂以电子隔离的枝晶状死锂为主；醚类局域高浓度电解液虽减少死锂，但长期循环中无机富集 SEI 的形变适应性不足，使离子接触逐渐丧失。\n为什么重要：工作证明相近库仑效率可对应完全不同的主导失效机制，并给出可比较的直接测量判据，提示 SEI 必须兼顾化学稳定与机械顺应性。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Cluster‐Directed Solvation Engineering for Dual‐Interface Stabilized Gel Polymer Electrolytes Enabling High‐Voltage and Fast‐Charging Lithium‐Ion Batteries",
-      "authors": "Xiangyu Chen, Meng Feng, Aohong Tang, Lina Zhang, Xiangru Su, Tianpeng Zhang, Yanjun Xie, Fangyuan Hu",
-      "authorsCitation": "X. Chen, M. Feng, A. Tang, L. Zhang, X. Su, T. Zhang, Y. Xie, F. Hu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-11",
-      "volume": "",
-      "issue": "",
-      "page": "e3651820",
-      "doi": "10.1002/anie.3651820",
-      "link": "https://doi.org/10.1002/anie.3651820",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以反应簇引导的溶剂化重组同时调控凝胶聚合物电解质两侧界面：MMDS锚定PF6−形成反应簇，LiDFOB则重构Li+第一溶剂化鞘，从而将高电压成膜与快速去溶剂化纳入同一添加剂体系。\n性能：凝胶聚合物电解质的离子电导率为2.64 mS cm−1，Li+迁移数为0.57；石墨∥NCM811软包电池可在4.6 V、3C和45 °C条件下运行。摘要称其耐久性突出，但未给出循环次数、容量保持率和具体快充时间，因此不作超出原文的性能比较。\n怎么解释：MMDS与PF6−的离子–偶极作用改变阴离子反应路径，促进形成含硫、富无机组分的正极电解质界面膜（cathode–electrolyte interphase, CEI）；LiDFOB改变Li+溶剂化环境并促进去溶剂化。二者共同对应更薄、更致密的CEI/SEI，以及副反应、过渡金属溶出和岩盐相表面重构的减弱。摘要支持协同关联，但未证明每个界面效应均由单一组分独立主导。\n为什么重要：该工作针对高电压、快充和高温三个通常相互放大的失效条件，展示了以低添加量同时设计正负极界面的可能性，并强调与现有制造流程兼容，对凝胶电解质从材料参数走向软包验证具有现实意义。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Tianpeng Zhang",
-        "Yanjun Xie",
-        "Fangyuan Hu"
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-10"
