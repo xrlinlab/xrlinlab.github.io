@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:04:11Z",
+  "generatedAt": "2026-10-11T22:59:07Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -915,81 +915,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-17"
-    },
-    {
-      "title": "Π‐Conjugated Polyphenols Regulate Interfacial Charge to Stabilize Lattice Oxygen in High‐Voltage Ni‐Rich Cathodes",
-      "authors": "Yupeng Feng, Xin Liu, Anjun Hu, Yaoyu Yin, Yuhang Shu, Haohan Chen, Ruizhe Xu, Youwei Wang, Xiangsong Jiang, Maokun Li, Yongbiao Mu, Chunwei Dong, Zhenzhen Shen, Qi Liu, Lin Zeng, Jianping Long, Shimou Chen",
-      "authorsCitation": "Y. Feng, X. Liu, A. Hu, Y. Yin, Y. Shu, H. Chen, R. Xu, Y. Wang, X. Jiang, M. Li, Y. Mu, C. Dong, Z. Shen, Q. Liu, L. Zeng, J. Long, S. Chen",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-12",
-      "volume": "",
-      "issue": "",
-      "page": "e5747023",
-      "doi": "10.1002/anie.5747023",
-      "link": "https://doi.org/10.1002/anie.5747023",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以天然花青素作为π共轭多酚界面添加剂，在高电压NCM811正极表面同时调节阴离子配位与界面电荷离域，目标不是单纯形成保护膜，而是限制深度脱锂时的晶格氧活化（lattice-oxygen activation）。\n性能：Li∥NCM811电池在4.6 V循环200次后容量保持率为81.4%，在4.3 V循环超过500次后保持80.0%；同时气体释放、过渡金属溶出、相变和颗粒内部开裂均受到抑制。\n怎么解释：摘要显示花青素优先富集于正极/电解液界面，其儿茶酚结合位点与π共轭骨架改变局部电荷环境，并促进形成较薄、均匀且阻抗较低的正极电解质界面膜（cathode–electrolyte interphase, CEI）。这些变化与晶格氧不可逆反应减弱和表观Li+传输改善相关，但摘要尚未分离电子离域、阴离子配位与成膜作用各自的贡献。\n为什么重要：该工作把天然多酚从常规牺牲型添加剂推进为界面电荷调节分子，为高镍正极高电压稳定提供了可由分子结构继续优化的设计变量。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Anjun Hu",
-        "Lin Zeng",
-        "Jianping Long",
-        "Shimou Chen"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-10"
-    },
-    {
-      "title": "Electrolyte Lubricants for Solid-State Batteries",
-      "authors": "Won-Yeong Kim, Seokhyeon Ryu, Hyobin Lee, Minwoo Kim, Jongjun Lee, Kyeong-Seok Oh, Dokyung Kim, Taeryeol Kim, Wonseok Yang, Sun-Phil Han, Tae Woong Lee, Jaejin Lim, Hong-I Kim, Minsang Kang, Seungyeop Choi, Seung-Hyeok Kim, Rhokyun Kwak, Young Joo Lee, Won Bo Lee, Yong Min Lee, Sang-Young Lee",
-      "authorsCitation": "W.-Y. Kim, S. Ryu, H. Lee, M. Kim, J. Lee, K.-S. Oh, D. Kim, T. Kim, W. Yang, S.-P. Han, T. W. Lee, J. Lim, H.-I. Kim, M. Kang, S. Choi, S.-H. Kim, R. Kwak, Y. J. Lee, W. B. Lee, Y. M. Lee, S.-Y. Lee",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-12",
-      "volume": "148",
-      "issue": "38",
-      "page": "40869",
-      "doi": "10.1021/jacs.6c08623",
-      "link": "https://doi.org/10.1021/jacs.6c08623",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：提出“电解液润滑剂”概念，以聚集簇电解液（aggregate cluster electrolyte, ACE）填充硫化物固态电池中的颗粒空隙，并在固–液接触处原位建立可重构的离子传输与保护界面。\n性能：该体系支持锂金属在较低外加压力下稳定循环，并提高正极活性材料利用率；摘要未给出临界电流密度、循环寿命、容量保持率或压力数值，因此暂不能判断其相对现有润湿型界面方案的性能增量。\n怎么解释：ACE中的Li+–阴离子聚集簇发生分子轨道重构，倾向于在硫化物表面生成薄、电子绝缘且富无机组分的固–液电解质界面膜（solid–liquid electrolyte interphase, SLEI）。流动相同时渗入颗粒空隙，形成贯通Li+通道；电化学–热模拟进一步表明离子通量与温度梯度更均匀。摘要支持这些现象间的关联，但尚不能单独量化“润滑”、成膜与补隙的贡献。\n为什么重要：它把少量液体从被动润湿剂重新定义为具有结构化溶剂化和界面反应选择性的功能组分，为降低硫化物固态电池堆压和改善固–固接触提供了更接近工程条件的路径。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "A Sphere−Sheet Hetero−Interlayer With Mechanoadaptivity and Li+ Selectivity for High Performance Anode Free Lithium Sulfur Batteries",
-      "authors": "Chao Ding, Yifan Zhang, Jiacheng Lin, Fangrong Xiao, Chenxu Zheng, Wenqiang Wang, Gengchao Wang, Chunzhong Li",
-      "authorsCitation": "C. Ding, Y. Zhang, J. Lin, F. Xiao, C. Zheng, W. Wang, G. Wang, C. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-12",
-      "volume": "",
-      "issue": "",
-      "page": "e2370748",
-      "doi": "10.1002/anie.2370748",
-      "link": "https://doi.org/10.1002/anie.2370748",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：在无负极锂硫电池的铜集流体上构建球–片异质中间层，由富–SO3Li的弹性离聚物颗粒与锂皂石纳米片组成，同时引入力学自适应、Li+选择性传输和界面成膜功能。\n性能：采用该中间层和Li2S正极的无负极锂硫电池表现出综合电化学性能改善；摘要未给出面容量、N/P比、循环寿命、容量保持率或库仑效率，因此只能确认改善方向，不能评价其实际竞争力。\n怎么解释：弹性离聚物颗粒支撑二维纳米片形成分散的应力缓冲结构，以适应沉积/剥离体积变化；致密–SO3Li壳层通过Donnan效应（Donnan effect）排斥阴离子、均化Li+通量，并限制多硫化物穿梭。–C≡N和–CF3进一步转化为富Li3N/LiF的二次固态电解质界面膜（solid–electrolyte interphase, SEI）。这些机制由摘要提出，但各作用之间的独立贡献仍需对照实验确认。\n为什么重要：无负极锂硫电池同时受有限锂库存、体积变化和多硫化物穿梭制约；该设计试图用一个可加工中间层同步处理三类失效，为多功能界面从材料堆叠转向结构协同提供了思路。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-13T00:00:00.000Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Wenqiang Wang",
-        "Gengchao Wang",
-        "Chunzhong Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-10"
     }
   ],
   "source": "Crossref",
