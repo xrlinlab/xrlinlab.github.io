@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:02:30Z",
+  "generatedAt": "2026-10-13T23:00:55Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -473,9 +473,9 @@
       "authorsCitation": "A. Matsumoto, H. Izutsu, H. Aoki, K. Otsuka, O. Urakawa, T. Inoue, S. Sugihara, Y. Maeda",
       "journal": "Macromolecules",
       "publicationDate": "2026-09-25",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "59",
+      "issue": "19",
+      "page": "11090",
       "doi": "10.1021/acs.macromol.6c01159",
       "link": "https://doi.org/10.1021/acs.macromol.6c01159",
       "abstract": "",
@@ -596,7 +596,12 @@
       "summaryZh": "新在哪里：采用以非晶态为主的Se₀.₈Te₀.₂合金正极，并利用机械球磨时合金与硫银锗矿Li₅.₄PS₄.₄Cl₁.₆之间的协同氧化还原，原位形成表面富集的Li₂TeS₃/LiCl层和体相混合的Li₂Se物种，以预构筑反应界面而非单纯提高固态电解质电导率。\n性能：电池在0.1C下提供971.2 mAh g⁻¹容量，在5C（7.7 mA cm⁻²）下实现快充，并在2.5 mg cm⁻²负载下循环超过2200次；当负载提高至9.68 mg cm⁻²时，在0.5C循环200次后仍保持3.03 mAh cm⁻²面容量。\n怎么解释：非晶Se–Te降低固态转化反应的结构重排约束，球磨诱导生成的Li₂TeS₃/LiCl界面层和Li₂Se混合相则与更快的Li⁺传输及氧化还原动力学相对应。摘要支持这些物种与性能的关联，但尚不足以定量拆分非晶结构和预反应界面的独立贡献。\n为什么重要：该工作把固态转化型正极的界面预反应和非晶合金化设为可控变量，为绕开固–固反应迟缓提供了路线；其适用性仍需在更高面容量和有限锂条件下检验。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-09-24T23:20:00Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Shufeng Song"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-14"
     },
     {
       "title": "“Electronic Sponge” Strategy Enables Polyether Electrolytes for High-Voltage and Fast-Charging Quasi-Solid-State Batteries",
@@ -786,7 +791,14 @@
       "summaryZh": "新在哪里：把Li₅FeO₄用作卤化物全固态电池的正极预锂化添加剂，并识别出固态反应环境中特有的三阶段脱锂路径（three-stage delithiation pathway）。\n性能：机械化学处理将颗粒减小至约500 nm，使脱锂容量由43.1提高至752.5 mAh g⁻¹；硅基全固态电池循环1000次后保持70%容量，并可在−10–55 °C运行。软包电池按电极质量计算的能量密度为473.3 Wh kg⁻¹，在24.5 MPa下循环500次后保持86.1%。\n怎么解释：纳米化引入局部结构无序并改善电子电导，依次触发低电位晶格氧氧化、氧/铁耦合氧化，以及伴随铁还原的晶格氧氧化；这些结果把容量释放与具体氧化还原阶段联系起来。\n为什么重要：工作不只把预锂化剂用于固态体系，还说明固态环境会改变其反应路径，为补偿硅负极不可逆锂损失提供了机制依据。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-17T23:05:39Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Qiaobao Zhang",
+        "Xueliang Sun",
+        "Changhong Wang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-14"
     },
     {
       "title": "Dynamic Interfacial Adsorption via a Thermoresponsive Biomass Interphase Enables Temperature‐Adaptive Zinc Anodes",
@@ -862,59 +874,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Pore Mouth Engineering: An Insulating Strategy to Dictate Interfacial Chemistry in Hard Carbon Anodes",
-      "authors": "Yan Xu, Ying He, Yiyue He, Yue Liu, Feiyan Yu, Lishun Bai, Chengjun Liu, Sijie Li, Zhi Chang",
-      "authorsCitation": "Y. Xu, Y. He, Y. He, Y. Liu, F. Yu, L. Bai, C. Liu, S. Li, Z. Chang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-14",
-      "volume": "",
-      "issue": "",
-      "page": "e8475331",
-      "doi": "10.1002/anie.8475331",
-      "link": "https://doi.org/10.1002/anie.8475331",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：把硬碳孔口（pore mouth, PM）从被动孔结构转化为可设计的界面单元，用绝缘微孔金属有机框架玻璃（metal–organic framework glass, MOF glass）将导电孔口由5.23 Å收窄至2.98 Å，同时调节孔口尺寸、电子传导与电解液分解。\n性能：改性硬碳的初始库仑效率为87.8%，容量约400 mAh g−1；约12 C下循环3000次后容量保持率为80%，−25 °C、约5 C下循环500次后保持79.3%。3.19 Ah级硬碳||Na3V2(PO4)3软包电池提供108 mAh g−1，循环160次后保持92.0%。\n怎么解释：出版社摘要表明，绝缘且更窄的孔口促进Na+预脱溶剂化并形成更聚集的局部电解液结构，同时抑制寄生分解，最终与无机物丰富、NaF富集的固态电解质界面膜（solid–electrolyte interphase, SEI）相关。现有摘要支持结构—界面—性能的关联，但尚不能单独量化尺寸效应与绝缘效应的贡献。\n为什么重要：该工作说明硬碳孔口不只是储钠通道，也是决定界面反应路径的设计变量，为兼顾首效、倍率、低温和软包性能提供了可工程化思路。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-14T23:00:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Sijie Li",
-        "Zhi Chang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-15"
-    },
-    {
-      "title": "Engineering Interfacial Chemistry of Spinel Indium Sulfides via Iron‐Substitution‐Mediated Selective Catalysis for High‐Performance Sodium‐Ion Batteries",
-      "authors": "Qi An, Manman Zhang, Mingze Ma, Peng Mei, Zhiyi Hu, Dong Yan, Daohong Zhang, Shaozhuan Huang, Bao‐Lian Su",
-      "authorsCitation": "Q. An, M. Zhang, M. Ma, P. Mei, Z. Hu, D. Yan, D. Zhang, S. Huang, B. Su",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-14",
-      "volume": "",
-      "issue": "",
-      "page": "e6440082",
-      "doi": "10.1002/anie.6440082",
-      "link": "https://doi.org/10.1002/anie.6440082",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以铁取代调控尖晶石硫化铟负极的界面选择性催化，使电解液分解由醚溶剂主导转向PF6−阴离子优先反应，从反应路径层面设计固态电解质界面膜（solid–electrolyte interphase, SEI）。\n性能：Fe–In3S4负极的初始库仑效率约92.3%（0.5 A g−1），在10 A g−1下容量为457.2 mAh g−1；在5 A g−1下循环2000次，单圈容量衰减约0.011%。形成的NaF富集SEI厚度约8.0 nm。\n怎么解释：出版社摘要显示，Fe取代消除了不利的铟空位，促进PF6−中P–F键优先断裂并削弱醚分子的C–O键断裂，同时增强基底对NaF的亲和力，使NaF更快、更均匀沉积。由此形成的薄而均匀的SEI与较高首效、倍率和循环稳定性相对应；不过摘要证据不足以把全部性能提升唯一归因于某一条催化路径。\n为什么重要：这项工作把异元素取代从常规体相电子结构调节拓展到电解液分解选择性的控制，为通过电极表面催化而非仅靠电解液配方构筑稳定界面提供了路线。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-14T23:00:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Dong Yan",
-        "Shaozhuan Huang",
-        "Bao-Lian Su"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-17"
     }
   ],
   "source": "Crossref",
