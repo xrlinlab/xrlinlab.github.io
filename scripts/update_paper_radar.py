@@ -44,6 +44,7 @@ EXCLUDED_DOIS = {
     "10.1002/anie.2026-m2509035600",  # Inside Front Cover metadata; not a distinct research article
     "10.1038/s41565-026-02301-2",  # cation-disordered rocksalt cathode hysteresis; bulk positive-electrode mechanism
     "10.1021/jacs.6c15213",  # Mg-metal battery separator/solvation; outside the configured lithium/solid-state scope
+    "10.1021/jacs.6c15661",  # oxychloride stacking/band structure; battery appears only as background context
 }
 
 def clean(value):
