@@ -148,12 +148,13 @@ def matched_topics(item):
     matched = []
     storage_context = bool(re.search(
         r"batter|anode|cathode|solid electrolyte interphase|lithium[- ]rich layered oxide|"
-        r"(?:lithium.{0,30}dendrite|dendrite.{0,30}lithium)",
+        r"(?:lithium.{0,30}dendrite|dendrite.{0,30}lithium)|"
+        r"(?:zinc.{0,30}dendrite|dendrite.{0,30}zinc)|electrode[- ]scale ion transport",
         title_text,
     ))
     ion_material = bool(re.search(
         r"ion[ -]conducting (?:polymer|organo[ -]ionic solid)|single[ -]ion conduct|"
-        r"polymer electrolyte|gel polymer electrolyte|composite polymer electrolyte",
+        r"polymer electrolyte|gel polymer electrolyte|composite polymer electrolyte|hydrogel electrolyte",
         corpus,
     ))
     ion_function = bool(re.search(
@@ -167,7 +168,7 @@ def matched_topics(item):
     solid_state = bool(re.search(
         r"all[ -]solid[ -]state.{0,25}batter|solid[ -]state.{0,25}batter|"
         r"(?:composite|polymer|ceramic|halide|sulfide(?:[ -]chloride)?) solid electrolyte|"
-        r"nasicon electrolyte",
+        r"li\s*\+? solid[- ]state electrolyte|sulfide superionic conductor|nasicon electrolyte",
         corpus,
     )) and not bool(re.search(r"solid electrolyte interphase", title_text))
     if solid_state:
@@ -191,7 +192,8 @@ def matched_topics(item):
     ))
     interface_transport = bool(re.search(
         r"interfac|interphase|solvation|desolvation|dendrite|deposition|plating|"
-        r"ion transport|ionic transport|redox kinetics|kinetic[ -]buffering",
+        r"ion transport|ionic transport|redox kinetics|kinetic[ -]buffering|"
+        r"multi[- ]li\s*\+? clustering|molecular gating",
         title_text,
     ))
     if storage_context and (direct_fast or interface_transport):
