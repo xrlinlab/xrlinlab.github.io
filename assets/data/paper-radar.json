@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:07:46Z",
+  "generatedAt": "2026-10-16T23:06:38Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -79,12 +79,12 @@
       ],
       "summaryZh": "新在哪里：工作提出“锚定–旋转”客体阴离子机制：Mg²⁺ 锚定 DMF 与 TFSI⁻，而进入 Na⁺ 溶剂化壳层的 OTf⁻ 可通过构象旋转与聚合物链上的 Na⁺ 跳迁协同。性能：Na₃V₂(PO₄)₃||Na 在 2C 循环 1100 次后保持 94.2%，94 mAh 软包电池可稳定循环；高电压 Na₃V₂(PO₄)₂O₂F||Na 在 0.5C 循环 1000 次后保持 93.6%。怎么解释：弱化 Na⁺–TFSI⁻ 缔合、降低迁移势垒并形成富无机/Mg–O 界面膜共同改善体相传输和钠界面；20 种聚合物/阴离子体系的比较进一步支持阴离子对称性、旋转周期与有限旋转势垒是相关设计变量。为什么重要：它把“选择什么阴离子”推进到“阴离子能否以合适动力学参与离子跳迁”的可检验分子准则。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Yu Yao",
         "Yan Yu"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -105,13 +105,13 @@
       ],
       "summaryZh": "新在哪里：这项工作给出锂离子电池电解液中多 Li⁺ 簇集的证据，识别出不含配位阴离子的多锂复合体，突破了通常以单个 Li⁺ 第一溶剂化壳层描述电解液的框架。性能：研究重点不是器件循环指标，而是以机器学习原子模拟、核磁共振、电化学和量子化学交叉验证体相结构及其还原活性。怎么解释：多 Li⁺ 复合体表现出更易发生还原的电子结构，因而可把体相溶剂化统计与界面还原、固体电解质界面膜（solid electrolyte interphase, SEI）形成联系起来；作者据此解释含碳酸乙烯酯混合溶剂的有效性，但这仍是由多类证据共同支持的机制解释，并非单一因果实验。为什么重要：它提示电解液设计应控制多离子簇的种类与丰度，而不能只优化平均配位数或单离子溶剂化能。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "John L. Weber",
         "Lauren E. Marbella",
         "Richard A. Friesner"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -132,13 +132,13 @@
       ],
       "summaryZh": "新在哪里：作者将扫描电化学池显微镜与快速扫描循环伏安（fast-scan cyclic voltammetry, FSCV）结合，在单晶 Zn(002)、(100) 和 (101) 晶面上直接量化沉积/剥离动力学及形貌演变。性能：表观交换电流密度顺序为 (100)>(101)>(002)；尽管 (002) 动力学较慢，它在 Zn||Zn 对称电池中寿命最长，并改善两类全电池容量保持。怎么解释：不同晶面同时改变电荷转移、溶解足迹和再生长几何，形成“快动力学不等于高稳定性”的晶面依赖权衡；现有证据支持相关性和跨电解液复现，但不能把寿命差异只归因于单一速率参数。为什么重要：耐久锌负极需要协同控制界面动力学、溶解拓扑与晶体重构，而不是单纯追求更大的交换电流。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Charles Buddie Mullins",
         "Hang Ren",
         "Kent J. X. Zheng"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -159,13 +159,13 @@
       ],
       "summaryZh": "新在哪里：作者不再把空间电荷效应停留在孤立纳米界面，而是把 Na₂O/Na₂CO₃ 异质界面作为局部传输单元，组织成贯穿预制电极的三维网络。性能：25 °C 下局部界面电导估算约 10⁻⁷ S cm⁻¹，显著高于 Na₂O 的 10⁻¹² 和 Na₂CO₃ 的 10⁻²³ S cm⁻¹，并支持稳定固态预钠化及超高倍率钠离子全电池。怎么解释：空间电荷载流子富集与 MOF 介导的晶格畸变被认为分别提高载流子浓度、降低迁移势垒；宏观效果还依赖相界在电极尺度上的连续连通，不能由局部高电导单独保证。为什么重要：它把相界“是否存在”转化为“是否形成可编程贯通网络”的电极级设计问题，为纳米离子学效应落到实际厚电极提供路径。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Hong Li",
         "Zhengwen Fu",
         "Dongyuan Zhao"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -290,11 +290,11 @@
       ],
       "summaryZh": "新在哪里：工作把锌枝晶起始与沉积诱导的局部拉/压应力不均直接关联，并把界面应力场作为可调控变量。性能：选择性吸附于 Zn(100) 晶面的减压添加剂引导 (100) 织构和平整沉积，使 Zn||Zn 对称电池运行 3500 h，Zn||I₂ 全电池在 2 A g⁻¹ 下超过 10000 次循环。怎么解释：应力异质性改变沉积 Zn 的化学势，产生空间化学势梯度和不均匀沉积动力学；均化压应力可降低局部差异并抑制凸起优先生长。添加剂同时会改变晶面与界面化学，因此现有结果支持应力–形貌耦合，但不宜把全部改善归因于应力单因素。为什么重要：这为金属负极提供了区别于溶剂化或成核能调控的“界面力化学”设计轴。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Cuiping Han"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -335,12 +335,12 @@
       ],
       "summaryZh": "新在哪里：作者将水系锌电池失效归因于连续氢键水网络支持的协同反应，并以 4-羟基-2-丁酮作为双位点“分子门控”，把贯通网络切分为低协同性水域。性能：优化电解液中 Zn 沉积/剥离平均库仑效率达 99.12%，持续 800 次；1.0 Ah 级 NVO||Zn 软包循环 70 次几乎无容量衰减。怎么解释：羰基和羟基竞争性结合水，削弱质子接力和析氢反应，同时适度降低 Zn²⁺ 溶剂化壳层的水主导程度，从而减轻局部碱化、钝化和 Zn²⁺ 通量畸变；多过程同时变化，尚不能把稳定性归因于单一氢键指标。为什么重要：它把“降低水活性”细化为控制水网络拓扑连通性，为兼顾离子传输与副反应抑制提供更具体的分子设计变量。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Yangyang Liu",
         "Jiang Zhou"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -948,14 +948,14 @@
       ],
       "summaryZh": "新在哪里：聚(丙烯酰胺-co-马来酸酐)水凝胶同时引入可逆双向质子缓冲和由羧酸盐/酰胺构成的 Zn²⁺ 跳迁位点，把抑制析氢与加快离子迁移放在同一聚合物网络中。性能：Zn²⁺ 迁移数为 0.66，离子电导率 16 mS cm⁻¹；Zn||Zn 在 1 mA cm⁻² 下超过 2700 h，软包 Zn||NaV₃O₈ 在 1 A g⁻¹ 下给出 254 mAh g⁻¹，120 次后保持 80%。怎么解释：羧基/酰胺酸碱平衡缓冲界面质子活度，而配位位点重构 Zn²⁺ 迁移微环境；性能改善同时包含体相传输和界面副反应贡献，尚未完全定量拆分。为什么重要：这是一种用同一动态网络协同管理质子与二价离子的设计思路，可为柔性水系电解质避免“高电导但界面不稳”的常见折中。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Mingshan Wang",
         "Dongling Wu",
         "Guozhong Cao",
         "Xing Li"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -976,11 +976,11 @@
       ],
       "summaryZh": "新在哪里：作者提出 Meyer–Neldel 偏离量（Meyer–Neldel deviation, MND），用材料级指标描述电导–温度关系中表观活化能随温度的变化，而不是强行用单一直线拟合。性能：867 组硫化物数据中超过 40% 显著偏离 Arrhenius 行为；MND 筛选 171 个组成后得到 Li₁₀Ge₀.₃Si₀.₁₅Sn₀.₅₅P₂S₁₂，室温电导率 7.21 mS cm⁻¹、表观活化能 0.288 eV。怎么解释：MND 将低电导/高势垒与超离子/低势垒区分开，并与离子半径失配、电负性差、构型熵和混合热力学相关；跨七类电解质的再处理数据支持可迁移性，但描述符与微观机制仍是统计—物理关联。为什么重要：它提醒固体电解质筛选不能只比较单一活化能，并给出可用于学习和实验排序的温变传输指标。",
       "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Shicheng Yu"
       ],
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
     },
@@ -1002,46 +1002,6 @@
       "summaryZh": "新在哪里：建立结合局部结构序参量（local structure order parameters, LSOPs）与持续同调（persistent homology, PH）的分级筛选，将局部迁移几何和长程通道拓扑同时纳入固态离子导体发现。\n性能：模型在171种已知化合物上测试准确率超过70%；从3664种候选中筛出778种，再经分子动力学评估与实验验证。Li₅SbS₃I₂晶态电导率为8.6 × 10⁻⁸ S cm⁻¹，机械非晶化后提高到8.1 × 10⁻⁵ S cm⁻¹（25 °C）。\n怎么解释：约150°的准线性 Li–Li–Li 路径有利于迁移，而90°急转路径形成障碍；非晶化通过引入缺陷和打破有序约束改善输运。\n为什么重要：工作把“局部角度+全局拓扑”变成可计算判据，也用低于预测的晶态性能暴露了只看局部结构的局限。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Structure of Li3YCl6 and Its Effect on Lithium Ionic Conductivity",
-      "authors": "Jue Liu, Yuanpeng Zhang, Zhantao Liu, Paul Cuillier, Paul Cardon, Megan Murphy, Huiwen Ji, Hailong Chen",
-      "authorsCitation": "J. Liu, Y. Zhang, Z. Liu, P. Cuillier, P. Cardon, M. Murphy, H. Ji, H. Chen",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-17",
-      "volume": "148",
-      "issue": "38",
-      "page": "40743",
-      "doi": "10.1021/jacs.6c06971",
-      "link": "https://doi.org/10.1021/jacs.6c06971",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：研究把 Li₃YCl₆ 长期存在的结构争议归结为六方密堆积阴离子骨架中 Y 空位有序方式及其长度尺度的差异，并比较不同热处理形成的结构。性能：现有摘要未报告新的绝对电导率；动力学蒙特卡洛模拟显示，低温形成的 Y³⁺/空位均匀分布结构具有更均衡的面内 Li⁺ 扩散，而高温分层结构中 Y 贫层传输较快、相邻 Y 富层受到严重阻碍。怎么解释：热处理改变 Y³⁺ 与空位在两类阳离子层中的分配，进而造成相变和各向异性扩散通道；结构解析与模拟共同支持这一关系，但仍需直接动态实验定量验证局域跳迁。为什么重要：卤化物固态电解质的优化关键不只是平均缺陷浓度，还包括空位在空间上的有序尺度与层间连通性。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Revealing Non-Steady-State Structure–Performance Relationship in Plateau-Capacity-Dominated Hard Carbon Anodes for High-Rate Reversible Sodium Storage",
-      "authors": "Qianxiong Wen, Pandeng Zhao, Yun Gao, Hang Zhang, Lin Li, Zhuo Yang, Li Li, Huakun Liu, Shixue Dou, Shulei Chou, Xingqiao Wu",
-      "authorsCitation": "Q. Wen, P. Zhao, Y. Gao, H. Zhang, L. Li, Z. Yang, L. Li, H. Liu, S. Dou, S. Chou, X. Wu",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-17",
-      "volume": "148",
-      "issue": "38",
-      "page": "40992",
-      "doi": "10.1021/jacs.6c10488",
-      "link": "https://doi.org/10.1021/jacs.6c10488",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：挑战硬碳结构—性能关系是固定材料属性的常见认识，提出其钠存储行为会随运行温度动态改变的非稳态结构—性能关系（non-steady-state structure–performance relationship）。\n性能：升温后，同一硬碳在1.0 A g⁻¹下容量由36.89提高至253.97 mAh g⁻¹，其中平台容量由12.75提高至203.42 mAh g⁻¹；Ah级软包与商业圆柱电池的高倍率容量保持率也分别由28.2%提高至85.0%、由60.1%提高至84.5%。\n怎么解释：摘要证据支持升温同时加快离子/电子传输，并形成较薄的无机富集固态电解质界面膜（solid electrolyte interphase, SEI），从而释放孔填充储钠容量；现有信息支持二者协同，但不足以定量区分各自贡献。\n为什么重要：工作说明硬碳结构优化不能脱离实际温度与倍率条件评价，为宽温、高倍率钠离子电池提供了动态而非静态的材料设计框架。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-17T23:05:39Z",
       "summaryPromptVersion": 2
     }
   ],
