@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:06:38Z",
+  "generatedAt": "2026-10-17T23:02:44Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -983,26 +983,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
-    },
-    {
-      "title": "Screening Lithium-Ion Conductors Based on Local and Global Topology",
-      "authors": "Songjia Kong, Ziheng Yu, Kota Suzuki, Satoshi Hori, Satoshi Hiroi, Koji Ohara, Kenta Watanabe, Kuniharu Nomoto, Naoki Matsui, Ryoji Kanno",
-      "authorsCitation": "S. Kong, Z. Yu, K. Suzuki, S. Hori, S. Hiroi, K. Ohara, K. Watanabe, K. Nomoto, N. Matsui, R. Kanno",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-18",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c00345",
-      "link": "https://doi.org/10.1021/jacs.6c00345",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：建立结合局部结构序参量（local structure order parameters, LSOPs）与持续同调（persistent homology, PH）的分级筛选，将局部迁移几何和长程通道拓扑同时纳入固态离子导体发现。\n性能：模型在171种已知化合物上测试准确率超过70%；从3664种候选中筛出778种，再经分子动力学评估与实验验证。Li₅SbS₃I₂晶态电导率为8.6 × 10⁻⁸ S cm⁻¹，机械非晶化后提高到8.1 × 10⁻⁵ S cm⁻¹（25 °C）。\n怎么解释：约150°的准线性 Li–Li–Li 路径有利于迁移，而90°急转路径形成障碍；非晶化通过引入缺陷和打破有序约束改善输运。\n为什么重要：工作把“局部角度+全局拓扑”变成可计算判据，也用低于预测的晶态性能暴露了只看局部结构的局限。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
