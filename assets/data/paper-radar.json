@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:02:44Z",
+  "generatedAt": "2026-10-18T23:06:22Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -902,87 +902,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-23"
-    },
-    {
-      "title": "Electrochemically Self‐Driven Interfacial Selenium Transfer Reshapes Sulfur Redox Pathway in Lithium–Sulfur Batteries",
-      "authors": "Yutong Feng, Cunyi Peng, Shufen Tan, Jian Ma, Xiaoning Li, Tongtong Zhang, Lu Chen, Wei Xu, Ruijin Meng, Chi Zhang, Jinhu Yang",
-      "authorsCitation": "Y. Feng, C. Peng, S. Tan, J. Ma, X. Li, T. Zhang, L. Chen, W. Xu, R. Meng, C. Zhang, J. Yang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-19",
-      "volume": "",
-      "issue": "",
-      "page": "e9043892",
-      "doi": "10.1002/anie.9043892",
-      "link": "https://doi.org/10.1002/anie.9043892",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：不再把CoPSe界面仅视为加速多硫化物转化的静态催化剂，而是利用电化学自驱动的界面阴离子转移（interfacial anion transfer），同时改变硫中间体和催化位点。\n性能：锂—硫电池在5C下实现703 mAh g⁻¹，在2C下循环1000次的单圈容量衰减率为0.016%。\n怎么解释：放电时，界面释放的Se进入含硫中间体，促进键断裂、短链物种形成和Li₂S生成；同时产生的缺Se位点增强多硫化物吸附及液—固转化。摘要证据支持这一耦合演化，但尚不能分离Se转移与缺位催化的独立贡献。\n为什么重要：该工作把界面设计从“加快既有反应”推进到“改写反应路径”，为多步液—固转化体系提供了自适应界面催化思路。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-19T23:01:27Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Ruijin Meng",
-        "Chi Zhang",
-        "Jinhu Yang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-10"
-    },
-    {
-      "title": "Bio‐Inspired Bidirectional Proton Regulatory Mechanisms by Anhydride‐Based Hydrogel Electrolytes for High‐Performance Aqueous Zinc‐Ion Batteries",
-      "authors": "Jingcheng Li, Yuanwei Chu, Xinpeng Li, Tingting Luo, Ruixiang Ying, Mingshan Wang, Dongling Wu, Guozhong Cao, Xing Li",
-      "authorsCitation": "J. Li, Y. Chu, X. Li, T. Luo, R. Ying, M. Wang, D. Wu, G. Cao, X. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-19",
-      "volume": "",
-      "issue": "",
-      "page": "e2735155",
-      "doi": "10.1002/anie.2735155",
-      "link": "https://doi.org/10.1002/anie.2735155",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：聚(丙烯酰胺-co-马来酸酐)水凝胶同时引入可逆双向质子缓冲和由羧酸盐/酰胺构成的 Zn²⁺ 跳迁位点，把抑制析氢与加快离子迁移放在同一聚合物网络中。性能：Zn²⁺ 迁移数为 0.66，离子电导率 16 mS cm⁻¹；Zn||Zn 在 1 mA cm⁻² 下超过 2700 h，软包 Zn||NaV₃O₈ 在 1 A g⁻¹ 下给出 254 mAh g⁻¹，120 次后保持 80%。怎么解释：羧基/酰胺酸碱平衡缓冲界面质子活度，而配位位点重构 Zn²⁺ 迁移微环境；性能改善同时包含体相传输和界面副反应贡献，尚未完全定量拆分。为什么重要：这是一种用同一动态网络协同管理质子与二价离子的设计思路，可为柔性水系电解质避免“高电导但界面不稳”的常见折中。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Mingshan Wang",
-        "Dongling Wu",
-        "Guozhong Cao",
-        "Xing Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-16"
-    },
-    {
-      "title": "A Descriptor for Non‐Arrhenius Ion Transport Enables Design of Sulfide Superionic Conductors",
-      "authors": "Han Zhou, Xiaoxuan Chen, Hermann Tempel, Yong Yang, Boryann Liaw, Shicheng Yu, Rüdiger‐A. Eichel",
-      "authorsCitation": "H. Zhou, X. Chen, H. Tempel, Y. Yang, B. Liaw, S. Yu, R. Eichel",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-19",
-      "volume": "",
-      "issue": "",
-      "page": "e4940262",
-      "doi": "10.1002/anie.4940262",
-      "link": "https://doi.org/10.1002/anie.4940262",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：作者提出 Meyer–Neldel 偏离量（Meyer–Neldel deviation, MND），用材料级指标描述电导–温度关系中表观活化能随温度的变化，而不是强行用单一直线拟合。性能：867 组硫化物数据中超过 40% 显著偏离 Arrhenius 行为；MND 筛选 171 个组成后得到 Li₁₀Ge₀.₃Si₀.₁₅Sn₀.₅₅P₂S₁₂，室温电导率 7.21 mS cm⁻¹、表观活化能 0.288 eV。怎么解释：MND 将低电导/高势垒与超离子/低势垒区分开，并与离子半径失配、电负性差、构型熵和混合热力学相关；跨七类电解质的再处理数据支持可迁移性，但描述符与微观机制仍是统计—物理关联。为什么重要：它提醒固体电解质筛选不能只比较单一活化能，并给出可用于学习和实验排序的温变传输指标。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Shicheng Yu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-16"
     }
   ],
   "source": "Crossref",
