@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:06:22Z",
+  "generatedAt": "2026-10-19T22:57:40Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Symmetry-Broken Coordination of Single-Atom Catalysts Unlocks Spin- and Orbital-Regulated Sulfur Redox in Lithium–Sulfur Batteries",
+      "authors": "Tao Shen, Mengyu Xie, Qianhong Gong, Zhaoyang Han, Jiaao Wang, Lei Chen, Jie Zhang, Jirong Mou, Yu-Hui Zhu, Juan Lian, Wei Bi, Yihan Yang, Zhenyu Xiao, Chao Yuan, Ke Chen, Konglin Wu, Sen Xin, Andreu Cabot, Dawei Yang",
+      "authorsCitation": "T. Shen, M. Xie, Q. Gong, Z. Han, J. Wang, L. Chen, J. Zhang, J. Mou, Y.-H. Zhu, J. Lian, W. Bi, Y. Yang, Z. Xiao, C. Yuan, K. Chen, K. Wu, S. Xin, A. Cabot, D. Yang",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-19",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c17922",
+      "link": "https://doi.org/10.1021/jacs.6c17922",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：作者将钴单原子位点由近对称配位改造成不对称 Cl–Co–N₃ 配位，直接把配位场、Co(II) 自旋态与硫氧化还原反应（sulfur redox reaction, SRR）催化联系起来，而不只是比较不同单原子催化剂的经验性能。\n性能：采用 CoClNC/S 正极的锂–硫电池报告平均每圈容量衰减率为 0.023%；现有摘要未给出对应循环次数及更完整倍率条件，因此不作额外外推。\n怎么解释：Cl 配位被认为促进 Co(II) 电子离域，使其由低自旋向较高自旋态转变，并增强 d_z² 轨道与多硫化物 π* 反键轨道的杂化；同时较低的 d 带电子占据有利于硫物种吸附和转化。摘要证据支持配位—电子结构—动力学的关联，但尚不能单独量化自旋变化与吸附增强各自的贡献。\n为什么重要：该工作把单原子催化剂设计从元素和配位数筛选推进到可调自旋与轨道耦合，为多步硫转化反应提供了更明确的电子结构设计变量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-19T22:59:17Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Hierarchical Ion-Conducting Materials Based on Polymer-Aligned Nanoparticles within Poly(vinyl benzyl methoxy poly(ethylene oxide) ether)- block -polystyrene Diblock Copolymer",
       "authors": "Leire Unanue, Monika Król, Gabriele Lingua, Jorge L. Olmedo-Martínez, Alejandro Herranz Berzosa, Sven Schneider, Agnieszka Tercjak, Janne Ruokolainen, Patrick Théato, Alejandro J. Müller, David Mecerreyes",
