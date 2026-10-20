@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:57:40Z",
+  "generatedAt": "2026-10-20T23:05:08Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Physically Grounded Descriptors for Machine-Learning-Guided Diluent Design in Lithium Metal Batteries",
+      "authors": "Myeongjun Kim, Chihyun Nam, Hyunmin Lee, Seyeon Shin, Songha Seo, Woojin Chong, Yejin Lee, Munsoo Song, Jongwoo Lim",
+      "authorsCitation": "M. Kim, C. Nam, H. Lee, S. Shin, S. Seo, W. Chong, Y. Lee, M. Song, J. Lim",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-20",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c16379",
+      "link": "https://doi.org/10.1021/jacs.6c16379",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：作者不再用单一供体数或含氟程度经验筛选局部高浓度电解液（localized high-concentration electrolyte, LHCE）稀释剂，而是将“局部电子对给体能力”和“分布式静电作用”拆成两个可计算坐标：BF₃ 亲和力与分子极性指数（molecular polarity index, MPI）。\n\n性能：结合不确定性感知机器学习筛选 132 万个无氟分子，得到 368 个候选；其中 1,2,4-三甲苯和 2-乙基甲苯支持锂金属全电池稳定循环超过 200 圈，而被描述符排除的类似物快速衰减。\n\n怎么解释：低 BF₃ 亲和力用于约束稀释剂不直接配位 Li⁺、保留 Li⁺–阴离子聚集体；适当 MPI 则表征其与主体溶剂保持混溶所需的分布式静电作用。成对描述符把“不配位”和“可混溶”两项相互竞争的要求分开；摘要证据支持预测关联，但尚不足以将循环提升唯一归因于某一描述符。\n\n为什么重要：该工作把稀释剂发现从“多氟化、试配方”推进到物理可解释的分子坐标，并给出无氟候选路线，对降低持久性含氟分子的依赖具有直接意义。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-20T23:08:10Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Symmetry-Broken Coordination of Single-Atom Catalysts Unlocks Spin- and Orbital-Regulated Sulfur Redox in Lithium–Sulfur Batteries",
       "authors": "Tao Shen, Mengyu Xie, Qianhong Gong, Zhaoyang Han, Jiaao Wang, Lei Chen, Jie Zhang, Jirong Mou, Yu-Hui Zhu, Juan Lian, Wei Bi, Yihan Yang, Zhenyu Xiao, Chao Yuan, Ke Chen, Konglin Wu, Sen Xin, Andreu Cabot, Dawei Yang",
@@ -891,34 +911,6 @@
       "correspondingAuthors": [
         "Chi-Cheung Su",
         "Khalil Amine"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-23"
-    },
-    {
-      "title": "Tailoring Local Anion Chemistry Affinity Enables Stable Halide–Sulfide Interfaces and Fast Ion Transport in Dual‐Electrolyte all‐Solid‐State Batteries",
-      "authors": "Jie Qu, Xingyu Wang, Huaimin Jin, Changtai Zhao, Jianwen Liang, Xueliang Sun, Xiaona Li",
-      "authorsCitation": "J. Qu, X. Wang, H. Jin, C. Zhao, J. Liang, X. Sun, X. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-21",
-      "volume": "",
-      "issue": "",
-      "page": "e5372994",
-      "doi": "10.1002/anie.5372994",
-      "link": "https://doi.org/10.1002/anie.5372994",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：不再用外加涂层隔开卤化物与硫化物，而是硫化非晶Li₂O–TaCl₅，同时重构短程配位和中程拓扑，使两类固态电解质在局部阴离子化学上内生兼容。\n性能：硫化后的卤化物离子电导率达到14.2 mS cm⁻¹；NCM89|8S-LTOC|LPSC|Li-In电池在−50 °C提供131 mAh g⁻¹，在15C循环2000次，并实现最高21.7 mAh cm⁻²的面容量。\n怎么解释：富硫局部基元降低继续硫取代的热力学驱动力，含硫中程网络则增强与LPSC中PS₄基元的结合；与此同时，结构异质性和连通Li⁺通道提高体相传输。摘要支持化学亲和性与传输同步改善，但界面稳定和高电导对器件性能的贡献尚未被独立量化。\n为什么重要：该工作把“界面缓冲层”问题转化为可调的局部配位—中程拓扑匹配问题。对聚合物体系可迁移的变量是界面两侧配位基元的化学亲和性及通道连通性，而不是照搬硫化处理。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-22T23:20:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Jianwen Liang",
-        "Xueliang Sun",
-        "Xiaona Li"
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-09-23"
