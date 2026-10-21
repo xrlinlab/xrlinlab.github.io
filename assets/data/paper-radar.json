@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:05:08Z",
+  "generatedAt": "2026-10-21T23:04:23Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Kinetic Control of Polymorphism in Li10.5Si1.5P1.5S12–Based Solid Electrolytes",
+      "authors": "Jingui Yang, Ramon Zimmermanns, Maik Schmitt, Torsten Brezesinski, Florian Strauss",
+      "authorsCitation": "J. Yang, R. Zimmermanns, M. Schmitt, T. Brezesinski, F. Strauss",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-21",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c14489",
+      "link": "https://doi.org/10.1021/jacs.6c14489",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ],
+      "summaryZh": "新在哪里：作者把无锗 Li₁₀.₅Si₁.₅P₁.₅S₁₂ 型固态电解质的多晶型选择，从静态组成问题转化为可调的结晶与相变动力学问题，并用 LiI 添加剂控制亚稳正交相向稳定四方相的演化。\n\n性能：所得双相材料被用于锂硫固态电池以验证应用可行性；出版社摘要未给出离子电导率、倍率或循环寿命等可核验数值，因此不作定量外推。\n\n怎么解释：原位高温同步辐射衍射、总散射/对分布函数和差示扫描量热表明，体系先形成亚稳正交相，再在升温时转为四方相；LiI 通过调节正交相结晶，使该相变在更低温度、更快发生。中子衍射进一步显示，碘并未进入最终四方晶格，而是形成 Li₄PS₄I 型第二相，同时伴随 Si/P 比和锂子晶格的细微改变。\n\n为什么重要：这项工作说明添加剂的价值不一定来自最终掺杂，而可能来自对成核、结晶和多晶型转化路径的动力学控制；这为 LGPS 型固态电解质的相组成与微结构工程提供了比名义配方更直接的设计变量。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-21T23:10:14Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Physically Grounded Descriptors for Machine-Learning-Guided Diluent Design in Lithium Metal Batteries",
       "authors": "Myeongjun Kim, Chihyun Nam, Hyunmin Lee, Seyeon Shin, Songha Seo, Woojin Chong, Yejin Lee, Munsoo Song, Jongwoo Lim",
@@ -294,9 +314,9 @@
       "authorsCitation": "A. Chaupatnaik, Z. R. Tan, G. Rousse, M. Calandra, L.-M. Chamoreau, C. Morel, V. Sarou-Kanian, H. Vezin, M. Deschamps, J.-M. Tarascon",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-07",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "41",
+      "page": "44688",
       "doi": "10.1021/jacs.6c14058",
       "link": "https://doi.org/10.1021/jacs.6c14058",
       "abstract": "",
@@ -319,9 +339,9 @@
       "authorsCitation": "B. Tang, H. Gan, X. Zhong, H. Li, Y. Xing, R. Liu, F. Hong, Q. Lu, C. Han",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-06",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "41",
+      "page": "44921",
       "doi": "10.1021/jacs.6c15035",
       "link": "https://doi.org/10.1021/jacs.6c15035",
       "abstract": "",
@@ -343,10 +363,10 @@
       "authors": "Qianfeng Zheng, Yanxin Jiang, Guoqiang He, Zhiqiang Yang, Lu Chen, Hongji Pan, Zhaoan Lu, Chenhui Ning, Mingnan Song, Jianping Luo, Jingjing Ouyang, Yan Su, Yi Lv, Huaifang Shang, Lin Zeng, Chao Luo, Yiju Li, Shaojun Guo",
       "authorsCitation": "Q. Zheng, Y. Jiang, G. He, Z. Yang, L. Chen, H. Pan, Z. Lu, C. Ning, M. Song, J. Luo, J. Ouyang, Y. Su, Y. Lv, H. Shang, L. Zeng, C. Luo, Y. Li, S. Guo",
       "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-06",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "publicationDate": "2026-10-05",
+      "volume": "148",
+      "issue": "41",
+      "page": "44470",
       "doi": "10.1021/jacs.6c12182",
       "link": "https://doi.org/10.1021/jacs.6c12182",
       "abstract": "",
@@ -840,80 +860,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-14"
-    },
-    {
-      "title": "“Electronic Sponge” Strategy Enables Polyether Electrolytes for High-Voltage and Fast-Charging Quasi-Solid-State Batteries",
-      "authors": "Lifen Zhang, Song Duan, Bingsen Qin, Zongtao Lu, Hongyao Wang, Peng Wang, Zhenghao Li, Zhiyang Yu, Wei Yan, Jiujun Zhang, Yun Zheng",
-      "authorsCitation": "L. Zhang, S. Duan, B. Qin, Z. Lu, H. Wang, P. Wang, Z. Li, Z. Yu, W. Yan, J. Zhang, Y. Zheng",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-09-22",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c11268",
-      "link": "https://doi.org/10.1021/jacs.6c11268",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：通过兼具受电子与给电子作用的“电子海绵”（electronic sponge）同时调弱聚醚氧对Li⁺的配位，并促进盐阴离子参与界面成膜，试图把体相传输、高压稳定性和界面化学放进同一个电子调控框架。\n性能：电解质在25 °C的离子电导率为1.61 mS cm⁻¹、Li⁺迁移数为0.84；Li‖Li在0.5 mA cm⁻²下循环超过1000 h。Li‖NCM811在4.6 V循环300次后容量保持率为82.5%，在4.5 V、5C循环500次后保持82.6%。\n怎么解释：电子海绵降低醚氧电子密度、削弱Li⁺–O配位，同时向盐阴离子供电子，促进形成富LiF的固态电解质界面/正极电解质界面（SEI/CEI）。摘要支持电子结构、传输和界面组成之间的关联，但尚不足以定量拆分三者对快充性能的独立贡献。\n为什么重要：工作提供了比单纯降低结晶度更集中的分子设计变量，即用电子效应同时调控聚合物配位与界面反应；其普适性仍需通过不同聚醚骨架验证。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-22T23:20:00Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Manipulating Fluorinated Nanochannels in Porous Aromatic Frameworks for Ultra‐Stable Sodium‐Ion Transport",
-      "authors": "Zihao Wang, Chuan‐Wei Zhou, Heng‐Guo Wang, Jiangtao Jia, Guangshan Zhu",
-      "authorsCitation": "Z. Wang, C. Zhou, H. Wang, J. Jia, G. Zhu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-22",
-      "volume": "",
-      "issue": "",
-      "page": "e7843737",
-      "doi": "10.1002/anie.7843737",
-      "link": "https://doi.org/10.1002/anie.7843737",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：在多孔芳香骨架中接枝柔性全氟烷基链，构造弱配位含氟纳米通道，同时调节 Na⁺ 解离、通道输运与界面成膜。\n性能：准固态电解质的离子电导率为2.79 × 10⁻⁴ S cm⁻¹，Na⁺迁移数为0.562，电化学窗口为4.98 V；对称电池稳定沉积/剥离超过5700 h，全电池循环1300次后容量保持率为91.3%，−20 °C下运行超过4000次。\n怎么解释：弱配位环境促进离子对解离，含氟链极化辅助 Na⁺ 沿限域通道迁移，并诱导形成富 NaF 界面。摘要支持这些因素与性能的关联，但尚未独立量化通道限域与界面化学的贡献。\n为什么重要：该工作把纳米通道化学同时连接体相输运和界面稳定，为准固态电解质中“通道—溶剂化—界面”的协同设计提供了路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Heng-Guo Wang",
-        "Jiangtao Jia",
-        "Guangshan Zhu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-08"
-    },
-    {
-      "title": "Alkoxyethyl Acetate Electrolytes for High‐Voltage Lithium Metal Batteries",
-      "authors": "Xinlin Li, Xianyang Wu, Xueping Qin, Sapna L. Ramesh, Hasnain Hafiz, Jeffrey Lopez, Changzhi Ai, Matthew Li, Rachid Amine, Meinan He, Chi‐Cheung Su, Khalil Amine",
-      "authorsCitation": "X. Li, X. Wu, X. Qin, S. L. Ramesh, H. Hafiz, J. Lopez, C. Ai, M. Li, R. Amine, M. He, C. Su, K. Amine",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-22",
-      "volume": "",
-      "issue": "",
-      "page": "e2561729",
-      "doi": "10.1002/anie.2561729",
-      "link": "https://doi.org/10.1002/anie.2561729",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：把醚骨架一端转化为羰基、另一端引入三氟甲基，构建烷氧乙基乙酸酯溶剂TFE-EA，以打破常规醚的对称双齿溶剂化（symmetric bidentate solvation），并分别调控羰基氧和醚氧的配位与氧化反应性。\n性能：在4.5 V的Li‖NMC811电池中，TFE-EA体系循环200次后容量保持率为73%，对应醚ETFE-EE为42%；前100次平均库仑效率分别为99.6%和99.2%。在2.7 mAh cm⁻²正极和50 μm锂箔条件下可稳定循环100次。\n怎么解释：羰基主导Li⁺配位并破坏醚类双齿配位，三氟甲基进一步降低醚氧的溶剂化能力和氧化反应性。非氟化酯/对应醚对照表明酯化本身已提升高压稳定性，氟化进一步放大效果；锂负极稳定仍明显依赖FEC成膜。\n为什么重要：这项工作给出了较干净的“酯化—氟化”逐级分子对照，可用于区分溶剂化重构与含氟界面化学；但尚不能据此认为可取消FEC。",
-      "summarySource": "publisher-fulltext",
-      "summaryGeneratedAt": "2026-09-22T23:20:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Chi-Cheung Su",
-        "Khalil Amine"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-23"
     }
   ],
   "source": "Crossref",
