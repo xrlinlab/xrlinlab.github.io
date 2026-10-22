@@ -46,6 +46,10 @@ EXCLUDED_DOIS = {
     "10.1021/jacs.6c15213",  # Mg-metal battery separator/solvation; outside the configured lithium/solid-state scope
     "10.1021/jacs.6c15661",  # oxychloride stacking/band structure; battery appears only as background context
     "10.1016/j.joule.2026.102706",  # Joule preview of a Nature Nanotechnology study; not a distinct research article
+    "10.1021/jacs.6c15210",  # anode-free potassium-metal battery; outside configured lithium/solid-state scope
+    "10.1002/anie.5594912",  # Li-rich cathode binder/anionic-redox study; outside configured electrolyte scope
+    "10.1126/science.ael3782",  # Science Perspective accompanying a research article; not a distinct study
+    "10.1038/s41563-026-02757-6",  # Nature Materials News & Views; not a distinct research article
 }
 
 def clean(value):

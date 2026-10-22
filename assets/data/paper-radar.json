@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:04:23Z",
+  "generatedAt": "2026-10-22T23:07:37Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Dual-Polyhedral Distortion for Low-Cost Amorphous Halide Electrolytes with Improved Ionic Conductivity",
+      "authors": "Zewen Zhu, Changkun Cai, Yongkang Jiang, Junbo Cui, Zhao Chen, Xuefeng Wang, Yaxiang Lu, Xuejie Huang, Fei Xie, Liquan Chen, Yong-Sheng Hu",
+      "authorsCitation": "Z. Zhu, C. Cai, Y. Jiang, J. Cui, Z. Chen, X. Wang, Y. Lu, X. Huang, F. Xie, L. Chen, Y.-S. Hu",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-22",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c04535",
+      "link": "https://doi.org/10.1021/jacs.6c04535",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ],
+      "summaryZh": "新在哪里：作者提出“双多面体畸变”（dual-polyhedral distortion）策略，用低成本 NaBF₄ 与 ZrCl₄ 经一步机械化学反应制备非晶卤化物固态电解质（amorphous halide solid electrolyte, AHSE），把两类配位多面体的协同畸变作为构建无序钠离子通道的结构变量。\n\n性能：0.5NaBF₄–ZrCl₄ 在 30 °C 的 Na⁺ 电导率达到 1.01 mS cm⁻¹，氧化稳定上限为 4.33 V（相对于 Na⁺/Na）；组装的全固态钠电池在 2.5–4.2 V、0.2 C 下循环 400 次后容量保持率为 71.5%。\n\n怎么解释：出版社摘要提出，机械化学活化下 Zr⁴⁺ 与 B³⁺ 对阴离子的竞争配位促进 F⁻/Cl⁻ 重排，形成同时畸变的配位多面体及长程无序骨架，从而有利于各向同性 Na⁺ 传输。现有摘要支持结构无序与输运改善的关联，但不足以单独量化两类多面体畸变各自的贡献。\n\n为什么重要：该工作把廉价前驱体之间的竞争配位和局部多面体畸变转化为非晶电解质的设计准则，为兼顾成本、电导率与高电压稳定性提供了比单纯扩大成分筛选更明确的结构路径。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-22T23:15:00Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Kinetic Control of Polymorphism in Li10.5Si1.5P1.5S12–Based Solid Electrolytes",
       "authors": "Jingui Yang, Ramon Zimmermanns, Maik Schmitt, Torsten Brezesinski, Florian Strauss",
@@ -764,102 +784,6 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-26T02:45:00Z",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Inoculating lithium against dendrites",
-      "authors": "Naga Phani B. Aetukuri",
-      "authorsCitation": "N. P. B. Aetukuri",
-      "journal": "Nature Materials",
-      "publicationDate": "2026-09-24",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1038/s41563-026-02757-6",
-      "link": "https://doi.org/10.1038/s41563-026-02757-6",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：这篇 News & Views 讨论用少量 Mg–La 成核颗粒对锂金属进行“晶粒接种”，把锂沉积晶粒尺寸和空洞演化设为可控变量。\n性能：被评论的研究显示，细化锂晶粒可延缓空洞长大，并提高全固态电池中的临界电流密度与倍率能力；评论正文未给出统一可直接比较的完整数值集。\n怎么解释：分散的异质成核位点促进均匀成核和细晶沉积，改善剥离时的形变协调与界面接触，因此抑制空洞集中和后续枝晶风险。\n为什么重要：它把“锂的初始晶体学与微结构状态”从结果变量变成界面稳定性的前置设计变量，但结论仍需在不同固态电解质和压力条件下验证。",
-      "summarySource": "publisher-fulltext",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Naga Phani B. Aetukuri"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-08"
-    },
-    {
-      "title": "Finding hidden factors of a battery’s life",
-      "authors": "Bing Joe Hwang",
-      "authorsCitation": "B. J. Hwang",
-      "journal": "Science",
-      "publicationDate": "2026-09-24",
-      "volume": "393",
-      "issue": "6818",
-      "page": "1298",
-      "doi": "10.1126/science.ael3782",
-      "link": "https://doi.org/10.1126/science.ael3782",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：这篇 Science Perspective 评述用两个定量描述符拆分锂金属电池失效：失活锂中死锂与固态电解质界面膜（SEI）的相对贡献，以及 SEI–死锂之间的交换强度。\n性能：文章本身是评论，不提供独立器件性能；其重点是说明高库仑效率并不足以判别长期失效来源。\n怎么解释：描述符可区分电子接触丧失造成的死锂，与离子交换路径衰减造成的界面失联，从而解释不同电解液中相近效率背后的不同失效模式。\n为什么重要：它把锂损失从总量指标推进到可区分机制的诊断判据，可直接用于检验 SEI 化学稳定性与机械适应性是否同时满足。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Tandem Interphase Design Achieves Two‐Year Cycling of Aqueous Zinc Metal Batteries Under Extreme Conditions",
-      "authors": "Kun Xu, Ruxia Han, Wei Gao, Zhengchunyu Zhang, Jinkui Feng, Baojuan Xi, Shenglin Xiong",
-      "authorsCitation": "K. Xu, R. Han, W. Gao, Z. Zhang, J. Feng, B. Xi, S. Xiong",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-23",
-      "volume": "",
-      "issue": "",
-      "page": "e4098089",
-      "doi": "10.1002/anie.4098089",
-      "link": "https://doi.org/10.1002/anie.4098089",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：针对单一界面层难以同时满足快速脱溶剂化与稳定锌沉积的矛盾，构建外层亲水、内层亲锌的串联界面（outer-hydrophilic/inner-zincophilic tandem interphase, OHIZ），分别承担Zn²⁺传输与沉积调控。\n性能：CCNT-Sn/Zn对称电池在−30 °C下稳定运行超过两年，并可在100 mA cm⁻²及最低−86 °C条件下工作；1.3 Ah CCNT-Sn/Zn‖LiMn₂O₄软包电池循环100次后容量保持率为94%。\n怎么解释：外层羧化碳纳米管促进润湿和Zn²⁺脱溶剂化，内层Sn提供亲锌沉积位点；低温下Sn由β相自发转变为α相，并与更快的离子传输相对应。现有证据支持分层功能协同，但摘要不足以定量拆分两层对超长寿命的独立贡献。\n为什么重要：该工作把界面层内部的空间功能分工设为设计变量，说明相互矛盾的传输与沉积需求不必由同一种表面化学同时满足；这一串联界面思路可迁移到其他金属负极体系。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-23T23:20:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Shenglin Xiong"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-24"
-    },
-    {
-      "title": "Fast‐Charging All‐Solid‐State Lithium Selenium–Tellurium Batteries Enabled by Se–Te Alloy Cathode",
-      "authors": "Shufeng Song, Zhixu Long, Chengtao Xiang, Weihua Liang, Wei Xue, Hongyang Shan, Nur Chamidah, Kentaro Yamamoto, Masashi Kotobuki, Chaohe Xu, Guangsheng Huang, Ning Hu",
-      "authorsCitation": "S. Song, Z. Long, C. Xiang, W. Liang, W. Xue, H. Shan, N. Chamidah, K. Yamamoto, M. Kotobuki, C. Xu, G. Huang, N. Hu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-23",
-      "volume": "",
-      "issue": "",
-      "page": "e9950898",
-      "doi": "10.1002/anie.9950898",
-      "link": "https://doi.org/10.1002/anie.9950898",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：采用以非晶态为主的Se₀.₈Te₀.₂合金正极，并利用机械球磨时合金与硫银锗矿Li₅.₄PS₄.₄Cl₁.₆之间的协同氧化还原，原位形成表面富集的Li₂TeS₃/LiCl层和体相混合的Li₂Se物种，以预构筑反应界面而非单纯提高固态电解质电导率。\n性能：电池在0.1C下提供971.2 mAh g⁻¹容量，在5C（7.7 mA cm⁻²）下实现快充，并在2.5 mg cm⁻²负载下循环超过2200次；当负载提高至9.68 mg cm⁻²时，在0.5C循环200次后仍保持3.03 mAh cm⁻²面容量。\n怎么解释：非晶Se–Te降低固态转化反应的结构重排约束，球磨诱导生成的Li₂TeS₃/LiCl界面层和Li₂Se混合相则与更快的Li⁺传输及氧化还原动力学相对应。摘要支持这些物种与性能的关联，但尚不足以定量拆分非晶结构和预反应界面的独立贡献。\n为什么重要：该工作把固态转化型正极的界面预反应和非晶合金化设为可控变量，为绕开固–固反应迟缓提供了路线；其适用性仍需在更高面容量和有限锂条件下检验。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-09-24T23:20:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Shufeng Song"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-14"
     }
   ],
   "source": "Crossref",
