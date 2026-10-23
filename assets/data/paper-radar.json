@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:07:37Z",
+  "generatedAt": "2026-10-23T23:11:23Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,32 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Surfactant‐Mediated “ Oil‐in‐Water ” Electrolyte Design via Sonochemical Assembly: Low‐Dielectric Interfacial Regulation for Ultrastable Aqueous Zinc Batteries",
+      "authors": "Xiaolong Ren, Ping Xiao, Jiwei Zhang, Shaowei Jin, Jianyuan Wang, Wei Zhai",
+      "authorsCitation": "X. Ren, P. Xiao, J. Zhang, S. Jin, J. Wang, W. Zhai",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-23",
+      "volume": "",
+      "issue": "",
+      "page": "e9631370",
+      "doi": "10.1002/anie.9631370",
+      "link": "https://doi.org/10.1002/anie.9631370",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：作者提出表面活性剂介导的“水包油”电解液（surfactant-mediated oil-in-water electrolyte, SMOW），用超声化学自组装把难溶于水的疏水分子封装进胶束，使原本受水溶性限制的界面调控组分能够进入水系锌电池电解液。\n\n性能：在 10 mA cm⁻² 下，锌负极稳定循环超过 3900 h；Zn||I₂ 全电池在 5 A g⁻¹ 下循环超过 10000 次，出版社摘要称容量衰减可忽略。\n\n怎么解释：出版社摘要显示，胶束受界面静电排斥后在锌表面释放疏水分子，形成低介电界面屏障（low-dielectric interfacial shield），一方面促进 Zn²⁺ 去溶剂化，另一方面隔离活性水，从而获得致密、无枝晶沉积并抑制副反应。现有摘要支持这一协同关联，但尚不能量化疏水分子与表面活性剂各自的独立贡献。\n\n为什么重要：这项工作把“如何把疏水功能分子稳定送达水系电极界面”转化为可设计的胶束递送与介电调控问题，为突破水系电解液的溶解度约束提供了不同于继续筛选亲水添加剂的路径。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-23T23:20:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Ping Xiao",
+        "Wei Zhai"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-24"
+    },
     {
       "title": "Dual-Polyhedral Distortion for Low-Cost Amorphous Halide Electrolytes with Improved Ionic Conductivity",
       "authors": "Zewen Zhu, Changkun Cai, Yongkang Jiang, Junbo Cui, Zhao Chen, Xuefeng Wang, Yaxiang Lu, Xuejie Huang, Fei Xie, Liquan Chen, Yong-Sheng Hu",
@@ -763,26 +789,6 @@
       "summaryZh": "新在哪里：把聚离子液体/离子液体混合物中的局部组成异质性，而不是仅把玻璃化温度或聚合物含量，作为离子输运解耦的控制变量。\n性能：中间组成出现两个玻璃化转变；随聚合物比例增加，离子输运与结构弛豫的解耦增强，并在中间组成达到最大。摘要未报告绝对电导率。\n怎么解释：黏弹谱与介电谱对比表明，均相体系中的输运受整体结构弛豫支配，而异质体系中离子优先经过低玻璃化温度区域，从而部分摆脱主链弛豫限制。\n为什么重要：该结果把局部相区连通性引入聚合物电解质设计，为在不单纯依赖增塑的情况下调节输运提供了可测变量。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Unlocking cycle life of lithium metal batteries",
-      "authors": "Zheng Li, Chang-Xin Zhao, Yuchen Niu, Dejian Dong, Tengrui Wang, Yue Li, Nan Zhang, Yawei Chen, Pei Li, Weiran Zhang, Joseph Burke Roschella, Xilin Chen, Fu Chen, Yijie Liu, Ai-Min Li, Chunsheng Wang",
-      "authorsCitation": "Z. Li, C.-X. Zhao, Y. Niu, D. Dong, T. Wang, Y. Li, N. Zhang, Y. Chen, P. Li, W. Zhang, J. B. Roschella, X. Chen, F. Chen, Y. Liu, A.-M. Li, C. Wang",
-      "journal": "Science",
-      "publicationDate": "2026-09-24",
-      "volume": "393",
-      "issue": "6818",
-      "page": "eaee1630",
-      "doi": "10.1126/science.aee1630",
-      "link": "https://doi.org/10.1126/science.aee1630",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：这项工作指出，锂金属电池中常用的锂沉积/剥离库仑效率（lithium Coulombic efficiency, Li CE）并不是可靠的循环寿命判据；即使 Li CE 更高，电池仍可能因电解液被持续消耗而提前失效。性能：研究面向超贫液、高能量密度锂金属电池，建立了固态电解质界面膜（solid electrolyte interphase, SEI）质量、电解液消耗和循环寿命之间的定量关系，用于比单独依赖 Li CE 更准确地预测寿命。怎么解释：不稳定 SEI 会持续消耗电解液并最终导致干涸；与此同时，负极生成的可溶性阴离子物种迁移到正极并被氧化，从电解质盐中释放 Li⁺，形成负极—正极串扰（anode-to-cathode cross-talk）驱动的锂补偿。该补偿会暂时掩盖活性锂损失，使 Li CE 与真实寿命脱钩。为什么重要：工作把设计目标从追求单一的高 Li CE，推进到同时约束 SEI 质量、电解液寿命和跨电极物种迁移，为超贫液锂金属电池提出了可量化的寿命判据与电解液设计边界。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-26T02:45:00Z",
       "summaryPromptVersion": 2
     }
   ],
