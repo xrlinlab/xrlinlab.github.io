@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:11:23Z",
+  "generatedAt": "2026-10-24T23:06:46Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Reusable and Robust Hydrogel With Dynamic Sacrificial S─S Bonds: In Situ Construction of an Integrated SEI/Hydrogel Interface for Highly Stable Zn–I 2 Batteries",
+      "authors": "Peng Li, Jinping Wu, Zihan Zhu, Jing Tang, Ling Zhu, Liya Wang, Xuan Tang, Fangfang Ruan, Huibing He, Ning Zhao, Dongdong Li",
+      "authorsCitation": "P. Li, J. Wu, Z. Zhu, J. Tang, L. Zhu, L. Wang, X. Tang, F. Ruan, H. He, N. Zhao, D. Li",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-24",
+      "volume": "",
+      "issue": "",
+      "page": "e7908002",
+      "doi": "10.1002/anie.7908002",
+      "link": "https://doi.org/10.1002/anie.7908002",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：作者通过原位凝胶化与界面电化学还原，在锌负极上构建一体化固态电解质界面膜/聚脲–聚氨酯水凝胶界面（solid-electrolyte interphase/polyurea–polyurethane hydrogel interface, SEI/PUMA），并把可断裂的动态二硫键作为界面成膜与耗散能量的牺牲单元。\n\n性能：PUMA@Zn 的 Zn²⁺ 迁移数为 0.79；对称电池在 1 mA cm⁻²、0.5 mAh cm⁻² 下循环 5080 h。PUMA@Zn||I₂ 全电池在 4 A g⁻¹ 下循环 43000 次后容量保持率为 88%，在 16.58 mg cm⁻² 的高碘载量下仍运行超过 11000 次。\n\n怎么解释：聚脲–聚氨酯硬段中的八重氢键、Zn²⁺ 配位和动态 S─S 键提供多级能量耗散并调节界面水；富含羧酸与磺酸基的聚阴离子软段形成低势垒、离子选择性通道，以缓解浓差极化并均匀 Zn²⁺ 沉积。界面 S─S 键在还原过程中断裂，参与形成与水凝胶化学耦合的 SEI。出版社摘要支持这些结构与性能之间的协同关联，但尚未拆分各类动态键和聚阴离子通道的独立贡献。\n\n为什么重要：该工作没有只在水凝胶的力学强度和电导率之间做配方折中，而是让网络中的牺牲键在工作过程中转化为稳定界面，从而把体相韧性、选择性离子传输和界面成膜纳入同一材料设计。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-24T23:15:00Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Surfactant‐Mediated “ Oil‐in‐Water ” Electrolyte Design via Sonochemical Assembly: Low‐Dielectric Interfacial Regulation for Ultrastable Aqueous Zinc Batteries",
       "authors": "Xiaolong Ren, Ping Xiao, Jiwei Zhang, Shaowei Jin, Jianyuan Wang, Wei Zhai",
@@ -770,26 +790,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-08"
-    },
-    {
-      "title": "Thermal, Viscoelastic, and Dielectric Properties of Vinylimidazolium-Based Poly(ionic liquid)/Ionic Liquid Mixtures",
-      "authors": "Atsushi Matsumoto, Haruki Izutsu, Hiroto Aoki, Kensei Otsuka, Osamu Urakawa, Tadashi Inoue, Shinji Sugihara, Yasushi Maeda",
-      "authorsCitation": "A. Matsumoto, H. Izutsu, H. Aoki, K. Otsuka, O. Urakawa, T. Inoue, S. Sugihara, Y. Maeda",
-      "journal": "Macromolecules",
-      "publicationDate": "2026-09-25",
-      "volume": "59",
-      "issue": "19",
-      "page": "11090",
-      "doi": "10.1021/acs.macromol.6c01159",
-      "link": "https://doi.org/10.1021/acs.macromol.6c01159",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：把聚离子液体/离子液体混合物中的局部组成异质性，而不是仅把玻璃化温度或聚合物含量，作为离子输运解耦的控制变量。\n性能：中间组成出现两个玻璃化转变；随聚合物比例增加，离子输运与结构弛豫的解耦增强，并在中间组成达到最大。摘要未报告绝对电导率。\n怎么解释：黏弹谱与介电谱对比表明，均相体系中的输运受整体结构弛豫支配，而异质体系中离子优先经过低玻璃化温度区域，从而部分摆脱主链弛豫限制。\n为什么重要：该结果把局部相区连通性引入聚合物电解质设计，为在不单纯依赖增塑的情况下调节输运提供了可测变量。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-26T08:30:00+08:00",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
