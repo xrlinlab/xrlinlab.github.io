@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:04:15Z",
+  "generatedAt": "2026-10-26T23:03:53Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,26 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries",
+      "authors": "Yuhao Duan, Feng Wan, Fiaz Hussain, Jiuwei Lei, Zihan Song, Paul R. Shearing, Wei Xia, Zhuangjun Fan, Xiaofei Yang, Xianfeng Li",
+      "authorsCitation": "Y. Duan, F. Wan, F. Hussain, J. Lei, Z. Song, P. R. Shearing, W. Xia, Z. Fan, X. Yang, X. Li",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-26",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c16957",
+      "link": "https://doi.org/10.1021/jacs.6c16957",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ],
+      "summaryZh": "新在哪里：这项工作没有继续把体相离子电导率作为卤化物正极快充的唯一目标，而是把晶界（grain boundary, GB）传输阻力识别为更直接的功率瓶颈，并以非晶化 LiVCl₄ 构建贴合界面。性能：在不加正极电解质、活性物质占比 90 wt% 的电极中，非晶 LiVCl₄ 在 5 mA cm⁻² 下达到 74.3 mAh g⁻¹，晶态对照仅为 10.2 mAh g⁻¹；53.4 mg cm⁻² 高面负载下容量利用率为 84.2%。与非晶 LiTaOCl₄ 电解质配合后，电池在 20 mA cm⁻²（约 75C）下达到 102.1 mAh g⁻¹，并在 16000 次循环后保持 82.3% 容量。怎么解释：摘要证据表明，非晶化保留短程 V–Cl 配位，同时降低长程传输迂曲度和晶界相关界面阻抗；值得注意的是，其体相 Li⁺ 电导率反而较低，支持性能提升主要来自晶界与接触传输改善，而非单纯提高本征电导。为什么重要：结果把卤化物正极的设计准则从“最大化体相电导”推进到“同时最小化晶界势垒并形成构象贴合界面”，对高活性物质比例、高面负载和超高倍率全固态电池更具直接指导意义。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-26T23:15:00Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Reusable and Robust Hydrogel With Dynamic Sacrificial S─S Bonds: In Situ Construction of an Integrated SEI/Hydrogel Interface for Highly Stable Zn–I 2 Batteries",
       "authors": "Peng Li, Jinping Wu, Zihan Zhu, Jing Tang, Ling Zhu, Liya Wang, Xuan Tang, Fangfang Ruan, Huibing He, Ning Zhao, Dongdong Li",
