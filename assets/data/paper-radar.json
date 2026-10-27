@@ -37,7 +37,11 @@
       "abstract": "",
       "matchedTopics": [
         "Solid-state batteries"
-      ]
+      ],
+      "summaryZh": "【title-only，仅依据标题】新在哪里：以构型复杂度（configurational complexity）为调节变量，研究固态卤化物电解质（solid-state halide electrolytes）的载流子输运（carrier transport）与氧氯化物界面相（oxychloride interphase）形成。性能：未取得可靠摘要，无法报告定量性能。怎么解释：标题未提供机制证据，不能推断具体组成、反应路径或因果关系。为什么重要：关注材料组成设计与输运、界面相形成的联系；具体贡献仍需正文核实。",
+      "summarySource": "title-only",
+      "summaryGeneratedAt": "2026-10-27T02:40:00Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries",
