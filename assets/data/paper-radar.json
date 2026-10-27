@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T23:03:53Z",
+  "generatedAt": "2026-10-27T02:33:53Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -674,6 +674,7 @@
       "link": "https://doi.org/10.1002/anie.5513729",
       "abstract": "",
       "matchedTopics": [
+        "Solid-state batteries",
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
       ],
