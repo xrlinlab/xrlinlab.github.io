@@ -31,6 +31,15 @@ jobs:
           fetch-depth: 0
       - name: Fetch and filter recent papers
         run: python3 scripts/update_paper_radar.py
+      - name: Preserve coverage and pending-review report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: paper-radar-audit
+          path: paper-radar-audit.json
+          retention-days: 30
+      - name: Test discovery and filtering regressions
+        run: python3 -m unittest discover -s scripts -p 'test_paper_radar.py'
       - name: Generate Chinese research guides
         env:
           PAPER_RADAR_LLM_API_KEY: ${{ secrets.PAPER_RADAR_LLM_API_KEY || secrets.OPENAI_API_KEY }}
