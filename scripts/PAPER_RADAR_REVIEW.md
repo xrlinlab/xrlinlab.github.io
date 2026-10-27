@@ -12,11 +12,16 @@ Source success and coverage completeness are different. Latest feeds/directories
 are not guaranteed complete archives; full 30-day publisher archive pagination
 must be independently checked before claiming no missed papers.
 
-Every new relevant candidate needs publisher review. Missing abstract/date/type
-is pending, never an automatic rejection. `created` is a registration date and
-must never be used as a first-online publication date. Confirm research type,
-first-online date, scope, and all explicitly labelled corresponding authors on
-the publisher page. Security blocks remain pending; do not bypass them or guess.
+Use a precise publication date when available. At the user's direction, use
+Crossref `created` as the date proxy when publication date is unavailable, and
+label `publicationDateSource: crossref-registration`. This proxy is not a
+verified first-online date. Unknown article type does not block inclusion;
+explicitly identified comments/corrections and existing exclusions still apply.
+Neither unknown type nor date alone creates a pending item. Records missing
+both publication and registration dates are counted as unprocessable. Ambiguous
+scientific relevance still needs semantic review. Missing abstracts can use a
+clearly labelled title-only guide. Verify explicitly labelled corresponding
+authors on publisher pages; do not bypass security blocks or infer names.
 
 Record durable human verification in `assets/data/paper-radar-reviews.json`,
 keyed by normalized lower-case DOI. An inclusion record has:

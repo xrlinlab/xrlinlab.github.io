@@ -109,8 +109,16 @@ def publication_date(item):
         value = date_parts(item, key)
         if value:
             return value
-    # Registration is not publication: incomplete dates require publisher review.
-    return None
+    # User-selected proxy when an exact publication date is unavailable.
+    return date_parts(item, "created")
+
+def publication_date_source(item):
+    if item.get("_publisherDate"):
+        return "publisher-online"
+    for key in ("published-online", "published-print", "published", "issued"):
+        if date_parts(item, key):
+            return "crossref-" + key
+    return "crossref-registration" if date_parts(item, "created") else "unavailable"
 
 def authors(item):
     names = []
@@ -441,16 +449,18 @@ def main():
             if pub_date and not (start <= pub_date <= end):
                 stats["outsideWindow"] += 1
                 continue
-            approved = (review.get("decision") == "include" and review.get("articleType") == "research"
+            approved = bool(topics) or (review.get("decision") == "include"
                         and review.get("publisherSource") and review.get("verifiedAt"))
             if approved and review.get("matchedTopics") and all(t in TOPICS for t in review["matchedTopics"]):
                 topics = review["matchedTopics"]
             if not old and (not approved or not pub_date or not topics):
                 reasons = []
-                if not pub_date: reasons.append("first-online-date-unverified")
-                if not clean(item.get("abstract")): reasons.append("abstract-unavailable")
+                # Missing both publication and registration dates cannot be placed
+                # in the 30-day public list; report as unprocessable, not pending.
+                if not pub_date:
+                    stats["missingAllDates"] = stats.get("missingAllDates", 0) + 1
+                    continue
                 if not topics: reasons.append("topic-needs-semantic-review")
-                if not approved: reasons.append("publisher-research-type-and-scope-review-required")
                 audit["pending"].append({"journal": journal, "doi": doi, "title": title,
                     "reasons": reasons, "publisherError": metadata_error,
                     "registrationDate": str(date_parts(item, "created") or ""),
@@ -471,6 +481,7 @@ def main():
                 "authorsCitation": author_initials(item),
                 "journal": journal,
                 "publicationDate": pub_date.isoformat(),
+                "publicationDateSource": publication_date_source(item),
                 "volume": clean(item.get("volume")),
                 "issue": clean(item.get("issue")),
                 "page": first_page(item),

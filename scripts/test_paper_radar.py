@@ -18,10 +18,11 @@ class RadarTests(unittest.TestCase):
         title = "Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes"
         self.assertIn(r.TOPICS[1], r.matched_topics({"title": [title]}))
 
-    def test_registration_not_publication(self):
+    def test_registration_proxy_for_missing_publication(self):
         x = {"published-print": {"date-parts": [[2026, 10]]},
              "created": {"date-parts": [[2026, 10, 26]]}}
-        self.assertIsNone(r.publication_date(x))
+        self.assertEqual(str(r.publication_date(x)), "2026-10-26")
+        self.assertEqual(r.publication_date_source(x), "crossref-registration")
 
     def test_publisher_date_precedes_issue(self):
         x = {"_publisherDate": "2026-09-20", "published-print": {"date-parts": [[2026, 10, 20]]}}
@@ -60,7 +61,7 @@ class RadarTests(unittest.TestCase):
                "correspondingAuthors": ["Verified Person"],
                "correspondingAuthorSource": "publisher", "correspondingAuthorVerifiedAt": "2026-10-02",
                "matchedTopics": [r.TOPICS[1]]}
-        new = {"DOI": "10.1234/new", "title": ["New solid-state halide electrolytes"],
+        new = {"DOI": "10.1234/new", "title": ["Unusual battery behaviour"],
                "published-print": {"date-parts": [[2026, 10]]},
                "created": {"date-parts": [[2026, 10, 20]]}}
         with tempfile.TemporaryDirectory() as tmp:
