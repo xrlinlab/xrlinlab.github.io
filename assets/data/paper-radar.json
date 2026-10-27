@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T02:39:16Z",
+  "generatedAt": "2026-10-27T23:05:22Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,48 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "New Insights into the Decoupling Mechanism of Ion Motion from Segmental Relaxation in Glass-Forming Polymers: The Interplay of Cohesive Energy Density",
+      "authors": "Xuhong Zheng, Zhen Chen, Linghui Cui, Gaopeng Shi",
+      "authorsCitation": "X. Zheng, Z. Chen, L. Cui, G. Shi",
+      "journal": "Macromolecules",
+      "publicationDate": "2026-10-28",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/acs.macromol.6c02433",
+      "link": "https://doi.org/10.1021/acs.macromol.6c02433",
+      "abstract": "",
+      "summaryZh": "新在哪里：通过聚乙烯醇缩醛（poly(vinyl acetal)）系列研究离子运动与链段松弛（segmental relaxation）的解耦，提出内聚能密度（cohesive energy density）是比单独玻璃化转变温度（glass transition temperature, Tg）更有解释力的变量。性能：登记摘要未给出电导率或电池性能，不作外推。怎么解释：改变缩醛基长度、分子量及增塑条件后，局部慢区仍表现出致密堆积和较高内聚能密度；室温解耦指数与内聚能密度负相关，作者据此提出较强内聚作用限制离子独立运动。该相关性尚不能单独证明全部因果关系。为什么重要：提示仅降低Tg不足以保证传输解耦，需要同时考虑分子间作用与局部堆积。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-27T23:15:00Z",
+      "summaryPromptVersion": 2,
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ]
+    },
+    {
+      "title": "Breaking the Halide Concentration Reliance of Four‐Electron Zinc‐Iodine Batteries via Interfacial Halide Enrichment",
+      "authors": "Yumeng Gao, Qi Zhang, Fayin Liu, Maoyu Sun, Yueqi Xu, Yuanhui Chen, Dongliang Chao, Bingqiu Liu",
+      "authorsCitation": "Y. Gao, Q. Zhang, F. Liu, M. Sun, Y. Xu, Y. Chen, D. Chao, B. Liu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-27",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6325809",
+      "doi": "10.1002/anie.6325809",
+      "link": "https://doi.org/10.1002/anie.6325809",
+      "abstract": "",
+      "summaryZh": "新在哪里：以正极界面卤离子富集（interfacial halide enrichment）替代体相高卤盐浓度，促进四电子锌碘电池（four-electron zinc–iodine battery）的碘高价态反应。性能：加入0.1 M溴代吡咯烷鎓盐后，0.4 A g⁻¹下达到413.3 mAh g⁻¹，2 A g⁻¹下5000圈容量保持率88.2%。怎么解释：登记摘要中的光谱与计算支持有机阳离子在带电界面锚定、促进Br⁻富集并稳定IBr₂⁻中间体；乙二醇（ethylene glycol, EG）同时调节溶剂化并抑制界面水参与，不能把所有改善只归因于局部富集。为什么重要：将反应所需局部环境与体相浓度分开，为降低高浓卤盐的腐蚀和传输代价提供设计思路。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-27T23:15:00Z",
+      "summaryPromptVersion": 2,
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes",
       "authors": "Zhuo Yu, Yubo Wang, Ning Chen, Linda F. Nazar",
@@ -203,27 +245,6 @@
       "summaryPromptVersion": 2
     },
     {
-      "title": "Hierarchical Ion-Conducting Materials Based on Polymer-Aligned Nanoparticles within Poly(vinyl benzyl methoxy poly(ethylene oxide) ether)- block -polystyrene Diblock Copolymer",
-      "authors": "Leire Unanue, Monika Król, Gabriele Lingua, Jorge L. Olmedo-Martínez, Alejandro Herranz Berzosa, Sven Schneider, Agnieszka Tercjak, Janne Ruokolainen, Patrick Théato, Alejandro J. Müller, David Mecerreyes",
-      "authorsCitation": "L. Unanue, M. Król, G. Lingua, J. L. Olmedo-Martínez, A. Herranz Berzosa, S. Schneider, A. Tercjak, J. Ruokolainen, P. Théato, A. J. Müller, D. Mecerreyes",
-      "journal": "Macromolecules",
-      "publicationDate": "2026-10-16",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/acs.macromol.6c01855",
-      "link": "https://doi.org/10.1021/acs.macromol.6c01855",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：这项工作把锂磺酰亚胺功能化聚合物纳米粒子选择性定位到嵌段共聚物富聚乙二醇（poly(ethylene glycol), PEG）层状域中，将嵌段自组装、纳米粒子有序化与 PEG 结晶整合为多级离子通道。性能：所得固态聚合物电解质表现出较高离子电导，加入环丁砜后进一步提高；现有摘要未给出可核验的具体数值。怎么解释：TEM、AFM 和 SAXS 证明纳米粒子加入后层状微相结构仍被保留，DSC 显示 PEG 结晶度随粒子含量和增塑剂变化，支持“形貌定位—结晶调控—传输改善”的关联，但尚未完全拆分各因素贡献。为什么重要：它提供了同时组织承力骨架和导离子相的结构路线，使固态聚合物电解质的力学完整性与传输性能不必只靠单一组分折中。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2
-    },
-    {
       "title": "High-Resolution 6Li Solid-State Nuclear Magnetic Resonance Reveals Hidden Lithium Dynamics in All-Solid-State Cathodes",
       "authors": "Houyi Liu, Bao Zhang, Yuhao Duan, Jiuwei Lei, Wen Yin, Wei Xia, Hongzhang Zhang, Kuizhi Chen, Xiaofei Yang, Guangjin Hou, Xianfeng Li",
       "authorsCitation": "H. Liu, B. Zhang, Y. Duan, J. Lei, W. Yin, W. Xia, H. Zhang, K. Chen, X. Yang, G. Hou, X. Li",
@@ -240,6 +261,27 @@
         "Solid-state batteries"
       ],
       "summaryZh": "新在哪里：作者用高丰度同位素、优化采集和变温控制构建高分辨率 ⁶Li 固体核磁共振（solid-state nuclear magnetic resonance, ssNMR），直接分辨顺磁 LiFeCl₃ 中三类 Li⁺ 环境，并捕捉常规表征难以看到的少量不可逆 Fe⁰。性能：据此优化电压窗口后，电池循环 500 次容量保持率为 85.9%，代价是能量密度降低 16.3%；全深度循环 100 次仅保持 68.6%。怎么解释：数据表明局部 Li/Fe 无序会诱发原位 Fe²⁺ 还原，并与可逆嵌入–转化反应相联系；痕量 Fe⁰ 则被作为隐蔽失效信号。为什么重要：这套 Li 位点分辨方法把局域无序、隐藏氧化还原与长期可逆性连接起来，为无正极电解质复合正极的工作窗口设计提供了直接诊断依据。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Hierarchical Ion-Conducting Materials Based on Polymer-Aligned Nanoparticles within Poly(vinyl benzyl methoxy poly(ethylene oxide) ether)- block -polystyrene Diblock Copolymer",
+      "authors": "Leire Unanue, Monika Król, Gabriele Lingua, Jorge L. Olmedo-Martínez, Alejandro Herranz Berzosa, Sven Schneider, Agnieszka Tercjak, Janne Ruokolainen, Patrick Théato, Alejandro J. Müller, David Mecerreyes",
+      "authorsCitation": "L. Unanue, M. Król, G. Lingua, J. L. Olmedo-Martínez, A. Herranz Berzosa, S. Schneider, A. Tercjak, J. Ruokolainen, P. Théato, A. J. Müller, D. Mecerreyes",
+      "journal": "Macromolecules",
+      "publicationDate": "2026-10-15",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "59",
+      "issue": "20",
+      "page": "11439",
+      "doi": "10.1021/acs.macromol.6c01855",
+      "link": "https://doi.org/10.1021/acs.macromol.6c01855",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summaryZh": "新在哪里：这项工作把锂磺酰亚胺功能化聚合物纳米粒子选择性定位到嵌段共聚物富聚乙二醇（poly(ethylene glycol), PEG）层状域中，将嵌段自组装、纳米粒子有序化与 PEG 结晶整合为多级离子通道。性能：所得固态聚合物电解质表现出较高离子电导，加入环丁砜后进一步提高；现有摘要未给出可核验的具体数值。怎么解释：TEM、AFM 和 SAXS 证明纳米粒子加入后层状微相结构仍被保留，DSC 显示 PEG 结晶度随粒子含量和增塑剂变化，支持“形貌定位—结晶调控—传输改善”的关联，但尚未完全拆分各因素贡献。为什么重要：它提供了同时组织承力骨架和导离子相的结构路线，使固态聚合物电解质的力学完整性与传输性能不必只靠单一组分折中。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-15T23:07:46Z",
       "summaryPromptVersion": 2
@@ -708,64 +750,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-08"
-    },
-    {
-      "title": "Monomer Molecule Reconstruction Engineered Heterogeneous Lithium‐Ion Solvation for High‐Performance Lithium‐Metal Batteries",
-      "authors": "Yanxin Jiang, Yan Su, Guoqiang He, Lu Chen, Zhiqiang Yang, Mingnan Song, Liang Wang, Chunling Zhu, Guiling Wang, Jiaxin Yao, Shi‐Xue Dou, Yiju Li",
-      "authorsCitation": "Y. Jiang, Y. Su, G. He, L. Chen, Z. Yang, M. Song, L. Wang, C. Zhu, G. Wang, J. Yao, S. Dou, Y. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-28",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e5513729",
-      "doi": "10.1002/anie.5513729",
-      "link": "https://doi.org/10.1002/anie.5513729",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries",
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：利用甲基丙烯酸异丁酯原位聚合后放大的空间位阻，主动改变酯基周围的局部电子与几何环境，使低盐浓度凝胶中的Li⁺配位由溶剂主导转向阴离子富集；这里真正的变量是单体到高分子链的凝聚态重构，而非简单更换溶剂。\n性能：DEE–PIBMA凝胶固态电解质在室温下离子电导率为1.77 mS cm⁻¹，浮充测试支持约4.7 V高电压稳定性；Li||NCM811电池在0.5 C循环500次后容量保持率为81.8%，软包电池报告386.1 Wh kg⁻¹能量密度。\n怎么解释：聚合使酯基周围位阻增大并降低羰基氧电子云密度，从而减弱Li⁺–聚合物配位并提高阴离子进入配位壳层的倾向；TTE被描述为“分子润滑剂”以维持动力学。摘要证据支持相关性，但位阻、电子效应与网络微结构尚未完全分离。\n为什么重要：该工作把聚合诱导的局部配位环境变化定义为可控变量，提示凝胶电解质研究应比较聚合前后相同化学基元的溶剂化、局部网络异质性和界面耗竭，而不只比较最终电导和循环寿命。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-09-30T07:20:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Liang Wang",
-        "Guiling Wang",
-        "Yiju Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-08"
-    },
-    {
-      "title": "Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium‐Ion Batteries",
-      "authors": "Sang Goo Kang, Jeonghyun Ko, Gunyoung Kim, Jaehoon Choi, Jong Hyeok Park",
-      "authorsCitation": "S. G. Kang, J. Ko, G. Kim, J. Choi, J. H. Park",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-09-28",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e1297472",
-      "doi": "10.1002/anie.1297472",
-      "link": "https://doi.org/10.1002/anie.1297472",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：把原位凝胶聚合物电解质（in-situ gel polymer electrolyte, GPE）中常被忽略的残余单体定义为独立失效变量，并将三(4-氟苯基)膦（tris(4-fluorophenyl)phosphine, TFPP）与电压保持化成程序结合，主动重排高镍正极电解质界面（cathode-electrolyte interphase, CEI）的形成顺序。\n性能：在电解液用量2 g Ah⁻¹的贫液条件下，2 Ah软包电池达到303 Wh kg⁻¹，并在150次循环后保持82.8%容量。\n怎么解释：残余单体原本会在早期化成中接触并分解于NCM表面，形成富有机内层并干扰正常CEI路径；TFPP先吸附并部分覆盖正极表面，随后在电压保持阶段优先分解，构建富LiF内层，从而减少残余单体参与界面反应。现有证据支持这种顺序调控，但添加剂覆盖、优先分解与结构稳定之间仍存在耦合。\n为什么重要：这项工作提示原位聚合并不等于反应完成；残余单体含量及其与化成程序的耦合应成为凝胶电解质的可量化设计变量，而不能只比较最终电导率和聚合物网络组成。",
-      "summarySource": "publisher-fulltext",
-      "summaryGeneratedAt": "2026-09-29T07:12:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Jaehoon Choi",
-        "Jong Hyeok Park"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-09-29"
     }
   ],
   "source": "Crossref",
