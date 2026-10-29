@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:50:29Z",
+  "generatedAt": "2026-10-29T23:12:08Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -34,11 +34,15 @@
       "page": "",
       "doi": "10.1021/jacs.6c16390",
       "link": "https://doi.org/10.1021/jacs.6c16390",
-      "abstract": "Abstract Lithium metal batteries (LMBs) can provide high energy density for next-generation energy storage, yet their cycle life remains limited by interfacial incompatibility between electrolyte species and electrodes. Conventional electrolytes based on polar or fluorinated solvents often suffer from sluggish transport kinetics, high cost, and even environmental concerns. Herein, we rationally modulate the polarity and coordination ability of nonfluorinated solvents and report a fluorine-free host–guest synergy electrolyte (HGSE) constructed by tailoring the intermolecular interaction between a long-chain multidentate ether and a monodentate ether solvent. The weak Hδ+–Oδ− intermolecular interaction between these solvents tunes the electrolyte coordination ability and solvation cluster size, leading to a contact ion pair-dominated solvation cluster structure with enhanced ionic conductivity. Meanwhile, the optimized solvation cluster in HGSE promotes anion decomposition while suppressing electrode side reactions, resulting in anion-derived LiF-rich interphases and minimized cathode cracking. More notably, the HGSE electrolyte enables a Li||NCM811 pouch cell to deliver a high energy density of 472.5 Wh kg–1, while a 20 Ah-level anode-free Cu||Ni90 pouch cell with a lean electrolyte (1.5 g Ah–1) achieves a superior energy density of 525 Wh kg–1 with 71.6% capacity retention over 120 cycles. These findings elucidate the role of intermolecular interactions and solvation cluster engineering in high-energy and sustainable LMBs.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：把非氟化多齿长链醚与单齿醚的分子间作用作为溶剂化簇（solvation cluster）的调控变量，而非只比较单一溶剂极性。\n性能：摘要报告锂金属软包电池达472.5 Wh kg⁻¹；20 Ah级无负极电池在1.5 g Ah⁻¹贫液条件下达525 Wh kg⁻¹，120圈容量保持率71.6%。\n怎么解释：弱分子间作用改变配位与簇尺寸，接触离子对（contact ion pair）主导结构与阴离子衍生界面相关联；这些变化共同改善传输和电极稳定，不能归为单一因果。\n为什么重要：为非氟化醚溶剂的配对设计提供路径。注意非氟化溶剂不等于整个配方无氟，文中仍形成富LiF界面。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "New Insights into the Decoupling Mechanism of Ion Motion from Segmental Relaxation in Glass-Forming Polymers: The Interplay of Cohesive Energy Density",
@@ -62,6 +66,132 @@
       "summaryPromptVersion": 2
     },
     {
+      "title": "High-Performance Salt-Lake Water Zinc Batteries Operated at −50 °C",
+      "authors": "Chen Zhao, Peijun He, Leichao Meng, Yan Xin, Le Yu, Huajun Tian",
+      "authorsCitation": "C. Zhao, P. He, L. Meng, Y. Xin, L. Yu, H. Tian",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-28",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c16008",
+      "link": "https://doi.org/10.1021/jacs.6c16008",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：将天然高盐湖水与人工合金界面结合，分别处理低温冻结和Zn²⁺界面沉积问题。\n性能：登记摘要报告−50°C锌对称电池超过3200 h；聚苯胺正极全电池在5 A g⁻¹下超过2500圈，相关软包电池在−50°C运行900圈后仍保持长期稳定。\n怎么解释：高盐度降低冻结倾向、改变水配位与活度，三元合金层调节阳离子吸附和静电屏蔽（electrostatic shielding）；溶剂与电极同时改变，不能把效果全部归于湖水。\n为什么重要：为极寒水系电池提供低成本配方线索，但天然水源成分波动、杂质与工况可重复性仍需验证。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-29T23:12:08Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Bromide‐Activated Four‐Electron Iodine Chemistry Enabled by a Pyridinium‐Integrated Hydrogel Electrolyte",
+      "authors": "Rujiao Ma, Shao‐Jian Zhang, Xun Zhao, Yiyang Hu, Han Wu, Junnan Hao",
+      "authorsCitation": "R. Ma, S. Zhang, X. Zhao, Y. Hu, H. Wu, J. Hao",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-28",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e3951000",
+      "doi": "10.1002/anie.3951000",
+      "link": "https://doi.org/10.1002/anie.3951000",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summaryZh": "新在哪里：把卤素中间体的键极化与水凝胶中的固定作用结合，处理四电子锌碘电池高价碘易水解的问题。\n性能：摘要报告422.6 mAh g⁻¹，在20C循环超过20000圈；500 mAh软包电池在3.5 mAh cm⁻²下运行600圈且容量衰减很小。\n怎么解释：实验与计算支持IBr₂⁻较低键极化和较高抗水解性；吡啶鎓（pyridinium）固定碘中间体，磺酸基有助于Zn²⁺选择性传输。多个作用同时存在，不能将循环提升只归因于溴离子。\n为什么重要：将中间体化学和离子通道设计合并为水凝胶电解质的协同变量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Non‐Monotonical Ion Association Equilibria in Low‐Temperature Sodium–Metal Battery Electrolytes",
+      "authors": "Xiong Xiao, Wen‐Ping Ju, Jin‐Hao Zhang, Jin‐Xiu Chen, Gulnur Kalimuldina, Ayaulym Belgibayeva, Cao Guan, Long Kong",
+      "authorsCitation": "X. Xiao, W. Ju, J. Zhang, J. Chen, G. Kalimuldina, A. Belgibayeva, C. Guan, L. Kong",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-27",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e7246806",
+      "doi": "10.1002/anie.7246806",
+      "link": "https://doi.org/10.1002/anie.7246806",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：关注降温时溶剂自身缔合如何改变钠离子溶剂化平衡（solvation equilibrium），而非预设弱溶剂化总是更好。\n性能：可靠登记摘要未提供可核对的循环、电导率或倍率数值，因此不补写定量优势。\n怎么解释：作者用亲电性／亲核性描述溶剂自缔合，提出增强的偶极–偶极作用可诱发过度离子聚集并限制体相和界面动力学；据此采用稀电解液重新平衡缔合与解离物种。\n为什么重要：提示低温钠体系需要独立评价温度相关的配位与溶剂相互作用，不能直接照搬锂体系的弱溶剂化规则。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Lithium‐Salt‐Driven Lewis Pair Polymerization for Chemically Recyclable and Ion‐Conductive Polyester Elastomers",
+      "authors": "Chengkai Li, Houze Zhang, Wuchao Zhao, Jianghua He, Yuetao Zhang",
+      "authorsCitation": "C. Li, H. Zhang, W. Zhao, J. He, Y. Zhang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-27",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6189151",
+      "doi": "10.1002/anie.6189151",
+      "link": "https://doi.org/10.1002/anie.6189151",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summaryZh": "新在哪里：让锂盐既参与路易斯对聚合（Lewis pair polymerization，LPP），又留在聚酯中承担离子传导，把合成与导离子功能连接起来。\n性能：摘要报告室温离子电导率最高约10⁻⁵ S cm⁻¹，并可调节拉伸与强度；尚未展示电池全电芯性能。\n怎么解释：锂离子多配位能力与非经典聚合动力学相关，残留盐赋予弹性体离子传导；不能据此认定传输已与链段运动解耦。\n为什么重要：提供催化组分转为功能组分的可回收导离子聚合物路线，其电池适用性仍需独立验证。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Extended Active Learning-Guided Design of Multi-Component Electrolytes with Opposing Cosolvent Properties for Aqueous Zinc-Ion Batteries",
+      "authors": "Seung Hyun Jeong, Jaewook Lee, Jihwan Byun, Minkwan Kim, Heejin Kim, Jang Wook Choi",
+      "authorsCitation": "S. H. Jeong, J. Lee, J. Byun, M. Kim, H. Kim, J. W. Choi",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-27",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c20703",
+      "link": "https://doi.org/10.1021/jacs.6c20703",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：把共溶剂分类、配对选择与配方优化纳入扩展主动学习（extended active learning）流程，寻找性质相反却能协同的三溶剂电解液。\n性能：出版社登记摘要报告Zn||NH₄V₄O₁₀全电池1000圈后保持90.2%容量，未提供足以横向比较的完整工况。\n怎么解释：所得配方同时扰动氢键网络、重构溶剂化结构（solvation structure）；仅凭摘要不能区分各溶剂的独立界面贡献。\n为什么重要：通过减少高维配方空间的试验负担，将分子性质与电解液配对设计连接；其跨体系可迁移性仍需检验。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-29T23:12:08Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Discovering Underpotentially Deposited Crystalline Sodium Metal Nanoparticles on the Surface of Hard Carbon Anodes",
+      "authors": "Zaichun Liu, Chad Serrao, Junyan Li, Ian Cooney, Greg Pintilie, Jun Ho Lee, Jane K. J. Lee, Sanzeeda Baig Shuchi, Prasanna Sarkar, Yuqi Li, Xueer Xu, Yi Cui, Xintong Yuan, Qi Zheng, Ge Zhang, Neel Roy, Xueli Zheng, Gui-Liang Xu, Khalil Amine, Harold Y. Hwang, Robert Sinclair, Wah Chiu, Yi Cui",
+      "authorsCitation": "Z. Liu, C. Serrao, J. Li, I. Cooney, G. Pintilie, J. H. Lee, J. K. J. Lee, S. B. Shuchi, P. Sarkar, Y. Li, X. Xu, Y. Cui, X. Yuan, Q. Zheng, G. Zhang, N. Roy, X. Zheng, G.-L. Xu, K. Amine, H. Y. Hwang, R. Sinclair, W. Chiu, Y. Cui",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-27",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c11841",
+      "link": "https://doi.org/10.1021/jacs.6c11841",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：用冷冻电子断层成像（cryo-electron tomography，cryo-ET）直接定位硬碳中的晶态钠团簇，而非仅凭二维投影或间接信号推断它们位于闭孔内部。\n性能：这是结构定位研究，登记摘要未报告可比较的快充、能量密度或寿命提升。\n怎么解释：三维分布与局部结构表征显示，晶态钠主要位于单颗粒表面或近表面，为欠电位沉积（underpotential deposition）提供新的空间证据；位置证据本身尚不足以穷尽成核机制。\n为什么重要：提示抑制硬碳析钠需要同时关注颗粒表面、近表面及电解液界面，而非只优化体相闭孔。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-29T23:12:08Z",
+      "summaryPromptVersion": 2
+    },
+    {
       "title": "Cosolvation Accelerated Desolvation‐Coupled Charge Transfer for Low‐Temperature Zinc Metal Batteries",
       "authors": "Zhuang Liu, Xuefang Xie, Haiming Duan, Ziqing Wang, Shuquan Liang, Guozhao Fang",
       "authorsCitation": "Z. Liu, X. Xie, H. Duan, Z. Wang, S. Liang, G. Fang",
@@ -73,10 +203,14 @@
       "page": "e5029282",
       "doi": "10.1002/anie.5029282",
       "link": "https://doi.org/10.1002/anie.5029282",
-      "abstract": "ABSTRACT Anti‐freezing cosolvents are commonly introduced to maintain electrolyte fluidity at subzero temperatures. However, their weak participation in the primary Zn 2+ solvation sheath can leave desolvation‐coupled interfacial kinetics largely unimproved. Here, we introduce a molecular cosolvation‐promotion strategy that activates an otherwise passive anti‐freezing solvent. Tris(2‐chloropropyl) phosphate (TCPP), featuring an electron‐rich phosphoryl center and a bulky, weakly solvating periphery, promotes methanol incorporation into the primary Zn 2+ solvation sheath. Remarkably, although the coordination number of TCPP is only 0.17, its addition increases the methanol coordination number from 0.21 to 1.19 while decreasing the water coordination number from 4.01 to 3.07. This coordination amplification lowers the apparent activation energy for desolvation‐coupled charge transfer from 18.46 to 13.91 kJ mol −1 and preserves an ionic conductivity of 4.6 mS cm −1 at −40°C. Meanwhile, preferential interfacial adsorption of TCPP excludes reactive water, homogenizes the Zn 2+ flux, and suppresses corrosion and dendritic deposition. Consequently, Zn||Zn cells operate stably for over 2700 h at −40°C, while Zn||MnVO full cells retain 84.8% of their capacity after 8000 cycles at −20°C. This work establishes molecular promotion of cosolvent coordination as a general electrolyte‐design principle for decoupling anti‐freezing fluidity from sluggish subzero charge‐transfer kinetics.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：让原本主要用于防冻的甲醇更深地参与Zn²⁺配位，以处理低温液体仍可流动但界面反应仍慢的问题。\n性能：−40°C电导率为4.6 mS cm⁻¹，锌对称电池运行超过2700 h；−20°C全电池8000圈保持84.8%容量。\n怎么解释：三(2-氯丙基)磷酸酯（tris(2-chloropropyl) phosphate，TCPP）促进甲醇共溶剂化（cosolvation），并减少水配位；去溶剂化耦合电荷转移（desolvation-coupled charge transfer）的表观活化能由18.46降至13.91 kJ mol⁻¹。该值不是孤立去溶剂化能垒，吸附排水也可能贡献稳定性。\n为什么重要：将防冻作用与界面动力学分开评价，为低温水系电解液提供更明确的设计变量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Breaking the Halide Concentration Reliance of Four‐Electron Zinc‐Iodine Batteries via Interfacial Halide Enrichment",
@@ -196,6 +330,35 @@
       "correspondingAuthorVerifiedAt": "2026-10-24"
     },
     {
+      "title": "Non‐Fluorinated Electrolytes Enable Long‐Cycling Micron‐Sized Silicon Anodes",
+      "authors": "Dejie Qu, Ru Guo, Tao Liu, Youlong Sun, Lixue Zhou, Xiaowei Wu, Guicun Li, Yulin Liu, Xinyu Lin, Yuewei Yan, Hui Ding, Yue Zheng, Dandan Li, Gaojie Xu, Shanmu Dong, Guanglei Cui",
+      "authorsCitation": "D. Qu, R. Guo, T. Liu, Y. Sun, L. Zhou, X. Wu, G. Li, Y. Liu, X. Lin, Y. Yan, H. Ding, Y. Zheng, D. Li, G. Xu, S. Dong, G. Cui",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-23",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6271722",
+      "doi": "10.1002/anie.6271722",
+      "link": "https://doi.org/10.1002/anie.6271722",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：针对微米硅负极，提出不依赖富LiF固体电解质界面膜（solid electrolyte interphase，SEI）的电解液设计，以LiI/LiBr和单醚形成具有黏结作用的聚合物界面。\n性能：中位粒径4.65 µm、面容量3.15 mAh cm⁻²的电极在25°C循环300圈保持92.12%容量，库仑效率超过99.95%；预锂化硅||SPAN全电池150圈保持超过79.43%。\n怎么解释：作者认为高分子量界面产物有助于颗粒破碎后保持接触；摘要支持这一解释，但不能把结构完整性与全部寿命提升等同。\n为什么重要：把界面黏结与连通性作为可设计变量，挑战微米硅稳定运行必须依赖LiF的单一判断。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Tao Liu",
+        "Hui Ding",
+        "Gaojie Xu",
+        "Guanglei Cui"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-30"
+    },
+    {
       "title": "Dual-Polyhedral Distortion for Low-Cost Amorphous Halide Electrolytes with Improved Ionic Conductivity",
       "authors": "Zewen Zhu, Changkun Cai, Yongkang Jiang, Junbo Cui, Zhao Chen, Xuefeng Wang, Yaxiang Lu, Xuejie Huang, Fei Xie, Liquan Chen, Yong-Sheng Hu",
       "authorsCitation": "Z. Zhu, C. Cai, Y. Jiang, J. Cui, Z. Chen, X. Wang, Y. Lu, X. Huang, F. Xie, L. Chen, Y.-S. Hu",
@@ -238,6 +401,32 @@
       "summaryPromptVersion": 2
     },
     {
+      "title": "Asymmetric Zn‐N 4 Single Atom Sites Facilitate Interfacial Desolvation for Ultrafast Zinc‐Ion Storage",
+      "authors": "Yafei Zhang, Gengchen Yu, Huanyu Liang, Jichang Du, Qiuyue Chen, Weiqian Tian, Jing Shi, Jingwei Chen, Minghua Huang, Zhi Li, Huanlei Wang",
+      "authorsCitation": "Y. Zhang, G. Yu, H. Liang, J. Du, Q. Chen, W. Tian, J. Shi, J. Chen, M. Huang, Z. Li, H. Wang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-21",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e7149723",
+      "doi": "10.1002/anie.7149723",
+      "link": "https://doi.org/10.1002/anie.7149723",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：在锌离子混合电容器（zinc-ion hybrid capacitor，ZIHC）中，用缺陷调节Zn–N₄单原子位点的不对称配位，同时处理界面去溶剂化（interfacial desolvation）和表面储荷。\n性能：摘要报告201.5 mAh g⁻¹，在100 A g⁻¹仍保持56%容量，110000圈后保持92.1%。\n怎么解释：光谱与计算支持电子结构变化有利于Zn²⁺–水键解离，表征显示表面主导的吸附储能；去溶剂化与电子离域贡献尚不能完全拆开。\n为什么重要：为高倍率界面离子传输提供配位结构变量。该器件是混合电容器，不能把这些指标直接等同于电池全电芯性能。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Huanlei Wang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-30"
+    },
+    {
       "title": "Physically Grounded Descriptors for Machine-Learning-Guided Diluent Design in Lithium Metal Batteries",
       "authors": "Myeongjun Kim, Chihyun Nam, Hyunmin Lee, Seyeon Shin, Songha Seo, Woojin Chong, Yejin Lee, Munsoo Song, Jongwoo Lim",
       "authorsCitation": "M. Kim, C. Nam, H. Lee, S. Shin, S. Seo, W. Chong, Y. Lee, M. Song, J. Lim",
@@ -257,6 +446,33 @@
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-10-20T23:08:10Z",
       "summaryPromptVersion": 2
+    },
+    {
+      "title": "Anion‐Cation Targeted Regulation Enables Ultrafast and Stable Sodium Metal Batteries at Low Temperatures",
+      "authors": "Tonghui Zhang, Ying Xiao, Yu Han, Xinyu Wang, Yu Yang, Heyu Wang, Zhengkun Xie, Shimou Chen",
+      "authorsCitation": "T. Zhang, Y. Xiao, Y. Han, X. Wang, Y. Yang, H. Wang, Z. Xie, S. Chen",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-10-20",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6809424",
+      "doi": "10.1002/anie.6809424",
+      "link": "https://doi.org/10.1002/anie.6809424",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：以Sn(OTf)₂同时调节阴、阳离子配位和钠表面界面，而非只追求阴离子主导的溶剂化。\n性能：Na||Na₃V₂(PO₄)₃电池在−20°C、20C循环1050圈，在−50°C接近700圈；摘要报告6 Ah电芯室温比能量215 Wh kg⁻¹。\n怎么解释：竞争配位改变PF₆⁻参与程度，并形成含Na₁₅Sn₄的固体电解质界面膜（solid electrolyte interphase，SEI）；溶剂化与界面共同变化，尚不能由摘要拆分贡献。\n为什么重要：说明低温快充不能简单照搬弱溶剂化经验，需要同时约束去溶剂化（desolvation）和沉积稳定性。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Ying Xiao",
+        "Shimou Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-10-30"
     },
     {
       "title": "Symmetry-Broken Coordination of Single-Atom Catalysts Unlocks Spin- and Orbital-Regulated Sulfur Redox in Lithium–Sulfur Batteries",

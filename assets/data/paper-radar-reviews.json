@@ -1,1 +1,633 @@
-{}
+{
+  "10.1002/anie.6809424": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-20",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6809424",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher abstract verifies low-temperature desolvation/interphase engineering and 20C cycling; same existing fast-charge topic despite missing title phrase fast charging."
+  },
+  "10.1002/anie.6271722": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6271722",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher abstract explicitly studies electrolyte-derived polymeric SEI at micron silicon, electrode-electrolyte interphase design within the existing interfacial topic."
+  },
+  "10.1002/anie.7149723": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-21",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7149723",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher abstract verifies electrode-scale interfacial Zn2+ desolvation and high-rate storage; retained for the existing interfacial ion-transport topic, not as a lithium-metal battery."
+  },
+  "10.1038/s41557-026-02275-7": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-09",
+    "publisherSource": "https://www.nature.com/articles/s41557-026-02275-7",
+    "verifiedAt": "2026-10-29",
+    "reason": "Aqueous tin flow-battery redox/anolyte design, outside the four configured topics."
+  },
+  "10.1038/s41557-026-02287-3": {
+    "decision": "exclude",
+    "articleType": "news-and-views",
+    "publisherOnlineDate": "2026-10-20",
+    "publisherSource": "https://www.nature.com/articles/s41557-026-02287-3",
+    "verifiedAt": "2026-10-29",
+    "reason": "Publisher explicitly labels News & Views, not a distinct research study."
+  },
+  "10.1038/s41560-026-02148-w": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-20",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02148-w",
+    "verifiedAt": "2026-10-29",
+    "reason": "Organic photovoltaic cathode interlayer assembly; solar cells, not battery interfacial ion transport."
+  },
+  "10.1038/s41565-026-02279-x": {
+    "decision": "exclude",
+    "articleType": "technology-feature",
+    "publisherOnlineDate": "2026-10-13",
+    "publisherSource": "https://www.nature.com/articles/s41565-026-02279-x",
+    "verifiedAt": "2026-10-29",
+    "reason": "Publisher explicitly labels Technology Feature, journalistic overview rather than a distinct research study."
+  },
+  "10.1038/s41565-026-02296-w": {
+    "decision": "exclude",
+    "articleType": "comment",
+    "publisherOnlineDate": "2026-10-15",
+    "publisherSource": "https://www.nature.com/articles/s41565-026-02296-w",
+    "verifiedAt": "2026-10-29",
+    "reason": "Publisher identifies a Comment on battery terminology."
+  },
+  "10.1038/s41893-026-01969-7": {
+    "decision": "exclude",
+    "articleType": "analysis",
+    "publisherOnlineDate": "2026-10-16",
+    "publisherSource": "https://www.nature.com/articles/s41893-026-01969-7",
+    "verifiedAt": "2026-10-29",
+    "reason": "Fleet degradation and material-flow modelling, outside the four electrolyte/interfacial topics."
+  },
+  "10.1038/s41893-026-01970-0": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-23",
+    "publisherSource": "https://www.nature.com/articles/s41893-026-01970-0",
+    "verifiedAt": "2026-10-29",
+    "reason": "Recyclable redox-active flow-battery anolyte chemistry; not ion-conducting polymer electrolyte or the other configured topics."
+  },
+  "10.1038/s41893-026-01979-5": {
+    "decision": "exclude",
+    "articleType": "news-and-views",
+    "publisherOnlineDate": "2026-10-23",
+    "publisherSource": "https://www.nature.com/articles/s41893-026-01979-5",
+    "verifiedAt": "2026-10-29",
+    "reason": "Publisher explicitly labels News & Views, not a distinct research study."
+  },
+  "10.1002/anie.6189151": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6189151",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
+    "reason": "Publisher-deposited Crossref abstract explicitly reports ion-conductive polyester elastomers and room-temperature ionic conductivity. Ion-conductive is a word-order/word-form variant of the existing ion-conducting polymer topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6189151",
+    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+  },
+  "10.1002/anie.3951000": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3951000",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
+    "reason": "Publisher-deposited Crossref abstract explicitly reports hydrogel electrolyte with Zn2+-selective pathways and 20C operation, within existing polymer-electrolyte and interfacial ion-transport topics.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.3951000",
+    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+  },
+  "10.1002/anie.7246806": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7246806",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher-deposited Crossref abstract explicitly studies temperature-dependent solvation equilibrium and sodium-ion transport/redox kinetics in bulk and electrode interfaces. Same existing interfacial ion-transport topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.7246806",
+    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+  },
+  "10.1002/anie.2026-m0210101400": {
+    "decision": "exclude",
+    "articleType": "cover",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2026-m0210101400",
+    "verifiedAt": "2026-10-29",
+    "reason": "Explicit cover/correction title, not a distinct research study.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2026-m0210101400",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Inside Front Cover: Ultra‐Low Emission Cathode Recycling Enabled by Programmed Adaptive Pulse Joule Heating"
+  },
+  "10.1002/anie.2026-m0210101700": {
+    "decision": "exclude",
+    "articleType": "cover",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2026-m0210101700",
+    "verifiedAt": "2026-10-29",
+    "reason": "Explicit cover/correction title, not a distinct research study.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2026-m0210101700",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Inside Front Cover: “Armor Polymerization” Unlocks Polymer Electrolytes With Simultaneous Rapid Li+ Conduction and High Solidification"
+  },
+  "10.1002/anie.4897216": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4897216",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.4897216",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Boosting Photoelectrochemical Water Oxidation of BiVO 4 Photoanodes With an Iron‐Based Metal–Organic Framework as a Hole Transport Layer"
+  },
+  "10.1002/anie.6363490": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6363490",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6363490",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Suppressing Cathode Corrosion Induced by Impurity Cations in Alkaline Water Electrolyzers"
+  },
+  "10.1002/anie.6581557": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6581557",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6581557",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "High‐Purity Hydrogen Production From Water–Gas Shift Reaction in a High‐Temperature Polymer Electrolyte Membrane Electrolyzer"
+  },
+  "10.1002/anie.7674294": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7674294",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.7674294",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Ultrathin b ‐Oriented Co‐Gallate MOF Membranes for Lithium Recovery: Precise Ion Sieving via Geometry‐Confined Dehydration"
+  },
+  "10.1002/anie.9127049": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9127049",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.9127049",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Solar‐Powered Redox Adsorption Method for Round‐the‐Clock Direct Lithium Extraction from Low‐Grade Brines"
+  },
+  "10.1002/anie.9487218": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9487218",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.9487218",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Membrane Architecture‐Dependent Photophysics of Conjugated Oligoelectrolytes Distinguishes Extracellular Vesicles From Lipoproteins"
+  },
+  "10.1016/j.chempr.2026.103216": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://doi.org/10.1016/j.chempr.2026.103216",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.chempr.2026.103216",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "A high-flux cathode for stable and scalable CO2 electroreduction to concentrated formate"
+  },
+  "10.1016/j.chempr.2026.103285": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://doi.org/10.1016/j.chempr.2026.103285",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.chempr.2026.103285",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "The dynamic interphase in lithium-mediated ammonia synthesis"
+  },
+  "10.1021/jacs.6c12237": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c12237",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c12237",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Cesium-Induced Stabilization of the FeOOH Cocatalyst on Bismuth Vanadate Photoanode for Ultraefficient and Stable Photoelectrochemical Water Oxidation"
+  },
+  "10.1021/jacs.6c13418": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c13418",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c13418",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Single-Water Microsolvation Promotes Proton Sharing in a Neutral Formic Acid–Ammonia Complex"
+  },
+  "10.1021/jacs.6c13986": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c13986",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c13986",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "The Key Role of Solvation in Enhancing Electrochemical Promotion of Brønsted Acid Catalysis"
+  },
+  "10.1021/jacs.6c14585": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c14585",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14585",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Understanding the Instability Origin for Design of Robust Pure RuO2 Anode Catalyst in PEM Water Electrolysis"
+  },
+  "10.1021/jacs.6c14945": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c14945",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14945",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Chiral Lithium Phosphate-Catalyzed Photoredox-Neutral [2σ + 2σ] Cycloaddition of Cyclopropylamines with Bicyclo[1.1.0]butanes"
+  },
+  "10.1021/jacs.6c16691": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c16691",
+    "verifiedAt": "2026-10-29",
+    "reason": "Title unambiguously identifies electrocatalysis, molecular chemistry, bioanalysis or lithium extraction rather than any of the four configured research topics.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c16691",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "A DNA Origami Nanodevice Programs CD20 Spatial Organization for Selective Apoptosis of Malignant B Cells in Lymphoma Therapy"
+  },
+  "10.1021/jacs.6c19936": {
+    "decision": "exclude",
+    "articleType": "correction",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c19936",
+    "verifiedAt": "2026-10-29",
+    "reason": "Explicit cover/correction title, not a distinct research study.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c19936",
+    "publisherAccessStatus": "publisher-page evidence not obtained; exclusion based only on unambiguous registered title",
+    "evidenceTitle": "Correction to “Dynamic Adaptive Interfaces Enable Zn-Iodine Hydrogel Batteries with High Areal Capacity and Low Self-Discharge”"
+  },
+  "10.1021/jacs.6c20703": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c20703",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher-deposited abstract explicitly links multi-solvent electrolyte design to reconstructed Zn2+ solvation and cell cycling, within existing interfacial ion-transport topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c20703",
+    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+  },
+  "10.1021/jacs.6c16008": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c16008",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher-deposited abstract explicitly reports interfacial contact, Zn2+ coordination and alloy-layer-regulated adsorption for low-temperature aqueous Zn cells, within existing interfacial ion-transport topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c16008",
+    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+  },
+  "10.1021/jacs.6c11841": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c11841",
+    "verifiedAt": "2026-10-29",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Publisher-deposited abstract directly localizes underpotential Na plating at hard-carbon particle interfaces; addresses deposition/interphase mechanism within existing interfacial ion-transport topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c11841",
+    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+  },
+  "10.1021/jacs.6c13878": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c13878",
+    "verifiedAt": "2026-10-29",
+    "reason": "Registered abstract studies lithium purification through artificial supramolecular membrane channels, not a polymer electrolyte or battery electrode/interphase; outside four topics.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c13878",
+    "publisherAccessStatus": "publisher page unavailable; exclusion based on deposited abstract"
+  },
+  "10.1016/j.joule.2026.102711": {
+    "decision": "exclude",
+    "articleType": "perspective",
+    "publisherOnlineDate": "2026-10-16",
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2542435126003958",
+    "verifiedAt": "2026-10-30",
+    "reason": "Publisher explicitly labels Perspective; not a distinct research-article entry under the existing comment exclusion rule."
+  },
+  "10.1016/j.joule.2026.102686": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-06",
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2542435126003703",
+    "verifiedAt": "2026-10-30",
+    "reason": "Publisher summary establishes bulk cathode calendering-induced mechanical defects and cracking; no configured electrolyte/interfacial ion-transport question. Background mentions solid-state/anode-free batteries but is not an inclusion basis."
+  },
+  "10.1016/j.joule.2026.102712": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://doi.org/10.1016/j.joule.2026.102712",
+    "verifiedAt": "2026-10-30",
+    "reason": "Battery dataset/metadata registry, not a study in the four configured scientific topics.",
+    "evidenceTitle": "The Battery Data Commons registry",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102712",
+    "publisherAccessStatus": "publisher page unavailable; exclusion based on deposited metadata"
+  },
+  "10.1021/jacs.6c13125": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c13125",
+    "verifiedAt": "2026-10-30",
+    "reason": "Deposited abstract studies electrocatalytic wastewater mineralization; anode/interface wording does not make it battery interfacial ion transport.",
+    "evidenceTitle": "Interfacially Stitched Bilayer Anodes Enforce Surface-Confined Hydroxyl Radical Chemistry in Complex Wastewater",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c13125",
+    "publisherAccessStatus": "publisher page unavailable; exclusion based on deposited metadata"
+  },
+  "10.1002/anie.1913760": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1913760",
+    "verifiedAt": "2026-10-30",
+    "reason": "Chemical presodiation and sodium inventory restoration in oxide cathodes; not an electrolyte/solid-state/lithium-metal/interfacial ion-transport study.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.1913760",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.3897515": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3897515",
+    "verifiedAt": "2026-10-30",
+    "reason": "Carbon-fibre epoxy composite toughening/recycling and fibre-matrix stress transfer, unrelated to ion-conducting polymer electrolytes.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.3897515",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.4470539": {
+    "decision": "exclude",
+    "articleType": "review",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4470539",
+    "verifiedAt": "2026-10-30",
+    "reason": "A review of aqueous nonmetallic conversion/insertion electrode storage mechanisms, not a study of the four configured topics.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.4470539",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.5827213": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5827213",
+    "verifiedAt": "2026-10-30",
+    "reason": "Cathode regeneration by lattice cation-disorder control; no configured electrolyte or interfacial ion-transport question.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.5827213",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.6229772": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6229772",
+    "verifiedAt": "2026-10-30",
+    "reason": "Spin-dependent oxygen electrocatalysis on Pd/CFO at the positive electrode of Li–O2 cells; not interfacial ion transport or a configured lithium-metal-anode study.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6229772",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.7926853": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7926853",
+    "verifiedAt": "2026-10-30",
+    "reason": "COF iodine-host frontier-orbital alignment controls electron donation and charge transfer; an electronic cathode redox/anchoring design, not an ion-conducting polymer electrolyte or electrode-scale ion-transport study.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.7926853",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.7961558": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7961558",
+    "verifiedAt": "2026-10-30",
+    "reason": "Bipolar COF positive-electrode six-electron storage chemistry; pore accessibility and rate performance are ancillary, not a configured electrolyte/interfacial ion-transport question.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.7961558",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.8528584": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8528584",
+    "verifiedAt": "2026-10-30",
+    "reason": "Oxide positive-electrode oxygen-redox and grain-boundary passivation; parallels the existing exclusion of bulk positive-electrode redox studies.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.8528584",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1002/anie.8801354": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8801354",
+    "verifiedAt": "2026-10-30",
+    "reason": "Aluminum-ion solvation and Al plating; excluded consistently with the script's existing aluminum-battery exclusion, without extending the ion-species scope.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.8801354",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c11691": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c11691",
+    "verifiedAt": "2026-10-30",
+    "reason": "Bulk layered-oxide cathode local-field disparity, strain and structural reversibility; high-rate discharge performance alone does not establish a fast-charging/interfacial ion-transport study.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c11691",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c12683": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c12683",
+    "verifiedAt": "2026-10-30",
+    "reason": "Interfacial CO adsorption kinetics on Pt electrocatalysts, not battery electrode-scale ion transport.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c12683",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c13060": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c13060",
+    "verifiedAt": "2026-10-30",
+    "reason": "Redox-core/potential tuning in all-COF sodium dual-ion electrodes; not polymer-electrolyte or interfacial ion-transport design.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c13060",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c14375": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c14375",
+    "verifiedAt": "2026-10-30",
+    "reason": "Intraparticle cathode ionic percolation/lattice reconstruction, consistent with the existing exclusion of bulk cathode Li-ion migration studies.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14375",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c14588": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c14588",
+    "verifiedAt": "2026-10-30",
+    "reason": "Copper-selenide positive-electrode phase reconstruction and selenium redox, outside the configured electrolyte/interfacial ion-transport topics.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14588",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c15227": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c15227",
+    "verifiedAt": "2026-10-30",
+    "reason": "High-entropy Prussian-blue-analogue bulk Jahn–Teller distortion and ammonium storage; not one of the four topics.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c15227",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/jacs.6c20330": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c20330",
+    "verifiedAt": "2026-10-30",
+    "reason": "Positive-electrode Li2O2 chemical oxidation by an ICl redox mediator; does not establish ion transport, solid-state electrolyte or lithium-metal-anode mechanism.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c20330",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1021/acs.macromol.6c02121": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/acs.macromol.6c02121",
+    "verifiedAt": "2026-10-30",
+    "reason": "Oxidative electronic doping and thermoelectric polarity inversion in conjugated polymers; electronic rather than ionic conduction.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/acs.macromol.6c02121",
+    "publisherAccessStatus": "publisher-page type/date not independently verified; scientific scope assessed from deposited abstract"
+  },
+  "10.1038/s41560-026-02152-0": {
+    "decision": "exclude",
+    "articleType": "down-to-business",
+    "publisherOnlineDate": "2026-10-29",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02152-0",
+    "verifiedAt": "2026-10-30",
+    "reason": "Publisher classifies it as Down to Business / Comments & Opinion about sulfur-flow-battery deployment, not a distinct research study."
+  }
+}
