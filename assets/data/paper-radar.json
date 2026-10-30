@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:12:08Z",
+  "generatedAt": "2026-10-30T23:00:41Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,27 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C",
+      "authors": "Zichun Xiao, Yong Li, Yankai Zheng, Ruohong Ke, Yangyang Liu, Zhenxin Huang, Xu Zhang, Yu Liu, Zhen Li, Xiangwen Gao, Bing Han, Yuping Wu, Renyi Shi, Wei Tang, Yaling He",
+      "authorsCitation": "Z. Xiao, Y. Li, Y. Zheng, R. Ke, Y. Liu, Z. Huang, X. Zhang, Y. Liu, Z. Li, X. Gao, B. Han, Y. Wu, R. Shi, W. Tang, Y. He",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-30",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c16293",
+      "link": "https://doi.org/10.1021/jacs.6c16293",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：将偶极矩（dipole moment）与极化率（polarizability）作为联合筛选变量，用分子库和机器学习寻找两者的折中，而非仅按单一溶剂化强弱选择溶剂。\n性能：登记摘要报告5.8 Ah软包电池在25°C达503.7 Wh kg⁻¹、循环275圈；在−40°C仍达365.5 Wh kg⁻¹，50圈后容量保持率99.8%。低温倍率及完整测试工况需查正文，不能仅据这些数字作跨体系排名。\n怎么解释：筛得的N,N-二甲基三氟甲磺酰胺（N,N-dimethyltrifluoromethanesulfonamide，DMTMSA）与1,2-二乙氧基乙烷（1,2-diethoxyethane，DEE）产生温度敏感的偶极相互作用；作者将其与−40至60°C的阴离子主导溶剂化及固体电解质界面膜（solid electrolyte interphase，SEI）调控联系起来。摘要尚不足以拆分体相输运和界面化学的独立贡献。\n为什么重要：将数据驱动筛选落到可解释的分子变量和溶剂配对上，为宽温电解液提供路径；筛选框架对其他盐、浓度与器件条件的适用性仍需验证。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-30T23:00:56Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Solvation Cluster Engineering of Non-Fluorinated Ethers toward High-Energy Lithium Metal Batteries",
       "authors": "Xinyi Liu, Shuang Wu, Jinze Hou, Wenbo Zhou, Mao Guo, Haixia Li, Zhenhua Yan, Yong Lu, Jun Chen",
@@ -850,33 +871,6 @@
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-10-03T07:12:00+08:00",
       "summaryPromptVersion": 2
-    },
-    {
-      "title": "Reconfiguring Electrolyte Solvation Chemistry via In Situ Solvent Polymerization for High‐Performance Sodium‐Ion Batteries",
-      "authors": "Enmin Li, Huanming Wei, Xinlu Liu, Huanghao Pan, Bingqi Jiang, Chenjun Ju, Wei Shao, Zhenglong Yang",
-      "authorsCitation": "E. Li, H. Wei, X. Liu, H. Pan, B. Jiang, C. Ju, W. Shao, Z. Yang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-01",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e4157238",
-      "doi": "10.1002/anie.4157238",
-      "link": "https://doi.org/10.1002/anie.4157238",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以痕量LiPF₆触发1,3-二氧戊环（1,3-dioxolane, DOL）在二甘醇二甲醚中的部分开环聚合，形成液态聚合物电解质；核心不是简单增加聚合物，而是把聚合链参与的溶剂化环境作为同时调控体相传输和电极界面的变量。\n性能：在16 mg cm⁻²正极载量下，NFPP||Na扣式电池以2 C循环500次后容量保持率为94.76%；NFPP||硬碳软包电池以0.5 C循环500次后保持96.59%。\n怎么解释：原位生成的聚DOL提供额外配位位点并重构Na⁺溶剂化结构，摘要据此关联到较低的去溶剂化能垒和更快的界面动力学；同时，聚合物调制的溶剂化环境被认为促进富无机、较稳健界面相形成并抑制溶剂持续分解，但各作用的独立贡献仍需进一步拆分。\n为什么重要：该工作提示液态或凝胶聚合物电解质可通过控制原位聚合程度与链上配位位点，在不牺牲离子输运的前提下改善高电压界面，为处理“界面稳定—体相传输”权衡提供了可迁移的设计路径。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-02T07:03:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Zhenglong Yang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-02"
     }
   ],
   "source": "Crossref",
