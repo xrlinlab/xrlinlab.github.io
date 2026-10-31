@@ -98,45 +98,45 @@
   },
   "10.1002/anie.6189151": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-27",
     "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6189151",
-    "verifiedAt": "2026-10-29",
+    "verifiedAt": "2026-11-01",
     "matchedTopics": [
       "Ion-conducting polymers and single-ion conductors"
     ],
     "reason": "Publisher-deposited Crossref abstract explicitly reports ion-conductive polyester elastomers and room-temperature ionic conductivity. Ion-conductive is a word-order/word-form variant of the existing ion-conducting polymer topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.6189151",
-    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+    "publisherAccessStatus": "verified formal article page; explicitly labelled corresponding authors"
   },
   "10.1002/anie.3951000": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-28",
     "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3951000",
-    "verifiedAt": "2026-10-29",
+    "verifiedAt": "2026-11-01",
     "matchedTopics": [
       "Ion-conducting polymers and single-ion conductors"
     ],
     "reason": "Publisher-deposited Crossref abstract explicitly reports hydrogel electrolyte with Zn2+-selective pathways and 20C operation, within existing polymer-electrolyte and interfacial ion-transport topics.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.3951000",
-    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+    "publisherAccessStatus": "verified formal article page; explicitly labelled corresponding authors"
   },
   "10.1002/anie.7246806": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-27",
     "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7246806",
-    "verifiedAt": "2026-10-29",
+    "verifiedAt": "2026-11-01",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
     "reason": "Publisher-deposited Crossref abstract explicitly studies temperature-dependent solvation equilibrium and sodium-ion transport/redox kinetics in bulk and electrode interfaces. Same existing interfacial ion-transport topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.7246806",
-    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+    "publisherAccessStatus": "verified formal article page; explicitly labelled corresponding authors"
   },
   "10.1002/anie.2026-m0210101400": {
     "decision": "exclude",
@@ -629,5 +629,45 @@
     "publisherSource": "https://www.nature.com/articles/s41560-026-02152-0",
     "verifiedAt": "2026-10-30",
     "reason": "Publisher classifies it as Down to Business / Comments & Opinion about sulfur-flow-battery deployment, not a distinct research study."
+  },
+  "10.1002/anie.6325809": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-27",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6325809",
+    "verifiedAt": "2026-11-01",
+    "evidenceSource": "publisher",
+    "publisherAccessStatus": "verified formal article page; explicitly labelled corresponding authors",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ]
+  },
+  "10.1021/jacs.6c12519": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c12519",
+    "verifiedAt": "2026-11-01",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "reason": "Publisher-deposited abstract explicitly studies lithium-metal electrode potentials across battery electrolyte chemistries; retained under the existing lithium-metal topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c12519",
+    "publisherAccessStatus": "formal article page inaccessible; no first-online-date, article-type or corresponding-author verification claimed"
+  },
+  "10.1021/jacs.6c14709": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c14709",
+    "verifiedAt": "2026-11-01",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
+    "reason": "Publisher-deposited abstract studies Nafion ionomer modified by a noncovalently cross-linked organic network, with explicit proton-conduction and oxygen-transport measurements. This is an ion-conducting polymer study, not a fast-charging battery study; semantic assignment uses only the existing polymer topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14709",
+    "publisherAccessStatus": "formal article page inaccessible; no first-online-date, article-type or corresponding-author verification claimed"
   }
 }
