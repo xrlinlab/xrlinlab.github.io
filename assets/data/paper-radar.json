@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:16:02Z",
+  "generatedAt": "2026-11-01T23:11:06Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -278,7 +278,7 @@
       "authorsCitation": "Z. Liu, X. Xie, H. Duan, Z. Wang, S. Liang, G. Fang",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-10-27",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e5029282",
@@ -291,7 +291,14 @@
       "summaryZh": "新在哪里：让原本主要用于防冻的甲醇更深地参与Zn²⁺配位，以处理低温液体仍可流动但界面反应仍慢的问题。\n性能：−40°C电导率为4.6 mS cm⁻¹，锌对称电池运行超过2700 h；−20°C全电池8000圈保持84.8%容量。\n怎么解释：三(2-氯丙基)磷酸酯（tris(2-chloropropyl) phosphate，TCPP）促进甲醇共溶剂化（cosolvation），并减少水配位；去溶剂化耦合电荷转移（desolvation-coupled charge transfer）的表观活化能由18.46降至13.91 kJ mol⁻¹。该值不是孤立去溶剂化能垒，吸附排水也可能贡献稳定性。\n为什么重要：将防冻作用与界面动力学分开评价，为低温水系电解液提供更明确的设计变量。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-28T23:08:17Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xuefang Xie",
+        "Ziqing Wang",
+        "Guozhao Fang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-02"
     },
     {
       "title": "Breaking the Halide Concentration Reliance of Four‐Electron Zinc‐Iodine Batteries via Interfacial Halide Enrichment",

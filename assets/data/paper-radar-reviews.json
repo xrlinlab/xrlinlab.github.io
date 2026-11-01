@@ -669,5 +669,18 @@
     "evidenceSource": "publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14709",
     "publisherAccessStatus": "formal article page inaccessible; no first-online-date, article-type or corresponding-author verification claimed"
+  },
+  "10.1002/anie.5029282": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-27",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5029282",
+    "verifiedAt": "2026-11-02",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher",
+    "reason": "Formal publisher article page explicitly reports molecular cosolvation promotion, desolvation-coupled charge-transfer kinetics and low-temperature zinc-metal batteries; all three corresponding authors explicitly labelled.",
+    "publisherAccessStatus": "formal article page accessible and verified"
   }
 }
