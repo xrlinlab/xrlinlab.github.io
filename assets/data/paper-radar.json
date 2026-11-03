@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:11:06Z",
+  "generatedAt": "2026-11-03T03:29:43Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,23 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Rethinking lithium content in inorganic solid-state electrolytes",
+      "authors": "Jun-Dong Zhang, Chen-Zi Zhao, Liang Shen, Rui Zhang, Jiang-Kui Hu, Dong-Ying Lan, Xiang Chen, Chen Ling, Dai-Wei Wang, Qiang Zhang",
+      "authorsCitation": "J.-D. Zhang, C.-Z. Zhao, L. Shen, R. Zhang, J.-K. Hu, D.-Y. Lan, X. Chen, C. Ling, D.-W. Wang, Q. Zhang",
+      "journal": "Chem",
+      "publicationDate": "2026-11-02",
+      "publicationDateSource": "crossref-registration",
+      "volume": "",
+      "issue": "",
+      "page": "103324",
+      "doi": "10.1016/j.chempr.2026.103324",
+      "link": "https://doi.org/10.1016/j.chempr.2026.103324",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ]
+    },
     {
       "title": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",
       "authors": "Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng",
