@@ -682,5 +682,124 @@
     "evidenceSource": "publisher",
     "reason": "Formal publisher article page explicitly reports molecular cosolvation promotion, desolvation-coupled charge-transfer kinetics and low-temperature zinc-metal batteries; all three corresponding authors explicitly labelled.",
     "publisherAccessStatus": "formal article page accessible and verified"
+  },
+  "10.1038/s41560-026-02154-y": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-02",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02154-y",
+    "verifiedAt": "2026-11-03",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "reason": "Formal publisher page abstract explicitly describes sodium-ion desolvation, electrolyte decomposition and oligomer-derived interphase regulation of sodium plating/stripping. Semantic inclusion is under the existing interfacial-ion-transport topic, not the lithium-metal topic.",
+    "evidenceSource": "publisher-indexed-page",
+    "publisherAccessStatus": "Full publisher-page metadata, abstract and corresponding-author section retrieved through the search index; direct open redirects to Nature identity service. No full-text access claimed."
+  },
+  "10.1038/s41560-026-02150-2": {
+    "decision": "exclude",
+    "articleType": "news-and-views",
+    "publisherOnlineDate": "2026-11-02",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02150-2",
+    "verifiedAt": "2026-11-03",
+    "reason": "Publisher explicitly labels this companion discussion News & Views, not an independent research article.",
+    "evidenceSource": "publisher-indexed-page"
+  },
+  "10.1021/jacs.6c09277": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c09277",
+    "verifiedAt": "2026-11-03",
+    "reason": "Deposited title identifies alkaline oxygen-evolution electrocatalysis of nickel selenides, outside all four configured topics; not excluded for unknown date/type or access failure.",
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c09277",
+    "publisherAccessStatus": "not verified; network authorization interrupted before further publisher access"
+  },
+  "10.1002/anie.1404617": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1404617",
+    "verifiedAt": "2026-11-04",
+    "reason": "Publisher-deposited abstract explicitly addresses Zn2+ ligand-dissociation barriers, solvation regulation and interfacial charge transfer; semantic match to the existing interfacial-ion-transport topic.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.1404617",
+    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ]
+  },
+  "10.1021/jacs.6c15158": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c15158",
+    "verifiedAt": "2026-11-04",
+    "reason": "Publisher-deposited abstract describes continuous liquid electrolyte within an ice framework, retained electrode contact and ion transport after freezing. Existing interfacial-ion-transport topic; not classified as an all-solid-state battery.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c15158",
+    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ]
+  },
+  "10.1002/anie.1323991": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-02",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1323991",
+    "verifiedAt": "2026-11-04",
+    "reason": "Palladium-catalyzed organolithium cross-coupling is synthetic methodology, not battery/electrolyte/ion-conductor research.",
+    "evidenceSource": "publisher-indexed-directory",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.1323991",
+    "publisherDirectorySource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "publisherAccessStatus": "Publisher Early View listing labels this Research Article and Version of Record online 02 November 2026; article page inaccessible. No corresponding-author verification claimed."
+  },
+  "10.1021/jacs.6c15718": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c15718",
+    "verifiedAt": "2026-11-04",
+    "reason": "Nitrate-to-ammonia electrocatalysis and proton supply on CuRu, outside the four configured battery/ion-conducting-polymer topics.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c15718",
+    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed"
+  },
+  "10.1021/jacs.6c16503": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c16503",
+    "verifiedAt": "2026-11-04",
+    "reason": "TEMPO-COF lithium recognition is quantum sensing, not an ion-conducting polymer or electrolyte/fast-charge/battery-interface study.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c16503",
+    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed"
+  },
+  "10.1021/jacs.6c18595": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c18595",
+    "verifiedAt": "2026-11-04",
+    "reason": "Trivalent-metal fluorination/defluorination and electrode dissolution in fluoride-ion conversion batteries; outside the established lithium-metal/solid-state/polymer-electrolyte/fast-charge scope. No journal or chemistry expansion based on generic interfacial-barrier wording.",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c18595",
+    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed"
+  },
+  "10.1002/anie.3787629": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3787629",
+    "verifiedAt": "2026-11-04",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Polyimide COF sodium-anode coating explicitly studies ion transport and uniform deposition. Deposited 1C retention value 9.3% is anomalous; omitted from the guide rather than silently corrected.",
+    "publisherAccessStatus": "article page unavailable; corresponding authors remain unverified"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:29:43Z",
+  "generatedAt": "2026-11-03T23:18:10Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,6 +23,75 @@
   ],
   "papers": [
     {
+      "title": "An Ether‐Chain‐Functionalized Zwitterion Enables Mild Zinc‐Ion Coordination and Dual‐Site Polyiodide Capture in Aqueous Zinc–Iodine Batteries",
+      "authors": "Shengchao Chai, Yuxin Zhu, Wenxin Xie, Siqi He, Yifan Wang, Yizhan Wang, Haolong Li",
+      "authorsCitation": "S. Chai, Y. Zhu, W. Xie, S. He, Y. Wang, Y. Wang, H. Li",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-03",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e1404617",
+      "doi": "10.1002/anie.1404617",
+      "link": "https://doi.org/10.1002/anie.1404617",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：醚链功能化两性离子（ether-chain-functionalized zwitterion，ZEG）把温和锌离子配位与多碘离子捕获结合，针对强配位调控溶剂化却拖慢界面反应的矛盾。\n性能：摘要报告锌碘全电池在10 A g⁻¹下循环超过35000次；300 mAh软包在碘载量30 mg cm⁻²时运行超过1200圈。不能把两组测试视为同一电流和载量条件。\n怎么解释：咪唑鎓基团降低醚氧给电子能力并排斥Zn²⁺，作者据此解释配体解离阻力降低；咪唑鎓和醚链又通过静电及离子—偶极相互作用捕获多碘物种。摘要未完整拆分溶剂化、界面动力学和穿梭抑制的贡献。\n为什么重要：提示多功能添加剂的关键不是配位越强越好，而是协调配体交换与正极物种约束；具体适用边界仍依赖分子对照和器件条件。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-03T23:10:14Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "An Aqueous Phase Transition Electrolyte Retaining High Ionic Conductivity after Solidification for Low-Temperature Zinc–Iodine Batteries",
+      "authors": "Xixian Li, Qi Yang, Hongwei Wang, Wenyu Xu, Jianze Feng, Ziqiang Liu, Binfen Wang, Na Jiang, Yanting Duan, Zui Tao, Jiankun Wang, Mingyu Li, Xinliang Li, Shimou Chen, Chunyi Zhi, Jieshan Qiu",
+      "authorsCitation": "X. Li, Q. Yang, H. Wang, W. Xu, J. Feng, Z. Liu, B. Wang, N. Jiang, Y. Duan, Z. Tao, J. Wang, M. Li, X. Li, S. Chen, C. Zhi, J. Qiu",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-03",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c15158",
+      "link": "https://doi.org/10.1021/jacs.6c15158",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：相变电解液（phase-transition electrolyte，PTE）不以完全避免结冰为目标，而是在冰框架中维持连续液相电解液与电极接触，使固化后仍可传输离子。\n性能：−60 °C电导率为1.870 mS cm⁻¹，对照为0.065 mS cm⁻¹；锌碘电池在−40 °C、40 A g⁻¹下循环430000次。极高电流下的圈数不能直接等同于实用载量下的寿命。\n怎么解释：表征显示PTE形成贯通液相通道，而常规电解液形成较孤立的盐域。这里是固化体系中的残余液相传输，并非证明纯冰或全固态电解质具有同等电导；液氮点灯也不是持续电池循环的证据。\n为什么重要：将低温设计变量从凝固点转向冻结后的相连通性和接触保持，为相变后的输运提供更明确的结构问题。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-03T23:10:14Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Stable anode-free sodium batteries enabled by controlled oligomerization",
+      "authors": "Shuicen Ding, Xijie Chen, Zhen Yao, Mengdi Hao, Chuanjin Tian, Xuefeng Wang, Nian Zhang, Hui Zhang, Xue Han, Ru Li, Longji Xu, Zhao Chen, Jin Wang, Yong-Sheng Hu, Weijiang Xue",
+      "authorsCitation": "S. Ding, X. Chen, Z. Yao, M. Hao, C. Tian, X. Wang, N. Zhang, H. Zhang, X. Han, R. Li, L. Xu, Z. Chen, J. Wang, Y.-S. Hu, W. Xue",
+      "journal": "Nature Energy",
+      "publicationDate": "2026-11-02",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1038/s41560-026-02154-y",
+      "link": "https://doi.org/10.1038/s41560-026-02154-y",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：以1,3-二氧六环（1,3-dioxane，DOX）同时调节钠离子配位与溶剂低聚化，处理无负极钠电池中的持续钠损失，而不只是要求溶剂不分解。\n性能：约300 mAh软包、正极载量约20 mg cm⁻²，在1C循环1400次后保留约80%容量；不能将摘要中的不同工况指标合并为同一条件下同时实现的性能。\n怎么解释：弱配位有利于去溶剂化；受控低聚化形成固体电解质界面膜（solid–electrolyte interphase，SEI），减少后续分解。界面及低聚产物分析支持这一路径，但循环改善不能单独分离传输与钠消耗降低的贡献。\n为什么重要：把分解产物及持续反应程度转为可调分子变量，为低钠库存的界面设计提供思路；不能直接视为已在锂金属中验证。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-02T23:09:09Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yong-Sheng Hu",
+        "Weijiang Xue"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-03"
+    },
+    {
       "title": "Rethinking lithium content in inorganic solid-state electrolytes",
       "authors": "Jun-Dong Zhang, Chen-Zi Zhao, Liang Shen, Rui Zhang, Jiang-Kui Hu, Dong-Ying Lan, Xiang Chen, Chen Ling, Dai-Wei Wang, Qiang Zhang",
       "authorsCitation": "J.-D. Zhang, C.-Z. Zhao, L. Shen, R. Zhang, J.-K. Hu, D.-Y. Lan, X. Chen, C. Ling, D.-W. Wang, Q. Zhang",
@@ -37,7 +106,53 @@
       "abstract": "",
       "matchedTopics": [
         "Solid-state batteries"
-      ]
+      ],
+      "summaryZh": "新在哪里：基于标题（title-only），文章重新审视无机固态电解质（inorganic solid-state electrolytes）中的锂含量这一组成变量。\n性能：未获得可靠摘要或正文，不能报告电导率、循环或其他性能数据。\n怎么解释：标题不足以确定锂含量通过何种结构或缺陷机制影响输运，不作机制推断。\n为什么重要：可作为关注组成与离子传输关系的线索；具体创新及证据仍需阅读正式内容。",
+      "summarySource": "title-only",
+      "summaryGeneratedAt": "2026-11-02T23:09:09Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Interfacial Anion Activation for Durable Aqueous Zn-Ion Batteries",
+      "authors": "Xiaosheng Zhang, Eungyeong Lee, Xin Chen, Yuhui Wang, Chong Li, Fang Dong, Qingwei Zhang, Yuanzheng Chen, Zhongqiu Fu, Xin Ma, Daero Won, Kisuk Kang, Qiao Ni",
+      "authorsCitation": "X. Zhang, E. Lee, X. Chen, Y. Wang, C. Li, F. Dong, Q. Zhang, Y. Chen, Z. Fu, X. Ma, D. Won, K. Kang, Q. Ni",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-02",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c17339",
+      "link": "https://doi.org/10.1021/jacs.6c17339",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：用烯丙基脲（allylurea）在锌表面组织富阴离子、贫水的局部环境，研究重点是界面反应物如何被激活，而不只是改变体相接触离子对。\n性能：锌对称电池在5 mA cm⁻²下运行超过2500 h，全电池在5 A g⁻¹下循环超过10000次。摘要未提供对应沉积面容量和全部容量保持条件，不能仅按时长或圈数比较实用性。\n怎么解释：原位光谱与计算支持烯丙基阳离子（allyl cation）中间体参与硫酸根向ZnS的逐步转化，形成有机—无机杂化固体电解质界面膜（hybrid solid electrolyte interphase，h-SEI）。这支持界面化学调节，但不能把全部寿命提升归于单一中间体。\n为什么重要：提供了通过添加剂组织局部反应环境、促进原有阴离子成膜的思路；需要区分反应介导、排水和力学粘附各自的贡献。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-03T23:10:14Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Carbonyl‐Rich Polyimide Covalent Organic Frameworks as Anode Coating for Uniform Sodium Deposition",
+      "authors": "Zhaohui Zhang, Xupeng Zhang, Weiran Li, Ran Huo, Tan Su, Heng‐Guo Wang, Long Chen, Zhongmin Su",
+      "authorsCitation": "Z. Zhang, X. Zhang, W. Li, R. Huo, T. Su, H. Wang, L. Chen, Z. Su",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-02",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e3787629",
+      "doi": "10.1002/anie.3787629",
+      "link": "https://doi.org/10.1002/anie.3787629",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：比较富羰基聚酰亚胺共价有机框架（polyimide covalent organic framework，COF）作为钠负极涂层，把离子结合位点与有序骨架结合，用于改善钠沉积均匀性。\n性能：TATT-NTCDA-COF涂层的对称电池在0.1 mA cm⁻²下稳定超过1200 h；全电池摘要报告5C下1390圈和10C下750圈后容量保持超过90%。登记摘要的1C保持率数值存在疑点，此处不采用，也不擅自修正。\n怎么解释：作者将改善归因于离子结合位点、有序通道及涂层稳定性；现有摘要不足以分别量化羰基配位、孔结构与接触改善的贡献，不能据此认定新的钠离子传输机制。\n为什么重要：为COF人工界面的位点和骨架协同设计提供比较对象；低电流对称循环与高倍率全电池结果应分开评价。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-03T23:10:14Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",
@@ -893,27 +1008,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
-    },
-    {
-      "title": "Electric-Field-Oriented Interfacial Solvent Engineering Enables High-Voltage Ether Electrolytes for Ni-Rich Lithium-Ion Batteries",
-      "authors": "Qianfeng Zheng, Yanxin Jiang, Guoqiang He, Zhiqiang Yang, Lu Chen, Hongji Pan, Zhaoan Lu, Chenhui Ning, Mingnan Song, Jianping Luo, Jingjing Ouyang, Yan Su, Yi Lv, Huaifang Shang, Lin Zeng, Chao Luo, Yiju Li, Shaojun Guo",
-      "authorsCitation": "Q. Zheng, Y. Jiang, G. He, Z. Yang, L. Chen, H. Pan, Z. Lu, C. Ning, M. Song, J. Luo, J. Ouyang, Y. Su, Y. Lv, H. Shang, L. Zeng, C. Luo, Y. Li, S. Guo",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-05",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "41",
-      "page": "44470",
-      "doi": "10.1021/jacs.6c12182",
-      "link": "https://doi.org/10.1021/jacs.6c12182",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：将高电压电场下溶剂在电双层中的定向排列定义为界面设计变量，而不只比较体相溶剂化或轨道能级；刚性不对称溶剂4-氰基四氢吡喃（4-cyano-tetrahydropyran, THP-CN）利用氰基的优先吸附，将易氧化的醚键与α-氢推离高电位正极表面。\n性能：低浓度THP-CN醚类电解液报告氧化稳定性至4.8 V；1.5 Ah石墨||NCM811软包电池在2.8–4.5 V窗口下达到331.2 Wh kg⁻¹，循环600次后容量保持率83.5%。\n怎么解释：常规醚分子在高电场下倾向以氧原子朝向正极，促进邻位α-氢脱氢及后续分解；THP-CN则通过“正极–氰基–醚–体相”的自组装取向降低醚基元与表面直接接触。FSI⁻与NO₃⁻协同分解还形成富无机正极电解质界面（cathode electrolyte interphase, CEI），但溶剂取向与CEI化学的独立贡献仍需拆分。\n为什么重要：该工作把“外加电场下的界面吸附取向”从一个被忽略的结果提升为可设计的分子变量，说明高压电解液不仅要设计“谁进入溶剂化壳层”，还要设计“谁在电场中朝向电极、哪个反应位点被暴露”。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-07T07:20:00+08:00",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",
