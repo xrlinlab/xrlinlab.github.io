@@ -1,4 +1,26 @@
 {
+  "10.1038/s41557-026-02291-7": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-04",
+    "publisherSource": "https://www.nature.com/articles/s41557-026-02291-7",
+    "verifiedAt": "2026-11-05",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "evidenceSource": "publisher-abstract-and-correspondence",
+    "reason": "Publisher abstract explicitly studies additive-dependent zinc deposition kinetics, crystallographic orientation and high-current cycling. Correspondence section explicitly names Le Yu and Chaoji Chen."
+  },
+  "10.1016/j.chempr.2026.103329": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.cell.com/chem/fulltext/S2451-9294(26)00395-5",
+    "verifiedAt": "2026-11-05",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.chempr.2026.103329",
+    "publisherAccessStatus": "Publisher article unavailable; no publisher-page abstract, type, online date or corresponding-author verification claimed.",
+    "reason": "Title explicitly addresses electron-ion transport mismatch and battery stability. Unknown type does not prevent inclusion; use Crossref created as proxy, not a verified first-online date. Title-only guide."
+  },
   "10.1002/anie.6809424": {
     "decision": "include",
     "articleType": "research",

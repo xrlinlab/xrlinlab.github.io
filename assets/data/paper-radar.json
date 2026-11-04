@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:18:10Z",
+  "generatedAt": "2026-11-04T23:16:52Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,54 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Predicting battery stability from electron-ion transport mismatch",
+      "authors": "Jinghao Li, Yuhang Dai, Yuzhe Zhang, Zhuo Chen, Wenwei Zhang, Lin Wang, Chenxu Dong, Lianmeng Cui, Jie Huang, Youwei Jiang, Yuyang Cai, Yaoguang Rong, Qinyou An, Liqiang Mai",
+      "authorsCitation": "J. Li, Y. Dai, Y. Zhang, Z. Chen, W. Zhang, L. Wang, C. Dong, L. Cui, J. Huang, Y. Jiang, Y. Cai, Y. Rong, Q. An, L. Mai",
+      "journal": "Chem",
+      "publicationDate": "2026-11-04",
+      "publicationDateSource": "crossref-registration",
+      "volume": "",
+      "issue": "",
+      "page": "103329",
+      "doi": "10.1016/j.chempr.2026.103329",
+      "link": "https://doi.org/10.1016/j.chempr.2026.103329",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：题目将电子—离子输运失配（electron–ion transport mismatch）与电池稳定性预测联系起来。\n性能：title-only；尚无可靠摘要或正文，不能报告准确率或循环指标。\n怎么解释：目前不能确认失配的定义、模型和验证证据，也不能判定因果机制。\n为什么重要：值得关注输运匹配能否成为稳定性判据；结论仍待原文核实。",
+      "summarySource": "title-only",
+      "summaryGeneratedAt": "2026-11-04T23:12:00Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Facet-dependent molecular adsorption modulates zinc anode work function for the favourable orientation of zinc electrocrystallization",
+      "authors": "Sijun Wang, Le Yu, Jing Huang, Ziyan Cai, Lu Chen, Ziyang Lu, Won-Yeong Kim, Yongming Sun, Sang-Young Lee, Chaoji Chen",
+      "authorsCitation": "S. Wang, L. Yu, J. Huang, Z. Cai, L. Chen, Z. Lu, W.-Y. Kim, Y. Sun, S.-Y. Lee, C. Chen",
+      "journal": "Nature Chemistry",
+      "publicationDate": "2026-11-04",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1038/s41557-026-02291-7",
+      "link": "https://doi.org/10.1038/s41557-026-02291-7",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：不再只以添加剂吸附强弱解释锌沉积取向，而检验晶面吸附引起的功函数（work function）变化能否成为预测判据。\n性能：29种添加剂的取向预测准确率为93.1%；(100)取向锌还接受最高20 mA cm⁻²电流及超过85%放电深度测试，不能据摘要认定各指标在同一工况同时实现。\n怎么解释：逐例实验与计算支持功函数变化影响沉积动力学；这一关联不等于完全排除其他界面因素。\n为什么重要：将添加剂筛选从经验吸附转向可检验的电子结构变量，并提示(002)并非所有工况下的最优取向。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-04T23:12:00Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Le Yu",
+        "Chaoji Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-05"
+    },
     {
       "title": "An Ether‐Chain‐Functionalized Zwitterion Enables Mild Zinc‐Ion Coordination and Dual‐Site Polyiodide Capture in Aqueous Zinc–Iodine Batteries",
       "authors": "Shengchao Chai, Yuxin Zhu, Wenxin Xie, Siqi He, Yifan Wang, Yizhan Wang, Haolong Li",
@@ -488,9 +536,9 @@
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-26",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "43",
+      "page": "47456",
       "doi": "10.1021/jacs.6c16957",
       "link": "https://doi.org/10.1021/jacs.6c16957",
       "abstract": "",
@@ -592,9 +640,9 @@
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-22",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "43",
+      "page": "46568",
       "doi": "10.1021/jacs.6c04535",
       "link": "https://doi.org/10.1021/jacs.6c04535",
       "abstract": "",
@@ -613,9 +661,9 @@
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-21",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "43",
+      "page": "47071",
       "doi": "10.1021/jacs.6c14489",
       "link": "https://doi.org/10.1021/jacs.6c14489",
       "abstract": "",
@@ -708,9 +756,9 @@
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-19",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "43",
+      "page": "47526",
       "doi": "10.1021/jacs.6c17922",
       "link": "https://doi.org/10.1021/jacs.6c17922",
       "abstract": "",
@@ -982,32 +1030,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-08"
-    },
-    {
-      "title": "Plating-Induced Stress Heterogeneity Dictates Zinc Dendrite Growth",
-      "authors": "Bo Tang, He Gan, Xinyue Zhong, Hongfei Li, Yupeng Xing, Ruijia Liu, Feng Hong, Qingyi Lu, Cuiping Han",
-      "authorsCitation": "B. Tang, H. Gan, X. Zhong, H. Li, Y. Xing, R. Liu, F. Hong, Q. Lu, C. Han",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-06",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "41",
-      "page": "44921",
-      "doi": "10.1021/jacs.6c15035",
-      "link": "https://doi.org/10.1021/jacs.6c15035",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：工作把锌枝晶起始与沉积诱导的局部拉/压应力不均直接关联，并把界面应力场作为可调控变量。性能：选择性吸附于 Zn(100) 晶面的减压添加剂引导 (100) 织构和平整沉积，使 Zn||Zn 对称电池运行 3500 h，Zn||I₂ 全电池在 2 A g⁻¹ 下超过 10000 次循环。怎么解释：应力异质性改变沉积 Zn 的化学势，产生空间化学势梯度和不均匀沉积动力学；均化压应力可降低局部差异并抑制凸起优先生长。添加剂同时会改变晶面与界面化学，因此现有结果支持应力–形貌耦合，但不宜把全部改善归因于应力单因素。为什么重要：这为金属负极提供了区别于溶剂化或成核能调控的“界面力化学”设计轴。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Cuiping Han"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-16"
     }
   ],
   "source": "Crossref",
