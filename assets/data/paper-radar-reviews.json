@@ -1,11 +1,129 @@
 {
+  "10.1002/anie.1710608": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-04",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "publisher-early-view-and-crossref-abstract",
+    "reason": "Publisher Early View labels online date and lists full authors. Abstract explicitly validates operando plating quantification for adaptive fast charging.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "articleSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1710608",
+    "publisherAccessStatus": "Article page unavailable; no corresponding authors inferred."
+  },
+  "10.1002/anie.5985645": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-04",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "publisher-early-view-and-crossref-abstract",
+    "reason": "High-rate sodium dual-ion battery electrode with explicit ion-interaction, apparent-diffusion and polarization evidence. Include only in existing high-rate/transport topic, not as an ion-conducting polymer electrolyte.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "articleSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5985645",
+    "publisherAccessStatus": "Article page unavailable; no corresponding authors inferred."
+  },
+  "10.1002/anie.2026-m0111095800": {
+    "decision": "exclude",
+    "articleType": "cover",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2026-m0111095800",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "crossref-title",
+    "reason": "Explicit Inside Front Cover metadata, not a separate research article.",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2026-m0111095800",
+    "publisherAccessStatus": "Article page unavailable; no first-online date verification claimed."
+  },
+  "10.1002/anie.3374613": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3374613",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Bulk oxygen-redox species and structural evolution of sodium cathode oxides; not a configured electrolyte, lithium-metal, solid-state battery or fast-charge/interfacial-transport study.",
+    "publisherAccessStatus": "Article page unavailable; no publisher-page type or date verification claimed."
+  },
+  "10.1002/anie.6823246": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6823246",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "crossref-title",
+    "reason": "Title identifies multiresponsive polyelectrolyte fluorescence films, not an ion-conducting polymer/electrolyte or configured battery study.",
+    "publisherAccessStatus": "Article page unavailable; decision based on title, no publisher-page type/date verification claimed."
+  },
+  "10.1016/j.joule.2026.102716": {
+    "decision": "exclude",
+    "articleType": "perspective",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00400-9",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "publisher-account-syndicated-description",
+    "reason": "Joule account explicitly describes this as a perspective linking electrolyte availability and ion transport to sulfur accessibility; exclude commentary, not because date/type are unknown.",
+    "evidenceSourceUrl": "https://bsky.app/profile/cp-joule.bsky.social/post/3mzj4s5dtm52w",
+    "publisherLinkVerified": "http://dlvr.it/TWBmcc redirects to the specified Cell Press article",
+    "publisherAccessStatus": "Formal article unavailable; classification from publisher-account article card, not direct full text."
+  },
+  "10.1002/anie.5211841": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5211841",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Within existing configured topics; formal article unavailable. No publisher-page date, type or corresponding-author verification claimed.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.5211841",
+    "publisherAccessStatus": "Unavailable; corresponding authors remain blank."
+  },
+  "10.1021/jacs.6c20698": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c20698",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Within existing configured topics; formal article unavailable. No publisher-page date, type or corresponding-author verification claimed.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c20698",
+    "publisherAccessStatus": "Unavailable; corresponding authors remain blank."
+  },
+  "10.1016/j.joule.2026.102718": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00402-2",
+    "verifiedAt": "2026-11-06",
+    "evidenceSource": "crossref-title",
+    "reason": "Within existing configured topics; formal article unavailable. No publisher-page date, type or corresponding-author verification claimed.",
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102718",
+    "relatedPreprintSource": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6642395",
+    "preprintVersionStatus": "Same-title author preprint located, but equivalence to the final published version is unverified; preprint performance data were not transferred into the title-only guide.",
+    "publisherAccessStatus": "Unavailable; corresponding authors remain blank."
+  },
   "10.1038/s41557-026-02291-7": {
     "decision": "include",
     "articleType": "research",
     "publisherOnlineDate": "2026-11-04",
     "publisherSource": "https://www.nature.com/articles/s41557-026-02291-7",
     "verifiedAt": "2026-11-05",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "publisher-abstract-and-correspondence",
     "reason": "Publisher abstract explicitly studies additive-dependent zinc deposition kinetics, crystallographic orientation and high-current cycling. Correspondence section explicitly names Le Yu and Chaoji Chen."
   },
@@ -15,7 +133,9 @@
     "publisherOnlineDate": null,
     "publisherSource": "https://www.cell.com/chem/fulltext/S2451-9294(26)00395-5",
     "verifiedAt": "2026-11-05",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "crossref-title",
     "metadataSource": "https://api.crossref.org/works/10.1016/j.chempr.2026.103329",
     "publisherAccessStatus": "Publisher article unavailable; no publisher-page abstract, type, online date or corresponding-author verification claimed.",

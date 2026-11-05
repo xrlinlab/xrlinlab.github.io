@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:16:52Z",
+  "generatedAt": "2026-11-05T23:15:33Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,6 +23,70 @@
   ],
   "papers": [
     {
+      "title": "Quantifying the Dissolution of Organic and Inorganic Components in Solid Electrolyte Interphase for Sodium‐Ion Batteries",
+      "authors": "Qiao Zhang, Yunxian Qian, Fangzhen Liu, Ruonan Zhu, Zhenyao Wei, Shang‐Sen Chi, Yonghong Deng, Wei Deng, Jun Wang",
+      "authorsCitation": "Q. Zhang, Y. Qian, F. Liu, R. Zhu, Z. Wei, S. Chi, Y. Deng, W. Deng, J. Wang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-05",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e5211841",
+      "doi": "10.1002/anie.5211841",
+      "link": "https://doi.org/10.1002/anie.5211841",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：用不同链长甘醚（glyme）调控钠离子溶剂化，并将固体电解质界面膜（solid electrolyte interphase，SEI）的有机、无机组分溶出分别定量，而不只测总损失。\n性能：四甘醚（tetraglyme）体系的总SEI溶出由75%降至53%，无机含氟组分保留由18%增至30%；1.25 Ah软包循环500次后保留91.2%容量。摘要未给出该循环的完整倍率条件。\n怎么解释：离子色谱（ion chromatography，IC）、质谱（mass spectrometry，MS）、电化学石英晶体微天平（electrochemical quartz crystal microbalance，EQCM）及X射线光电子能谱（X-ray photoelectron spectroscopy，XPS）支持组分收支；阴离子富集溶剂化与更致密、富无机界面同时出现，不能把寿命改善只归于单一组分。\n为什么重要：提供区分“生成了什么”与“最终保留多少”的定量框架，为界面稳定性设计补充可测量指标。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-05T23:09:54Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Engineering a borate-rich interphase for highly stable all-solid-state sodium batteries",
+      "authors": "Anli Wang, Tinghu Liu, Zihao Zhang, Mengke Li, Haoliang Liu, Mingze Sun, Changyi Dong, Qihang Zhang, Wenyan Hou, Bin Zhao, Bing Xiao, Kang Yuan, Leidang Zhou, Fei Shen, Xinyong Tao, Zheng Liang, Xiaogang Han",
+      "authorsCitation": "A. Wang, T. Liu, Z. Zhang, M. Li, H. Liu, M. Sun, C. Dong, Q. Zhang, W. Hou, B. Zhao, B. Xiao, K. Yuan, L. Zhou, F. Shen, X. Tao, Z. Liang, X. Han",
+      "journal": "Joule",
+      "publicationDate": "2026-11-05",
+      "publicationDateSource": "crossref-registration",
+      "volume": "",
+      "issue": "",
+      "page": "102718",
+      "doi": "10.1016/j.joule.2026.102718",
+      "link": "https://doi.org/10.1016/j.joule.2026.102718",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：题目提出以富硼酸盐界面（borate-rich interphase）稳定全固态钠电池。\n性能：title-only；尚未取得可核实的正式版摘要或正文，不报告循环与倍率数据。\n怎么解释：可检索到同题预印本，但尚未核实其与正式版一致，不能将其中机制和数据直接移植。\n为什么重要：值得关注界面组成与钠电池稳定性的联系；具体设计变量和证据仍待正式版核验。",
+      "summarySource": "title-only",
+      "summaryGeneratedAt": "2026-11-05T23:09:54Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Charge-to-Mass Ratio Regulation of Solvated Li+ Clusters for Ultrafast-Charging Lithium Battery Electrolytes",
+      "authors": "Guohuang Kang, Jiachao Duan, Yue Cao, Qi Liu, Yuanyuan Zhang, Manxue Zhang, Feiyu Kang, Yidan Cao",
+      "authorsCitation": "G. Kang, J. Duan, Y. Cao, Q. Liu, Y. Zhang, M. Zhang, F. Kang, Y. Cao",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-05",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c20698",
+      "link": "https://doi.org/10.1021/jacs.6c20698",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：将溶剂化簇的电荷/组成质量比（charge-to-composition-mass ratio，q/Mcluster）作为电解液预筛指标；这里电荷固定为+1，指标实质上优先选择平均组成质量较小的载流簇，不等于直接测得迁移率。\n性能：优化乙酸甲酯（methyl acetate，MA）/氟代碳酸乙烯酯（fluoroethylene carbonate，FEC）体系在15C条件下循环1000次，1 Ah软包在3C充电下循环500次；两组工况不可合并。\n怎么解释：模拟与实验支持较弱配位、较低配体移除能和较快锂离子扩散；组成与跨溶剂族对照表明MA调节溶剂化、FEC稳定界面，单参数排序仍有边界。\n为什么重要：把组成筛选与输运、界面及电池验证分开，形成可检验的配方筛选路径，而非普适的质荷比输运定律。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-05T23:09:54Z",
+      "summaryPromptVersion": 2
+    },
+    {
       "title": "Predicting battery stability from electron-ion transport mismatch",
       "authors": "Jinghao Li, Yuhang Dai, Yuzhe Zhang, Zhuo Chen, Wenwei Zhang, Lin Wang, Chenxu Dong, Lianmeng Cui, Jie Huang, Youwei Jiang, Yuyang Cai, Yaoguang Rong, Qinyou An, Liqiang Mai",
       "authorsCitation": "J. Li, Y. Dai, Y. Zhang, Z. Chen, W. Zhang, L. Wang, C. Dong, L. Cui, J. Huang, Y. Jiang, Y. Cai, Y. Rong, Q. An, L. Mai",
@@ -41,6 +105,48 @@
       "summaryZh": "新在哪里：题目将电子—离子输运失配（electron–ion transport mismatch）与电池稳定性预测联系起来。\n性能：title-only；尚无可靠摘要或正文，不能报告准确率或循环指标。\n怎么解释：目前不能确认失配的定义、模型和验证证据，也不能判定因果机制。\n为什么重要：值得关注输运匹配能否成为稳定性判据；结论仍待原文核实。",
       "summarySource": "title-only",
       "summaryGeneratedAt": "2026-11-04T23:12:00Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Porphyrin Integration Enhances Bipolar Redox Accessibility for High‐Rate Sodium‐Based Dual‐Ion Storage",
+      "authors": "Xi Peng, Caihong Sun, Yiqun Huang, Tao Li, Yanyi Liu, Xiukang Yang, Feng Su, Zhi Chen, Aobing Du, Ping Gao",
+      "authorsCitation": "X. Peng, C. Sun, Y. Huang, T. Li, Y. Liu, X. Yang, F. Su, Z. Chen, A. Du, P. Gao",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-04",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e5985645",
+      "doi": "10.1002/anie.5985645",
+      "link": "https://doi.org/10.1002/anie.5985645",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：在富硫共轭聚合物中引入卟啉（porphyrin），调节不同电位下的阴、阳离子相互作用，目标是提高已有氧化还原位点的利用率，而不是增加理论位点数量。\n性能：BTTP在0.5 A g⁻¹下为477 mAh g⁻¹、理论容量利用率94.2%，对照BTB为351 mAh g⁻¹和53.5%；摘要另报告20 A g⁻¹、25000圈条件下166 mAh g⁻¹，不能外推为高载量全电池快充寿命。\n怎么解释：恒电流间歇滴定（galvanostatic intermittent titration technique，GITT）及弛豫时间分布（distribution of relaxation times，DRT）支持更快表观扩散和更低极化；谱学与计算支持含氮位点、富硫骨架随电位改变离子配位。表观扩散并非对微观迁移过程的独立证明。\n为什么重要：将倍率与容量利用联系到电位依赖的离子相互作用；该材料是电极，不应误标为离子导电聚合物电解质。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-05T23:09:54Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Operando Quantifying Li Plating Processes in Lithium‐Ion Pouch Cells",
+      "authors": "Wenxuan Hu, Jianrong Lin, Yingao Zhou, Hongxin Lin, Wenhao Wu, Ying Lin, Yonggang Hu, Yufan Peng, Xiaozhe Yu, Jinding Liang, Yimin Wei, Yanting Jin, Zhengliang Gong, Yong Yang",
+      "authorsCitation": "W. Hu, J. Lin, Y. Zhou, H. Lin, W. Wu, Y. Lin, Y. Hu, Y. Peng, X. Yu, J. Liang, Y. Wei, Y. Jin, Z. Gong, Y. Yang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-04",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e1710608",
+      "doi": "10.1002/anie.1710608",
+      "link": "https://doi.org/10.1002/anie.1710608",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：从动态电化学阻抗谱（dynamic electrochemical impedance spectroscopy，DEIS）定义临界析锂面容量qLi，将析锂检测推进到充电过程中的定量测量。\n性能：摘要报告R²>0.97，验证范围为0–45 °C、4–110 mAh电池；R²不是“准确率97%”，也不能由此宣称已在Ah级软包完成同等验证。\n怎么解释：原位固态核磁共振（operando solid-state nuclear magnetic resonance，ssNMR）、增量容量与质谱滴定（mass spectrometry titration，MST）共同校验。传输线模型（transmission line model，TLM）将qLi关联到约10%的锂核覆盖和成核—生长转变；该覆盖率是模型结果，且qLi随温度变化，不是普适阈值。\n为什么重要：为析锂预警和自适应快充提供可量化读数，但检测能力不等于已经证明长期快充寿命改善。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-05T23:09:54Z",
       "summaryPromptVersion": 2
     },
     {
@@ -975,61 +1081,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-10"
-    },
-    {
-      "title": "Site‐Selective Anion‐Cation Regulation of Sulfide Electrolyte Enables Low‐Pressure Dendrite‐Suppressed All‐Solid‐State Lithium Metal Batteries",
-      "authors": "Xinxin Zhu, Xianji Qiao, Ning Qin, Zhiheng Li, Yanqun Lv, Jun Lu, Zaiping Guo",
-      "authorsCitation": "X. Zhu, X. Qiao, N. Qin, Z. Li, Y. Lv, J. Lu, Z. Guo",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-07",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e3893843",
-      "doi": "10.1002/anie.3893843",
-      "link": "https://doi.org/10.1002/anie.3893843",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries",
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：在硫银锗矿型Li6PS5Cl中同时实施位点选择性阴离子—阳离子调控（site-selective anion-cation regulation）：以Al3+取代P5+稳定硫化物骨架，并用F/Cl调节阴离子亚晶格和对锂界面的分解路径，目标是在低堆压下同时改善体相传输和锂金属界面。\n性能：室温离子电导率达到7.22 mS cm−1；Li∥Li对称电池在3 MPa、0.5 mA cm−2下循环超过8000 h。与NCM811或硫正极配对的锂金属全固态电池可在30 MPa下稳定运行，但摘要未给出相应循环次数和容量保持率。\n怎么解释：AlS4相关局部单元及较强Al–S键被用于解释骨架抗氧化还原分解能力增强；Cl进入4a/4d阴离子位点促进Li+迁移，而F/Cl使界面由富Li2S/LiCl转向富LiF/LiCl、贫Li2S的钝化层。计算显示暴露的LiF/LiCl（200）晶面与锂具有更强黏附，支持枝晶受抑与低压接触稳定之间的关联，但体相稳定、传输和界面黏附的独立贡献尚未完全拆分。\n为什么重要：工作把硫化物电解质的框架稳定性、阴离子位点占据和界面产物晶面统一为可调变量，为低堆压锂金属全固态电池提供了不同于单纯加涂层的协同设计路径。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-07T23:18:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Jun Lu",
-        "Zaiping Guo"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-09"
-    },
-    {
-      "title": "A Universal Class of Cubic Crystalline Alkali Organic–Inorganic Glyme-Based Halides",
-      "authors": "Anshuman Chaupatnaik, Zlanseu Ruth Tan, Gwenaëlle Rousse, Matteo Calandra, Lise-Marie Chamoreau, Clément Morel, Vincent Sarou-Kanian, Hervé Vezin, Michael Deschamps, Jean-Marie Tarascon",
-      "authorsCitation": "A. Chaupatnaik, Z. R. Tan, G. Rousse, M. Calandra, L.-M. Chamoreau, C. Morel, V. Sarou-Kanian, H. Vezin, M. Deschamps, J.-M. Tarascon",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-07",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "41",
-      "page": "44688",
-      "doi": "10.1021/jacs.6c14058",
-      "link": "https://doi.org/10.1021/jacs.6c14058",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：报道一类由卤化物固态电解质与甘醚自组装形成的碱金属有机—无机卤化物ABX6·mGn，并用同一结构框架覆盖Li、Na、K，Ta、Nb，Cl、Br以及单甘醚至四甘醚。其核心不是获得高性能电解质，而是把溶剂分离离子对（solvent-separated ion pair, SSIP）固化成可解析的晶体结构，并观察其受热向接触离子对（contact ion pair, CIP）转变。\n性能：固态离子电导率仅为10−7–10−4 mS cm−1，熔融后提高到1–10 mS cm−1，K基体系在固态和液态中均最高。KTaCl6在钾离子电池中表现出经K2TaCl6形成的低电压置换与嵌入反应；该工作没有展示可直接用于固态电池的高电导或长循环性能。\n怎么解释：热分析、电子顺磁共振（electron paramagnetic resonance, EPR）、核磁共振（nuclear magnetic resonance, NMR）和密度泛函理论共同关联了电荷分布、甘醚构象与转动以及自组装结构。以KTaCl6·1G4为例，加热后出现含无限一维链的CIP相，说明甘醚构象和离子配对方式是相变及传输差异的关键结构变量；摘要尚未建立定量的结构—电导关系。\n为什么重要：该体系当前不是高性能固态电解质候选，但提供了可结晶、可解析的“盐—甘醚”模型平台，用于分离离子配对、溶剂构象和碱金属种类对固态离子学的影响，价值主要在基础机制而非器件性能。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-07T23:18:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Jean-Marie Tarascon"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-08"
     }
   ],
   "source": "Crossref",
