@@ -25,7 +25,6 @@
   let hovered = false;
   let focused = false;
   let touching = false;
-  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   const counter = document.createElement('span');
   counter.className = 'publication-carousel-counter';
   counter.setAttribute('aria-live', 'off');
@@ -53,11 +52,11 @@
       dotButtons[index].setAttribute('aria-current', index === active ? 'true' : 'false');
     });
   };
-  const goTo = (index, manual = true, animate = true) => {
+  const goTo = (index, manual = true) => {
     window.clearTimeout(settling);
     active = (index + slides.length) % slides.length;
     const left = track.scrollLeft + slides[active].getBoundingClientRect().left - track.getBoundingClientRect().left;
-    track.scrollTo({left, behavior: animate && !reducedMotion.matches ? 'smooth' : 'instant'});
+    track.scrollTo({left, behavior: 'instant'});
     update();
     if (manual) restart();
   };
@@ -104,5 +103,5 @@
     if (event.pointerType === 'touch') { touching = true; restart(); }
   });
   ['pointerup', 'pointercancel'].forEach((name) => carousel.addEventListener(name, () => { touching = false; restart(); }));
-  window.addEventListener('resize', () => goTo(active, false, false));
+  window.addEventListener('resize', () => goTo(active, false));
 })();
