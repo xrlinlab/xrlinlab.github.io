@@ -1,4 +1,64 @@
 {
+  "10.1002/anie.1880547": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-06",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/2021/0/0?page=2",
+    "verifiedAt": "2026-11-08",
+    "evidenceSource": "publisher-early-view-search-index-and-crossref-abstract",
+    "reason": "Lithium-mediated nitrogen reduction/ammonia electrosynthesis, not a battery or ion-conducting polymer material study. Interphase and Li plating terminology alone do not bring electrocatalytic ammonia production into the established four battery/polymer topics.",
+    "articleSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1880547",
+    "publisherAccessStatus": "Formal article unavailable; publisher Early View indexed online date and publisher-deposited abstract identify the application unambiguously."
+  },
+  "10.1002/anie.8448116": {
+    "decision": "pending",
+    "articleType": "unknown",
+    "publisherOnlineDate": "2026-11-06",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/2021/0/0?page=2",
+    "verifiedAt": "2026-11-08",
+    "evidenceSource": "publisher-early-view-search-index-and-crossref-abstract",
+    "articleSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8448116",
+    "reason": "Scientific scope remains genuinely ambiguous: the NPS criterion targets I+ chemical stabilization while the additive also changes Zn2+ solvation and water activity. The abstract does not establish whether fast charging or interfacial ion transport is a principal result. Further topical review of the formal text is needed; unknown article type and access failure are not the reason for pending status.",
+    "publisherAccessStatus": "Formal article unavailable; no correspondence inferred."
+  },
+  "10.1002/anie.2372098": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-07",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.2372098",
+    "verifiedAt": "2026-11-08",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-abstract",
+    "reason": "The formal abstract explicitly reports fast-charging 2 Ah graphite/LCO pouch cells with an electrolyte-additive-controlled protective interphase. Include in the existing fast-charging topic despite absence of fast-charging words in the title; the abstract does not provide the exact charging rate or duration.",
+    "correspondingAuthors": [
+      "Xiaosong Zhang",
+      "Ya-Jun Cheng",
+      "Jun Lu",
+      "Yonggao Xia"
+    ],
+    "correspondingAuthorEvidence": "All four names are explicitly labelled Corresponding Author on the formal publisher article page."
+  },
+  "10.1016/j.chempr.2026.103324": {
+    "decision": "exclude",
+    "articleType": "perspective",
+    "publisherOnlineDate": "2026-11-02",
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2451929426003906/pdf",
+    "verifiedAt": "2026-11-08",
+    "evidenceSource": "publisher-page-search-index",
+    "publisherAccessStatus": "Publisher-domain indexed page explicitly labels Perspective and Review article, gives DOI and Available online 2 November 2026. Direct article requests unavailable; classification does not depend on guessing from the title.",
+    "reason": "Explicit Perspective, not a new research article; remove the previously included unknown-type title-only item under the established commentary exclusion rule."
+  },
+  "10.1002/anie.2026-m2710045400": {
+    "decision": "exclude",
+    "articleType": "correction",
+    "publisherOnlineDate": "2026-11-07",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-08",
+    "evidenceSource": "publisher-early-view",
+    "reason": "Publisher Early View explicitly labels CORRECTION to Anchored Oxygen-Release-Suppression Phase Stabilizing High-Voltage Ni-Rich Cathode Materials; not a distinct research article."
+  },
   "10.1002/anie.1710608": {
     "decision": "include",
     "articleType": "research",
@@ -17,15 +77,20 @@
     "decision": "include",
     "articleType": "research",
     "publisherOnlineDate": "2026-11-04",
-    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
-    "verifiedAt": "2026-11-06",
-    "evidenceSource": "publisher-early-view-and-crossref-abstract",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.5985645",
+    "verifiedAt": "2026-11-08",
+    "evidenceSource": "publisher-abstract-and-explicit-corresponding-author-labels",
     "reason": "High-rate sodium dual-ion battery electrode with explicit ion-interaction, apparent-diffusion and polarization evidence. Include only in existing high-rate/transport topic, not as an ion-conducting polymer electrolyte.",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
     "articleSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5985645",
-    "publisherAccessStatus": "Article page unavailable; no corresponding authors inferred."
+    "publisherAccessStatus": "Formal publisher article page readable; all three explicitly labelled corresponding authors verified.",
+    "correspondingAuthors": [
+      "Zhi Chen",
+      "Aobing Du",
+      "Ping Gao"
+    ]
   },
   "10.1002/anie.2026-m0111095800": {
     "decision": "exclude",
@@ -943,5 +1008,28 @@
     "evidenceSource": "publisher-deposited-crossref-abstract",
     "reason": "Polyimide COF sodium-anode coating explicitly studies ion transport and uniform deposition. Deposited 1C retention value 9.3% is anomalous; omitted from the guide rather than silently corrected.",
     "publisherAccessStatus": "article page unavailable; corresponding authors remain unverified"
+  },
+  "10.1021/jacs.6c10960": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-06",
+    "publisherSource": "https://pubs.acs.org/toc/jacsat/0/0?cookieSet=1",
+    "verifiedAt": "2026-11-07",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-toc-search-index-and-crossref-abstract",
+    "articleSource": "https://pubs.acs.org/doi/10.1021/jacs.6c10960",
+    "publisherAccessStatus": "Publisher ASAP table of contents indexed as ARTICLE November 6, 2026 with all ten authors; direct table-of-contents and article/PDF requests unavailable. No corresponding authors inferred.",
+    "reason": "Additive-triggered PF6 anion decomposition and interphase Na-ion transport explicitly address ultrafast charging of sodium-metal batteries within the existing fast-charging/interfacial-transport topic. Quantitative guide is based on the publisher-deposited Crossref abstract, not an independently read full article."
+  },
+  "10.1002/anie.7616531": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-06",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.7616531",
+    "verifiedAt": "2026-11-07",
+    "reason": "Publisher abstract identifies AlCl4-mediated LiCl-to-Cl2 positive-electrode conversion catalysis and LiCl facet control as the scientific problem. This is not a lithium-metal negative-electrode, solid-state electrolyte, ion-conducting polymer or interfacial ion-transport study; high current and low-temperature cycling alone do not establish the configured fast-charging topic.",
+    "evidenceSource": "publisher-abstract"
   }
 }
