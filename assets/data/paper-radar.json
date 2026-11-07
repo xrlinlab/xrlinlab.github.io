@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:15:33Z",
+  "generatedAt": "2026-11-07T01:57:46Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,23 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Machine Learning-Driven Electrolyte Additive Discovery for Ultrafast Charging of Sodium Metal Batteries",
+      "authors": "Yuanchang Ye, Li Cheng, Minyi Zou, Yingxia Dong, Pengcheng Xue, Changhong Li, Hairong Gong, Liang Ma, Junpeng Xie, Qifeng Zheng",
+      "authorsCitation": "Y. Ye, L. Cheng, M. Zou, Y. Dong, P. Xue, C. Li, H. Gong, L. Ma, J. Xie, Q. Zheng",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-06",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c10960",
+      "link": "https://doi.org/10.1021/jacs.6c10960",
+      "abstract": "Abstract Sodium metal batteries hold immense promise for large-scale, high-power storage systems, yet their fast charging is severely constrained by sluggish Na+ transport across unstable electrode–electrolyte interphases. Conventional fluorine-donating additives suffer from inefficient self-decomposition, inevitably generating resistive organic byproducts. Herein, we propose an active machine learning framework based on Gaussian process regression to develop an innovative additive-triggered anion decomposition pathway. Guided by iterative screening of key physicochemical descriptors, a trace-level (0.02 M) sodium chlorodifluoroacetate (NaCDFA) additive is successfully identified. Theoretical calculations combined with in situ characterizations reveal that the NaCDFA thermodynamically promotes the targeted and continuous decomposition of the PF6– anion, enabling the construction of robust and highly conductive NaF-rich interphases, which substantially reduces the Na+ migration barrier. Consequently, the Na||Na3V2(PO4)3 cell achieves ultrastable cycling over 50,000 cycles at an extreme rate of 200 C. Furthermore, outstanding performance is retained under rigorous practical conditions, including high-mass-loading cathodes and limited sodium excess or anode-free architectures. This work establishes a cost-effective trace-level electrolyte additive strategy for engineering fast-charging interphases, and demonstrates the transformative potential of machine learning-guided materials discovery for advancing battery technology.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Quantifying the Dissolution of Organic and Inorganic Components in Solid Electrolyte Interphase for Sodium‐Ion Batteries",
       "authors": "Qiao Zhang, Yunxian Qian, Fangzhen Liu, Ruonan Zhu, Zhenyao Wei, Shang‐Sen Chi, Yonghong Deng, Wei Deng, Jun Wang",
@@ -1028,59 +1045,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
-    },
-    {
-      "title": "Crown Ether‐Engineered Porous Liquid‐Based Electrolytes Decouple Redox Kinetics and Stability in Zinc–Sulfur Batteries",
-      "authors": "Xin Liu, Weimian Zhang, Qingqing Chen, Haoliang Huang, Jingcheng Lu, Steven T. Boles, Lifeng Liu",
-      "authorsCitation": "X. Liu, W. Zhang, Q. Chen, H. Huang, J. Lu, S. T. Boles, L. Liu",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-08",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e7425389",
-      "doi": "10.1002/anie.7425389",
-      "link": "https://doi.org/10.1002/anie.7425389",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：构建冠醚主体参与的多孔液体电解液（porous liquid-based electrolyte），利用同一大环分子的两类作用拆分水系锌硫电池中的动力学—稳定性矛盾：冠醚动态配位部分Zn2+并重构局部溶剂化，同时以体积位阻限制多碘化物缔合与接近锌负极。\n性能：在0.2 A g−1下，放电平台提高至0.77 V（相对于Zn2+/Zn），电池极化降至0.38 V；在1 A g−1下循环1000次后容量保持率为89%。\n怎么解释：溶剂化调节促进短寿命可溶硫中间体参与，使界面S↔ZnS转化更可逆；冠醚骨架的位阻同时削弱碘介体穿梭及其诱发的锌腐蚀。实验与计算共同支持这一解释，但配位效应和位阻效应对性能的独立贡献仍未完全定量拆分。\n为什么重要：工作没有停留在增加一种硫转化催化剂，而是把主体分子的配位能力与空间可达性设为两个可设计变量，为兼顾反应介体活性和金属负极稳定提供了可迁移的微环境设计思路。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-10T07:15:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Lifeng Liu"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-10"
-    },
-    {
-      "title": "Anion‐Dipole Catalytic Decomposition Enables Robust Solid Electrolyte Interfaces for Ah‐Level Aqueous Zinc Batteries",
-      "authors": "Mi Xu, Yue Shi, Jie Zhang, Zhiyuan Bai, Jingshuai Li, Shuwei Zhao, Haozhen Dou, Zhongwei Chen",
-      "authorsCitation": "M. Xu, Y. Shi, J. Zhang, Z. Bai, J. Li, S. Zhao, H. Dou, Z. Chen",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-08",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e7075150",
-      "doi": "10.1002/anie.7075150",
-      "link": "https://doi.org/10.1002/anie.7075150",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：以阴离子—偶极结合能（anion-dipole binding energy）和静电势差（electrostatic potential difference）作为筛选痕量添加剂的双描述符，并提出阴离子—偶极催化分解策略。缺电子芳香酮以苯乙酮为代表进入电双层，识别并富集阴离子，同时降低其键断裂能垒，以原位构建无机富集的固体电解质界面。\n性能：调控后Zn2+迁移数达到0.75，Zn∥Zn对称电池稳定循环7200 h；正极载量20 mg cm−2的Zn∥VO2软包在0.2 A g−1下容量达到4.28 Ah，并在1 A g−1循环100次后保持88.9%的初始容量。\n怎么解释：作者将阴离子局部富集、分解活化自由能降低、去溶剂化加快和Zn（002）取向沉积关联起来，用以解释无机富集界面及稳定沉积的形成；这些过程彼此耦合，摘要证据尚不能完全区分描述符筛选与特定苯乙酮反应性的贡献。\n为什么重要：该工作把锌界面添加剂设计从经验筛选推进到可计算的分子描述符，并把添加剂作用由被动吸附扩展为催化阴离子分解，为反应型界面调控提供了可检验的设计规则。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-10T07:15:00+08:00",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Haozhen Dou",
-        "Zhongwei Chen"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-10"
     }
   ],
   "source": "Crossref",
