@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:07:07Z",
+  "generatedAt": "2026-11-08T23:08:45Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -281,7 +281,7 @@
       "authorsCitation": "S. Chai, Y. Zhu, W. Xie, S. He, Y. Wang, Y. Wang, H. Li",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-03",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e1404617",
@@ -294,7 +294,12 @@
       "summaryZh": "新在哪里：醚链功能化两性离子（ether-chain-functionalized zwitterion，ZEG）把温和锌离子配位与多碘离子捕获结合，针对强配位调控溶剂化却拖慢界面反应的矛盾。\n性能：摘要报告锌碘全电池在10 A g⁻¹下循环超过35000次；300 mAh软包在碘载量30 mg cm⁻²时运行超过1200圈。不能把两组测试视为同一电流和载量条件。\n怎么解释：咪唑鎓基团降低醚氧给电子能力并排斥Zn²⁺，作者据此解释配体解离阻力降低；咪唑鎓和醚链又通过静电及离子—偶极相互作用捕获多碘物种。摘要未完整拆分溶剂化、界面动力学和穿梭抑制的贡献。\n为什么重要：提示多功能添加剂的关键不是配位越强越好，而是协调配体交换与正极物种约束；具体适用边界仍依赖分子对照和器件条件。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-03T23:10:14Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Haolong Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-09"
     },
     {
       "title": "An Aqueous Phase Transition Electrolyte Retaining High Ionic Conductivity after Solidification for Low-Temperature Zinc–Iodine Batteries",
@@ -371,7 +376,7 @@
       "authorsCitation": "Z. Zhang, X. Zhang, W. Li, R. Huo, T. Su, H. Wang, L. Chen, Z. Su",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-02",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e3787629",
@@ -384,7 +389,14 @@
       "summaryZh": "新在哪里：比较富羰基聚酰亚胺共价有机框架（polyimide covalent organic framework，COF）作为钠负极涂层，把离子结合位点与有序骨架结合，用于改善钠沉积均匀性。\n性能：TATT-NTCDA-COF涂层的对称电池在0.1 mA cm⁻²下稳定超过1200 h；全电池摘要报告5C下1390圈和10C下750圈后容量保持超过90%。登记摘要的1C保持率数值存在疑点，此处不采用，也不擅自修正。\n怎么解释：作者将改善归因于离子结合位点、有序通道及涂层稳定性；现有摘要不足以分别量化羰基配位、孔结构与接触改善的贡献，不能据此认定新的钠离子传输机制。\n为什么重要：为COF人工界面的位点和骨架协同设计提供比较对象；低电流对称循环与高倍率全电池结果应分开评价。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-03T23:10:14Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Tan Su",
+        "Heng-Guo Wang",
+        "Long Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-09"
     },
     {
       "title": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",

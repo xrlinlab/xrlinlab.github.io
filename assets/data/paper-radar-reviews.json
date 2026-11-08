@@ -925,16 +925,19 @@
   },
   "10.1002/anie.1404617": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1404617",
-    "verifiedAt": "2026-11-04",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-03",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.1404617",
+    "verifiedAt": "2026-11-09",
     "reason": "Publisher-deposited abstract explicitly addresses Zn2+ ligand-dissociation barriers, solvation regulation and interfacial charge transfer; semantic match to the existing interfacial-ion-transport topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-and-explicit-corresponding-author-labels",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.1404617",
-    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed",
+    "publisherAccessStatus": "Formal article readable; all explicitly labelled corresponding authors checked.",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
+    ],
+    "correspondingAuthors": [
+      "Haolong Li"
     ]
   },
   "10.1021/jacs.6c15158": {
@@ -998,16 +1001,21 @@
   },
   "10.1002/anie.3787629": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3787629",
-    "verifiedAt": "2026-11-04",
+    "articleType": "communication",
+    "publisherOnlineDate": "2026-11-02",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.3787629",
+    "verifiedAt": "2026-11-09",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-and-explicit-corresponding-author-labels",
     "reason": "Polyimide COF sodium-anode coating explicitly studies ion transport and uniform deposition. Deposited 1C retention value 9.3% is anomalous; omitted from the guide rather than silently corrected.",
-    "publisherAccessStatus": "article page unavailable; corresponding authors remain unverified"
+    "publisherAccessStatus": "Formal article readable; all explicitly labelled corresponding authors checked.",
+    "correspondingAuthors": [
+      "Tan Su",
+      "Heng-Guo Wang",
+      "Long Chen"
+    ]
   },
   "10.1021/jacs.6c10960": {
     "decision": "include",
