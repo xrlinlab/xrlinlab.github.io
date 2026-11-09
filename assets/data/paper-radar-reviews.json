@@ -1,4 +1,38 @@
 {
+  "10.1021/jacs.6c17241": {
+    "decision": "exclude",
+    "articleType": "communication",
+    "publisherOnlineDate": "2026-11-09",
+    "publisherSource": "https://pubs.acs.org/jacsat/latest-articles",
+    "verifiedAt": "2026-11-10",
+    "evidenceSource": "publisher-toc-search-index-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17241",
+    "publisherAccessStatus": "Publisher ASAP search index explicitly labels Communication November 9, 2026 and gives the full author list; direct article access was not obtained.",
+    "reason": "BBL mixed ionic-electronic conductor used as an oxygen-reduction electrocatalyst. The principal result is pH-dependent 2-electron versus 4-electron ORR selectivity through polaron/bipolaron or hydrogenated active states, not a single-ion/polymer-electrolyte transport design or a battery within the established four topics. Ionic insertion terminology alone does not authorize expansion to OMIEC electrocatalysis."
+  },
+  "10.1021/acs.macromol.6c01509": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/acs.macromol.6c01509",
+    "verifiedAt": "2026-11-10",
+    "matchedTopics": ["Ion-conducting polymers and single-ion conductors"],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/acs.macromol.6c01509",
+    "publisherAccessStatus": "Formal article and PDF unavailable; no publisher-page type, online-date or corresponding-author verification claimed.",
+    "reason": "The title and publisher-deposited abstract explicitly study single-ion conducting polymer/dPEO blends as polymer electrolytes. Cation valency and size control thermodynamic interactions and nanostructure. Lack of a conductivity/transport keyword in this structural abstract is not evidence of irrelevance; include in the existing single-ion-polymer topic without claiming improved conductivity or battery performance."
+  },
+  "10.1021/jacs.6c17869": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17869",
+    "verifiedAt": "2026-11-10",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17869",
+    "publisherAccessStatus": "Formal article unavailable; publisher ASAP index confirms the title and full author list, but article classification is not used to decide scientific scope.",
+    "reason": "Photoinduced CO/acetonitrile ligand substitution of Rh(acac)(CO)2 and C-H activation selectivity. Presolvation is molecular photochemistry here, not electrolyte ion transport, an ion-conducting polymer or a battery within the configured four topics."
+  },
   "10.1002/anie.1880547": {
     "decision": "exclude",
     "articleType": "research",

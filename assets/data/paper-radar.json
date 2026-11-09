@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:08:45Z",
+  "generatedAt": "2026-11-09T23:15:47Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,27 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Cation Valency and Size Govern Thermodynamic Interactions and Nanostructure in Single-Ion Conducting Polymer Blends",
+      "authors": "Hsin-Ju Wu, Lilin He, Aidiel Ikmal Bin Abu Hassan, Whitney S. Loo",
+      "authorsCitation": "H.-J. Wu, L. He, A. I. B. Abu Hassan, W. S. Loo",
+      "journal": "Macromolecules",
+      "publicationDate": "2026-11-09",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/acs.macromol.6c01509",
+      "link": "https://doi.org/10.1021/acs.macromol.6c01509",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summaryZh": "新在哪里：在单离子导电聚合物（single-ion conducting polymer）与氘代聚氧化乙烯（deuterated poly(ethylene oxide)，dPEO）的共混体系中，比较Na⁺、K⁺、Mg²⁺和Ca²⁺，考察阳离子价态与尺寸如何影响相态和纳米结构。\n性能：摘要未报告离子电导率、迁移数或电池循环数据；这里的实测结果主要是结构与热力学表征，不能据此宣称电导或快充性能提升。\n怎么解释：小角中子散射（small-angle neutron scattering，SANS）经随机相近似（random phase approximation，RPA）与洛伦兹（Lorentzian）模型分析，并结合小角X射线散射（small-angle X-ray scattering，SAXS）及差示扫描量热（differential scanning calorimetry，DSC），显示二价体系浓度涨落（concentration fluctuations）较弱、电荷相关（charge correlations）较短程；带电聚合物比例较高时，散射特征与多个玻璃化转变温度（glass transition temperatures）支持相分离（phase separation）。这支持价态主导、尺寸次级调节的结构判断，不等同于直接测得输运机制。\n为什么重要：提示载流阳离子的选择也会改变带电/中性聚合物共混的相容性；仍需把这些结构量与实际离子输运对照，才能判断对电解质性能的意义。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-09T23:08:47Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Regioisomeric Engineering of Pyridone Electrolyte Additives Enables Stably High‐Voltage LiCoO 2 Cathodes Lithium‐Ion Batteries",
       "authors": "Said Amzil, Denghui Ma, Yiyao Xiao, Shunjie Xu, Jiashu Yuan, Keyu Zheng, Longhao Cao, Xiaosong Zhang, Xinxin Zhu, Ya‐Jun Cheng, Jun Lu, Yonggao Xia",
