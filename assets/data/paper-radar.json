@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:09:18Z",
+  "generatedAt": "2026-11-10T23:13:12Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,28 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Multiphase Inorganic-Rich Interphases with Integrated Li-Ion Capture-Transport Ability for High-Rate Lithium Metal Batteries",
+      "authors": "Likun Chen, Tian Gu, Zhuo Han, Wenting Cui, Jinshuo Mi, Xufei An, Ke Yang, Jiabin Ma, Liang Zhao, Jie Biao, Yuhang Li, Guanyou Xiao, Hao Guo, Tingzheng Hou, Bing Han, Ming Liu, Yan-Bing He",
+      "authorsCitation": "L. Chen, T. Gu, Z. Han, W. Cui, J. Mi, X. An, K. Yang, J. Ma, L. Zhao, J. Biao, Y. Li, G. Xiao, H. Guo, T. Hou, B. Han, M. Liu, Y.-B. He",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-10",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c11241",
+      "link": "https://doi.org/10.1021/jacs.6c11241",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：利用含磷、铝阻燃中间层与锂反应，形成多相富无机固态电解质界面膜（solid–electrolyte interphase，SEI），同时调节锂离子吸附、去溶剂化（desolvation）及跨相迁移，而不只提高膜的无机组分含量。\n性能：4 mA cm⁻²下报告1000 h寿命；正极载量20 mg cm⁻²、锂箔厚50 μm的Li‖NCM811电池250次后容量保持80%，另组软包500次后保持90%。这些结果属于不同测试条件，不能拼接为同一器件指标。\n怎么解释：摘要报告Li₃P、LiAl₅O₈、Li₃PO₄及Li₂Al等组分，提出各相与异相边界提供较强锂离子亲和及低势垒迁移路径；17.14 GPa杨氏模量（Young’s modulus）同时支持机械抑制作用，但仅凭摘要无法分离输运、化学钝化与力学贡献。\n为什么重要：提示保护界面需要兼顾离子进入和膜内迁移，而非把高模量或富无机组成单独等同于快充能力。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-10T23:02:26Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Cation Valency and Size Govern Thermodynamic Interactions and Nanostructure in Single-Ion Conducting Polymer Blends",
       "authors": "Hsin-Ju Wu, Lilin He, Aidiel Ikmal Bin Abu Hassan, Whitney S. Loo",
@@ -49,18 +71,27 @@
       "authorsCitation": "M. Jiang, J. Shi, Z. Hu, T. Yin, B. Zhang, Y. Cao, Y. Zhao, J. Wang, C. Geng, W. Lv",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-09",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
       "doi": "10.1021/jacs.6c13825",
       "link": "https://doi.org/10.1021/jacs.6c13825",
-      "abstract": "Abstract Weak solid–solid contact with limited chemical and transport continuity is a common bottleneck in solid-state batteries, particularly in all-solid-state lithium–sulfur batteries (ASSLSBs), where Li2S/S8 conversion requires catalytic acceleration but lacks a continuous solid-state catalytic pathway. Here, we propose an interphase catalysis strategy for solid–solid sulfur conversion by transforming discrete catalyst/reactant interfaces into a chemically integrated reaction interphase. WO3 is identified as a suitable oxide to construct such a metastable mixed-anion S–W–O catalytic interphase on Li2S based on the work-function difference between the metal oxide catalyst and Li2S/S8, which serves as a practical screening rationale for evaluating the relative tendency toward sulfur–oxygen coordination exchange. The interphase contains unsaturated W centers and a polarized electronic environment, enabling coupled electron/Li+ transport and dynamically regulating sulfur redox through coupled sulfur-species exchange. This integrated interphase further stabilizes cathode interfaces during repeated Li2S/S8 conversion. As a result, the optimized cathode sustains stable cycling over 15000 cycles at 10 C and a temperature of 60 °C. A record-high Li2S loading of 30 mg cm–2 with an areal capacity of 21.2 mAh cm–2 is also achieved, demonstrating interphase catalysis as an effective route to overcome solid-state sulfur-conversion limitations in practical ASSLSBs.",
+      "abstract": "",
       "matchedTopics": [
         "Solid-state batteries",
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：针对全固态锂硫电池（all-solid-state lithium–sulfur batteries，ASSLSBs）固—固硫转化接触不连续的问题，将离散催化剂界面转化为化学连接的硫—钨—氧（S–W–O）混阴离子催化界面相。\n性能：60 °C、10 C下循环超过15000次；另在硫化锂（lithium sulfide，Li₂S）载量30 mg cm⁻²时实现21.2 mAh cm⁻²。摘要未说明高载量与长循环为同一工况，不能合并解读。\n怎么解释：作者以功函数（work function）差异筛选三氧化钨（tungsten trioxide，WO₃），并将反应促进归于不饱和钨位点、极化电子环境及硫物种交换支持的电子／锂离子传输；功函数差是筛选依据，不是普适因果定律。\n为什么重要：把催化剂接触问题推进到连续反应界面相设计；实用价值仍需结合温度、压力及完整电池条件评估。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-10T23:02:26Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Wei Lv"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
     },
     {
       "title": "Regioisomeric Engineering of Pyridone Electrolyte Additives Enables Stably High‐Voltage LiCoO 2 Cathodes Lithium‐Ion Batteries",
@@ -113,6 +144,34 @@
       "summaryPromptVersion": 2
     },
     {
+      "title": "Rational Design of Nucleophilic Organic Additives for Stable Four‐Electron Aqueous Zinc–Iodine Batteries: A Triple‐Parameter Screening Criterion",
+      "authors": "Yongshuai Liu, Wenyi Lu, Fengkai Zuo, Shaochong Cao, Pengshu Yi, Liang Cao, Shan He, Zhouhong Ren, Mingxin Ye, Yonggang Wang, Jianfeng Shen",
+      "authorsCitation": "Y. Liu, W. Lu, F. Zuo, S. Cao, P. Yi, L. Cao, S. He, Z. Ren, M. Ye, Y. Wang, J. Shen",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-06",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e8448116",
+      "doi": "10.1002/anie.8448116",
+      "link": "https://doi.org/10.1002/anie.8448116",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：四电子水系锌碘电池（four-electron aqueous zinc–iodine batteries）的添加剂需稳定一价碘，又不能加剧锌负极腐蚀。研究将亲核性（nucleophilicity）、酸碱性（acidity/basicity，以pKₐ表征）与位阻效应（steric effects）联合用于筛选无卤有机添加剂，选出乙酰胺（acetamide，AC）。\n性能：摘要报告418 mAh g⁻¹及2500次循环，但未给出这两项结果的完整共用工况、容量保持率或充电速率，不能将其解读为已证明快充。\n怎么解释：光谱与计算支持AC通过亲核相互作用稳定I⁺，同时重构Zn²⁺溶剂化层（solvation sheath）、降低水活性并保护锌负极；两侧作用应分别验证，不能把全电池改善全部归因于界面输运加速。\n为什么重要：把正极活性中间体稳定与负极溶剂化保护纳入同一添加剂筛选；所提三参数关系是该体系的经验准则，而非普适定量定律。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-10T23:06:47Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Mingxin Ye",
+        "Yonggang Wang",
+        "Jianfeng Shen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
+    },
+    {
       "title": "Machine Learning-Driven Electrolyte Additive Discovery for Ultrafast Charging of Sodium Metal Batteries",
       "authors": "Yuanchang Ye, Li Cheng, Minyi Zou, Yingxia Dong, Pengcheng Xue, Changhong Li, Hairong Gong, Liang Ma, Junpeng Xie, Qifeng Zheng",
       "authorsCitation": "Y. Ye, L. Cheng, M. Zou, Y. Dong, P. Xue, C. Li, H. Gong, L. Ma, J. Xie, Q. Zheng",
@@ -139,7 +198,7 @@
       "authorsCitation": "Y. Zhang, L. Cao, J. Sun, Z. Long, Q. Yin, P. Meng, J. Zhe Liu, L. Li, Q. Liang",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-06",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e6271513",
@@ -152,7 +211,13 @@
       "summaryZh": "新在哪里：以深共熔溶剂（deep eutectic solvent，DES）介导湿化学制备卤化物固态电解质（halide solid-state electrolyte，HSSE），同时尝试再生受潮失效材料，核心是制备与再生路径，而非刷新电导率纪录。\n性能：所得材料离子电导率超过0.30 mS cm⁻¹，与机械法样品相近。采用Li₃YCl₆的全固态电池中，钴酸锂（lithium cobalt oxide，LiCoO₂）正极首次库仑效率（initial Coulombic efficiency）为98.6%；单晶高镍正极LiNi₀.₈Co₀.₁Mn₀.₁O₂放电比容量为195.9 mAh g⁻¹，两项来自不同正极体系，不能合并。\n怎么解释：实验与模拟支持竞争配位（competitive coordination）和氢键（hydrogen bonding）对前驱物转化的作用；摘要尚不足以量化各过程贡献，也未给出完整循环条件、成本核算和跨批次一致性。\n为什么重要：将湿法规模化与受潮材料再生纳入固态电解质制造问题，但保留电导率并不自动证明长期电池寿命或产业成本优势。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-07T23:02:52Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Liansheng Li",
+        "Qinghua Liang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
     },
     {
       "title": "Quantifying the Dissolution of Organic and Inorganic Components in Solid Electrolyte Interphase for Sodium‐Ion Batteries",
@@ -160,7 +225,7 @@
       "authorsCitation": "Q. Zhang, Y. Qian, F. Liu, R. Zhu, Z. Wei, S. Chi, Y. Deng, W. Deng, J. Wang",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-05",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e5211841",
@@ -173,7 +238,13 @@
       "summaryZh": "新在哪里：用不同链长甘醚（glyme）调控钠离子溶剂化，并将固体电解质界面膜（solid electrolyte interphase，SEI）的有机、无机组分溶出分别定量，而不只测总损失。\n性能：四甘醚（tetraglyme）体系的总SEI溶出由75%降至53%，无机含氟组分保留由18%增至30%；1.25 Ah软包循环500次后保留91.2%容量。摘要未给出该循环的完整倍率条件。\n怎么解释：离子色谱（ion chromatography，IC）、质谱（mass spectrometry，MS）、电化学石英晶体微天平（electrochemical quartz crystal microbalance，EQCM）及X射线光电子能谱（X-ray photoelectron spectroscopy，XPS）支持组分收支；阴离子富集溶剂化与更致密、富无机界面同时出现，不能把寿命改善只归于单一组分。\n为什么重要：提供区分“生成了什么”与“最终保留多少”的定量框架，为界面稳定性设计补充可测量指标。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-05T23:09:54Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Wei Deng",
+        "Jun Wang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
     },
     {
       "title": "Engineering a borate-rich interphase for highly stable all-solid-state sodium batteries",
@@ -203,7 +274,7 @@
       "authorsCitation": "G. Kang, J. Duan, Y. Cao, Q. Liu, Y. Zhang, M. Zhang, F. Kang, Y. Cao",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-05",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -216,7 +287,12 @@
       "summaryZh": "新在哪里：将溶剂化簇的电荷/组成质量比（charge-to-composition-mass ratio，q/Mcluster）作为电解液预筛指标；这里电荷固定为+1，指标实质上优先选择平均组成质量较小的载流簇，不等于直接测得迁移率。\n性能：优化乙酸甲酯（methyl acetate，MA）/氟代碳酸乙烯酯（fluoroethylene carbonate，FEC）体系在15C条件下循环1000次，1 Ah软包在3C充电下循环500次；两组工况不可合并。\n怎么解释：模拟与实验支持较弱配位、较低配体移除能和较快锂离子扩散；组成与跨溶剂族对照表明MA调节溶剂化、FEC稳定界面，单参数排序仍有边界。\n为什么重要：把组成筛选与输运、界面及电池验证分开，形成可检验的配方筛选路径，而非普适的质荷比输运定律。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-05T23:09:54Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yidan Cao"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
     },
     {
       "title": "Predicting battery stability from electron-ion transport mismatch",
@@ -286,7 +362,12 @@
       "summaryZh": "新在哪里：从动态电化学阻抗谱（dynamic electrochemical impedance spectroscopy，DEIS）定义临界析锂面容量qLi，将析锂检测推进到充电过程中的定量测量。\n性能：摘要报告R²>0.97，验证范围为0–45 °C、4–110 mAh电池；R²不是“准确率97%”，也不能由此宣称已在Ah级软包完成同等验证。\n怎么解释：原位固态核磁共振（operando solid-state nuclear magnetic resonance，ssNMR）、增量容量与质谱滴定（mass spectrometry titration，MST）共同校验。传输线模型（transmission line model，TLM）将qLi关联到约10%的锂核覆盖和成核—生长转变；该覆盖率是模型结果，且qLi随温度变化，不是普适阈值。\n为什么重要：为析锂预警和自适应快充提供可量化读数，但检测能力不等于已经证明长期快充寿命改善。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-05T23:09:54Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yong Yang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
     },
     {
       "title": "Facet-dependent molecular adsorption modulates zinc anode work function for the favourable orientation of zinc electrocrystallization",
@@ -529,10 +610,10 @@
       "authorsCitation": "X. Zheng, Z. Chen, L. Cui, G. Shi",
       "journal": "Macromolecules",
       "publicationDate": "2026-10-28",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "publicationDateSource": "publisher-online",
+      "volume": "59",
+      "issue": "21",
+      "page": "11993",
       "doi": "10.1021/acs.macromol.6c02433",
       "link": "https://doi.org/10.1021/acs.macromol.6c02433",
       "abstract": "",
@@ -542,7 +623,13 @@
       "summaryZh": "新在哪里：通过聚乙烯醇缩醛（poly(vinyl acetal)）系列研究离子运动与链段松弛（segmental relaxation）的解耦，提出内聚能密度（cohesive energy density）是比单独玻璃化转变温度（glass transition temperature, Tg）更有解释力的变量。性能：登记摘要未给出电导率或电池性能，不作外推。怎么解释：改变缩醛基长度、分子量及增塑条件后，局部慢区仍表现出致密堆积和较高内聚能密度；室温解耦指数与内聚能密度负相关，作者据此提出较强内聚作用限制离子独立运动。该相关性尚不能单独证明全部因果关系。为什么重要：提示仅降低Tg不足以保证传输解耦，需要同时考虑分子间作用与局部堆积。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-27T23:15:00Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Zhen Chen",
+        "Gaopeng Shi"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-11"
     },
     {
       "title": "High-Performance Salt-Lake Water Zinc Batteries Operated at −50 °C",
@@ -743,6 +830,27 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-01"
+    },
+    {
+      "title": "Solution Behavior of Semiflexible Polyelectrolyte Carboxymethylcellulose with Anisotropic Counterions That Have Spatially Separated Charges",
+      "authors": "Can Hou, Max Hohenschutz, Takaichi Watanabe, Walter Richtering, Carlos G. Lopez",
+      "authorsCitation": "C. Hou, M. Hohenschutz, T. Watanabe, W. Richtering, C. G. Lopez",
+      "journal": "Macromolecules",
+      "publicationDate": "2026-10-26",
+      "publicationDateSource": "publisher-online",
+      "volume": "59",
+      "issue": "21",
+      "page": "12025",
+      "doi": "10.1021/acs.macromol.6c01930",
+      "link": "https://doi.org/10.1021/acs.macromol.6c01930",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summaryZh": "新在哪里：在羧甲基纤维素（carboxymethylcellulose，CMC）聚电解质（polyelectrolyte）中比较普通二价金属反离子与具有分离电荷位点的双位点反离子（ditopic counterions），把反离子电荷空间分布作为结构与电荷输运的研究变量。\n性能：低聚合物浓度下两类反离子解离比例接近，高浓度下双位点离子解离更充分；小角X射线散射（small-angle X-ray scattering，SAXS）显示不同链构象与电荷相关性。本文不是电池性能报告，不能据此宣称高迁移数或快充。\n怎么解释：部分反离子仅以一个电荷位点凝聚于链上的“悬挂凝聚”（dangling condensation）可解释散射与电导的差异，但作者明确指出该机制仍属假说；离子尺寸、疏水性与水合差异尚不能完全排除。\n为什么重要：相同总价态不一定带来相同的有效链电荷和载流离子比例，为理解带电聚合物中的反离子解离提供了直接实验比较。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-10T23:06:47Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes",
