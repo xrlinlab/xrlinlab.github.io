@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:15:47Z",
+  "generatedAt": "2026-11-10T04:09:18Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -42,6 +42,25 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-09T23:08:47Z",
       "summaryPromptVersion": 2
+    },
+    {
+      "title": "Catalytic Interphases Enable Sulfur Redox Catalysis in All-Solid-State Lithium–Sulfur Batteries",
+      "authors": "Mingyang Jiang, Jiwei Shi, Zhonghao Hu, Tianyu Yin, Bohan Zhang, Yun Cao, Yufei Zhao, Junjie Wang, Chuannan Geng, Wei Lv",
+      "authorsCitation": "M. Jiang, J. Shi, Z. Hu, T. Yin, B. Zhang, Y. Cao, Y. Zhao, J. Wang, C. Geng, W. Lv",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-09",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c13825",
+      "link": "https://doi.org/10.1021/jacs.6c13825",
+      "abstract": "Abstract Weak solid–solid contact with limited chemical and transport continuity is a common bottleneck in solid-state batteries, particularly in all-solid-state lithium–sulfur batteries (ASSLSBs), where Li2S/S8 conversion requires catalytic acceleration but lacks a continuous solid-state catalytic pathway. Here, we propose an interphase catalysis strategy for solid–solid sulfur conversion by transforming discrete catalyst/reactant interfaces into a chemically integrated reaction interphase. WO3 is identified as a suitable oxide to construct such a metastable mixed-anion S–W–O catalytic interphase on Li2S based on the work-function difference between the metal oxide catalyst and Li2S/S8, which serves as a practical screening rationale for evaluating the relative tendency toward sulfur–oxygen coordination exchange. The interphase contains unsaturated W centers and a polarized electronic environment, enabling coupled electron/Li+ transport and dynamically regulating sulfur redox through coupled sulfur-species exchange. This integrated interphase further stabilizes cathode interfaces during repeated Li2S/S8 conversion. As a result, the optimized cathode sustains stable cycling over 15000 cycles at 10 C and a temperature of 60 °C. A record-high Li2S loading of 30 mg cm–2 with an areal capacity of 21.2 mAh cm–2 is also achieved, demonstrating interphase catalysis as an effective route to overcome solid-state sulfur-conversion limitations in practical ASSLSBs.",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ]
     },
     {
       "title": "Regioisomeric Engineering of Pyridone Electrolyte Additives Enables Stably High‐Voltage LiCoO 2 Cathodes Lithium‐Ion Batteries",
