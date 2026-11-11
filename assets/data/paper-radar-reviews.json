@@ -607,31 +607,41 @@
   },
   "10.1021/jacs.6c20703": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c20703",
-    "verifiedAt": "2026-10-29",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-27",
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c20703",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
     "reason": "Publisher-deposited abstract explicitly links multi-solvent electrolyte design to reconstructed Zn2+ solvation and cell cycling, within existing interfacial ion-transport topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c20703",
-    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "correspondingAuthors": [
+      "Jang Wook Choi"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference."
   },
   "10.1021/jacs.6c16008": {
     "decision": "include",
-    "articleType": "unknown",
+    "articleType": "research",
     "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c16008",
-    "verifiedAt": "2026-10-29",
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16008/5460401/High-Performance-Salt-Lake-Water-Zinc-Batteries",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
     "reason": "Publisher-deposited abstract explicitly reports interfacial contact, Zn2+ coordination and alloy-layer-regulated adsorption for low-temperature aqueous Zn cells, within existing interfacial ion-transport topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c16008",
-    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "correspondingAuthors": [
+      "Leichao Meng",
+      "Le Yu",
+      "Huajun Tian"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference."
   },
   "10.1021/jacs.6c11841": {
     "decision": "include",
@@ -907,31 +917,41 @@
   },
   "10.1021/jacs.6c12519": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c12519",
-    "verifiedAt": "2026-11-01",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-31",
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12519/5461803/Fine-Tuning-Universal-Machine-Learning-Potentials",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Lithium-metal and anode-free batteries"
     ],
     "reason": "Publisher-deposited abstract explicitly studies lithium-metal electrode potentials across battery electrolyte chemistries; retained under the existing lithium-metal topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c12519",
-    "publisherAccessStatus": "formal article page inaccessible; no first-online-date, article-type or corresponding-author verification claimed"
+    "publisherAccessStatus": "Indexed publisher author information readable; direct fetch restricted.",
+    "correspondingAuthors": [
+      "Feng Wang",
+      "Yi-Min Wei",
+      "Jun Cheng"
+    ],
+    "correspondingAuthorEvidence": "Complete corresponding-author footnotes and named asterisks in indexed publisher author information."
   },
   "10.1021/jacs.6c14709": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c14709",
-    "verifiedAt": "2026-11-01",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-31",
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c14709",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Ion-conducting polymers and single-ion conductors"
     ],
     "reason": "Publisher-deposited abstract studies Nafion ionomer modified by a noncovalently cross-linked organic network, with explicit proton-conduction and oxygen-transport measurements. This is an ion-conducting polymer study, not a fast-charging battery study; semantic assignment uses only the existing polymer topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c14709",
-    "publisherAccessStatus": "formal article page inaccessible; no first-online-date, article-type or corresponding-author verification claimed"
+    "publisherAccessStatus": "Indexed publisher author information readable; direct fetch restricted.",
+    "correspondingAuthors": [
+      "Xiangzhi Cui"
+    ],
+    "correspondingAuthorEvidence": "Complete corresponding-author footnotes and named asterisks in indexed publisher author information."
   },
   "10.1002/anie.5029282": {
     "decision": "include",
@@ -998,17 +1018,24 @@
   },
   "10.1021/jacs.6c15158": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c15158",
-    "verifiedAt": "2026-11-04",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-03",
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c15158",
+    "verifiedAt": "2026-11-12",
     "reason": "Publisher-deposited abstract describes continuous liquid electrolyte within an ice framework, retained electrode contact and ion transport after freezing. Existing interfacial-ion-transport topic; not classified as an all-solid-state battery.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c15158",
-    "publisherAccessStatus": "direct publisher article unavailable; no publisher-page article-type, date or corresponding-author verification claimed",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
-    ]
+    ],
+    "correspondingAuthors": [
+      "Qi Yang",
+      "Xinliang Li",
+      "Chunyi Zhi",
+      "Jieshan Qiu"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference."
   },
   "10.1002/anie.1323991": {
     "decision": "exclude",
@@ -1077,15 +1104,20 @@
     "decision": "include",
     "articleType": "research",
     "publisherOnlineDate": "2026-11-06",
-    "publisherSource": "https://pubs.acs.org/toc/jacsat/0/0?cookieSet=1",
-    "verifiedAt": "2026-11-07",
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10960/5465720/Machine-Learning-Driven-Electrolyte-Additive?searchresult=1",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
-    "evidenceSource": "publisher-toc-search-index-and-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "articleSource": "https://pubs.acs.org/doi/10.1021/jacs.6c10960",
-    "publisherAccessStatus": "Publisher ASAP table of contents indexed as ARTICLE November 6, 2026 with all ten authors; direct table-of-contents and article/PDF requests unavailable. No corresponding authors inferred.",
-    "reason": "Additive-triggered PF6 anion decomposition and interphase Na-ion transport explicitly address ultrafast charging of sodium-metal batteries within the existing fast-charging/interfacial-transport topic. Quantitative guide is based on the publisher-deposited Crossref abstract, not an independently read full article."
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "reason": "Additive-triggered PF6 anion decomposition and interphase Na-ion transport explicitly address ultrafast charging of sodium-metal batteries within the existing fast-charging/interfacial-transport topic. Quantitative guide is based on the publisher-deposited Crossref abstract, not an independently read full article.",
+    "correspondingAuthors": [
+      "Junpeng Xie",
+      "Qifeng Zheng"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference."
   },
   "10.1002/anie.7616531": {
     "decision": "exclude",
@@ -1116,18 +1148,23 @@
   },
   "10.1021/jacs.6c11241": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c11241",
-    "verifiedAt": "2026-11-11",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-10",
+    "publisherSource": "https://pubs.acs.org/jacsat/article-abstract/doi/10.1021/jacs.6c11241/5468041/Multiphase-Inorganic-Rich-Interphases-with?redirectedFrom=fulltext",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Lithium-metal and anode-free batteries",
       "Fast charging and interfacial ion transport"
     ],
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-article-index",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c11241",
-    "publisherAccessStatus": "Formal article unavailable; publisher latest-article index confirms title and November 10 listing, but first-online date, type and corresponding authors not independently verified.",
-    "reason": "Multiphase protective lithium-metal interphase with Li-ion capture/transport is directly within existing topics. Guide based on deposited abstract; no guessed correspondence."
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "reason": "Multiphase protective lithium-metal interphase with Li-ion capture/transport is directly within existing topics. Guide based on deposited abstract; no guessed correspondence.",
+    "correspondingAuthors": [
+      "Ming Liu",
+      "Yan-Bing He"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference."
   },
   "10.1021/jacs.6c15586": {
     "decision": "exclude",
@@ -1163,13 +1200,17 @@
     "articleType": "research",
     "publisherOnlineDate": "2026-10-26",
     "publisherSource": "https://pubs.acs.org/mamobx/article/doi/10.1021/acs.macromol.6c01930/5457692/Solution-Behavior-of-Semiflexible-Polyelectrolyte",
-    "verifiedAt": "2026-11-11",
+    "verifiedAt": "2026-11-12",
     "matchedTopics": [
       "Ion-conducting polymers and single-ion conductors"
     ],
     "evidenceSource": "publisher-article-index",
     "reason": "The publisher abstract and conclusions directly measure counterion dissociation, conductivity and charge transport in a charged polymer. This fits the existing ion-conducting-polymer topic without requiring battery devices or an exact polymer-electrolyte title phrase. Dangling condensation remains a hypothesis; size and hydration confounding retained in guide.",
-    "publisherAccessStatus": "Full publisher article indexed; direct fetch unavailable. Publisher explicitly labels Published Online October 26, overriding the conflicting October 23 Crossref date. Corresponding-author full name not reliably verified; no name inferred from email."
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "correspondingAuthors": [
+      "Carlos G. Lopez"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference."
   },
   "10.1021/acs.macromol.6c02433": {
     "decision": "include",
@@ -1188,5 +1229,204 @@
     ],
     "correspondingAuthorEvidence": "Complete indexed publisher author block lists four authors and explicitly stars Zhen Chen and Gaopeng Shi with two matching corresponding-author footnotes. Names not inferred from order.",
     "publisherAccessStatus": "Publisher article index readable; direct article fetch unavailable."
+  },
+  "10.1021/jacs.6c17339": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-02",
+    "publisherSource": "https://pubs.acs.org/jacsat/article-pdf/doi/10.1021/jacs.6c17339/69053831/jacs.6c17339.pdf",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "correspondingAuthors": [
+      "Kisuk Kang",
+      "Qiao Ni"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c16293": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c16293",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "correspondingAuthors": [
+      "Xiangwen Gao",
+      "Bing Han",
+      "Yuping Wu",
+      "Wei Tang",
+      "Yaling He"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c16957": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-26",
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c16957",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "correspondingAuthors": [
+      "Zhuangjun Fan",
+      "Xiaofei Yang",
+      "Xianfeng Li"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c04535": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-22",
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c04535",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "correspondingAuthors": [
+      "Fei Xie",
+      "Yong-Sheng Hu"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c14489": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14489/5455711/Kinetic-Control-of-Polymorphism-in-Li10-5Si1-5P1",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "correspondingAuthors": [
+      "Florian Strauss"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c16379": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c16379",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "correspondingAuthors": [
+      "Jongwoo Lim"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c17922": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/pdf/10.1021/jacs.6c17922",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "correspondingAuthors": [
+      "Ke Chen",
+      "Konglin Wu",
+      "Sen Xin",
+      "Andreu Cabot",
+      "Dawei Yang"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1021/jacs.6c17473": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17473/5451630/High-Resolution-6Li-Solid-State-Nuclear-Magnetic",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "correspondingAuthors": [
+      "Kuizhi Chen",
+      "Xianfeng Li"
+    ],
+    "correspondingAuthorEvidence": "Explicit author-name asterisks and correspondence footnotes on the indexed publisher article; no author-order inference.",
+    "publisherAccessStatus": "Direct fetch restricted; indexed publisher article author information readable.",
+    "evidenceSource": "publisher-article-index",
+    "reason": "Existing topical inclusion unchanged; publisher correspondence verified."
+  },
+  "10.1038/s41586-026-11282-0": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-11",
+    "publisherSource": "https://www.nature.com/articles/s41586-026-11282-0",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-full-text",
+    "reason": "Publisher full text establishes Zn–iodine battery electrolyte interfacial ion enrichment and water depletion, with electrochemical controls. Include for interfacial electrolyte design; the reported kinetic analysis identifies charge transfer, not ion transport, as dominant, so no fast-charge claim.",
+    "correspondingAuthors": [
+      "Guanjie He"
+    ],
+    "correspondingAuthorEvidence": "Complete publisher correspondence section names Guanjie He only."
+  },
+  "10.1038/s41560-026-02182-8": {
+    "decision": "exclude",
+    "articleType": "correction",
+    "publisherOnlineDate": "2026-11-11",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02182-8",
+    "verifiedAt": "2026-11-12",
+    "reason": "Publisher labels this an Author Correction, not a new research article."
+  },
+  "10.1002/anie.7929527": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-11",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0?page=1",
+    "verifiedAt": "2026-11-12",
+    "reason": "Publisher Early View identifies phosphate-dependent NiFe oxygen-evolution electrocatalysis, not a configured battery or ion-conducting-polymer topic."
+  },
+  "10.1021/jacs.6c16390": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-28",
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16390/5459651/Solvation-Cluster-Engineering-of-Non-Fluorinated",
+    "verifiedAt": "2026-11-12",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "correspondingAuthors": [
+      "Yong Lu",
+      "Jun Chen"
+    ],
+    "correspondingAuthorEvidence": "Complete corresponding-author footnotes and named asterisks in indexed publisher author information.",
+    "publisherAccessStatus": "Indexed publisher author information readable; direct fetch restricted.",
+    "evidenceSource": "publisher-article-index"
   }
 }

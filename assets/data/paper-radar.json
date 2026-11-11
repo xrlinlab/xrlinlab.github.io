@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:13:12Z",
+  "generatedAt": "2026-11-11T23:10:06Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,12 +23,38 @@
   ],
   "papers": [
     {
+      "title": "Non-halogen aqueous electrolytes for four-electron iodine conversion",
+      "authors": "Ruwei Chen, Haobo Dong, Yuhang Dai, Jingyu Wang, Jie Chen, Jiyang Liu, Jianrui Feng, Yunpeng Zhong, Wei Zong, Wei Zhang, Hang Yang, Zhe Cui, Guanjie He",
+      "authorsCitation": "R. Chen, H. Dong, Y. Dai, J. Wang, J. Chen, J. Liu, J. Feng, Y. Zhong, W. Zong, W. Zhang, H. Yang, Z. Cui, G. He",
+      "journal": "Nature",
+      "publicationDate": "2026-11-11",
+      "publicationDateSource": "publisher-online",
+      "volume": "659",
+      "issue": "8140",
+      "page": "372",
+      "doi": "10.1038/s41586-026-11282-0",
+      "link": "https://doi.org/10.1038/s41586-026-11282-0",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：将四电子碘转化（four-electron iodine conversion）中的两个难题分开处理：在正极界面减少水、富集阴离子，同时减少水对亲核物种（nucleophilic species）的束缚，使其在不依赖卤化物电解液的条件下稳定 I⁺。\n性能：锌–碘（Zn–I₂）电池在1 A g⁻¹下循环1000次后保持96%容量，在2 A g⁻¹下循环2000次后保持94%；另在碘载量最高12.2 mg cm⁻²时仍观察到四电子转化。这是不同工况，不能把高载量和长循环合并解读。\n怎么解释：极性阴离子（polar anions）调节界面组成，促结构阴离子（kosmotropic anions）调节水与亲核物种的相互作用。组分删减对照、核磁共振（nuclear magnetic resonance，NMR）与原位拉曼光谱（in situ Raman spectroscopy）支持亲核物种通过卤键（halogen bond）稳定 I⁺；速率分析指向电荷转移（charge transfer）为主要动力学贡献，并不表明离子输运是限速步骤。\n为什么重要：这项工作把界面水管理与反应中间体稳定分配给不同组分，并在多种亲核物种及锌–碘、铝–碘电池中验证了这一思路；高载量下的碘损失仍是实际应用约束。",
+      "summarySource": "publisher-full-text",
+      "summaryGeneratedAt": "2026-11-11T23:10:06Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Guanjie He"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
+    },
+    {
       "title": "Multiphase Inorganic-Rich Interphases with Integrated Li-Ion Capture-Transport Ability for High-Rate Lithium Metal Batteries",
       "authors": "Likun Chen, Tian Gu, Zhuo Han, Wenting Cui, Jinshuo Mi, Xufei An, Ke Yang, Jiabin Ma, Liang Zhao, Jie Biao, Yuhang Li, Guanyou Xiao, Hao Guo, Tingzheng Hou, Bing Han, Ming Liu, Yan-Bing He",
       "authorsCitation": "L. Chen, T. Gu, Z. Han, W. Cui, J. Mi, X. An, K. Yang, J. Ma, L. Zhao, J. Biao, Y. Li, G. Xiao, H. Guo, T. Hou, B. Han, M. Liu, Y.-B. He",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-10",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -42,7 +68,13 @@
       "summaryZh": "新在哪里：利用含磷、铝阻燃中间层与锂反应，形成多相富无机固态电解质界面膜（solid–electrolyte interphase，SEI），同时调节锂离子吸附、去溶剂化（desolvation）及跨相迁移，而不只提高膜的无机组分含量。\n性能：4 mA cm⁻²下报告1000 h寿命；正极载量20 mg cm⁻²、锂箔厚50 μm的Li‖NCM811电池250次后容量保持80%，另组软包500次后保持90%。这些结果属于不同测试条件，不能拼接为同一器件指标。\n怎么解释：摘要报告Li₃P、LiAl₅O₈、Li₃PO₄及Li₂Al等组分，提出各相与异相边界提供较强锂离子亲和及低势垒迁移路径；17.14 GPa杨氏模量（Young’s modulus）同时支持机械抑制作用，但仅凭摘要无法分离输运、化学钝化与力学贡献。\n为什么重要：提示保护界面需要兼顾离子进入和膜内迁移，而非把高模量或富无机组成单独等同于快充能力。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-10T23:02:26Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Ming Liu",
+        "Yan-Bing He"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Cation Valency and Size Govern Thermodynamic Interactions and Nanostructure in Single-Ion Conducting Polymer Blends",
@@ -190,7 +222,13 @@
       "summaryZh": "新在哪里：以高斯过程回归（Gaussian process regression）指导添加剂筛选，重点由“添加剂自身供氟分解”转向“微量添加剂促进盐阴离子分解”，以调节快充界面的钠离子传输。\n性能：0.02 M氯二氟乙酸钠（sodium chlorodifluoroacetate，NaCDFA）体系中，钠金属‖磷酸钒钠电池（Na‖Na₃V₂(PO₄)₃）在200 C下循环超过50,000次。摘要另称验证了高载量、低钠过量及无负极条件，但未给出相应完整参数，不能将这些条件与200 C结果合并。\n怎么解释：理论计算与原位表征（in situ characterization）支持NaCDFA促进六氟磷酸根（hexafluorophosphate，PF₆⁻）持续分解，并形成富氟化钠（sodium fluoride，NaF）的固体电解质界面膜（solid electrolyte interphase，SEI），伴随界面迁移势垒降低。这不等于证明体相NaF具有高离子电导，也不能仅凭摘要拆分界面组成、结构与传输各自的贡献。\n为什么重要：提出通过改变盐阴离子反应路径、而非大量消耗添加剂构建快充界面的思路；超高倍率小电池结果仍需与实际载量、钠库存和完整充电条件分别比较。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-06T23:03:37Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Junpeng Xie",
+        "Qifeng Zheng"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "A General Deep Eutectic Solvent‐Mediated Scalable Preparation of Halide Solid‐State Electrolytes for All‐Solid‐State Batteries",
@@ -428,7 +466,7 @@
       "authorsCitation": "X. Li, Q. Yang, H. Wang, W. Xu, J. Feng, Z. Liu, B. Wang, N. Jiang, Y. Duan, Z. Tao, J. Wang, M. Li, X. Li, S. Chen, C. Zhi, J. Qiu",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-03",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -441,7 +479,15 @@
       "summaryZh": "新在哪里：相变电解液（phase-transition electrolyte，PTE）不以完全避免结冰为目标，而是在冰框架中维持连续液相电解液与电极接触，使固化后仍可传输离子。\n性能：−60 °C电导率为1.870 mS cm⁻¹，对照为0.065 mS cm⁻¹；锌碘电池在−40 °C、40 A g⁻¹下循环430000次。极高电流下的圈数不能直接等同于实用载量下的寿命。\n怎么解释：表征显示PTE形成贯通液相通道，而常规电解液形成较孤立的盐域。这里是固化体系中的残余液相传输，并非证明纯冰或全固态电解质具有同等电导；液氮点灯也不是持续电池循环的证据。\n为什么重要：将低温设计变量从凝固点转向冻结后的相连通性和接触保持，为相变后的输运提供更明确的结构问题。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-03T23:10:14Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Qi Yang",
+        "Xinliang Li",
+        "Chunyi Zhi",
+        "Jieshan Qiu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Stable anode-free sodium batteries enabled by controlled oligomerization",
@@ -476,7 +522,7 @@
       "authorsCitation": "X. Zhang, E. Lee, X. Chen, Y. Wang, C. Li, F. Dong, Q. Zhang, Y. Chen, Z. Fu, X. Ma, D. Won, K. Kang, Q. Ni",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-02",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -489,7 +535,13 @@
       "summaryZh": "新在哪里：用烯丙基脲（allylurea）在锌表面组织富阴离子、贫水的局部环境，研究重点是界面反应物如何被激活，而不只是改变体相接触离子对。\n性能：锌对称电池在5 mA cm⁻²下运行超过2500 h，全电池在5 A g⁻¹下循环超过10000次。摘要未提供对应沉积面容量和全部容量保持条件，不能仅按时长或圈数比较实用性。\n怎么解释：原位光谱与计算支持烯丙基阳离子（allyl cation）中间体参与硫酸根向ZnS的逐步转化，形成有机—无机杂化固体电解质界面膜（hybrid solid electrolyte interphase，h-SEI）。这支持界面化学调节，但不能把全部寿命提升归于单一中间体。\n为什么重要：提供了通过添加剂组织局部反应环境、促进原有阴离子成膜的思路；需要区分反应介导、排水和力学粘附各自的贡献。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-03T23:10:14Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Kisuk Kang",
+        "Qiao Ni"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Carbonyl‐Rich Polyimide Covalent Organic Frameworks as Anode Coating for Uniform Sodium Deposition",
@@ -520,57 +572,15 @@
       "correspondingAuthorVerifiedAt": "2026-11-09"
     },
     {
-      "title": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",
-      "authors": "Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng",
-      "authorsCitation": "F. Wang, Y.-H. Tang, Y.-M. Wei, J. Cheng",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-31",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c12519",
-      "link": "https://doi.org/10.1021/jacs.6c12519",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：锂金属电极电位如何随电解液改变，是预测还原反应与稳定性的基础问题。研究将通用机器学习势（machine learning potential，MLP）与针对电解液的少量微调结合，使电位计算能够纳入显式体相溶剂化，而不只依赖孤立团簇。\n性能：作者报告每种电解液体系约需额外200次密度泛函理论（density functional theory，DFT）计算，即可达到从头算层级的精度；可获得的摘要未给出统一的电位误差或加速倍数，也未报告电池循环性能。\n怎么解释：局部锂离子溶剂化环境与电极电位偏移之间的关系，为电解液依赖的氧化还原行为提供解释线索。不过，这种关联本身不能证明完整的界面反应路径，也不能直接替代固体电解质界面膜的生成与动力学分析。\n为什么重要：价值在于降低跨电解液比较锂电极电位的计算门槛，并将溶剂化描述与可比较的热力学量连接起来；是否能准确预测真实电池稳定性，仍需独立的界面与电化学验证。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-31T23:11:22Z",
-      "summaryPromptVersion": 2
-    },
-    {
-      "title": "Decoupled Proton and Oxygen Transport at Cathode Triple-Phase Interfaces via Noncovalently Cross-Linked Biomimetic Nanochannels",
-      "authors": "Fantao Kong, Tao Yang, Hao Zhuo, Yifan Huang, Min Li, Qin Li, Xiangzhi Cui, Jianlin Shi",
-      "authorsCitation": "F. Kong, T. Yang, H. Zhuo, Y. Huang, M. Li, Q. Li, X. Cui, J. Shi",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-31",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
-      "doi": "10.1021/jacs.6c14709",
-      "link": "https://doi.org/10.1021/jacs.6c14709",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：质子交换膜燃料电池（proton exchange membrane fuel cell，PEMFC）的阴极需要同时供应质子和氧气，但离聚物还可能覆盖铂活性位点。研究用卟啉基有机网络（porphyrin-based organic network，H-PorBz）改性全氟磺酸离聚物Nafion，通过非共价交联重新组织催化剂—离聚物—气体三相界面，尝试分别调节两类传输。\n性能：作者报告铂表面磺酸根覆盖降低28%、氧传输阻力降低39.4%；在氢气/空气条件下，按铂质量计的功率密度为15.8 W mgPt⁻¹，约为常规Pt/C@Nafion阴极的1.7倍。上述指标属于燃料电池阴极，不能换算为电池倍率或能量密度优势。\n怎么解释：光谱与计算支持网络和Nafion之间的非共价作用有助于降低磺酸根对铂的占位，并通过质子转移网络与孔道极性调节改善传输。活性位点可用性、质子传导和氧扩散同时变化，因此整体功率提升不宜全部归因于单一传输机制。\n为什么重要：对既定离子导电聚合物主题的启示，是把聚合物界面的离子供给、气体通透性与催化剂吸附作为可分别调节的变量，而非只追求更高离子电导；其向储能电池界面的迁移仍是待验证的设计思路。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-31T23:11:22Z",
-      "summaryPromptVersion": 2
-    },
-    {
       "title": "Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C",
       "authors": "Zichun Xiao, Yong Li, Yankai Zheng, Ruohong Ke, Yangyang Liu, Zhenxin Huang, Xu Zhang, Yu Liu, Zhen Li, Xiangwen Gao, Bing Han, Yuping Wu, Renyi Shi, Wei Tang, Yaling He",
       "authorsCitation": "Z. Xiao, Y. Li, Y. Zheng, R. Ke, Y. Liu, Z. Huang, X. Zhang, Y. Liu, Z. Li, X. Gao, B. Han, Y. Wu, R. Shi, W. Tang, Y. He",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-30",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "44",
+      "page": "48335",
       "doi": "10.1021/jacs.6c16293",
       "link": "https://doi.org/10.1021/jacs.6c16293",
       "abstract": "",
@@ -580,7 +590,70 @@
       "summaryZh": "新在哪里：将偶极矩（dipole moment）与极化率（polarizability）作为联合筛选变量，用分子库和机器学习寻找两者的折中，而非仅按单一溶剂化强弱选择溶剂。\n性能：登记摘要报告5.8 Ah软包电池在25°C达503.7 Wh kg⁻¹、循环275圈；在−40°C仍达365.5 Wh kg⁻¹，50圈后容量保持率99.8%。低温倍率及完整测试工况需查正文，不能仅据这些数字作跨体系排名。\n怎么解释：筛得的N,N-二甲基三氟甲磺酰胺（N,N-dimethyltrifluoromethanesulfonamide，DMTMSA）与1,2-二乙氧基乙烷（1,2-diethoxyethane，DEE）产生温度敏感的偶极相互作用；作者将其与−40至60°C的阴离子主导溶剂化及固体电解质界面膜（solid electrolyte interphase，SEI）调控联系起来。摘要尚不足以拆分体相输运和界面化学的独立贡献。\n为什么重要：将数据驱动筛选落到可解释的分子变量和溶剂配对上，为宽温电解液提供路径；筛选框架对其他盐、浓度与器件条件的适用性仍需验证。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-30T23:00:56Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xiangwen Gao",
+        "Bing Han",
+        "Yuping Wu",
+        "Wei Tang",
+        "Yaling He"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
+    },
+    {
+      "title": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",
+      "authors": "Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng",
+      "authorsCitation": "F. Wang, Y.-H. Tang, Y.-M. Wei, J. Cheng",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-31",
+      "publicationDateSource": "publisher-online",
+      "volume": "148",
+      "issue": "44",
+      "page": "47908",
+      "doi": "10.1021/jacs.6c12519",
+      "link": "https://doi.org/10.1021/jacs.6c12519",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：锂金属电极电位如何随电解液改变，是预测还原反应与稳定性的基础问题。研究将通用机器学习势（machine learning potential，MLP）与针对电解液的少量微调结合，使电位计算能够纳入显式体相溶剂化，而不只依赖孤立团簇。\n性能：作者报告每种电解液体系约需额外200次密度泛函理论（density functional theory，DFT）计算，即可达到从头算层级的精度；可获得的摘要未给出统一的电位误差或加速倍数，也未报告电池循环性能。\n怎么解释：局部锂离子溶剂化环境与电极电位偏移之间的关系，为电解液依赖的氧化还原行为提供解释线索。不过，这种关联本身不能证明完整的界面反应路径，也不能直接替代固体电解质界面膜的生成与动力学分析。\n为什么重要：价值在于降低跨电解液比较锂电极电位的计算门槛，并将溶剂化描述与可比较的热力学量连接起来；是否能准确预测真实电池稳定性，仍需独立的界面与电化学验证。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-31T23:11:22Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Feng Wang",
+        "Yi-Min Wei",
+        "Jun Cheng"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
+    },
+    {
+      "title": "Decoupled Proton and Oxygen Transport at Cathode Triple-Phase Interfaces via Noncovalently Cross-Linked Biomimetic Nanochannels",
+      "authors": "Fantao Kong, Tao Yang, Hao Zhuo, Yifan Huang, Min Li, Qin Li, Xiangzhi Cui, Jianlin Shi",
+      "authorsCitation": "F. Kong, T. Yang, H. Zhuo, Y. Huang, M. Li, Q. Li, X. Cui, J. Shi",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-31",
+      "publicationDateSource": "publisher-online",
+      "volume": "148",
+      "issue": "44",
+      "page": "48116",
+      "doi": "10.1021/jacs.6c14709",
+      "link": "https://doi.org/10.1021/jacs.6c14709",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summaryZh": "新在哪里：质子交换膜燃料电池（proton exchange membrane fuel cell，PEMFC）的阴极需要同时供应质子和氧气，但离聚物还可能覆盖铂活性位点。研究用卟啉基有机网络（porphyrin-based organic network，H-PorBz）改性全氟磺酸离聚物Nafion，通过非共价交联重新组织催化剂—离聚物—气体三相界面，尝试分别调节两类传输。\n性能：作者报告铂表面磺酸根覆盖降低28%、氧传输阻力降低39.4%；在氢气/空气条件下，按铂质量计的功率密度为15.8 W mgPt⁻¹，约为常规Pt/C@Nafion阴极的1.7倍。上述指标属于燃料电池阴极，不能换算为电池倍率或能量密度优势。\n怎么解释：光谱与计算支持网络和Nafion之间的非共价作用有助于降低磺酸根对铂的占位，并通过质子转移网络与孔道极性调节改善传输。活性位点可用性、质子传导和氧扩散同时变化，因此整体功率提升不宜全部归因于单一传输机制。\n为什么重要：对既定离子导电聚合物主题的启示，是把聚合物界面的离子供给、气体通透性与催化剂吸附作为可分别调节的变量，而非只追求更高离子电导；其向储能电池界面的迁移仍是待验证的设计思路。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-31T23:11:22Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xiangzhi Cui"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Solvation Cluster Engineering of Non-Fluorinated Ethers toward High-Energy Lithium Metal Batteries",
@@ -588,10 +661,10 @@
       "authorsCitation": "X. Liu, S. Wu, J. Hou, W. Zhou, M. Guo, H. Li, Z. Yan, Y. Lu, J. Chen",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-28",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "publicationDateSource": "publisher-online",
+      "volume": "148",
+      "issue": "44",
+      "page": "48290",
       "doi": "10.1021/jacs.6c16390",
       "link": "https://doi.org/10.1021/jacs.6c16390",
       "abstract": "",
@@ -602,7 +675,13 @@
       "summaryZh": "新在哪里：把非氟化多齿长链醚与单齿醚的分子间作用作为溶剂化簇（solvation cluster）的调控变量，而非只比较单一溶剂极性。\n性能：摘要报告锂金属软包电池达472.5 Wh kg⁻¹；20 Ah级无负极电池在1.5 g Ah⁻¹贫液条件下达525 Wh kg⁻¹，120圈容量保持率71.6%。\n怎么解释：弱分子间作用改变配位与簇尺寸，接触离子对（contact ion pair）主导结构与阴离子衍生界面相关联；这些变化共同改善传输和电极稳定，不能归为单一因果。\n为什么重要：为非氟化醚溶剂的配对设计提供路径。注意非氟化溶剂不等于整个配方无氟，文中仍形成富LiF界面。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-28T23:08:17Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yong Lu",
+        "Jun Chen"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "New Insights into the Decoupling Mechanism of Ion Motion from Segmental Relaxation in Glass-Forming Polymers: The Interplay of Cohesive Energy Density",
@@ -638,9 +717,9 @@
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-28",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "44",
+      "page": "48243",
       "doi": "10.1021/jacs.6c16008",
       "link": "https://doi.org/10.1021/jacs.6c16008",
       "abstract": "",
@@ -650,7 +729,14 @@
       "summaryZh": "新在哪里：将天然高盐湖水与人工合金界面结合，分别处理低温冻结和Zn²⁺界面沉积问题。\n性能：登记摘要报告−50°C锌对称电池超过3200 h；聚苯胺正极全电池在5 A g⁻¹下超过2500圈，相关软包电池在−50°C运行900圈后仍保持长期稳定。\n怎么解释：高盐度降低冻结倾向、改变水配位与活度，三元合金层调节阳离子吸附和静电屏蔽（electrostatic shielding）；溶剂与电极同时改变，不能把效果全部归于湖水。\n为什么重要：为极寒水系电池提供低成本配方线索，但天然水源成分波动、杂质与工况可重复性仍需验证。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-29T23:12:08Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Leichao Meng",
+        "Le Yu",
+        "Huajun Tian"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Bromide‐Activated Four‐Electron Iodine Chemistry Enabled by a Pyridinium‐Integrated Hydrogel Electrolyte",
@@ -739,10 +825,10 @@
       "authorsCitation": "S. H. Jeong, J. Lee, J. Byun, M. Kim, H. Kim, J. W. Choi",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-27",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "publicationDateSource": "publisher-online",
+      "volume": "148",
+      "issue": "44",
+      "page": "48689",
       "doi": "10.1021/jacs.6c20703",
       "link": "https://doi.org/10.1021/jacs.6c20703",
       "abstract": "",
@@ -752,7 +838,12 @@
       "summaryZh": "新在哪里：把共溶剂分类、配对选择与配方优化纳入扩展主动学习（extended active learning）流程，寻找性质相反却能协同的三溶剂电解液。\n性能：出版社登记摘要报告Zn||NH₄V₄O₁₀全电池1000圈后保持90.2%容量，未提供足以横向比较的完整工况。\n怎么解释：所得配方同时扰动氢键网络、重构溶剂化结构（solvation structure）；仅凭摘要不能区分各溶剂的独立界面贡献。\n为什么重要：通过减少高维配方空间的试验负担，将分子性质与电解液配对设计连接；其跨体系可迁移性仍需检验。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-29T23:12:08Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jang Wook Choi"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Discovering Underpotentially Deposited Crystalline Sodium Metal Nanoparticles on the Surface of Hard Carbon Anodes",
@@ -761,9 +852,9 @@
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-27",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "148",
+      "issue": "44",
+      "page": "47856",
       "doi": "10.1021/jacs.6c11841",
       "link": "https://doi.org/10.1021/jacs.6c11841",
       "abstract": "",
@@ -850,7 +941,12 @@
       "summaryZh": "新在哪里：在羧甲基纤维素（carboxymethylcellulose，CMC）聚电解质（polyelectrolyte）中比较普通二价金属反离子与具有分离电荷位点的双位点反离子（ditopic counterions），把反离子电荷空间分布作为结构与电荷输运的研究变量。\n性能：低聚合物浓度下两类反离子解离比例接近，高浓度下双位点离子解离更充分；小角X射线散射（small-angle X-ray scattering，SAXS）显示不同链构象与电荷相关性。本文不是电池性能报告，不能据此宣称高迁移数或快充。\n怎么解释：部分反离子仅以一个电荷位点凝聚于链上的“悬挂凝聚”（dangling condensation）可解释散射与电导的差异，但作者明确指出该机制仍属假说；离子尺寸、疏水性与水合差异尚不能完全排除。\n为什么重要：相同总价态不一定带来相同的有效链电荷和载流离子比例，为理解带电聚合物中的反离子解离提供了直接实验比较。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-11-10T23:06:47Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Carlos G. Lopez"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes",
@@ -879,7 +975,7 @@
       "authorsCitation": "Y. Duan, F. Wan, F. Hussain, J. Lei, Z. Song, P. R. Shearing, W. Xia, Z. Fan, X. Yang, X. Li",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-26",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "148",
       "issue": "43",
       "page": "47456",
@@ -892,7 +988,14 @@
       "summaryZh": "新在哪里：这项工作没有继续把体相离子电导率作为卤化物正极快充的唯一目标，而是把晶界（grain boundary, GB）传输阻力识别为更直接的功率瓶颈，并以非晶化 LiVCl₄ 构建贴合界面。性能：在不加正极电解质、活性物质占比 90 wt% 的电极中，非晶 LiVCl₄ 在 5 mA cm⁻² 下达到 74.3 mAh g⁻¹，晶态对照仅为 10.2 mAh g⁻¹；53.4 mg cm⁻² 高面负载下容量利用率为 84.2%。与非晶 LiTaOCl₄ 电解质配合后，电池在 20 mA cm⁻²（约 75C）下达到 102.1 mAh g⁻¹，并在 16000 次循环后保持 82.3% 容量。怎么解释：摘要证据表明，非晶化保留短程 V–Cl 配位，同时降低长程传输迂曲度和晶界相关界面阻抗；值得注意的是，其体相 Li⁺ 电导率反而较低，支持性能提升主要来自晶界与接触传输改善，而非单纯提高本征电导。为什么重要：结果把卤化物正极的设计准则从“最大化体相电导”推进到“同时最小化晶界势垒并形成构象贴合界面”，对高活性物质比例、高面负载和超高倍率全固态电池更具直接指导意义。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-10-26T23:15:00Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Zhuangjun Fan",
+        "Xiaofei Yang",
+        "Xianfeng Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Reusable and Robust Hydrogel With Dynamic Sacrificial S─S Bonds: In Situ Construction of an Integrated SEI/Hydrogel Interface for Highly Stable Zn–I 2 Batteries",
@@ -983,7 +1086,7 @@
       "authorsCitation": "Z. Zhu, C. Cai, Y. Jiang, J. Cui, Z. Chen, X. Wang, Y. Lu, X. Huang, F. Xie, L. Chen, Y.-S. Hu",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-22",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "148",
       "issue": "43",
       "page": "46568",
@@ -996,7 +1099,13 @@
       "summaryZh": "新在哪里：作者提出“双多面体畸变”（dual-polyhedral distortion）策略，用低成本 NaBF₄ 与 ZrCl₄ 经一步机械化学反应制备非晶卤化物固态电解质（amorphous halide solid electrolyte, AHSE），把两类配位多面体的协同畸变作为构建无序钠离子通道的结构变量。\n\n性能：0.5NaBF₄–ZrCl₄ 在 30 °C 的 Na⁺ 电导率达到 1.01 mS cm⁻¹，氧化稳定上限为 4.33 V（相对于 Na⁺/Na）；组装的全固态钠电池在 2.5–4.2 V、0.2 C 下循环 400 次后容量保持率为 71.5%。\n\n怎么解释：出版社摘要提出，机械化学活化下 Zr⁴⁺ 与 B³⁺ 对阴离子的竞争配位促进 F⁻/Cl⁻ 重排，形成同时畸变的配位多面体及长程无序骨架，从而有利于各向同性 Na⁺ 传输。现有摘要支持结构无序与输运改善的关联，但不足以单独量化两类多面体畸变各自的贡献。\n\n为什么重要：该工作把廉价前驱体之间的竞争配位和局部多面体畸变转化为非晶电解质的设计准则，为兼顾成本、电导率与高电压稳定性提供了比单纯扩大成分筛选更明确的结构路径。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-10-22T23:15:00Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Fei Xie",
+        "Yong-Sheng Hu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Kinetic Control of Polymorphism in Li10.5Si1.5P1.5S12–Based Solid Electrolytes",
@@ -1017,7 +1126,12 @@
       "summaryZh": "新在哪里：作者把无锗 Li₁₀.₅Si₁.₅P₁.₅S₁₂ 型固态电解质的多晶型选择，从静态组成问题转化为可调的结晶与相变动力学问题，并用 LiI 添加剂控制亚稳正交相向稳定四方相的演化。\n\n性能：所得双相材料被用于锂硫固态电池以验证应用可行性；出版社摘要未给出离子电导率、倍率或循环寿命等可核验数值，因此不作定量外推。\n\n怎么解释：原位高温同步辐射衍射、总散射/对分布函数和差示扫描量热表明，体系先形成亚稳正交相，再在升温时转为四方相；LiI 通过调节正交相结晶，使该相变在更低温度、更快发生。中子衍射进一步显示，碘并未进入最终四方晶格，而是形成 Li₄PS₄I 型第二相，同时伴随 Si/P 比和锂子晶格的细微改变。\n\n为什么重要：这项工作说明添加剂的价值不一定来自最终掺杂，而可能来自对成核、结晶和多晶型转化路径的动力学控制；这为 LGPS 型固态电解质的相组成与微结构工程提供了比名义配方更直接的设计变量。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-10-21T23:10:14Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Florian Strauss"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Asymmetric Zn‐N 4 Single Atom Sites Facilitate Interfacial Desolvation for Ultrafast Zinc‐Ion Storage",
@@ -1064,7 +1178,12 @@
       "summaryZh": "新在哪里：作者不再用单一供体数或含氟程度经验筛选局部高浓度电解液（localized high-concentration electrolyte, LHCE）稀释剂，而是将“局部电子对给体能力”和“分布式静电作用”拆成两个可计算坐标：BF₃ 亲和力与分子极性指数（molecular polarity index, MPI）。\n\n性能：结合不确定性感知机器学习筛选 132 万个无氟分子，得到 368 个候选；其中 1,2,4-三甲苯和 2-乙基甲苯支持锂金属全电池稳定循环超过 200 圈，而被描述符排除的类似物快速衰减。\n\n怎么解释：低 BF₃ 亲和力用于约束稀释剂不直接配位 Li⁺、保留 Li⁺–阴离子聚集体；适当 MPI 则表征其与主体溶剂保持混溶所需的分布式静电作用。成对描述符把“不配位”和“可混溶”两项相互竞争的要求分开；摘要证据支持预测关联，但尚不足以将循环提升唯一归因于某一描述符。\n\n为什么重要：该工作把稀释剂发现从“多氟化、试配方”推进到物理可解释的分子坐标，并给出无氟候选路线，对降低持久性含氟分子的依赖具有直接意义。",
       "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-10-20T23:08:10Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jongwoo Lim"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Anion‐Cation Targeted Regulation Enables Ultrafast and Stable Sodium Metal Batteries at Low Temperatures",
@@ -1112,7 +1231,16 @@
       "summaryZh": "新在哪里：作者将钴单原子位点由近对称配位改造成不对称 Cl–Co–N₃ 配位，直接把配位场、Co(II) 自旋态与硫氧化还原反应（sulfur redox reaction, SRR）催化联系起来，而不只是比较不同单原子催化剂的经验性能。\n性能：采用 CoClNC/S 正极的锂–硫电池报告平均每圈容量衰减率为 0.023%；现有摘要未给出对应循环次数及更完整倍率条件，因此不作额外外推。\n怎么解释：Cl 配位被认为促进 Co(II) 电子离域，使其由低自旋向较高自旋态转变，并增强 d_z² 轨道与多硫化物 π* 反键轨道的杂化；同时较低的 d 带电子占据有利于硫物种吸附和转化。摘要证据支持配位—电子结构—动力学的关联，但尚不能单独量化自旋变化与吸附增强各自的贡献。\n为什么重要：该工作把单原子催化剂设计从元素和配位数筛选推进到可调自旋与轨道耦合，为多步硫转化反应提供了更明确的电子结构设计变量。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-19T22:59:17Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Ke Chen",
+        "Konglin Wu",
+        "Sen Xin",
+        "Andreu Cabot",
+        "Dawei Yang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "High-Resolution 6Li Solid-State Nuclear Magnetic Resonance Reveals Hidden Lithium Dynamics in All-Solid-State Cathodes",
@@ -1133,7 +1261,13 @@
       "summaryZh": "新在哪里：作者用高丰度同位素、优化采集和变温控制构建高分辨率 ⁶Li 固体核磁共振（solid-state nuclear magnetic resonance, ssNMR），直接分辨顺磁 LiFeCl₃ 中三类 Li⁺ 环境，并捕捉常规表征难以看到的少量不可逆 Fe⁰。性能：据此优化电压窗口后，电池循环 500 次容量保持率为 85.9%，代价是能量密度降低 16.3%；全深度循环 100 次仅保持 68.6%。怎么解释：数据表明局部 Li/Fe 无序会诱发原位 Fe²⁺ 还原，并与可逆嵌入–转化反应相联系；痕量 Fe⁰ 则被作为隐蔽失效信号。为什么重要：这套 Li 位点分辨方法把局域无序、隐藏氧化还原与长期可逆性连接起来，为无正极电解质复合正极的工作窗口设计提供了直接诊断依据。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Kuizhi Chen",
+        "Xianfeng Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
     },
     {
       "title": "Hierarchical Ion-Conducting Materials Based on Polymer-Aligned Nanoparticles within Poly(vinyl benzyl methoxy poly(ethylene oxide) ether)- block -polystyrene Diblock Copolymer",
@@ -1235,34 +1369,6 @@
         "Charles Buddie Mullins",
         "Hang Ren",
         "Kent J. X. Zheng"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-16"
-    },
-    {
-      "title": "Architecting 3D Space‐Charge Heterointerfacial Networks for Electrode‐Scale Ion Transport",
-      "authors": "Huanhao Lei, Jinning Zuo, Jia Lu, Ziqiang Ma, Wangqi Dai, Huikang Xia, Yuke Wang, Hong Li, Zhengwen Fu, Dongyuan Zhao",
-      "authorsCitation": "H. Lei, J. Zuo, J. Lu, Z. Ma, W. Dai, H. Xia, Y. Wang, H. Li, Z. Fu, D. Zhao",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-13",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e9216952",
-      "doi": "10.1002/anie.9216952",
-      "link": "https://doi.org/10.1002/anie.9216952",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：作者不再把空间电荷效应停留在孤立纳米界面，而是把 Na₂O/Na₂CO₃ 异质界面作为局部传输单元，组织成贯穿预制电极的三维网络。性能：25 °C 下局部界面电导估算约 10⁻⁷ S cm⁻¹，显著高于 Na₂O 的 10⁻¹² 和 Na₂CO₃ 的 10⁻²³ S cm⁻¹，并支持稳定固态预钠化及超高倍率钠离子全电池。怎么解释：空间电荷载流子富集与 MOF 介导的晶格畸变被认为分别提高载流子浓度、降低迁移势垒；宏观效果还依赖相界在电极尺度上的连续连通，不能由局部高电导单独保证。为什么重要：它把相界“是否存在”转化为“是否形成可编程贯通网络”的电极级设计问题，为纳米离子学效应落到实际厚电极提供路径。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Hong Li",
-        "Zhengwen Fu",
-        "Dongyuan Zhao"
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-16"
