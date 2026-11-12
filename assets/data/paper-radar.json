@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:10:06Z",
+  "generatedAt": "2026-11-12T03:03:23Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -572,36 +572,6 @@
       "correspondingAuthorVerifiedAt": "2026-11-09"
     },
     {
-      "title": "Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C",
-      "authors": "Zichun Xiao, Yong Li, Yankai Zheng, Ruohong Ke, Yangyang Liu, Zhenxin Huang, Xu Zhang, Yu Liu, Zhen Li, Xiangwen Gao, Bing Han, Yuping Wu, Renyi Shi, Wei Tang, Yaling He",
-      "authorsCitation": "Z. Xiao, Y. Li, Y. Zheng, R. Ke, Y. Liu, Z. Huang, X. Zhang, Y. Liu, Z. Li, X. Gao, B. Han, Y. Wu, R. Shi, W. Tang, Y. He",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-30",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "44",
-      "page": "48335",
-      "doi": "10.1021/jacs.6c16293",
-      "link": "https://doi.org/10.1021/jacs.6c16293",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：将偶极矩（dipole moment）与极化率（polarizability）作为联合筛选变量，用分子库和机器学习寻找两者的折中，而非仅按单一溶剂化强弱选择溶剂。\n性能：登记摘要报告5.8 Ah软包电池在25°C达503.7 Wh kg⁻¹、循环275圈；在−40°C仍达365.5 Wh kg⁻¹，50圈后容量保持率99.8%。低温倍率及完整测试工况需查正文，不能仅据这些数字作跨体系排名。\n怎么解释：筛得的N,N-二甲基三氟甲磺酰胺（N,N-dimethyltrifluoromethanesulfonamide，DMTMSA）与1,2-二乙氧基乙烷（1,2-diethoxyethane，DEE）产生温度敏感的偶极相互作用；作者将其与−40至60°C的阴离子主导溶剂化及固体电解质界面膜（solid electrolyte interphase，SEI）调控联系起来。摘要尚不足以拆分体相输运和界面化学的独立贡献。\n为什么重要：将数据驱动筛选落到可解释的分子变量和溶剂配对上，为宽温电解液提供路径；筛选框架对其他盐、浓度与器件条件的适用性仍需验证。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-30T23:00:56Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Xiangwen Gao",
-        "Bing Han",
-        "Yuping Wu",
-        "Wei Tang",
-        "Yaling He"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
       "title": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",
       "authors": "Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng",
       "authorsCitation": "F. Wang, Y.-H. Tang, Y.-M. Wei, J. Cheng",
@@ -651,6 +621,36 @@
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Xiangzhi Cui"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-12"
+    },
+    {
+      "title": "Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C",
+      "authors": "Zichun Xiao, Yong Li, Yankai Zheng, Ruohong Ke, Yangyang Liu, Zhenxin Huang, Xu Zhang, Yu Liu, Zhen Li, Xiangwen Gao, Bing Han, Yuping Wu, Renyi Shi, Wei Tang, Yaling He",
+      "authorsCitation": "Z. Xiao, Y. Li, Y. Zheng, R. Ke, Y. Liu, Z. Huang, X. Zhang, Y. Liu, Z. Li, X. Gao, B. Han, Y. Wu, R. Shi, W. Tang, Y. He",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-10-30",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "148",
+      "issue": "44",
+      "page": "48335",
+      "doi": "10.1021/jacs.6c16293",
+      "link": "https://doi.org/10.1021/jacs.6c16293",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：将偶极矩（dipole moment）与极化率（polarizability）作为联合筛选变量，用分子库和机器学习寻找两者的折中，而非仅按单一溶剂化强弱选择溶剂。\n性能：登记摘要报告5.8 Ah软包电池在25°C达503.7 Wh kg⁻¹、循环275圈；在−40°C仍达365.5 Wh kg⁻¹，50圈后容量保持率99.8%。低温倍率及完整测试工况需查正文，不能仅据这些数字作跨体系排名。\n怎么解释：筛得的N,N-二甲基三氟甲磺酰胺（N,N-dimethyltrifluoromethanesulfonamide，DMTMSA）与1,2-二乙氧基乙烷（1,2-diethoxyethane，DEE）产生温度敏感的偶极相互作用；作者将其与−40至60°C的阴离子主导溶剂化及固体电解质界面膜（solid electrolyte interphase，SEI）调控联系起来。摘要尚不足以拆分体相输运和界面化学的独立贡献。\n为什么重要：将数据驱动筛选落到可解释的分子变量和溶剂配对上，为宽温电解液提供路径；筛选框架对其他盐、浓度与器件条件的适用性仍需验证。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-10-30T23:00:56Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xiangwen Gao",
+        "Bing Han",
+        "Yuping Wu",
+        "Wei Tang",
+        "Yaling He"
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-12"
