@@ -173,14 +173,14 @@
   "10.1016/j.joule.2026.102716": {
     "decision": "exclude",
     "articleType": "perspective",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00400-9",
-    "verifiedAt": "2026-11-06",
-    "evidenceSource": "publisher-account-syndicated-description",
+    "publisherOnlineDate": "2026-11-04",
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2542435126004009",
+    "verifiedAt": "2026-11-13",
+    "evidenceSource": "publisher-page-search-index",
     "reason": "Joule account explicitly describes this as a perspective linking electrolyte availability and ion transport to sulfur accessibility; exclude commentary, not because date/type are unknown.",
     "evidenceSourceUrl": "https://bsky.app/profile/cp-joule.bsky.social/post/3mzj4s5dtm52w",
     "publisherLinkVerified": "http://dlvr.it/TWBmcc redirects to the specified Cell Press article",
-    "publisherAccessStatus": "Formal article unavailable; classification from publisher-account article card, not direct full text."
+    "publisherAccessStatus": "Indexed official article explicitly labels Perspective and lists Available online 4 November 2026; archive still unavailable."
   },
   "10.1002/anie.5211841": {
     "decision": "include",
@@ -1428,5 +1428,87 @@
     "correspondingAuthorEvidence": "Complete corresponding-author footnotes and named asterisks in indexed publisher author information.",
     "publisherAccessStatus": "Indexed publisher author information readable; direct fetch restricted.",
     "evidenceSource": "publisher-article-index"
+  },
+  "10.1021/jacs.6c17549": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17549",
+    "verifiedAt": "2026-11-13",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17549",
+    "publisherAccessStatus": "Formal article inaccessible; no verified article type, first-online date or corresponding author asserted.",
+    "reason": "The deposited abstract directly studies sodium-ion desolvation kinetics and cathode/electrolyte interphase composition despite the title not meeting the automatic battery-context matcher."
+  },
+  "10.1021/jacs.6c18741": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c18741",
+    "verifiedAt": "2026-11-13",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c18741",
+    "reason": "The membrane selectively excludes water while transporting oxygen for a lithium–air positive electrode. It does not investigate ion-conducting polymer electrolytes, lithium-metal negative-electrode protection, solid-state batteries, fast charging or interfacial ion transport.",
+    "publisherAccessStatus": "Formal article inaccessible; scope resolved from publisher-deposited abstract."
+  },
+  "10.1021/jacs.6c17602": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17602",
+    "verifiedAt": "2026-11-13",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17602",
+    "publisherAccessStatus": "Formal article inaccessible; no verified article type, first-online date or corresponding author asserted.",
+    "reason": "Title and deposited abstract directly support the existing topic."
+  },
+  "10.1021/jacs.6c15956": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c15956",
+    "verifiedAt": "2026-11-13",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c15956",
+    "publisherAccessStatus": "Formal article inaccessible; no verified article type, first-online date or corresponding author asserted.",
+    "reason": "Title and deposited abstract directly support the existing topic."
+  },
+  "10.1021/acs.macromol.6c02680": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/acs.macromol.6c02680",
+    "verifiedAt": "2026-11-13",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/acs.macromol.6c02680",
+    "publisherAccessStatus": "Formal article inaccessible; no verified article type, first-online date or corresponding author asserted.",
+    "reason": "Title and deposited abstract directly support the existing topic."
+  },
+  "10.1016/j.chempr.2026.103333": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2451929426003992",
+    "verifiedAt": "2026-11-13",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "evidenceSource": "crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.chempr.2026.103333",
+    "registrationDate": "2026-11-12",
+    "publisherAccessStatus": "Publisher article unavailable; online day, article type, abstract and correspondence not verified.",
+    "reason": "The title explicitly identifies Li–S batteries (lithium–sulfur batteries, an existing keyword) and an active cathode material. Inclusion is title-based, not a claim about lithium-metal anode or interfacial mechanisms."
   }
 }
