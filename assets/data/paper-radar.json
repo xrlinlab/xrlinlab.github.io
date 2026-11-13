@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:11:25Z",
+  "generatedAt": "2026-11-13T23:11:18Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,27 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Overturning the Thermal Instability Paradigm of Ether-Based Electrolytes via Multi-Anion-Driven Solvation Reconstruction",
+      "authors": "Xinhui Zeng, Jian Chen, Xu Xu, Xiaoyan Shi, Xiaosa Zhang, Yun Wan, Haoyu Si, Yixuan Zhang, Huanhuan Dong, Xunzhu Zhou, Amit Kumar, Shu-Lei Chou, Lin Li",
+      "authorsCitation": "X. Zeng, J. Chen, X. Xu, X. Shi, X. Zhang, Y. Wan, H. Si, Y. Zhang, H. Dong, X. Zhou, A. Kumar, S.-L. Chou, L. Li",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-13",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c18128",
+      "link": "https://doi.org/10.1021/jacs.6c18128",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：将双氟磺酰亚胺阴离子（FSI⁻）与双三氟甲磺酰亚胺阴离子（TFSI⁻）引入醚系电解液（ether-based electrolyte），同时调节钠离子溶剂化（Na⁺ solvation）与离子团簇（ionic clusters）的尺寸，兼顾快充与高温运行。\n性能：安时级软包电池（Ah-level pouch cell）在 55 °C 循环 800 次后仍保持 80.8% 的容量，另在 2 C 放电时给出约 1.01 Ah 的容量。\n怎么解释：作者将较低的去溶剂化能垒（desolvation barrier）和富无机界面层（inorganic-rich interphase）与阴离子参与溶剂化联系起来，并认为较小的离子团簇有助于均匀化钠离子通量（Na⁺ flux），减轻快充时硬碳负极（hard-carbon anode）的析钠（sodium plating）。\n为什么重要：对兼顾快充和高温寿命的钠离子电池（sodium-ion battery），评价电解液时不能只看体相离子电导率（bulk ionic conductivity），还应检查团簇结构及其对电极界面反应的影响。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-13T23:11:31Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Solvent/Anion Codepleted Solvation Engineering Enables Low-Coordination Electrolytes for High-Energy and Low-Temperature Sodium-Ion Pouch Cells",
       "authors": "Xinhong Hu, Qinhao Shi, Jinyu Wan, Meiyi Zhang, Yongfeng Zhao, Zi-Feng Ma, Yang Si, Pengyan Wang, Yang Liu, Feng Huo, Yufeng Zhao",
@@ -395,7 +416,7 @@
       "authorsCitation": "A. Wang, T. Liu, Z. Zhang, M. Li, H. Liu, M. Sun, C. Dong, Q. Zhang, W. Hou, B. Zhao, B. Xiao, K. Yuan, L. Zhou, F. Shen, X. Tao, Z. Liang, X. Han",
       "journal": "Joule",
       "publicationDate": "2026-11-05",
-      "publicationDateSource": "crossref-registration",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "102718",
@@ -956,7 +977,7 @@
       "authorsCitation": "Z. Liu, C. Serrao, J. Li, I. Cooney, G. Pintilie, J. H. Lee, J. K. J. Lee, S. B. Shuchi, P. Sarkar, Y. Li, X. Xu, Y. Cui, X. Yuan, Q. Zheng, G. Zhang, N. Roy, X. Zheng, G.-L. Xu, K. Amine, H. Y. Hwang, R. Sinclair, W. Chiu, Y. Cui",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-10-27",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "148",
       "issue": "44",
       "page": "47856",
@@ -969,7 +990,19 @@
       "summaryZh": "新在哪里：用冷冻电子断层成像（cryo-electron tomography，cryo-ET）直接定位硬碳中的晶态钠团簇，而非仅凭二维投影或间接信号推断它们位于闭孔内部。\n性能：这是结构定位研究，登记摘要未报告可比较的快充、能量密度或寿命提升。\n怎么解释：三维分布与局部结构表征显示，晶态钠主要位于单颗粒表面或近表面，为欠电位沉积（underpotential deposition）提供新的空间证据；位置证据本身尚不足以穷尽成核机制。\n为什么重要：提示抑制硬碳析钠需要同时关注颗粒表面、近表面及电解液界面，而非只优化体相闭孔。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-10-29T23:12:08Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Robert Sinclair",
+        "Wah Chiu",
+        "Yi Cui"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-14",
+      "correspondingAuthorIndices": [
+        20,
+        21,
+        22
+      ]
     },
     {
       "title": "Cosolvation Accelerated Desolvation‐Coupled Charge Transfer for Low‐Temperature Zinc Metal Batteries",
@@ -1059,7 +1092,7 @@
       "authorsCitation": "Z. Yu, Y. Wang, N. Chen, L. F. Nazar",
       "journal": "Joule",
       "publicationDate": "2026-10-26",
-      "publicationDateSource": "crossref-registration",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "102713",
@@ -1346,54 +1379,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "High-Resolution 6Li Solid-State Nuclear Magnetic Resonance Reveals Hidden Lithium Dynamics in All-Solid-State Cathodes",
-      "authors": "Houyi Liu, Bao Zhang, Yuhao Duan, Jiuwei Lei, Wen Yin, Wei Xia, Hongzhang Zhang, Kuizhi Chen, Xiaofei Yang, Guangjin Hou, Xianfeng Li",
-      "authorsCitation": "H. Liu, B. Zhang, Y. Duan, J. Lei, W. Yin, W. Xia, H. Zhang, K. Chen, X. Yang, G. Hou, X. Li",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-15",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "42",
-      "page": "46368",
-      "doi": "10.1021/jacs.6c17473",
-      "link": "https://doi.org/10.1021/jacs.6c17473",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：作者用高丰度同位素、优化采集和变温控制构建高分辨率 ⁶Li 固体核磁共振（solid-state nuclear magnetic resonance, ssNMR），直接分辨顺磁 LiFeCl₃ 中三类 Li⁺ 环境，并捕捉常规表征难以看到的少量不可逆 Fe⁰。性能：据此优化电压窗口后，电池循环 500 次容量保持率为 85.9%，代价是能量密度降低 16.3%；全深度循环 100 次仅保持 68.6%。怎么解释：数据表明局部 Li/Fe 无序会诱发原位 Fe²⁺ 还原，并与可逆嵌入–转化反应相联系；痕量 Fe⁰ 则被作为隐蔽失效信号。为什么重要：这套 Li 位点分辨方法把局域无序、隐藏氧化还原与长期可逆性连接起来，为无正极电解质复合正极的工作窗口设计提供了直接诊断依据。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Kuizhi Chen",
-        "Xianfeng Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "Hierarchical Ion-Conducting Materials Based on Polymer-Aligned Nanoparticles within Poly(vinyl benzyl methoxy poly(ethylene oxide) ether)- block -polystyrene Diblock Copolymer",
-      "authors": "Leire Unanue, Monika Król, Gabriele Lingua, Jorge L. Olmedo-Martínez, Alejandro Herranz Berzosa, Sven Schneider, Agnieszka Tercjak, Janne Ruokolainen, Patrick Théato, Alejandro J. Müller, David Mecerreyes",
-      "authorsCitation": "L. Unanue, M. Król, G. Lingua, J. L. Olmedo-Martínez, A. Herranz Berzosa, S. Schneider, A. Tercjak, J. Ruokolainen, P. Théato, A. J. Müller, D. Mecerreyes",
-      "journal": "Macromolecules",
-      "publicationDate": "2026-10-15",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "59",
-      "issue": "20",
-      "page": "11439",
-      "doi": "10.1021/acs.macromol.6c01855",
-      "link": "https://doi.org/10.1021/acs.macromol.6c01855",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：这项工作把锂磺酰亚胺功能化聚合物纳米粒子选择性定位到嵌段共聚物富聚乙二醇（poly(ethylene glycol), PEG）层状域中，将嵌段自组装、纳米粒子有序化与 PEG 结晶整合为多级离子通道。性能：所得固态聚合物电解质表现出较高离子电导，加入环丁砜后进一步提高；现有摘要未给出可核验的具体数值。怎么解释：TEM、AFM 和 SAXS 证明纳米粒子加入后层状微相结构仍被保留，DSC 显示 PEG 结晶度随粒子含量和增塑剂变化，支持“形貌定位—结晶调控—传输改善”的关联，但尚未完全拆分各因素贡献。为什么重要：它提供了同时组织承力骨架和导离子相的结构路线，使固态聚合物电解质的力学完整性与传输性能不必只靠单一组分折中。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-15T23:07:46Z",
-      "summaryPromptVersion": 2
     }
   ],
   "source": "Crossref",

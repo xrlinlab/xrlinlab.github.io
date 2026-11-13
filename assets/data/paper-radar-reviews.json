@@ -221,12 +221,12 @@
   },
   "10.1016/j.joule.2026.102718": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00402-2",
-    "verifiedAt": "2026-11-06",
-    "evidenceSource": "crossref-title",
-    "reason": "Within existing configured topics; formal article unavailable. No publisher-page date, type or corresponding-author verification claimed.",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-05",
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2542435126004022",
+    "verifiedAt": "2026-11-14",
+    "evidenceSource": "publisher-page-search-index",
+    "reason": "The official article labels this a research article and provides the exact online date. Existing topical inclusion and Chinese guide unchanged.",
     "matchedTopics": [
       "Solid-state batteries",
       "Fast charging and interfacial ion transport"
@@ -234,7 +234,7 @@
     "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102718",
     "relatedPreprintSource": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6642395",
     "preprintVersionStatus": "Same-title author preprint located, but equivalence to the final published version is unverified; preprint performance data were not transferred into the title-only guide.",
-    "publisherAccessStatus": "Unavailable; corresponding authors remain blank."
+    "publisherAccessStatus": "Official article index readable; explicit complete corresponding-author designation not verified."
   },
   "10.1038/s41557-026-02291-7": {
     "decision": "include",
@@ -645,17 +645,29 @@
   },
   "10.1021/jacs.6c11841": {
     "decision": "include",
-    "articleType": "unknown",
-    "publisherOnlineDate": null,
-    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c11841",
-    "verifiedAt": "2026-10-29",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-27",
+    "publisherSource": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11841/5459442/Discovering-Underpotentially-Deposited-Crystalline",
+    "verifiedAt": "2026-11-14",
     "matchedTopics": [
       "Fast charging and interfacial ion transport"
     ],
     "reason": "Publisher-deposited abstract directly localizes underpotential Na plating at hard-carbon particle interfaces; addresses deposition/interphase mechanism within existing interfacial ion-transport topic.",
-    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "evidenceSource": "publisher-page-search-index-and-publisher-supporting-information",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c11841",
-    "publisherAccessStatus": "unavailable; no publisher-page date or article-type verification claimed"
+    "publisherAccessStatus": "Indexed official article and publisher Supporting Information readable; direct article fetch unavailable.",
+    "correspondingAuthors": [
+      "Robert Sinclair",
+      "Wah Chiu",
+      "Yi Cui"
+    ],
+    "correspondingAuthorIndices": [
+      20,
+      21,
+      22
+    ],
+    "correspondingAuthorEvidence": "Publisher Supporting Information explicitly lists all three under Correspondence to; the official article marks only the second of the two Yi Cui entries. Indices are zero-based in the verified author list.",
+    "evidenceSourceUrl": "https://pubs.acs.org/jacsat/article-supplement/5459442/pdf/ja6c11841_si_001/"
   },
   "10.1021/jacs.6c13878": {
     "decision": "exclude",
@@ -1510,5 +1522,41 @@
     "registrationDate": "2026-11-12",
     "publisherAccessStatus": "Publisher article unavailable; online day, article type, abstract and correspondence not verified.",
     "reason": "The title explicitly identifies Li–S batteries (lithium–sulfur batteries, an existing keyword) and an active cathode material. Inclusion is title-based, not a claim about lithium-metal anode or interfacial mechanisms."
+  },
+  "10.1016/j.joule.2026.102713": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-10-26",
+    "publisherSource": "https://www.sciencedirect.com/science/article/pii/S2542435126003971",
+    "verifiedAt": "2026-11-14",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "evidenceSource": "publisher-page-search-index",
+    "reason": "The official article labels this a research article and provides the exact online date. Existing topical inclusion and Chinese guide unchanged.",
+    "publisherAccessStatus": "Official article index readable; explicit complete corresponding-author designation not verified."
+  },
+  "10.1021/jacs.6c18128": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c18128",
+    "verifiedAt": "2026-11-14",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c18128",
+    "reason": "Publisher-deposited abstract explicitly links multi-anion electrolyte solvation and ion-cluster size to interfacial Na transport and fast charging; title alone misses this scope.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ]
+  },
+  "10.1021/jacs.6c18715": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c18715",
+    "verifiedAt": "2026-11-14",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c18715",
+    "reason": "The deposited abstract confirms a molecular spin-exchange mechanism for redox-active catholytes in aqueous organic flow batteries, outside the four configured topics."
   }
 }

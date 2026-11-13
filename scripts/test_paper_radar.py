@@ -55,10 +55,11 @@ class RadarTests(unittest.TestCase):
     def test_pending_preservation_and_idempotence(self):
         old = {"doi": "10.1234/old", "title": "Old solid-state battery",
                "journal": "Joule", "publicationDate": "2026-10-01",
-               "authors": "Complete Author", "summaryZh": "既有导读",
+               "authors": "Verified Person, Verified Person", "summaryZh": "既有导读",
                "summarySource": "publisher-abstract", "summaryGeneratedAt": "original",
                "summaryPromptVersion": 2, "abstract": "must be cleared",
                "correspondingAuthors": ["Verified Person"],
+               "correspondingAuthorIndices": [1],
                "correspondingAuthorSource": "publisher", "correspondingAuthorVerifiedAt": "2026-10-02",
                "matchedTopics": [r.TOPICS[1]]}
         new = {"DOI": "10.1234/new", "title": ["Unusual battery behaviour"],
@@ -79,6 +80,7 @@ class RadarTests(unittest.TestCase):
                 data = json.loads(output.read_text())
                 self.assertEqual(len(data["papers"]), 1)
                 self.assertEqual(data["papers"][0]["correspondingAuthors"], ["Verified Person"])
+                self.assertEqual(data["papers"][0]["correspondingAuthorIndices"], [1])
                 self.assertEqual(data["papers"][0]["abstract"], "")
                 self.assertFalse(json.loads(audit.read_text())["coverageComplete"])
                 self.assertTrue(json.loads(audit.read_text())["pending"])

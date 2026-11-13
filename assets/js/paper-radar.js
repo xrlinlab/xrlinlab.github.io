@@ -27,6 +27,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var line = element("p", "radar-paper-authors");
     var authors = String(paper.authors || "").split(",").map(function (name) { return name.trim(); }).filter(Boolean);
     var corresponding = (paper.correspondingAuthors || []).map(normalizedAuthorName);
+    var correspondingIndices = paper.correspondingAuthorIndices;
+    var normalizedAuthors = authors.map(normalizedAuthorName);
     if (!authors.length) {
       line.textContent = "Authors unavailable";
       return line;
@@ -34,7 +36,10 @@ document.addEventListener("DOMContentLoaded", function () {
     authors.forEach(function (name, index) {
       if (index) line.appendChild(document.createTextNode(", "));
       line.appendChild(document.createTextNode(name));
-      if (corresponding.indexOf(normalizedAuthorName(name)) !== -1) {
+      var key = normalizedAuthors[index];
+      if (corresponding.indexOf(key) !== -1 &&
+          (Array.isArray(correspondingIndices) ? correspondingIndices.indexOf(index) !== -1 :
+            normalizedAuthors.indexOf(key) === normalizedAuthors.lastIndexOf(key))) {
         var marker = element("sup", "radar-corresponding-mark", "*");
         marker.title = "Corresponding author";
         marker.setAttribute("aria-label", " corresponding author");

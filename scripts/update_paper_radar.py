@@ -497,6 +497,9 @@ def main():
             for field in ("summaryZh", "summarySource", "summaryGeneratedAt", "summaryPromptVersion", "correspondingAuthors", "correspondingAuthorSource", "correspondingAuthorVerifiedAt"):
                 if old.get(field):
                     paper[field] = old[field]
+            # Positional disambiguation is only valid for the verified author list.
+            if old.get("correspondingAuthorIndices") and paper["authors"] == old.get("authors"):
+                paper["correspondingAuthorIndices"] = old["correspondingAuthorIndices"]
             if paper.get("summaryZh"):
                 paper["abstract"] = ""
             collected[key] = paper
