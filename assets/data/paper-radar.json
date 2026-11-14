@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:11:18Z",
+  "generatedAt": "2026-11-14T23:11:46Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,111 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Unveiling the Intrinsic Disparity of Ethylene Carbonate and Fluoroethylene Carbonate in Lithium Metal Battery Exceeding 600 Wh kg −1",
+      "authors": "Lixuan Yang, Bin Xie, Shenghang Zhang, Xiangchun Zhuang, Hongquan Liu, Fanteng Meng, Shitao Wang, Zili Cui, Shanmu Dong, Gaojie Xu, Guanglei Cui",
+      "authorsCitation": "L. Yang, B. Xie, S. Zhang, X. Zhuang, H. Liu, F. Meng, S. Wang, Z. Cui, S. Dong, G. Xu, G. Cui",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-14",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6121408",
+      "doi": "10.1002/anie.6121408",
+      "link": "https://doi.org/10.1002/anie.6121408",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：在六氟磷酸锂（lithium hexafluorophosphate, LiPF₆）电解液中对比碳酸乙烯酯（ethylene carbonate, EC）与氟代碳酸乙烯酯（fluoroethylene carbonate, FEC），将锂金属电池（lithium-metal battery）的寿命差异与成膜产物的溶解性联系起来。\n性能：采用 FEC 的 11.13 Ah 锂金属软包电池（pouch cell）达到 601.2 Wh kg⁻¹，并稳定循环超过 100 次；摘要未给出这一终点的容量保持率。\n怎么解释：多种表征支持 EC 倾向生成易溶的低分子量碳酸酯物种，而 FEC 对应的固体电解质界面层（solid electrolyte interphase, SEI）富含氟化锂（lithium fluoride, LiF）及高分子量锂化聚合物（lithiated polymers）。作者认为耐溶解的聚合物组分有助于维持负极保护。\n为什么重要：筛选成膜溶剂时，除比较 LiF 含量，还应考察有机成膜产物是否容易溶出；作者据此用橡胶聚合物与 LiF 构建了人工界面层（artificial SEI）。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-14T23:11:59Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Shanmu Dong",
+        "Gaojie Xu",
+        "Guanglei Cui"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-15"
+    },
+    {
+      "title": "Unraveling the Intrinsic Interfacial Chemistry of Fluoroethylene Carbonate on Lithium Metal Anodes via a Solvent-Free Model System",
+      "authors": "Nanbiao Pei, Yuan Tian, Xueying Yang, Qijie Gao, Yaqi Zhang, Zhibin Lin, Yu Qiao, Peng Zhang, Jinbao Zhao",
+      "authorsCitation": "N. Pei, Y. Tian, X. Yang, Q. Gao, Y. Zhang, Z. Lin, Y. Qiao, P. Zhang, J. Zhao",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-14",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c16437",
+      "link": "https://doi.org/10.1021/jacs.6c16437",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：用干法制备的聚氧化乙烯固态电解质（dry-processed poly(ethylene oxide) solid electrolyte）去掉液态溶剂这一干扰因素，区分氟代碳酸乙烯酯（fluoroethylene carbonate, FEC）与锂金属的自发反应和随后的电化学还原。\n性能：无溶剂体系中形成的界面层改善了锂金属负极（lithium-metal anode）的界面稳定性；摘要未给出可用于横向比较的循环寿命或库仑效率（Coulombic efficiency）数值。\n怎么解释：研究报告 FEC 在电化学还原前已与锂金属反应，形成富氟化锂（lithium fluoride, LiF）的固体电解质界面层（solid electrolyte interphase, SEI），随后生成的有机物种进一步补充该界面层。液态对照中，FEC 参与锂离子溶剂化（Li⁺ solvation），并与其他组分竞争反应，形成更复杂的界面产物。\n为什么重要：负极上检测到 LiF，并不能单凭这一结果判定它来自外加电位下的电化学还原；无溶剂对照为拆分添加剂成膜的先后过程提供了一种实验思路。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-14T23:11:59Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Beyond Lithiophilicity: Multistage Rate Matching in Lithium‐Metal Electrodeposition",
+      "authors": "Yangyang Liu, Jiawei Pan, Xingxing Jiao, Zhongxiao Song, Zaiping Guo, Kai Xi",
+      "authorsCitation": "Y. Liu, J. Pan, X. Jiao, Z. Song, Z. Guo, K. Xi",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-14",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e4815215",
+      "doi": "10.1002/anie.4815215",
+      "link": "https://doi.org/10.1002/anie.4815215",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：这篇短综述（Minireview）提出，与其用亲锂性（lithiophilicity）单独判断沉积是否均匀，不如分别考虑锂离子输运、进入界面、电荷转移（charge transfer）及成核生长（nucleation and growth）各阶段的速率是否匹配。\n性能：文章提出判断沉积稳定性的概念框架，未在摘要中报告新电池的循环或快充性能。\n怎么解释：作者提出，新还原的金属锂在并入沉积体前可能发生表面再分布（surface redistribution），从而连接早期成核与后续横向生长；局部形貌扰动能否衰减，是判断沉积能否保持均匀的一个思路。\n为什么重要：改善某个单项指标，例如降低成核过电位（nucleation overpotential），并不保证持续通电时沉积仍然均匀。这个框架提示应分阶段测量，并检验哪一步限制了形貌演化。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-14T23:11:59Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Kai Xi"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-15"
+    },
+    {
+      "title": "Anion‐Specific Concentration Effects Governing Ionic Additive Failure in Aqueous Zinc Batteries",
+      "authors": "Shenqiu Xu, Shaocong Tang, Ming Zhang, Wenya Wang, Ya Xiao, Weiwei Xiang, Sharath Kumar Maddhi, Guanyao Wang, Chao Wu, Jae Su Yu",
+      "authorsCitation": "S. Xu, S. Tang, M. Zhang, W. Wang, Y. Xiao, W. Xiang, S. K. Maddhi, G. Wang, C. Wu, J. S. Yu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-14",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e2759716",
+      "doi": "10.1002/anie.2759716",
+      "link": "https://doi.org/10.1002/anie.2759716",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：在相同的硫酸锌（zinc sulfate, ZnSO₄）电解液中改变硝酸钾（potassium nitrate, KNO₃）和氯化钾（potassium chloride, KCl）的用量，比较添加剂从改善锌负极界面到反而加速失效的过程。\n性能：作者报告 KCl 在所比较的条件下表现更好；摘要未提供可直接比较的循环寿命或倍率（rate capability）数值。\n怎么解释：低浓度下，两种盐都能改变界面溶剂化（interfacial solvation）。浓度升高后，硝酸根（nitrate）更容易引起反应性钝化（reactive passivation）和副产物沉积；适量氯离子（chloride）有利于锌离子转移，过量则加剧腐蚀（corrosion）和扩散受限（diffusion limitation）。\n为什么重要：添加剂筛选不能只比较低浓度时的改善幅度，还应检查提高用量后哪种副反应首先抵消界面输运收益。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-14T23:11:59Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Guanyao Wang",
+        "Chao Wu",
+        "Jae Su Yu"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-15"
+    },
     {
       "title": "Overturning the Thermal Instability Paradigm of Ether-Based Electrolytes via Multi-Anion-Driven Solvation Reconstruction",
       "authors": "Xinhui Zeng, Jian Chen, Xu Xu, Xiaoyan Shi, Xiaosa Zhang, Yun Wan, Haoyu Si, Yixuan Zhang, Huanhuan Dong, Xunzhu Zhou, Amit Kumar, Shu-Lei Chou, Lin Li",

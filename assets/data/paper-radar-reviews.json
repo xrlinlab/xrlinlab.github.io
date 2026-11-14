@@ -1558,5 +1558,53 @@
     "evidenceSource": "publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c18715",
     "reason": "The deposited abstract confirms a molecular spin-exchange mechanism for redox-active catholytes in aqueous organic flow batteries, outside the four configured topics."
+  },
+  "10.1021/jacs.6c16437": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": "2026-11-14",
+    "publisherSource": "https://pubs.acs.org/jacs",
+    "verifiedAt": "2026-11-15",
+    "evidenceSource": "publisher-asap-directory-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c16437",
+    "publisherAccessStatus": "The ACS ASAP index provides the online date; the formal article and PDF did not provide a verifiable complete correspondence block.",
+    "reason": "A solvent-free model directly examines the reaction of fluoroethylene carbonate at lithium metal and the formation of the interphase.",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ]
+  },
+  "10.1002/anie.6121408": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-14",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6121408",
+    "verifiedAt": "2026-11-15",
+    "evidenceSource": "publisher-article",
+    "reason": "The official abstract compares carbonate electrolytes and their interphases in lithium-metal batteries.",
+    "matchedTopics": ["Lithium-metal and anode-free batteries"],
+    "correspondingAuthors": ["Shanmu Dong", "Gaojie Xu", "Guanglei Cui"]
+  },
+  "10.1002/anie.4815215": {
+    "decision": "include",
+    "articleType": "minireview",
+    "publisherOnlineDate": "2026-11-14",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4815215",
+    "verifiedAt": "2026-11-15",
+    "evidenceSource": "publisher-article",
+    "reason": "Publisher identifies a Minireview of sequential interfacial and mass transport processes in lithium-metal electrodeposition. Do not present the framework as newly validated experimental performance.",
+    "matchedTopics": ["Lithium-metal and anode-free batteries", "Fast charging and interfacial ion transport"],
+    "correspondingAuthors": ["Kai Xi"]
+  },
+  "10.1002/anie.2759716": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-14",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2759716",
+    "verifiedAt": "2026-11-15",
+    "evidenceSource": "publisher-article",
+    "reason": "The study directly addresses anion-dependent interfacial ion transfer and diffusion limitations rather than merely reporting a zinc electrolyte formulation.",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "correspondingAuthors": ["Guanyao Wang", "Chao Wu", "Jae Su Yu"]
   }
 }
