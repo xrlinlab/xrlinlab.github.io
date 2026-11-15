@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:11:46Z",
+  "generatedAt": "2026-11-15T23:10:13Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,34 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Trigonal Prismatic Coordination Field‐Induced d‐Orbital Splitting Enables σ Electron Activation for Efficient Polysulfide Conversion in Li–S Batteries",
+      "authors": "Yiyang Mao, Yan Zhang, Yueyue Liu, Liang Deng, Qidi Zhang, Shengwei Dong, Kai Zhu, Shuaifeng Lou",
+      "authorsCitation": "Y. Mao, Y. Zhang, Y. Liu, L. Deng, Q. Zhang, S. Dong, K. Zhu, S. Lou",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-15",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e5340472",
+      "doi": "10.1002/anie.5340472",
+      "link": "https://doi.org/10.1002/anie.5340472",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：用三棱柱配位（trigonal prismatic coordination）的二硒化铌（niobium diselenide, NbSe₂）作模型，考察铌位点的局部配位如何影响锂硫电池（lithium–sulfur battery）正极的多硫化物转化（polysulfide conversion）。\n性能：采用该催化材料的电池在 5 C 下报告了最高 799 mAh g⁻¹ 的可逆比容量（reversible specific capacity）。摘要未交代高硫载量下容量保持率所对应的循环次数。\n怎么解释：作者用配位场理论（coordination field theory）和杂化轨道理论（hybrid orbital theory）区分了 σ*–σ 与 π*–σ 两条电子转移通道，并将较高的转移效率与多硫化物在铌位点的吸附和转化联系起来。\n为什么重要：比较金属硫族化物催化剂（metal chalcogenide catalysts）时，除考察吸附强度，还可以把位点配位及其对应的电子转移路径纳入设计。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-15T23:10:26Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yan Zhang",
+        "Kai Zhu",
+        "Shuaifeng Lou"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-16"
+    },
     {
       "title": "Unveiling the Intrinsic Disparity of Ethylene Carbonate and Fluoroethylene Carbonate in Lithium Metal Battery Exceeding 600 Wh kg −1",
       "authors": "Lixuan Yang, Bin Xie, Shenghang Zhang, Xiangchun Zhuang, Hongquan Liu, Fanteng Meng, Shitao Wang, Zili Cui, Shanmu Dong, Gaojie Xu, Guanglei Cui",
@@ -133,7 +161,7 @@
       "authorsCitation": "X. Zeng, J. Chen, X. Xu, X. Shi, X. Zhang, Y. Wan, H. Si, Y. Zhang, H. Dong, X. Zhou, A. Kumar, S.-L. Chou, L. Li",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-13",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -146,7 +174,14 @@
       "summaryZh": "新在哪里：将双氟磺酰亚胺阴离子（FSI⁻）与双三氟甲磺酰亚胺阴离子（TFSI⁻）引入醚系电解液（ether-based electrolyte），同时调节钠离子溶剂化（Na⁺ solvation）与离子团簇（ionic clusters）的尺寸，兼顾快充与高温运行。\n性能：安时级软包电池（Ah-level pouch cell）在 55 °C 循环 800 次后仍保持 80.8% 的容量，另在 2 C 放电时给出约 1.01 Ah 的容量。\n怎么解释：作者将较低的去溶剂化能垒（desolvation barrier）和富无机界面层（inorganic-rich interphase）与阴离子参与溶剂化联系起来，并认为较小的离子团簇有助于均匀化钠离子通量（Na⁺ flux），减轻快充时硬碳负极（hard-carbon anode）的析钠（sodium plating）。\n为什么重要：对兼顾快充和高温寿命的钠离子电池（sodium-ion battery），评价电解液时不能只看体相离子电导率（bulk ionic conductivity），还应检查团簇结构及其对电极界面反应的影响。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-13T23:11:31Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xunzhu Zhou",
+        "Shu-Lei Chou",
+        "Lin Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-16"
     },
     {
       "title": "Solvent/Anion Codepleted Solvation Engineering Enables Low-Coordination Electrolytes for High-Energy and Low-Temperature Sodium-Ion Pouch Cells",
@@ -154,7 +189,7 @@
       "authorsCitation": "X. Hu, Q. Shi, J. Wan, M. Zhang, Y. Zhao, Z.-F. Ma, Y. Si, P. Wang, Y. Liu, F. Huo, Y. Zhao",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-12",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -167,7 +202,12 @@
       "summaryZh": "新在哪里：用体积较大、缺电子的硼酸三（三甲基硅基）酯（tris(trimethylsilyl)borate，TMSB），同时减少 Na⁺ 第一配位壳层（first coordination shell）中的溶剂与阴离子配位，而不是单纯提高阴离子比例。\n性能：摘要报告电导率由2.41升至5.34 mS cm⁻¹，去溶剂化能垒（desolvation barrier）由44.82降至33.97 kJ mol⁻¹。6.8 Ah软包电池在25 °C和−20 °C分别达到200和162 Wh kg⁻¹。\n怎么解释：作者将配位变化归因于TMSB与PF₆⁻的竞争络合及空间位阻，并观察到富无机组分的正极–电解液界面层（cathode–electrolyte interphase，CEI）。这些结果支持配方同时改变体相输运和正极界面，但摘要不足以区分两者对低温性能的贡献。\n为什么重要：低温输运与高电压界面稳定不必只靠提高盐浓度来折中；该体系提供了可通过配位数、去溶剂化能垒及界面组成分别检验的添加剂设计思路。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-12T23:06:15Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yufeng Zhao"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-16"
     },
     {
       "title": "Hybrid Weakly Coordinated Solvents for Fast-Charging and Wide-Temperature Sodium-Ion Full Batteries",
@@ -175,7 +215,7 @@
       "authorsCitation": "Y. Wan, X. Shi, Y. Li, Z. Zhou, X. Xu, X. Zeng, X. Zhang, X. Zhou, H. Dong, X. Wu, S.-L. Chou, L. Li",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-12",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -188,7 +228,14 @@
       "summaryZh": "新在哪里：将丙酸乙酯（ethyl propionate）与乙氧基五氟环三磷腈（ethoxy(pentafluoro)cyclotriphosphazene，PFPN）配成双弱配位溶剂体系，以兼顾钠离子传输、界面稳定和宽温运行。\n性能：普鲁士蓝（Prussian blue）‖硬碳（hard carbon）全电池在−50至100 °C范围内可运行。安时级软包在25 °C循环300次后保持86.3%容量，在−20和80 °C下均可循环超过100次；摘要未给出这些循环结果对应的快充倍率。\n怎么解释：作者提出弱配位增加阴离子参与溶剂化（solvation），有利于降低去溶剂化（desolvation）能垒并形成富无机界面层；双溶剂也被用来减少离子团簇（ion clusters）。摘要尚不能分离这些因素对倍率性能的独立贡献。\n为什么重要：该设计把宽温传输与成膜放在同一溶剂配方中考虑，并用软包电池验证了部分温度工况；不能把宽温可运行等同于在全部温区均已验证快充。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-12T23:06:15Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Xunzhu Zhou",
+        "Shu-Lei Chou",
+        "Lin Li"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-16"
     },
     {
       "title": "Covalent sulfur-rich a-CoS5 as a sulfur-equivalent cathode material for Li-S batteries with larger gravimetric and volumetric capacities",
@@ -238,7 +285,7 @@
       "authorsCitation": "Y. Wang, Y. Yang, X. Wang, S. Zhang, Y. Xu, X. Zhu, J. Yue, J. Fu, X. Han, Y. Wu, H. Wu, L. Zhou, H. Lai, Y. Xia, C. Zhao, F. Xie, X. Li, X. Sun, J. Liang",
       "journal": "Journal of the American Chemical Society",
       "publicationDate": "2026-11-12",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "",
@@ -251,7 +298,12 @@
       "summaryZh": "新在哪里：在非晶锂–铝氧卤化物（amorphous lithium–aluminum oxyhalide，LAOC）中引入LaCl₃纳米晶（nanocrystals），让非晶相承担离子输运、晶体相增强材料的热机械稳定性。\n性能：复合电解质室温离子电导率超过1 mS cm⁻¹，150 °C时仍为固态粉末，而对照LAOC在该温度熔化。复合电解质电池可在80 °C稳定运行，对照电池较快失效；摘要未报告具体循环数。\n怎么解释：作者将高温稳定性归因于刚性晶体相对可变形非晶基体的增强，同时保留与正极的接触能力。现有摘要不能单独判定晶体相、界面化学和形变各自的贡献。\n为什么重要：该对照将热失效与室温电导率分开评估，提示设计非晶固态电解质时，可用第二相提高耐热性，而不必完全牺牲非晶基体的可变形性。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-12T23:06:15Z",
-      "summaryPromptVersion": 2
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Jianwen Liang"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-16"
     },
     {
       "title": "Non-halogen aqueous electrolytes for four-electron iodine conversion",
@@ -569,7 +621,7 @@
       "authorsCitation": "J. Li, Y. Dai, Y. Zhang, Z. Chen, W. Zhang, L. Wang, C. Dong, L. Cui, J. Huang, Y. Jiang, Y. Cai, Y. Rong, Q. An, L. Mai",
       "journal": "Chem",
       "publicationDate": "2026-11-04",
-      "publicationDateSource": "crossref-registration",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "103329",
