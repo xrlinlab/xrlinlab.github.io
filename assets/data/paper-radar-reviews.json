@@ -1671,5 +1671,58 @@
       "Kai Zhu",
       "Shuaifeng Lou"
     ]
+  },
+  "10.1002/anie.5164505": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-16",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5164505",
+    "verifiedAt": "2026-11-17",
+    "evidenceSource": "publisher-article",
+    "reason": "Publisher abstract describes Li-ion transport in PVDF-based MOF composite solid electrolyte and solid-state lithium-metal cells.",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors",
+      "Solid-state batteries",
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "correspondingAuthors": [
+      "Xuejie Gao",
+      "Xiaofei Yang",
+      "Zhongwei Chen"
+    ]
+  },
+  "10.1002/anie.5975631": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-16",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5975631",
+    "verifiedAt": "2026-11-17",
+    "evidenceSource": "publisher-article",
+    "reason": "Acoustic enhancement addresses mass transport in thick hard-carbon anodes, and interphase treatment stabilizes charge-transfer kinetics.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "correspondingAuthors": [
+      "Shaohua Shen"
+    ]
+  },
+  "10.1002/anie.8057428": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-16",
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8057428",
+    "verifiedAt": "2026-11-17",
+    "evidenceSource": "publisher-article",
+    "reason": "Publisher abstract establishes ceramic–polymer interfacial Na-ion transport in a composite electrolyte for all-solid-state cells.",
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "correspondingAuthors": [
+      "Kai Shi",
+      "Yan-Bing He",
+      "Xiaoliang Yu"
+    ]
   }
 }
