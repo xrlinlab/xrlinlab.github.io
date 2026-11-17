@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T23:01:16Z",
+  "generatedAt": "2026-11-17T04:31:50Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,9 +23,27 @@
   ],
   "papers": [
     {
-      "title": "Reconfiguring Interfacial Electrochemical Potential for Boosting Sodium-Ion Transport in Composite Solid Electrolytes",
-      "authors": "Genyuan Wang, Liang Hu, Lixiang Zhong, Tao Zhang, Kai Shi, Yanmei Wu, Xiuyun Ren, Fei Zheng, Yu Zhao, Yan-Bing He, Xiaoliang Yu",
-      "authorsCitation": "G. Wang, L. Hu, L. Zhong, T. Zhang, K. Shi, Y. Wu, X. Ren, F. Zheng, Y. Zhao, Y.-B. He, X. Yu",
+      "title": "Secondary Solvation Shell Regulation for Fast-Charging Lithium Metal Batteries",
+      "authors": "Jimin Lee, Minkwan Kim, Junyoung Choi, Lea Pompizii, Seungwoo Choi, Ki-Yong Yoon, Taewan Kim, Jeongheon Seok, Gunwook Nam, Yong Nam Jo, Hyun-Wook Lee, Yousung Jung, Ali Coskun, Jang Wook Choi",
+      "authorsCitation": "J. Lee, M. Kim, J. Choi, L. Pompizii, S. Choi, K.-Y. Yoon, T. Kim, J. Seok, G. Nam, Y. N. Jo, H.-W. Lee, Y. Jung, A. Coskun, J. W. Choi",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-16",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c17148",
+      "link": "https://doi.org/10.1021/jacs.6c17148",
+      "abstract": "Abstract Most electrolyte strategies in lithium metal batteries (LMBs) target the first solvation shell or solvation diversity. However, such approaches have shown limited success in enabling fast-charging, as Li+ depletion inevitably develops at polarized interfaces. Here, we identify the secondary solvation shell as a critical regulator of fast-charging stability and show that a gradient solvation structure (GSS) overcomes ion depletion-induced failure. Guided by intrinsic solvation strengths, we design a tri-solvent electrolyte comprising 1,2-dimethoxyethane (DME), 1,1,1-trifluoro-2,3-dimethoxypropane (TFDMP), and N,N-dimethyltrifluoromethane-sulfonamide (DMTMSA). DME and TFDMP define a stable primary solvation shell and balanced ion-pair distribution, whereas DMTMSA localizes in the secondary shell, suppressing long-range ionic clustering and maintaining interfacial ion availability. Despite similar primary-shell structures and equilibrium impedances, only the tri-solvent system preserves interfacial kinetics under depletion conditions. This architecture enables a Coulombic efficiency of 98.4% at 16 mA cm–2, a specific capacity of 162.0 mAh g–1 at 10C, and 90.4% capacity retention for 200 cycles. These findings establish a gradient solvation structure as a governing principle for fast-charging LMB electrolytes.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "Reconfiguring Interfacial Electrochemical Potential for Boosting Sodium‐Ion Transport in Composite Solid Electrolytes",
+      "authors": "Genyuan Wang, Liang Hu, Lixiang Zhong, Tao Zhang, Kai Shi, Yanmei Wu, Xiuyun Ren, Fei Zheng, Yu Zhao, Yan‐Bing He, Xiaoliang Yu",
+      "authorsCitation": "G. Wang, L. Hu, L. Zhong, T. Zhang, K. Shi, Y. Wu, X. Ren, F. Zheng, Y. Zhao, Y. He, X. Yu",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-16",
       "publicationDateSource": "publisher-online",
@@ -39,20 +57,20 @@
         "Solid-state batteries",
         "Fast charging and interfacial ion transport"
       ],
+      "summaryZh": "新在哪里：在钠超离子导体（sodium superionic conductor, NASICON）与聚氧化乙烯（polyethylene oxide, PEO）的界面接枝不同硅烷，检验界面电势差（interfacial potential mismatch）能否作为筛选分子的指标。\n性能：最优接枝分子使测得的界面电势差降低 87%，复合电解质的离子电导率（ionic conductivity）提高约两个数量级；全固态钠金属电池（all-solid-state sodium-metal battery）在 2 C 循环 500 次后保持约 99% 的初始容量。\n怎么解释：电势差与电导率呈负相关；最优体系的钠离子迁移能垒（Na⁺ migration barrier）也下降，支持界面接枝可减轻跨相传输阻力，但电势差不是唯一可能的影响因素。\n为什么重要：陶瓷填料的体相电导率高，不等于离子容易进入聚合物相；同时测量界面电势与传输性能有助于筛选表面修饰。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-16T23:01:16Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Kai Shi",
         "Yan-Bing He",
         "Xiaoliang Yu"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-17",
-      "summaryZh": "新在哪里：在钠超离子导体（sodium superionic conductor, NASICON）与聚氧化乙烯（polyethylene oxide, PEO）的界面接枝不同硅烷，检验界面电势差（interfacial potential mismatch）能否作为筛选分子的指标。\n性能：最优接枝分子使测得的界面电势差降低 87%，复合电解质的离子电导率（ionic conductivity）提高约两个数量级；全固态钠金属电池（all-solid-state sodium-metal battery）在 2 C 循环 500 次后保持约 99% 的初始容量。\n怎么解释：电势差与电导率呈负相关；最优体系的钠离子迁移能垒（Na⁺ migration barrier）也下降，支持界面接枝可减轻跨相传输阻力，但电势差不是唯一可能的影响因素。\n为什么重要：陶瓷填料的体相电导率高，不等于离子容易进入聚合物相；同时测量界面电势与传输性能有助于筛选表面修饰。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-11-16T23:01:16Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-11-17"
     },
     {
-      "title": "Engineering Amino-Induced p-π Conjugation for Electronic Regulation of Li⁺ Transport in PVDF-Based Solid-State Electrolytes",
+      "title": "Engineering Amino‐Induced p‐π Conjugation for Electronic Regulation of Li+ Transport in PVDF‐Based Solid‐State Electrolytes",
       "authors": "Rongjin Lin, Ming Jiang, Xuejie Gao, Runcang Sun, Dan Luo, Li Shuai, Xinglong Wu, Meng Yao, Xiaofei Yang, Zhongwei Chen",
       "authorsCitation": "R. Lin, M. Jiang, X. Gao, R. Sun, D. Luo, L. Shuai, X. Wu, M. Yao, X. Yang, Z. Chen",
       "journal": "Angewandte Chemie International Edition",
@@ -70,20 +88,20 @@
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
       ],
+      "summaryZh": "新在哪里：用氨基化金属有机框架（amino-functionalized metal–organic framework, MOF）调节聚偏氟乙烯（poly(vinylidene fluoride), PVDF）固态电解质中锂离子的局部配位，而不只把填料作为机械增强相。\n性能：复合电解质的室温离子电导率（ionic conductivity）为 2.41 × 10⁻³ S cm⁻¹，锂离子迁移数（Li-ion transference number）为 0.56；正极载量为 21.5 mg cm⁻² 的电池在 0.05 C 循环 120 次后保持 98.51% 容量。\n怎么解释：作者提出氨基诱导的 p–π 共轭（p–π conjugation）和配体到金属电荷转移（ligand-to-metal charge transfer, LMCT）改变了局部配位环境，减弱锂离子与双氟磺酰亚胺阴离子（bis(fluorosulfonyl)imide, FSI⁻）的缔合。\n为什么重要：结果提示可通过改变填料配体的电子性质调节离子传输；高载量的循环结果来自低倍率，不能直接外推为快充性能。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-16T23:01:16Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Xuejie Gao",
         "Xiaofei Yang",
         "Zhongwei Chen"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-17",
-      "summaryZh": "新在哪里：用氨基化金属有机框架（amino-functionalized metal–organic framework, MOF）调节聚偏氟乙烯（poly(vinylidene fluoride), PVDF）固态电解质中锂离子的局部配位，而不只把填料作为机械增强相。\n性能：复合电解质的室温离子电导率（ionic conductivity）为 2.41 × 10⁻³ S cm⁻¹，锂离子迁移数（Li-ion transference number）为 0.56；正极载量为 21.5 mg cm⁻² 的电池在 0.05 C 循环 120 次后保持 98.51% 容量。\n怎么解释：作者提出氨基诱导的 p–π 共轭（p–π conjugation）和配体到金属电荷转移（ligand-to-metal charge transfer, LMCT）改变了局部配位环境，减弱锂离子与双氟磺酰亚胺阴离子（bis(fluorosulfonyl)imide, FSI⁻）的缔合。\n为什么重要：结果提示可通过改变填料配体的电子性质调节离子传输；高载量的循环结果来自低倍率，不能直接外推为快充性能。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-11-16T23:01:16Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-11-17"
     },
     {
-      "title": "A Scalable Presodiation Strategy Enabling Dry-Air-Processable Hard Carbon Anodes for High Energy Sodium-Ion Batteries",
+      "title": "A Scalable Presodiation Strategy Enabling Dry‐Air‐Processable Hard Carbon Anodes for High Energy Sodium‐Ion Batteries",
       "authors": "Fujun Niu, Zhijian Cai, Zhengwei Li, Xiangpeng Kong, Yifan Tang, Huai Chen, Qiang Rong, Junqiao Xiong, Shaohua Shen",
       "authorsCitation": "F. Niu, Z. Cai, Z. Li, X. Kong, Y. Tang, H. Chen, Q. Rong, J. Xiong, S. Shen",
       "journal": "Angewandte Chemie International Edition",
@@ -98,15 +116,15 @@
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
       ],
+      "summaryZh": "新在哪里：将超声促进传质（ultrasound-enhanced mass transport）与界面钝化（interfacial passivation）分开处理，针对厚硬碳负极（hard-carbon anode）预钠化慢、处理后又易在空气中失活的问题。\n性能：约 1 分钟即达到接近 100% 的首次库仑效率（initial Coulombic efficiency）；干燥空气暴露 6 小时后仍高于 79%。软包电池（pouch cell）循环 700 次后容量保持率为 76%。\n怎么解释：作者将较均匀的钠补偿归因于超声诱导的微对流（microconvection）和空化（cavitation），并将较慢的阻抗增长与富硼、氟界面层联系起来。\n为什么重要：预钠化（presodiation）的评价不能只看补钠速度，还要看厚电极内的反应均匀性以及补钠后能否承受制造环境。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-16T23:01:16Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Shaohua Shen"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-17",
-      "summaryZh": "新在哪里：将超声促进传质（ultrasound-enhanced mass transport）与界面钝化（interfacial passivation）分开处理，针对厚硬碳负极（hard-carbon anode）预钠化慢、处理后又易在空气中失活的问题。\n性能：约 1 分钟即达到接近 100% 的首次库仑效率（initial Coulombic efficiency）；干燥空气暴露 6 小时后仍高于 79%。软包电池（pouch cell）循环 700 次后容量保持率为 76%。\n怎么解释：作者将较均匀的钠补偿归因于超声诱导的微对流（microconvection）和空化（cavitation），并将较慢的阻抗增长与富硼、氟界面层联系起来。\n为什么重要：预钠化（presodiation）的评价不能只看补钠速度，还要看厚电极内的反应均匀性以及补钠后能否承受制造环境。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-11-16T23:01:16Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-11-17"
     },
     {
       "title": "Trigonal Prismatic Coordination Field‐Induced d‐Orbital Splitting Enables σ Electron Activation for Efficient Polysulfide Conversion in Li–S Batteries",
