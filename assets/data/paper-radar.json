@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T04:31:50Z",
+  "generatedAt": "2026-11-17T23:06:38Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,6 +23,54 @@
   ],
   "papers": [
     {
+      "title": "Dynamic staged solid electrolyte interphase via sequential chemical and electrochemical reactions for highly reversible zinc battery",
+      "authors": "Yujie Wang, Pengfei Li, Jie Zhang, Beinuo Zhang, Mi Xu, Jingshuai Li, Haozhen Dou, Zhongwei Chen",
+      "authorsCitation": "Y. Wang, P. Li, J. Zhang, B. Zhang, M. Xu, J. Li, H. Dou, Z. Chen",
+      "journal": "Chem",
+      "publicationDate": "2026-11-17",
+      "publicationDateSource": "crossref-registration",
+      "volume": "",
+      "issue": "",
+      "page": "103335",
+      "doi": "10.1016/j.chempr.2026.103335",
+      "link": "https://doi.org/10.1016/j.chempr.2026.103335",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "【title-only｜仅依据标题】新在哪里：题名提出通过依次发生的化学反应（chemical reactions）和电化学反应（electrochemical reactions），构建动态分阶段的固体电解质界面层（solid electrolyte interphase, SEI），用于锌电池（zinc batteries）。性能：尚未取得可靠摘要或正文，不能给出效率、电流密度或循环寿命。怎么解释：具体反应路径、界面层演化及其证据尚无法核实。为什么重要：该研究关注界面层在运行过程中的变化；其有效性及适用条件仍需正式摘要或正文确认。",
+      "summarySource": "title-only",
+      "summaryGeneratedAt": "2026-11-17T23:06:38Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Anode-free zinc batteries enabled by structurally robust solid–electrolyte interphase",
+      "authors": "Xun Guo, Xiaocui Li, Qingshun Nian, Hu Hong, Zehui Xie, Shixun Wang, Shaoce Zhang, Huilin Cui, Furong Chen, Chunyi Zhi",
+      "authorsCitation": "X. Guo, X. Li, Q. Nian, H. Hong, Z. Xie, S. Wang, S. Zhang, H. Cui, F. Chen, C. Zhi",
+      "journal": "Nature Sustainability",
+      "publicationDate": "2026-11-17",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1038/s41893-026-01993-7",
+      "link": "https://doi.org/10.1038/s41893-026-01993-7",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：将锌负极深度剥离（deep zinc stripping）时的失效，追溯到固体电解质界面层（solid electrolyte interphase, SEI）结构坍塌，而不只比较成膜组分；研究保留少量锌能否维持界面层的完整性。\n性能：锌沉积／剥离（zinc plating/stripping）的库仑效率（Coulombic efficiency）达到 99.96%；无负极软包电池（anode-free pouch cell）循环 350 次后保持 90.47% 的初始容量。\n怎么解释：作者报告深度剥离造成界面层骨架坍塌及保护性无机组分降解。预留少量未剥离的锌，可以缓解底层金属大量溶解导致的形状变化，帮助维持界面层结构和化学组成。\n为什么重要：评价保护层时，应同时考察其成分和深度循环中的结构保持能力；尽可能耗尽负极金属库存，并不一定对应最长的器件寿命。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-17T23:06:38Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Furong Chen",
+        "Chunyi Zhi"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-18"
+    },
+    {
       "title": "Secondary Solvation Shell Regulation for Fast-Charging Lithium Metal Batteries",
       "authors": "Jimin Lee, Minkwan Kim, Junyoung Choi, Lea Pompizii, Seungwoo Choi, Ki-Yong Yoon, Taewan Kim, Jeongheon Seok, Gunwook Nam, Yong Nam Jo, Hyun-Wook Lee, Yousung Jung, Ali Coskun, Jang Wook Choi",
       "authorsCitation": "J. Lee, M. Kim, J. Choi, L. Pompizii, S. Choi, K.-Y. Yoon, T. Kim, J. Seok, G. Nam, Y. N. Jo, H.-W. Lee, Y. Jung, A. Coskun, J. W. Choi",
@@ -34,11 +82,15 @@
       "page": "",
       "doi": "10.1021/jacs.6c17148",
       "link": "https://doi.org/10.1021/jacs.6c17148",
-      "abstract": "Abstract Most electrolyte strategies in lithium metal batteries (LMBs) target the first solvation shell or solvation diversity. However, such approaches have shown limited success in enabling fast-charging, as Li+ depletion inevitably develops at polarized interfaces. Here, we identify the secondary solvation shell as a critical regulator of fast-charging stability and show that a gradient solvation structure (GSS) overcomes ion depletion-induced failure. Guided by intrinsic solvation strengths, we design a tri-solvent electrolyte comprising 1,2-dimethoxyethane (DME), 1,1,1-trifluoro-2,3-dimethoxypropane (TFDMP), and N,N-dimethyltrifluoromethane-sulfonamide (DMTMSA). DME and TFDMP define a stable primary solvation shell and balanced ion-pair distribution, whereas DMTMSA localizes in the secondary shell, suppressing long-range ionic clustering and maintaining interfacial ion availability. Despite similar primary-shell structures and equilibrium impedances, only the tri-solvent system preserves interfacial kinetics under depletion conditions. This architecture enables a Coulombic efficiency of 98.4% at 16 mA cm–2, a specific capacity of 162.0 mAh g–1 at 10C, and 90.4% capacity retention for 200 cycles. These findings establish a gradient solvation structure as a governing principle for fast-charging LMB electrolytes.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：研究不再只改变锂离子（lithium ion）的第一溶剂化壳层，而是区分第二溶剂化壳层（secondary solvation shell）在快充界面缺离子时的作用，构建梯度溶剂化结构（gradient solvation structure）。\n性能：在 16 mA cm⁻² 下报告 98.4% 的库仑效率（Coulombic efficiency）；在 10C 下获得 162.0 mAh g⁻¹ 的比容量，循环 200 次后的容量保持率为 90.4%。这些指标对应论文所用电池和测试条件，不能直接等同于实际器件的快充寿命。\n怎么解释：作者比较了第一壳层结构与平衡阻抗相近的电解液，发现三溶剂体系在离子耗竭时仍能维持界面动力学；其解释是第二壳层中的溶剂抑制长程离子聚集，维持界面离子供给。该比较支持第二壳层参与调节，但不能将所有性能差异归因于单一结构因素。\n为什么重要：平衡态的配位结构或阻抗相似，并不保证高电流下的表现一致；电解液设计还需考察非平衡条件下的离子供给。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-17T23:06:38Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Reconfiguring Interfacial Electrochemical Potential for Boosting Sodium‐Ion Transport in Composite Solid Electrolytes",
@@ -1610,36 +1662,6 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-30"
-    },
-    {
-      "title": "Symmetry-Broken Coordination of Single-Atom Catalysts Unlocks Spin- and Orbital-Regulated Sulfur Redox in Lithium–Sulfur Batteries",
-      "authors": "Tao Shen, Mengyu Xie, Qianhong Gong, Zhaoyang Han, Jiaao Wang, Lei Chen, Jie Zhang, Jirong Mou, Yu-Hui Zhu, Juan Lian, Wei Bi, Yihan Yang, Zhenyu Xiao, Chao Yuan, Ke Chen, Konglin Wu, Sen Xin, Andreu Cabot, Dawei Yang",
-      "authorsCitation": "T. Shen, M. Xie, Q. Gong, Z. Han, J. Wang, L. Chen, J. Zhang, J. Mou, Y.-H. Zhu, J. Lian, W. Bi, Y. Yang, Z. Xiao, C. Yuan, K. Chen, K. Wu, S. Xin, A. Cabot, D. Yang",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-19",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "43",
-      "page": "47526",
-      "doi": "10.1021/jacs.6c17922",
-      "link": "https://doi.org/10.1021/jacs.6c17922",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries"
-      ],
-      "summaryZh": "新在哪里：作者将钴单原子位点由近对称配位改造成不对称 Cl–Co–N₃ 配位，直接把配位场、Co(II) 自旋态与硫氧化还原反应（sulfur redox reaction, SRR）催化联系起来，而不只是比较不同单原子催化剂的经验性能。\n性能：采用 CoClNC/S 正极的锂–硫电池报告平均每圈容量衰减率为 0.023%；现有摘要未给出对应循环次数及更完整倍率条件，因此不作额外外推。\n怎么解释：Cl 配位被认为促进 Co(II) 电子离域，使其由低自旋向较高自旋态转变，并增强 d_z² 轨道与多硫化物 π* 反键轨道的杂化；同时较低的 d 带电子占据有利于硫物种吸附和转化。摘要证据支持配位—电子结构—动力学的关联，但尚不能单独量化自旋变化与吸附增强各自的贡献。\n为什么重要：该工作把单原子催化剂设计从元素和配位数筛选推进到可调自旋与轨道耦合，为多步硫转化反应提供了更明确的电子结构设计变量。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-19T22:59:17Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Ke Chen",
-        "Konglin Wu",
-        "Sen Xin",
-        "Andreu Cabot",
-        "Dawei Yang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-12"
     }
   ],
   "source": "Crossref",

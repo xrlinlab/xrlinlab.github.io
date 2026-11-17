@@ -1,4 +1,27 @@
 {
+  "10.1021/jacs.6c18918": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c18918",
+    "verifiedAt": "2026-11-18",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c18918",
+    "publisherAccessStatus": "Direct publisher article unavailable; semantic exclusion is supported by the publisher-deposited abstract, not by the access failure.",
+    "reason": "The study tunes MXene Ti crystal-field splitting to catalyse oxygen reduction/evolution at a lithium-oxygen cathode. Its principal subject is oxygen electrocatalysis and cathode passivation, not polymer ion conduction, solid-state batteries, lithium-metal/anode-free interface design or fast-charging/interfacial ion transport. Lithium-oxygen battery terminology alone does not establish relevance to the existing four topics."
+  },
+  "10.1038/s41893-026-01993-7": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-17",
+    "publisherSource": "https://www.nature.com/articles/s41893-026-01993-7",
+    "verifiedAt": "2026-11-18",
+    "evidenceSource": "publisher-article-index",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "reason": "The publisher directly studies zinc plating/stripping and the evolving interphase structural integrity, within the existing interface/deposition topic.",
+    "correspondingAuthors": ["Furong Chen", "Chunyi Zhi"],
+    "correspondingAuthorEvidence": "The official Corresponding authors section explicitly names Furong Chen and Chunyi Zhi."
+  },
   "10.1021/jacs.6c17241": {
     "decision": "exclude",
     "articleType": "communication",
