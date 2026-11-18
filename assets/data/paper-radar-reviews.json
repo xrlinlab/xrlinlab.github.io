@@ -1,4 +1,40 @@
 {
+  "10.1002/anie.4447702": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": "2026-11-18",
+    "publisherSource": "https://onlinelibrary.wiley.com/journal/15213773?campaign=wolearlyview",
+    "verifiedAt": "2026-11-19",
+    "evidenceSource": "publisher-journal-index-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.4447702",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "publisherAccessStatus": "Official International Edition journal index explicitly names this article and First Published 18 November 2026. Direct article access and corresponding-author section remain unavailable; article subtype is not inferred.",
+    "reason": "The scientific subject is voltage-gated migration, orientation and selective reaction of an electrolyte additive, producing a self-limiting gradient cathode/electrolyte interphase. This is interfacial electrolyte chemistry within the existing interface topic, not a bulk sodium-cathode material study or a claim of fast charging."
+  },
+  "10.1021/jacs.6c17132": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17132",
+    "verifiedAt": "2026-11-19",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17132",
+    "publisherAccessStatus": "Direct publisher page unavailable; exclusion is based on the publisher-deposited abstract, not the access failure.",
+    "reason": "Visible-light synthesis of cyclobutadiene dianion salts from dilithiobutadienes concerns organolithium photochemistry and access to antiaromatic compounds. Lithium salts and ether donors do not establish battery, polymer-electrolyte or interfacial ion-transport relevance."
+  },
+  "10.1016/j.joule.2026.102736": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00420-4",
+    "verifiedAt": "2026-11-19",
+    "evidenceSource": "publisher-deposited-crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102736",
+    "registrationDate": "2026-11-18",
+    "matchedTopics": ["Solid-state batteries", "Fast charging and interfacial ion transport"],
+    "publisherAccessStatus": "Cell and ScienceDirect article pages could not be read. Exact first-online date, article subtype, abstract and corresponding authors are unverified. Use the DOI registration date proxy and title-only guide; do not infer subtype from the single author or associated-document links.",
+    "reason": "The title explicitly concerns interfacial void evolution in solid-state batteries, within the existing topics. Unknown type and unavailable abstract do not block a clearly relevant item under the user-selected rule; no original research or quantitative performance claim is made."
+  },
   "10.1021/jacs.6c18918": {
     "decision": "exclude",
     "articleType": "unknown",
