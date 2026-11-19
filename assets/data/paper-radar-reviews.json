@@ -1,4 +1,39 @@
 {
+  "10.1021/jacs.6c17976": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17976",
+    "verifiedAt": "2026-11-20",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17976",
+    "matchedTopics": ["Ion-conducting polymers and single-ion conductors"],
+    "publisherAccessStatus": "Direct publisher article unavailable. The deposited abstract explicitly studies Li-ion transport in an anionic MOF quasi-solid electrolyte; first-online date and correspondence are not claimed as publisher-page verified.",
+    "reason": "The anionic reticular electrolyte has framework-associated cation sites and confined PC; ssNMR and transport simulations resolve linker-assisted ion exchange. This falls within the established ion-conductor topic, not a new MOF application category. It is described as quasi-solid, not an all-solid-state battery demonstration."
+  },
+  "10.1021/jacs.6c17196": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17196",
+    "verifiedAt": "2026-11-20",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17196",
+    "publisherAccessStatus": "Direct article unavailable; scientific exclusion is supported by the publisher-deposited abstract, not the access failure.",
+    "reason": "CityU-31 and its cyano-functionalized derivative are developed as electrochemically active sodium-ion cathode materials. COF/polymer terminology does not make this an electrolyte, single-ion conductor, lithium-metal interface or fast-charging study within the existing four topics."
+  },
+  "10.1016/j.joule.2026.102744": {
+    "decision": "pending",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00428-9",
+    "verifiedAt": "2026-11-20",
+    "evidenceSource": "publisher-deposited-crossref-title",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102744",
+    "registrationDate": "2026-11-19",
+    "publisherAccessStatus": "Cell and ScienceDirect return 403; Crossref has no abstract. Exact first-online date and corresponding authors are unavailable. Registration date provides a valid window proxy, and unknown article type does not cause pending status.",
+    "reason": "Scientific relevance remains unresolved: the title identifies electrolyte reduction chemistry for extreme-condition Li-ion batteries but does not establish which of the existing ion-conductor, solid-state, lithium-metal or fast-charging/interfacial-ion-transport questions is actually studied. Do not infer a particular interphase, transport mechanism or fast-charge result from the title; retain for semantic review rather than classify as irrelevant."
+  },
   "10.1002/anie.4447702": {
     "decision": "include",
     "articleType": "unknown",

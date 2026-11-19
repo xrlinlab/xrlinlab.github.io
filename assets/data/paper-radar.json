@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:32:31Z",
+  "generatedAt": "2026-11-19T23:06:32Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,48 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Molecular Origins of Lithium-Ion Transport in the Anionic Metal–Organic Framework SU-102",
+      "authors": "Suman Saha, Youhan Lu, Zhentao Yang, Julius J. Oppenheim, Vibhu Vardhan Singh, Mircea Dincă, Francesco Paesani",
+      "authorsCitation": "S. Saha, Y. Lu, Z. Yang, J. J. Oppenheim, V. Vardhan Singh, M. Dincă, F. Paesani",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-19",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c17976",
+      "link": "https://doi.org/10.1021/jacs.6c17976",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summarySource": "crossref-abstract",
+      "summaryZh": "新在哪里：将阴离子金属–有机框架（anionic metal–organic framework, MOF）准固态电解质（quasi-solid electrolyte）中最稳定的锂离子结合位点与实际承担输运的位点区分开来。SU-102 中较强的锆相关位点不构成连续通路，较弱的配体相关位点反而形成连续迁移网络。\n性能：非平衡分子动力学（nonequilibrium molecular dynamics, NEMD）给出沿孔道电导率 1.34 ± 0.48 mS cm⁻¹，取向平均值为 0.45 ± 0.16 mS cm⁻¹，与实验值 0.52 mS cm⁻¹接近。这是输运模拟与电导率的比较，不是完整电池性能验证。\n怎么解释：变温固态核磁共振（variable-temperature solid-state nuclear magnetic resonance, ssNMR）分辨出局域动力学不同的锂离子群体；模拟进一步指出，碳酸丙烯酯（propylene carbonate, PC）保留在配位壳层（coordination shell）中并辅助配体位点间跳迁（site-to-site hopping），其贡献高于完全溶剂化离子的载体扩散（vehicular diffusion）。位点网络及路径贡献主要来自模拟，不能全部视为核磁直接观测。\n为什么重要：优化固定电荷框架时，仅提高离子吸附强度并不够；还需考虑可交换位点是否连通，以及受限溶剂能否帮助位点间转移。该体系为准固态电解质，不能据此宣称无溶剂固态传导。",
+      "summaryGeneratedAt": "2026-11-19T23:06:50Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "In Situ Polymerized Main/Side-Chain Bifluorinated Cross-Linked Polyether Electrolytes for High-Voltage Lithium Metal Batteries",
+      "authors": "Shimei Li, Yu Tat Tse, Hu Hong, Yin Cui, Dedi Li, Shuo Feng, Yue Hou, Xun Guo, Qi Xiong, Dechao Zhang, Ao Chen, Shixun Wang, Chunyi Zhi",
+      "authorsCitation": "S. Li, Y. T. Tse, H. Hong, Y. Cui, D. Li, S. Feng, Y. Hou, X. Guo, Q. Xiong, D. Zhang, A. Chen, S. Wang, C. Zhi",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-19",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c08830",
+      "link": "https://doi.org/10.1021/jacs.6c08830",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summarySource": "crossref-abstract",
+      "summaryZh": "新在哪里：在原位聚合（in situ polymerization）的交联聚醚电解质（cross-linked polyether electrolyte）中，同时引入主链二氟亚甲基（difluoromethylene, −CF₂−）与侧链三氟甲基（trifluoromethyl, −CF₃），尝试兼顾高压稳定性和锂负极界面反应。\n性能：作者报告在 4.7 V 截止电压、20 μm 锂负极条件下循环 100 次后保持 88.7% 容量；另有安时级软包电池达到 510.1 Wh kg⁻¹。两项数据属于不同电池配置，不能合并为同一软包的长循环结果。\n怎么解释：作者将改善归因于含氟结构减弱锂离子–聚合物配位、促进阴离子衍生成膜，形成较均匀、富无机组分的固体电解质界面层（solid electrolyte interphase, SEI）。摘要支持这一解释，但不足以单独量化主链氟化、侧链氟化和交联各自的贡献。\n为什么重要：聚醚的氧化稳定性和负极成膜不必仅依赖外加组分，也可作为分子结构设计的共同目标；仍需在一致的载量、电解液用量和锂库存下判断其实际收益。",
+      "summaryGeneratedAt": "2026-11-19T23:06:50Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Interfacial void evolution in solid-state batteries",
       "authors": "X. Wendy Gu",
@@ -1622,65 +1664,8 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "Kinetic Control of Polymorphism in Li10.5Si1.5P1.5S12–Based Solid Electrolytes",
-      "authors": "Jingui Yang, Ramon Zimmermanns, Maik Schmitt, Torsten Brezesinski, Florian Strauss",
-      "authorsCitation": "J. Yang, R. Zimmermanns, M. Schmitt, T. Brezesinski, F. Strauss",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-21",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "43",
-      "page": "47071",
-      "doi": "10.1021/jacs.6c14489",
-      "link": "https://doi.org/10.1021/jacs.6c14489",
-      "abstract": "",
-      "matchedTopics": [
-        "Solid-state batteries"
-      ],
-      "summaryZh": "新在哪里：作者把无锗 Li₁₀.₅Si₁.₅P₁.₅S₁₂ 型固态电解质的多晶型选择，从静态组成问题转化为可调的结晶与相变动力学问题，并用 LiI 添加剂控制亚稳正交相向稳定四方相的演化。\n\n性能：所得双相材料被用于锂硫固态电池以验证应用可行性；出版社摘要未给出离子电导率、倍率或循环寿命等可核验数值，因此不作定量外推。\n\n怎么解释：原位高温同步辐射衍射、总散射/对分布函数和差示扫描量热表明，体系先形成亚稳正交相，再在升温时转为四方相；LiI 通过调节正交相结晶，使该相变在更低温度、更快发生。中子衍射进一步显示，碘并未进入最终四方晶格，而是形成 Li₄PS₄I 型第二相，同时伴随 Si/P 比和锂子晶格的细微改变。\n\n为什么重要：这项工作说明添加剂的价值不一定来自最终掺杂，而可能来自对成核、结晶和多晶型转化路径的动力学控制；这为 LGPS 型固态电解质的相组成与微结构工程提供了比名义配方更直接的设计变量。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-21T23:10:14Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Florian Strauss"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "Asymmetric Zn‐N 4 Single Atom Sites Facilitate Interfacial Desolvation for Ultrafast Zinc‐Ion Storage",
-      "authors": "Yafei Zhang, Gengchen Yu, Huanyu Liang, Jichang Du, Qiuyue Chen, Weiqian Tian, Jing Shi, Jingwei Chen, Minghua Huang, Zhi Li, Huanlei Wang",
-      "authorsCitation": "Y. Zhang, G. Yu, H. Liang, J. Du, Q. Chen, W. Tian, J. Shi, J. Chen, M. Huang, Z. Li, H. Wang",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-21",
-      "publicationDateSource": "publisher-online",
-      "volume": "",
-      "issue": "",
-      "page": "e7149723",
-      "doi": "10.1002/anie.7149723",
-      "link": "https://doi.org/10.1002/anie.7149723",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：在锌离子混合电容器（zinc-ion hybrid capacitor，ZIHC）中，用缺陷调节Zn–N₄单原子位点的不对称配位，同时处理界面去溶剂化（interfacial desolvation）和表面储荷。\n性能：摘要报告201.5 mAh g⁻¹，在100 A g⁻¹仍保持56%容量，110000圈后保持92.1%。\n怎么解释：光谱与计算支持电子结构变化有利于Zn²⁺–水键解离，表征显示表面主导的吸附储能；去溶剂化与电子离域贡献尚不能完全拆开。\n为什么重要：为高倍率界面离子传输提供配位结构变量。该器件是混合电容器，不能把这些指标直接等同于电池全电芯性能。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Huanlei Wang"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-30"
     }
   ],
   "source": "Crossref",
-  "errors": [
-    "Nature (0028-0836): HTTP Error 429: Too Many Requests",
-    "Nature Chemistry (1755-4330): HTTP Error 429: Too Many Requests",
-    "Nature Chemistry (1755-4349): HTTP Error 429: Too Many Requests",
-    "Macromolecules (0024-9297): HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
