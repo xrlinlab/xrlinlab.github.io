@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:06:32Z",
+  "generatedAt": "2026-11-20T03:20:54Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -38,8 +38,8 @@
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：将阴离子金属–有机框架（anionic metal–organic framework, MOF）准固态电解质（quasi-solid electrolyte）中最稳定的锂离子结合位点与实际承担输运的位点区分开来。SU-102 中较强的锆相关位点不构成连续通路，较弱的配体相关位点反而形成连续迁移网络。\n性能：非平衡分子动力学（nonequilibrium molecular dynamics, NEMD）给出沿孔道电导率 1.34 ± 0.48 mS cm⁻¹，取向平均值为 0.45 ± 0.16 mS cm⁻¹，与实验值 0.52 mS cm⁻¹接近。这是输运模拟与电导率的比较，不是完整电池性能验证。\n怎么解释：变温固态核磁共振（variable-temperature solid-state nuclear magnetic resonance, ssNMR）分辨出局域动力学不同的锂离子群体；模拟进一步指出，碳酸丙烯酯（propylene carbonate, PC）保留在配位壳层（coordination shell）中并辅助配体位点间跳迁（site-to-site hopping），其贡献高于完全溶剂化离子的载体扩散（vehicular diffusion）。位点网络及路径贡献主要来自模拟，不能全部视为核磁直接观测。\n为什么重要：优化固定电荷框架时，仅提高离子吸附强度并不够；还需考虑可交换位点是否连通，以及受限溶剂能否帮助位点间转移。该体系为准固态电解质，不能据此宣称无溶剂固态传导。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-19T23:06:50Z",
       "summaryPromptVersion": 2
     },
@@ -59,8 +59,8 @@
       "matchedTopics": [
         "Lithium-metal and anode-free batteries"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：在原位聚合（in situ polymerization）的交联聚醚电解质（cross-linked polyether electrolyte）中，同时引入主链二氟亚甲基（difluoromethylene, −CF₂−）与侧链三氟甲基（trifluoromethyl, −CF₃），尝试兼顾高压稳定性和锂负极界面反应。\n性能：作者报告在 4.7 V 截止电压、20 μm 锂负极条件下循环 100 次后保持 88.7% 容量；另有安时级软包电池达到 510.1 Wh kg⁻¹。两项数据属于不同电池配置，不能合并为同一软包的长循环结果。\n怎么解释：作者将改善归因于含氟结构减弱锂离子–聚合物配位、促进阴离子衍生成膜，形成较均匀、富无机组分的固体电解质界面层（solid electrolyte interphase, SEI）。摘要支持这一解释，但不足以单独量化主链氟化、侧链氟化和交联各自的贡献。\n为什么重要：聚醚的氧化稳定性和负极成膜不必仅依赖外加组分，也可作为分子结构设计的共同目标；仍需在一致的载量、电解液用量和锂库存下判断其实际收益。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-19T23:06:50Z",
       "summaryPromptVersion": 2
     },
@@ -1667,5 +1667,9 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Nature (0028-0836): HTTP Error 429: Too Many Requests",
+    "Nature Materials (1476-4660): HTTP Error 429: Too Many Requests",
+    "Nature Energy (2058-7546): HTTP Error 429: Too Many Requests"
+  ]
 }
