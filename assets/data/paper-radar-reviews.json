@@ -7,7 +7,9 @@
     "verifiedAt": "2026-11-20",
     "evidenceSource": "publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17976",
-    "matchedTopics": ["Ion-conducting polymers and single-ion conductors"],
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
     "publisherAccessStatus": "Direct publisher article unavailable. The deposited abstract explicitly studies Li-ion transport in an anionic MOF quasi-solid electrolyte; first-online date and correspondence are not claimed as publisher-page verified.",
     "reason": "The anionic reticular electrolyte has framework-associated cation sites and confined PC; ssNMR and transport simulations resolve linker-assisted ion exchange. This falls within the established ion-conductor topic, not a new MOF application category. It is described as quasi-solid, not an all-solid-state battery demonstration."
   },
@@ -27,11 +29,11 @@
     "articleType": "unknown",
     "publisherOnlineDate": null,
     "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00428-9",
-    "verifiedAt": "2026-11-20",
+    "verifiedAt": "2026-11-21",
     "evidenceSource": "publisher-deposited-crossref-title",
     "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102744",
     "registrationDate": "2026-11-19",
-    "publisherAccessStatus": "Cell and ScienceDirect return 403; Crossref has no abstract. Exact first-online date and corresponding authors are unavailable. Registration date provides a valid window proxy, and unknown article type does not cause pending status.",
+    "publisherAccessStatus": "Cell and ScienceDirect article pages remain inaccessible (403/disabled). A secondary listing now suggests SEI/graphite chemistry, but no matching publisher abstract or text was accessible for independent confirmation. Unknown type/date do not cause pending status; registration provides the window proxy.",
     "reason": "Scientific relevance remains unresolved: the title identifies electrolyte reduction chemistry for extreme-condition Li-ion batteries but does not establish which of the existing ion-conductor, solid-state, lithium-metal or fast-charging/interfacial-ion-transport questions is actually studied. Do not infer a particular interphase, transport mechanism or fast-charge result from the title; retain for semantic review rather than classify as irrelevant."
   },
   "10.1002/anie.4447702": {
@@ -42,7 +44,9 @@
     "verifiedAt": "2026-11-19",
     "evidenceSource": "publisher-journal-index-and-publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.4447702",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "publisherAccessStatus": "Official International Edition journal index explicitly names this article and First Published 18 November 2026. Direct article access and corresponding-author section remain unavailable; article subtype is not inferred.",
     "reason": "The scientific subject is voltage-gated migration, orientation and selective reaction of an electrolyte additive, producing a self-limiting gradient cathode/electrolyte interphase. This is interfacial electrolyte chemistry within the existing interface topic, not a bulk sodium-cathode material study or a claim of fast charging."
   },
@@ -66,7 +70,10 @@
     "evidenceSource": "publisher-deposited-crossref-title",
     "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102736",
     "registrationDate": "2026-11-18",
-    "matchedTopics": ["Solid-state batteries", "Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Fast charging and interfacial ion transport"
+    ],
     "publisherAccessStatus": "Cell and ScienceDirect article pages could not be read. Exact first-online date, article subtype, abstract and corresponding authors are unverified. Use the DOI registration date proxy and title-only guide; do not infer subtype from the single author or associated-document links.",
     "reason": "The title explicitly concerns interfacial void evolution in solid-state batteries, within the existing topics. Unknown type and unavailable abstract do not block a clearly relevant item under the user-selected rule; no original research or quantitative performance claim is made."
   },
@@ -88,9 +95,14 @@
     "publisherSource": "https://www.nature.com/articles/s41893-026-01993-7",
     "verifiedAt": "2026-11-18",
     "evidenceSource": "publisher-article-index",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "reason": "The publisher directly studies zinc plating/stripping and the evolving interphase structural integrity, within the existing interface/deposition topic.",
-    "correspondingAuthors": ["Furong Chen", "Chunyi Zhi"],
+    "correspondingAuthors": [
+      "Furong Chen",
+      "Chunyi Zhi"
+    ],
     "correspondingAuthorEvidence": "The official Corresponding authors section explicitly names Furong Chen and Chunyi Zhi."
   },
   "10.1021/jacs.6c17241": {
@@ -1817,6 +1829,72 @@
       "Kai Shi",
       "Yan-Bing He",
       "Xiaoliang Yu"
+    ]
+  },
+  "10.1002/anie.1697885": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-21",
+    "evidenceSource": "publisher-early-view-abstract",
+    "reason": "Official Early View identifies anion-controlled Fe-N-C active-site coordination for oxygen reduction electrocatalysis, not one of the four configured battery/ion-conductor topics."
+  },
+  "10.1021/jacs.6c17652": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17652",
+    "verifiedAt": "2026-11-21",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Bulk Li-rich cathode anionic-redox discharge intermediates, voltage hysteresis and Ru substitution; no configured electrolyte, solid-state, lithium-metal or fast-charge/interfacial ion-transport question established.",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17652",
+    "publisherAccessStatus": "Article page returned HTTP 403; article subtype and first-online date not claimed as publisher-page verified."
+  },
+  "10.1021/jacs.6c20563": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c20563",
+    "verifiedAt": "2026-11-21",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Molecular-junction COF is an iodine conversion cathode host. Radical-assisted iodine redox catalysis and polyiodide adsorption alone do not establish the configured ion-conducting-polymer, solid-state, lithium-metal or interfacial-ion-transport topic.",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c20563",
+    "publisherAccessStatus": "Article page returned HTTP 403; article subtype and first-online date not claimed as publisher-page verified."
+  },
+  "10.1038/s41893-026-01987-5": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://www.nature.com/articles/s41893-026-01987-5",
+    "verifiedAt": "2026-11-21",
+    "evidenceSource": "publisher-article-abstract-search-index",
+    "reason": "O6 stacking stabilizes bulk layered-oxide oxygen redox and structural reversibility. This is a cathode architecture study rather than one of the four configured electrolyte, solid-state, lithium-metal or fast-charge/interfacial-transport topics."
+  },
+  "10.1038/s41565-026-02327-6": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://www.nature.com/articles/s41565-026-02327-6",
+    "verifiedAt": "2026-11-21",
+    "evidenceSource": "publisher-article-abstract-and-correspondence-search-index",
+    "reason": "Nano-holotomography and digital volume correlation resolve electrode-scale ionic diffusion channels, electrolyte contact and local reaction heterogeneity in graphite-silicon electrodes. Inclusion is for interfacial/electrode-scale ion transport, not a claim of fast charging or a new electrode-material topic.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ]
+  },
+  "10.1038/s41563-026-02813-1": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://www.nature.com/articles/s41563-026-02813-1",
+    "verifiedAt": "2026-11-21",
+    "evidenceSource": "publisher-article-abstract-figures-and-correspondence-search-index",
+    "reason": "All-solid-state lithium-sulfur cathodes are controlled through sulfur/sulfide partial lithiation and sulfur/carbon surface-oxidation removal. Reported >500 Wh/kg is projected pouch-cell energy density, not a measured pouch-cell result.",
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
     ]
   }
 }
