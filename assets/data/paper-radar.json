@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:15:29Z",
+  "generatedAt": "2026-11-21T03:14:00Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -38,11 +38,10 @@
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：用二维配位聚合物胶体（two-dimensional coordination-polymer colloids）调控无负极钠金属电池（anode-free sodium-metal batteries）的界面反应，而不是只加入可溶小分子。含氟银硫层状纳米片提供持续可用的局部反应区域。\n性能：出版社提交的摘要报告，高正极载量电池寿命超过 1600 圈，约为无胶体对照的 10 倍；0.5 Ah 级无负极软包电池在 2 C 下循环 500 圈。摘要未给出这两项测试的完整容量保持率和载量，不能据此作等条件横向排名。\n怎么解释：作者认为纳米片在界面原位分解，形成银纳米颗粒及氟化钠/硫化钠（sodium fluoride/sodium sulfide, NaF/Na₂S）的梯度分布，进而构筑功能梯度固态电解质界面膜（functionally graded solid electrolyte interphase, SEI），改善钠沉积并抑制枝晶。此机制依据摘要中的作者解释，尚未独立核对正文对照。\n为什么重要：研究把添加剂的空间组织和持续供给纳入界面设计；其直接对象是钠体系，不应写成已验证的锂金属电池策略。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-20T23:15:58Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": []
+      "summaryPromptVersion": 2
     },
     {
       "title": "High-loading all-solid-state lithium–sulfur batteries enabled by tailored sulfur–sulfide and sulfur–carbon interfaces",
@@ -62,8 +61,8 @@
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
       ],
-      "summarySource": "publisher-abstract",
       "summaryZh": "新在哪里：高载量全固态锂硫电池（all-solid-state lithium–sulfur batteries）的限制不只在曲折的体相通路；研究分别调控硫–硫化物界面的离子交换和硫–碳界面的电子传输。\n性能：在 15–25 MPa 堆叠压力（stack pressure）下，面容量接近 15 mAh cm⁻²，硫利用率超过 90%；1 C 循环 500 圈容量保持率为 82.1%。超过 500 Wh kg⁻¹ 是据此推算的软包电池级能量密度，并非已实测软包性能。作者另报告锂金属负极在 10 MPa 下稳定循环，不能与上述所有指标默认视为同一测试。\n怎么解释：机械化学处理促进硫–硫化物界面部分锂化（partial lithiation），真空处理去除硫表面阻碍电子传输的氧化层。出版社图示结合结构、光谱和阻抗分析支持这两类界面改进，不能简单归结为增加导电碳或降低孔道曲折度。\n为什么重要：工作说明提高复合正极载量时，离子与电子跨界面传递需要分别处理；器件能量密度仍须结合压力、负极和非活性组分质量核算。",
+      "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-11-20T23:15:58Z",
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
@@ -89,8 +88,8 @@
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
       ],
-      "summarySource": "publisher-abstract",
       "summaryZh": "新在哪里：将间断式工况 X 射线纳米全息断层成像（interrupted-operando X-ray nano-holotomography）与数字体积相关（digital volume correlation, DVC）结合，在石墨–硅复合负极（graphite–silicon composite electrodes）化成过程中关联颗粒尺度和电极尺度的反应、传输与形变。\n性能：这是测量和机理研究，而非新配方的快充性能展示；正式摘要未给出可用于器件比较的充电时间、能量密度或长循环提升数值，不能补写。\n怎么解释：作者观察并分析局部离子扩散、颗粒形貌与位置、距硅团簇的距离、电解液接触及形变对反应不均匀性的不同影响，特别指出快速离子扩散通道（fast ionic diffusion channels）可缓解深度相关的反应差异。这一解释来自跨尺度成像分析，不能仅凭相关性认定所有结构因素具有相同因果权重。\n为什么重要：研究使平均孔隙率和平均粒径之外的局部传输条件更可测量，为复合电极制造提供具体诊断依据；收录依据是电极尺度离子传输，而不是把常规硅负极材料研究扩大为新主题。",
+      "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-11-20T23:15:58Z",
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
@@ -116,11 +115,10 @@
       "matchedTopics": [
         "Solid-state batteries"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：针对全固态锂电池（all-solid-state lithium batteries）中正极表面的离子传输限制，利用溶剂配位诱导的化学刻蚀（solvation-mediated chemical etching）重构表层，而非仅靠隔离性包覆。\n性能：以微米级单晶富锂锰基正极（Li- and Mn-rich cathodes）为模型，摘要报告电荷转移电阻（charge-transfer resistance）由 585 降至 67 Ω，4.8 V 时锂离子扩散提高约 90 倍，2 C 循环 2800 圈后容量保持率为 80.3%。这些是作者摘要给出的条件与结果，不能外推至其他载量或软包电池。\n怎么解释：作者将表面重构归因于溶剂配位与晶格稳定性的竞争，以及电子、质子转移引起的选择性过渡金属溶出和氧调节。形成的缺锰、缺氧表层被解释为三维锂离子扩散网络（three-dimensional lithium-ion diffusion network），并有助于减少金属迁移和氧释放；具体证据强度仍需结合正文判断。\n为什么重要：工作将正极表面从需要被动隔离的反应区域，转为可通过化学处理改善离子通道的功能层，为固态正极界面设计提供了不同路径。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-20T23:15:58Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": []
+      "summaryPromptVersion": 2
     },
     {
       "title": "Molecular Origins of Lithium-Ion Transport in the Anionic Metal–Organic Framework SU-102",
@@ -1740,5 +1738,8 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Nature Materials (1476-4660): HTTP Error 429: Too Many Requests",
+    "Nature Energy (2058-7546): HTTP Error 429: Too Many Requests"
+  ]
 }
