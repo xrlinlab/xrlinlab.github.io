@@ -1896,5 +1896,96 @@
       "Lithium-metal and anode-free batteries",
       "Fast charging and interfacial ion transport"
     ]
+  },
+  "10.1002/anie.6742507": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "reason": "Amorphous-crystalline catholyte regulates solid-state Li-ion transport and both discharge/charge sulfur conversion. This directly matches the existing solid-state and lithium-sulfur battery topics.",
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Lithium-metal and anode-free batteries"
+    ],
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6742507",
+    "publisherAccessStatus": "Official Early View evidence used where cited; direct article access restricted, corresponding authors not inferred."
+  },
+  "10.1002/anie.2466347": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "reason": "Ethylenediamine electrolyte changes Zn dissolution and migration-assisted ion transport, and produces a protective interphase. Included for interfacial ion transport, not a new general Zn-cathode or redox-flow topic.",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2466347",
+    "publisherAccessStatus": "Official Early View evidence used where cited; direct article access restricted, corresponding authors not inferred."
+  },
+  "10.1002/anie.7565410": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-20",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "reason": "Sulfone-functionalized covalent organic polymer frameworks are designed as OH-conducting nanochannels with explicit hydration/ion-transport evidence. Retain only under the existing ion-conducting-polymer topic, which is not restricted to batteries (existing Nafion/proton-conductor precedent). Remove the automatic fast-charging/interfacial-battery assignment: the demonstrated device is water electrolysis, not a battery.",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.7565410",
+    "publisherAccessStatus": "Official Early View evidence used where cited; direct article access restricted, corresponding authors not inferred."
+  },
+  "10.1002/anie.2444933": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2444933",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Concentration-driven viologen clustering primarily controls chemical air stability of a soluble redox-active flow-battery anolyte. OH/ROS attack and Au-electrode deposits are degradation diagnostics, not an established configured polymer-ion-conductor, solid-state, lithium-metal or fast-charge/interfacial-charge-carrier-transport study. Consistent with existing exclusions for bulk redox-active flow anolytes; solvation plus battery keywords alone are insufficient.",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2444933",
+    "publisherAccessStatus": "Official Early View evidence used where cited; direct article access restricted, corresponding authors not inferred."
+  },
+  "10.1002/anie.4101340": {
+    "decision": "exclude",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4101340",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "reason": "Ru-O orbital character inversion stabilizes bulk oxygen-hole redox in Li2RuO3 cathodes. No configured electrolyte, solid-state battery, lithium-metal or fast-charge/interfacial ion-transport question is established.",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.4101340",
+    "publisherAccessStatus": "Official Early View evidence used where cited; direct article access restricted, corresponding authors not inferred."
+  },
+  "10.1038/s41893-026-01954-0": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-12",
+    "publisherSource": "https://www.nature.com/articles/s41893-026-01954-0",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-article-abstract-and-correspondence-search-index",
+    "reason": "A polymeric hydrogel ionic conductor provides continuous aqueous ion-transport channels and balances transport, toughness and self-healing. This belongs to the existing ion-conducting-polymer topic irrespective of the osmotic-energy demonstrator; it is not categorized as a solid-state battery, lithium-metal or fast-charge study.",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors"
+    ],
+    "correspondingAuthors": [
+      "Biao Kong"
+    ],
+    "correspondingAuthorEvidence": "The publisher explicitly labels Corresponding author / Correspondence to Biao Kong (bkong@fudan.edu.cn)."
+  },
+  "10.1038/s41560-026-02129-z": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-09-22",
+    "publisherSource": "https://www.nature.com/nenergy/research-articles",
+    "verifiedAt": "2026-11-22",
+    "evidenceSource": "publisher-research-directory-and-crossref-dates",
+    "reason": "The publisher directory explicitly dates this Ni(OH)2 symmetric battery study to 22 September 2026, outside the current 30-day window. Its hydroxide-exchange-membrane direct-air-capture device is also outside the four configured topics; an undated directory-discovery stub must not create a pending record.",
+    "metadataSource": "https://api.crossref.org/works/10.1038/s41560-026-02129-z"
   }
 }

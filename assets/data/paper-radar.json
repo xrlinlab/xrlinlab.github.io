@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:14:00Z",
+  "generatedAt": "2026-11-21T23:12:16Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -100,6 +100,48 @@
       "correspondingAuthorVerifiedAt": "2026-11-21"
     },
     {
+      "title": "Coupled Self‐Alkalization and Chelation Chemistry Enables Highly Reversible Zn Anodes and Rechargeable Alkaline Zn–I 2 Batteries",
+      "authors": "Mengyao Shi, Min Cheng, Yuzhu Wang, Tianjiang Sun, Hui Ying Yang, Zhanliang Tao",
+      "authorsCitation": "M. Shi, M. Cheng, Y. Wang, T. Sun, H. Y. Yang, Z. Tao",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-20",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e2466347",
+      "doi": "10.1002/anie.2466347",
+      "link": "https://doi.org/10.1002/anie.2466347",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summarySource": "crossref-abstract",
+      "summaryZh": "新在哪里：用乙二胺（ethylenediamine, EN）同时承担有机碱和锌离子螯合配体的作用，调节碱性锌电池（alkaline zinc batteries）中溶解、传输和负极界面的相互制约，而非只提高碱浓度。\n性能：摘要报告 pH 12.45 下锌离子浓度达到 1 M，锌对称电池稳定沉积/剥离 380 h，无负极碱性锌–碘电池（anode-free alkaline zinc–iodine batteries）循环 860 圈。另报告 812.9 Wh kg⁻¹，但摘要未说明质量核算边界，不能当作整器件实测比能量。\n怎么解释：EN 原位产生氢氧根并形成可溶五元锌螯合物（five-membered zinc chelates），作者据此提出锌传输由扩散受限转向迁移辅助（migration-assisted transport）；EN 的优先吸附和分解生成有机–无机复合界面层（organic–inorganic hybrid interphase），其配位作用也有助于稳定正极的活性碘中间体。这些功能的独立贡献仍需结合正文对照判断。\n为什么重要：研究将体相离子供给与界面可逆性联系起来，为碱性金属电池提供电解液设计依据；该结果不等同于已验证锂金属体系或快充能力。",
+      "summaryGeneratedAt": "2026-11-21T23:12:57Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Constructing Dynamic Interfacial Hydration Network Channel for Efficient Co‑Transport of OH − and H 2 in Water‑Electrolysis Cathodes",
+      "authors": "Shufan Feng, Tang Tang, Weili Shi, Yuxiang Song, Gaoxin Lin, Feiyang Zhang, Licheng Sun, Biaobiao Zhang",
+      "authorsCitation": "S. Feng, T. Tang, W. Shi, Y. Song, G. Lin, F. Zhang, L. Sun, B. Zhang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-20",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e7565410",
+      "doi": "10.1002/anie.7565410",
+      "link": "https://doi.org/10.1002/anie.7565410",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summarySource": "crossref-abstract",
+      "summaryZh": "新在哪里：在共价有机框架（covalent organic frameworks, COFs）中调节砜基（sulfone groups, –SO₂–）密度，使离子传导通道兼顾润湿和排气，目标是在保持孔壁水化的同时避免孔道整体淹没。本文按离子传导聚合物收录，器件是水电解而非电池。\n性能：在阴离子交换膜水电解（anion-exchange-membrane water electrolysis, AEM-WE）中，富砜基 2S-COF 在 1 M KOH、80 °C、2.0 V 下达到 10.30 A cm⁻²，较不含 COF 的电极提高 48%。这是电解电流密度，不能写成电池充电倍率或循环性能。\n怎么解释：作者结合实验和计算，将效果归因于砜基与水形成较弱、易重排的氢键网络（dynamic hydrogen-bonding network）：孔壁保持水化以传导氢氧根离子（hydroxide ions, OH⁻），孔道主体不过度淹没，从而允许氢气（hydrogen, H₂）排出。摘要支持这一解释，但不足以独立核查所有气液传输贡献。\n为什么重要：离子传导聚合物的通道设计需要同时考虑离子所需的水化环境和其他物质的通行空间，单纯增加含水量未必带来更好的器件性能。",
+      "summaryGeneratedAt": "2026-11-21T23:12:57Z",
+      "summaryPromptVersion": 2
+    },
+    {
       "title": "Cathode Surface Reconfiguration via Solvent Chemistry for Durable All-Solid-State Lithium Batteries",
       "authors": "Zi-Yi Zhou, Ru-Meng Wu, Man-Yi Xie, Lu Gan, Yao Zhao, Ji-Lei Shi, Yue Gong, Yu-Guo Guo, Li-Jun Wan",
       "authorsCitation": "Z.-Y. Zhou, R.-M. Wu, M.-Y. Xie, L. Gan, Y. Zhao, J.-L. Shi, Y. Gong, Y.-G. Guo, L.-J. Wan",
@@ -118,6 +160,28 @@
       "summaryZh": "新在哪里：针对全固态锂电池（all-solid-state lithium batteries）中正极表面的离子传输限制，利用溶剂配位诱导的化学刻蚀（solvation-mediated chemical etching）重构表层，而非仅靠隔离性包覆。\n性能：以微米级单晶富锂锰基正极（Li- and Mn-rich cathodes）为模型，摘要报告电荷转移电阻（charge-transfer resistance）由 585 降至 67 Ω，4.8 V 时锂离子扩散提高约 90 倍，2 C 循环 2800 圈后容量保持率为 80.3%。这些是作者摘要给出的条件与结果，不能外推至其他载量或软包电池。\n怎么解释：作者将表面重构归因于溶剂配位与晶格稳定性的竞争，以及电子、质子转移引起的选择性过渡金属溶出和氧调节。形成的缺锰、缺氧表层被解释为三维锂离子扩散网络（three-dimensional lithium-ion diffusion network），并有助于减少金属迁移和氧释放；具体证据强度仍需结合正文判断。\n为什么重要：工作将正极表面从需要被动隔离的反应区域，转为可通过化学处理改善离子通道的功能层，为固态正极界面设计提供了不同路径。",
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-20T23:15:58Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Bidirectional Sulfur Redox Regulation Enabling Ultra‐Stable High‐Sulfur‐Loading All‐Solid‐State Lithium‐Sulfur Batteries",
+      "authors": "Hanwen Liu, Leqi Zhao, Yu‐Cheng Huang, Daqin Guan, Yijun Zhong, Xiaomin Xu, Zongping Shao",
+      "authorsCitation": "H. Liu, L. Zhao, Y. Huang, D. Guan, Y. Zhong, X. Xu, Z. Shao",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-20",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6742507",
+      "doi": "10.1002/anie.6742507",
+      "link": "https://doi.org/10.1002/anie.6742507",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summarySource": "crossref-abstract",
+      "summaryZh": "新在哪里：将非晶–晶态正极电解质（amorphous–crystalline catholyte）的接触和传输设计，与充、放电方向不同的硫转化反应调控结合，采用 Li₆.₀₅P₀.₉₅Nb₀.₀₅S₅Cl₀.₈I₀.₂ 改善全固态锂硫电池（all-solid-state lithium–sulfur batteries）。\n性能：摘要报告，在硫载量 6 mg cm⁻² 时硫利用率为 84.2%；0.5 C 循环 1500 圈后容量为 736 mAh g⁻¹，容量保持率为 93.1%。摘要未给出完整堆叠压力和器件质量边界，不据此推算软包能量密度。\n怎么解释：作者认为非晶部分改善固–固接触，晶态骨架维持离子通道；放电时铌（niobium, Nb）的还原产生富锂位点，促进硫化锂（lithium sulfide, Li₂S）成核，充电时碘（iodine, I₂）作为氧化还原介体（redox mediator）促进 Li₂S 氧化。摘要尚不足以独立拆分结构接触、离子传输与介体反应的各自贡献。\n为什么重要：将充、放电方向不同的反应需求分别与电解质功能匹配，为高载量固态硫正极提供设计思路。",
+      "summaryGeneratedAt": "2026-11-21T23:12:57Z",
       "summaryPromptVersion": 2
     },
     {
@@ -569,6 +633,32 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-16"
+    },
+    {
+      "title": "Robust hydrogel ion channels for osmotic energy harvesting and environmental sensing",
+      "authors": "Kesong Chai, Yanjun He, Lei Xie, Yantai Zhang, Kang Liang, Lei Jiang, Biao Kong",
+      "authorsCitation": "K. Chai, Y. He, L. Xie, Y. Zhang, K. Liang, L. Jiang, B. Kong",
+      "journal": "Nature Sustainability",
+      "publicationDate": "2026-11-12",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1038/s41893-026-01954-0",
+      "link": "https://doi.org/10.1038/s41893-026-01954-0",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors"
+      ],
+      "summarySource": "publisher-abstract",
+      "summaryZh": "新在哪里：将水凝胶离子通道（hydrogel ionic channels, HICs）的连续传输网络、韧性和自修复（self-healing）放在同一材料设计中，针对盐差能（salinity-gradient energy）膜难以兼顾传输与耐损伤的问题。收录依据是离子传导聚合物，而非新增环境传感主题。\n性能：正式摘要报告，在 0.5 M/0.01 M 氯化钠（sodium chloride, NaCl）浓度梯度下功率密度为 48.57 W m⁻²，天然海水测试达到 54.62 W m⁻²；拉伸强度为 6.18 MPa，严重机械损伤后能量转换性能恢复超过 91%。不同水源测试条件不能默认等同。\n怎么解释：作者将快速传输与较低浓差极化（concentration polarization）联系于含水量超过 60% 的连续纳米流体网络（nanofluidic networks）。当前摘要未充分拆分网络结构、含水量和力学恢复各自的贡献，不把这些关联写成已独立证明的因果链。\n为什么重要：工作强调传导能力和损伤后的功能恢复应共同评价；这是水系盐差能材料的结果，不能外推为锂电池电解质的电压稳定性或安全性证据。",
+      "summaryGeneratedAt": "2026-11-21T23:12:57Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Biao Kong"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-22"
     },
     {
       "title": "Hybrid Weakly Coordinated Solvents for Fast-Charging and Wide-Temperature Sodium-Ion Full Batteries",
@@ -1679,67 +1769,8 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-10-26"
-    },
-    {
-      "title": "Surfactant‐Mediated “ Oil‐in‐Water ” Electrolyte Design via Sonochemical Assembly: Low‐Dielectric Interfacial Regulation for Ultrastable Aqueous Zinc Batteries",
-      "authors": "Xiaolong Ren, Ping Xiao, Jiwei Zhang, Shaowei Jin, Jianyuan Wang, Wei Zhai",
-      "authorsCitation": "X. Ren, P. Xiao, J. Zhang, S. Jin, J. Wang, W. Zhai",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-23",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e9631370",
-      "doi": "10.1002/anie.9631370",
-      "link": "https://doi.org/10.1002/anie.9631370",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：作者提出表面活性剂介导的“水包油”电解液（surfactant-mediated oil-in-water electrolyte, SMOW），用超声化学自组装把难溶于水的疏水分子封装进胶束，使原本受水溶性限制的界面调控组分能够进入水系锌电池电解液。\n\n性能：在 10 mA cm⁻² 下，锌负极稳定循环超过 3900 h；Zn||I₂ 全电池在 5 A g⁻¹ 下循环超过 10000 次，出版社摘要称容量衰减可忽略。\n\n怎么解释：出版社摘要显示，胶束受界面静电排斥后在锌表面释放疏水分子，形成低介电界面屏障（low-dielectric interfacial shield），一方面促进 Zn²⁺ 去溶剂化，另一方面隔离活性水，从而获得致密、无枝晶沉积并抑制副反应。现有摘要支持这一协同关联，但尚不能量化疏水分子与表面活性剂各自的独立贡献。\n\n为什么重要：这项工作把“如何把疏水功能分子稳定送达水系电极界面”转化为可设计的胶束递送与介电调控问题，为突破水系电解液的溶解度约束提供了不同于继续筛选亲水添加剂的路径。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-23T23:20:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Ping Xiao",
-        "Wei Zhai"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-24"
-    },
-    {
-      "title": "Non‐Fluorinated Electrolytes Enable Long‐Cycling Micron‐Sized Silicon Anodes",
-      "authors": "Dejie Qu, Ru Guo, Tao Liu, Youlong Sun, Lixue Zhou, Xiaowei Wu, Guicun Li, Yulin Liu, Xinyu Lin, Yuewei Yan, Hui Ding, Yue Zheng, Dandan Li, Gaojie Xu, Shanmu Dong, Guanglei Cui",
-      "authorsCitation": "D. Qu, R. Guo, T. Liu, Y. Sun, L. Zhou, X. Wu, G. Li, Y. Liu, X. Lin, Y. Yan, H. Ding, Y. Zheng, D. Li, G. Xu, S. Dong, G. Cui",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-23",
-      "publicationDateSource": "publisher-online",
-      "volume": "",
-      "issue": "",
-      "page": "e6271722",
-      "doi": "10.1002/anie.6271722",
-      "link": "https://doi.org/10.1002/anie.6271722",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：针对微米硅负极，提出不依赖富LiF固体电解质界面膜（solid electrolyte interphase，SEI）的电解液设计，以LiI/LiBr和单醚形成具有黏结作用的聚合物界面。\n性能：中位粒径4.65 µm、面容量3.15 mAh cm⁻²的电极在25°C循环300圈保持92.12%容量，库仑效率超过99.95%；预锂化硅||SPAN全电池150圈保持超过79.43%。\n怎么解释：作者认为高分子量界面产物有助于颗粒破碎后保持接触；摘要支持这一解释，但不能把结构完整性与全部寿命提升等同。\n为什么重要：把界面黏结与连通性作为可设计变量，挑战微米硅稳定运行必须依赖LiF的单一判断。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Tao Liu",
-        "Hui Ding",
-        "Gaojie Xu",
-        "Guanglei Cui"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-30"
     }
   ],
   "source": "Crossref",
-  "errors": [
-    "Nature Materials (1476-4660): HTTP Error 429: Too Many Requests",
-    "Nature Energy (2058-7546): HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
