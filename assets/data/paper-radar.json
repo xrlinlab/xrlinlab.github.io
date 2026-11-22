@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:12:16Z",
+  "generatedAt": "2026-11-22T02:16:10Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -115,8 +115,8 @@
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：用乙二胺（ethylenediamine, EN）同时承担有机碱和锌离子螯合配体的作用，调节碱性锌电池（alkaline zinc batteries）中溶解、传输和负极界面的相互制约，而非只提高碱浓度。\n性能：摘要报告 pH 12.45 下锌离子浓度达到 1 M，锌对称电池稳定沉积/剥离 380 h，无负极碱性锌–碘电池（anode-free alkaline zinc–iodine batteries）循环 860 圈。另报告 812.9 Wh kg⁻¹，但摘要未说明质量核算边界，不能当作整器件实测比能量。\n怎么解释：EN 原位产生氢氧根并形成可溶五元锌螯合物（five-membered zinc chelates），作者据此提出锌传输由扩散受限转向迁移辅助（migration-assisted transport）；EN 的优先吸附和分解生成有机–无机复合界面层（organic–inorganic hybrid interphase），其配位作用也有助于稳定正极的活性碘中间体。这些功能的独立贡献仍需结合正文对照判断。\n为什么重要：研究将体相离子供给与界面可逆性联系起来，为碱性金属电池提供电解液设计依据；该结果不等同于已验证锂金属体系或快充能力。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-21T23:12:57Z",
       "summaryPromptVersion": 2
     },
@@ -136,8 +136,8 @@
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：在共价有机框架（covalent organic frameworks, COFs）中调节砜基（sulfone groups, –SO₂–）密度，使离子传导通道兼顾润湿和排气，目标是在保持孔壁水化的同时避免孔道整体淹没。本文按离子传导聚合物收录，器件是水电解而非电池。\n性能：在阴离子交换膜水电解（anion-exchange-membrane water electrolysis, AEM-WE）中，富砜基 2S-COF 在 1 M KOH、80 °C、2.0 V 下达到 10.30 A cm⁻²，较不含 COF 的电极提高 48%。这是电解电流密度，不能写成电池充电倍率或循环性能。\n怎么解释：作者结合实验和计算，将效果归因于砜基与水形成较弱、易重排的氢键网络（dynamic hydrogen-bonding network）：孔壁保持水化以传导氢氧根离子（hydroxide ions, OH⁻），孔道主体不过度淹没，从而允许氢气（hydrogen, H₂）排出。摘要支持这一解释，但不足以独立核查所有气液传输贡献。\n为什么重要：离子传导聚合物的通道设计需要同时考虑离子所需的水化环境和其他物质的通行空间，单纯增加含水量未必带来更好的器件性能。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-21T23:12:57Z",
       "summaryPromptVersion": 2
     },
@@ -179,8 +179,8 @@
         "Solid-state batteries",
         "Lithium-metal and anode-free batteries"
       ],
-      "summarySource": "crossref-abstract",
       "summaryZh": "新在哪里：将非晶–晶态正极电解质（amorphous–crystalline catholyte）的接触和传输设计，与充、放电方向不同的硫转化反应调控结合，采用 Li₆.₀₅P₀.₉₅Nb₀.₀₅S₅Cl₀.₈I₀.₂ 改善全固态锂硫电池（all-solid-state lithium–sulfur batteries）。\n性能：摘要报告，在硫载量 6 mg cm⁻² 时硫利用率为 84.2%；0.5 C 循环 1500 圈后容量为 736 mAh g⁻¹，容量保持率为 93.1%。摘要未给出完整堆叠压力和器件质量边界，不据此推算软包能量密度。\n怎么解释：作者认为非晶部分改善固–固接触，晶态骨架维持离子通道；放电时铌（niobium, Nb）的还原产生富锂位点，促进硫化锂（lithium sulfide, Li₂S）成核，充电时碘（iodine, I₂）作为氧化还原介体（redox mediator）促进 Li₂S 氧化。摘要尚不足以独立拆分结构接触、离子传输与介体反应的各自贡献。\n为什么重要：将充、放电方向不同的反应需求分别与电解质功能匹配，为高载量固态硫正极提供设计思路。",
+      "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-21T23:12:57Z",
       "summaryPromptVersion": 2
     },
@@ -650,8 +650,8 @@
       "matchedTopics": [
         "Ion-conducting polymers and single-ion conductors"
       ],
-      "summarySource": "publisher-abstract",
       "summaryZh": "新在哪里：将水凝胶离子通道（hydrogel ionic channels, HICs）的连续传输网络、韧性和自修复（self-healing）放在同一材料设计中，针对盐差能（salinity-gradient energy）膜难以兼顾传输与耐损伤的问题。收录依据是离子传导聚合物，而非新增环境传感主题。\n性能：正式摘要报告，在 0.5 M/0.01 M 氯化钠（sodium chloride, NaCl）浓度梯度下功率密度为 48.57 W m⁻²，天然海水测试达到 54.62 W m⁻²；拉伸强度为 6.18 MPa，严重机械损伤后能量转换性能恢复超过 91%。不同水源测试条件不能默认等同。\n怎么解释：作者将快速传输与较低浓差极化（concentration polarization）联系于含水量超过 60% 的连续纳米流体网络（nanofluidic networks）。当前摘要未充分拆分网络结构、含水量和力学恢复各自的贡献，不把这些关联写成已独立证明的因果链。\n为什么重要：工作强调传导能力和损伤后的功能恢复应共同评价；这是水系盐差能材料的结果，不能外推为锂电池电解质的电压稳定性或安全性证据。",
+      "summarySource": "publisher-abstract",
       "summaryGeneratedAt": "2026-11-21T23:12:57Z",
       "summaryPromptVersion": 2,
       "correspondingAuthors": [
@@ -1772,5 +1772,9 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Science (1095-9203): HTTP Error 429: Too Many Requests",
+    "Nature Materials (1476-4660): HTTP Error 429: Too Many Requests",
+    "Nature Energy (2058-7546): HTTP Error 429: Too Many Requests"
+  ]
 }
