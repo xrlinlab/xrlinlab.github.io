@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:16:10Z",
+  "generatedAt": "2026-11-22T23:07:48Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,27 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Entropy‐Compensated Electrolyte Enables Low‐Temperature 400 Wh Kg −1 Silicon‐Based Lithium‐Ion Batteries",
+      "authors": "Haijie Wang, Mingyue Wang, Xiangyang Li, Shen Wang, Zhenxiao Li, Xin Zhong, Yuxin Ouyang, Xiangkai Yin, Yuzhi Chen, Yanan Li, Jia Cui, Hongyang Zhao, Limin Liu, Shujiang Ding, Zaiping Guo, Dongyang Zhang",
+      "authorsCitation": "H. Wang, M. Wang, X. Li, S. Wang, Z. Li, X. Zhong, Y. Ouyang, X. Yin, Y. Chen, Y. Li, J. Cui, H. Zhao, L. Liu, S. Ding, Z. Guo, D. Zhang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-21",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e8467989",
+      "doi": "10.1002/anie.8467989",
+      "link": "https://doi.org/10.1002/anie.8467989",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：把溶剂化熵（solvation entropy, ΔSₛₒₗᵥ）作为低温硅负极电解液（low-temperature silicon-anode electrolyte）的设计变量，关注体相离子团簇（ionic clusters）变化如何影响界面处的锂离子供给，而不只评价低温电导率。\n性能：摘要报告，Ah 级软包电池（pouch cells）在 −20 °C 循环 165 圈后容量保持率为 97.8%。高能量软包电池的比能量（specific energy）在室温为 400 Wh kg⁻¹，在低温为 339 Wh kg⁻¹，但摘要未注明后者的具体温度；不能将标题中的 400 Wh kg⁻¹直接当作低温结果。另有 2 C 循环 1150 圈保持 80% 的报告，摘要未说明该测试温度，不能与 −20 °C 测试合并。\n怎么解释：作者认为较高的溶剂化熵有利于抑制低温下的离子缔合（ion pairing），维持较小、富阴离子的团簇，进而减轻浓差极化（concentration polarization）并促进均匀的固态电解质界面膜（solid electrolyte interphase, SEI）形成。这是摘要提出的体相—界面解释；当前信息不足以独立核查熵参数、具体配方和界面改善之间的因果分解。\n为什么重要：工作将低温传输与界面稳定联系到可讨论的热力学变量，为电解液筛选提供了判据；不同温度、倍率和器件配置下的最佳结果仍需分别评价。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-22T23:08:19Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Taming Metal–Electrolyte Interface via Two-Dimensional Organic Metal Chalcogenide Colloids for Anode-Free Sodium Metal Batteries",
       "authors": "Chaozhi Wang, Xiaoqing Yu, Ruixuan Qin, Jingqin Cui, Shuchang Liu, Cuimiao Wang, Chen Yang, Qiulong Wei, Guan-E Wang, Gang Xu, Xiaoliang Fang, Bin Liu",
@@ -1742,39 +1763,8 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "Reusable and Robust Hydrogel With Dynamic Sacrificial S─S Bonds: In Situ Construction of an Integrated SEI/Hydrogel Interface for Highly Stable Zn–I 2 Batteries",
-      "authors": "Peng Li, Jinping Wu, Zihan Zhu, Jing Tang, Ling Zhu, Liya Wang, Xuan Tang, Fangfang Ruan, Huibing He, Ning Zhao, Dongdong Li",
-      "authorsCitation": "P. Li, J. Wu, Z. Zhu, J. Tang, L. Zhu, L. Wang, X. Tang, F. Ruan, H. He, N. Zhao, D. Li",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-24",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "e7908002",
-      "doi": "10.1002/anie.7908002",
-      "link": "https://doi.org/10.1002/anie.7908002",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：作者通过原位凝胶化与界面电化学还原，在锌负极上构建一体化固态电解质界面膜/聚脲–聚氨酯水凝胶界面（solid-electrolyte interphase/polyurea–polyurethane hydrogel interface, SEI/PUMA），并把可断裂的动态二硫键作为界面成膜与耗散能量的牺牲单元。\n\n性能：PUMA@Zn 的 Zn²⁺ 迁移数为 0.79；对称电池在 1 mA cm⁻²、0.5 mAh cm⁻² 下循环 5080 h。PUMA@Zn||I₂ 全电池在 4 A g⁻¹ 下循环 43000 次后容量保持率为 88%，在 16.58 mg cm⁻² 的高碘载量下仍运行超过 11000 次。\n\n怎么解释：聚脲–聚氨酯硬段中的八重氢键、Zn²⁺ 配位和动态 S─S 键提供多级能量耗散并调节界面水；富含羧酸与磺酸基的聚阴离子软段形成低势垒、离子选择性通道，以缓解浓差极化并均匀 Zn²⁺ 沉积。界面 S─S 键在还原过程中断裂，参与形成与水凝胶化学耦合的 SEI。出版社摘要支持这些结构与性能之间的协同关联，但尚未拆分各类动态键和聚阴离子通道的独立贡献。\n\n为什么重要：该工作没有只在水凝胶的力学强度和电导率之间做配方折中，而是让网络中的牺牲键在工作过程中转化为稳定界面，从而把体相韧性、选择性离子传输和界面成膜纳入同一材料设计。",
-      "summarySource": "publisher-abstract",
-      "summaryGeneratedAt": "2026-10-24T23:15:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Ning Zhao",
-        "Dongdong Li"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-10-26"
     }
   ],
   "source": "Crossref",
-  "errors": [
-    "Science (1095-9203): HTTP Error 429: Too Many Requests",
-    "Nature Materials (1476-4660): HTTP Error 429: Too Many Requests",
-    "Nature Energy (2058-7546): HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }

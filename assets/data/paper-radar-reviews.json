@@ -1987,5 +1987,19 @@
     "evidenceSource": "publisher-research-directory-and-crossref-dates",
     "reason": "The publisher directory explicitly dates this Ni(OH)2 symmetric battery study to 22 September 2026, outside the current 30-day window. Its hydroxide-exchange-membrane direct-air-capture device is also outside the four configured topics; an undated directory-discovery stub must not create a pending record.",
     "metadataSource": "https://api.crossref.org/works/10.1038/s41560-026-02129-z"
+  },
+  "10.1002/anie.8467989": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-21",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-23",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.8467989",
+    "publisherAccessStatus": "Official Early View names the article and explicitly gives Version of Record online 21 November 2026. The direct article is inaccessible; corresponding authors are not inferred.",
+    "reason": "The deposited abstract explicitly links solvation entropy and low-temperature ion-cluster dissociation to Li-ion supply, concentration polarization and uniform interphase-forming reactions in Si-anode Li-ion batteries. Include under the existing interfacial ion-transport topic, not as a lithium-metal or solid-state battery. The reported 400 Wh/kg is ambient-temperature pouch-cell energy density; the abstract separately reports 339 Wh/kg at unspecified low temperature."
   }
 }
