@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:48:50Z",
+  "generatedAt": "2026-11-23T23:09:56Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,78 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Solvation‐Directed Electric Double Layer Formation in Low‐Concentration Electrolytes",
+      "authors": "Yuelin Li, Zuxin Wen, Zuosu Qin, Zhe Fang, Jiang Zhou, Ning Zhang, Long Chen, Gen Chen",
+      "authorsCitation": "Y. Li, Z. Wen, Z. Qin, Z. Fang, J. Zhou, N. Zhang, L. Chen, G. Chen",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-23",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e2524176",
+      "doi": "10.1002/anie.2524176",
+      "link": "https://doi.org/10.1002/anie.2524176",
+      "abstract": "",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：研究以阴离子的溶剂化（solvation）差异设计低浓度电解液（low-concentration electrolyte, LCE）中的电双层（electric double layer, EDL），而非依赖高盐浓度或复杂混合溶剂来稳定锂金属界面。性能：正式摘要提出混合阴离子配方改善界面稳定性，但未给出电流密度、循环寿命或容量保持率，不能据此作定量比较。怎么解释：作者认为，大体积弱配位阴离子（weakly coordinating anions）在界面提供持续电荷屏蔽，小体积强配位阴离子（strongly coordinating anions）在极化时更深入亥姆霍兹区（Helmholtz region），调节界面溶剂化与去溶剂化（desolvation）动力学；该分工是作者的机制解释，当前依据为正式摘要。为什么重要：工作把体相配位与界面离子分布联系起来，为减少盐用量的锂金属电解液设计提供思路，具体性能边界仍需正文核验。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-23T23:10:24Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Data-Driven Electrolyte Design by Electrotopological State Descriptors for Na-Ion Batteries with Minimal Solid-Electrolyte Interphase Dissolution",
+      "authors": "Minfei Fei, Jingyi Xiao, Shujuan Han, Yue Li, Xujie Cheng, Hanchen Xi, Zhichao Lin, Jingyang Wang, Caterina Ducati, Manish Chhowalla, Ramachandran Vasant Kumar, Jia Zhu, Yan Jin",
+      "authorsCitation": "M. Fei, J. Xiao, S. Han, Y. Li, X. Cheng, H. Xi, Z. Lin, J. Wang, C. Ducati, M. Chhowalla, R. V. Kumar, J. Zhu, Y. Jin",
+      "journal": "Journal of the American Chemical Society",
+      "publicationDate": "2026-11-23",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/jacs.6c12939",
+      "link": "https://doi.org/10.1021/jacs.6c12939",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：研究把钠离子电池固体电解质界面膜（solid-electrolyte interphase, SEI）的溶解量作为电解液设计目标，并从200余项描述符中筛选溶剂平均电拓扑状态指数（electrotopological state index, EState）。性能：据正式摘要，高EState配方的界面膜溶解量降至传统电解液的6%；硬碳/NaMn0.33Fe0.33Ni0.33O2全电池在1000次循环中平均库仑效率（Coulombic efficiency）为99.98%。该数值不是容量保持率，摘要也未给出对应倍率。怎么解释：EState与溶解量呈较强相关，减少界面膜溶解有助于降低钠库存和电解液的持续消耗；描述符相关性本身不证明唯一因果机制。为什么重要：它将界面膜稳定性转化为可筛选的电解液设计指标，但尚不能据摘要判断快充能力或不同配方间的普适性。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-23T23:10:24Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries",
+      "authors": "Shengming Zhang, Bingkun Hu, Dominic L. R. Melvin, Dominic Spencer-Jolly, Xiangwen Gao, Longlong Wang, Lechen Yang, Charles W. Monroe, Peter G. Bruce",
+      "authorsCitation": "S. Zhang, B. Hu, D. L. R. Melvin, D. Spencer-Jolly, X. Gao, L. Wang, L. Yang, C. W. Monroe, P. G. Bruce",
+      "journal": "Nature Energy",
+      "publicationDate": "2026-11-23",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1038/s41560-026-02172-w",
+      "link": "https://doi.org/10.1038/s41560-026-02172-w",
+      "abstract": "",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：研究把锂金属（lithium metal）/Li6PS5Cl固态电解质（solid electrolyte）的接触面制成微米尺度蛋盒状起伏，以界面几何缓解放电剥锂（lithium stripping）时的接触损失。性能：在2 MPa、30 °C下，界面空洞（interfacial voids）开始出现对应的放电电流密度由0.2提高至2 mA cm−2；脉冲放电在30 °C可达3 mA cm−2、60 °C可达8 mA cm−2而不发生电池失效，薄电解质全电池也保留优势。怎么解释：作者将改善归因于起伏界面对局部电流与力学接触的调节，抑制空洞长大及电压极化；并非完全消除空洞。为什么重要：它提供了应对实际车辆动态放电负载的界面设计方法，但这些结果不能直接外推为同等幅度的快充提升。",
+      "summarySource": "publisher",
+      "correspondingAuthors": [
+        "Dominic L. R. Melvin",
+        "Peter G. Bruce"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-24",
+      "summaryGeneratedAt": "2026-11-23T23:10:24Z",
+      "summaryPromptVersion": 2
+    },
     {
       "title": "Entropy‐Compensated Electrolyte Enables Low‐Temperature 400 Wh Kg −1 Silicon‐Based Lithium‐Ion Batteries",
       "authors": "Haijie Wang, Mingyue Wang, Xiangyang Li, Shen Wang, Zhenxiao Li, Xin Zhong, Yuxin Ouyang, Xiangkai Yin, Yuzhi Chen, Yanan Li, Jia Cui, Hongyang Zhao, Limin Liu, Shujiang Ding, Zaiping Guo, Dongyang Zhang",
@@ -1766,9 +1838,5 @@
     }
   ],
   "source": "Crossref",
-  "errors": [
-    "Nature Chemistry (1755-4330): HTTP Error 429: Too Many Requests",
-    "Nature Chemistry (1755-4349): HTTP Error 429: Too Many Requests",
-    "Nature Nanotechnology (1748-3395): HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }

@@ -2001,5 +2001,66 @@
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.8467989",
     "publisherAccessStatus": "Official Early View names the article and explicitly gives Version of Record online 21 November 2026. The direct article is inaccessible; corresponding authors are not inferred.",
     "reason": "The deposited abstract explicitly links solvation entropy and low-temperature ion-cluster dissociation to Li-ion supply, concentration polarization and uniform interphase-forming reactions in Si-anode Li-ion batteries. Include under the existing interfacial ion-transport topic, not as a lithium-metal or solid-state battery. The reported 400 Wh/kg is ambient-temperature pouch-cell energy density; the abstract separately reports 339 Wh/kg at unspecified low temperature."
+  },
+  "10.1038/s41560-026-02172-w": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02172-w",
+    "verifiedAt": "2026-11-24",
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-research-directory-article-text-and-explicit-correspondence",
+    "metadataSource": "https://api.crossref.org/works/10.1038/s41560-026-02172-w",
+    "correspondingAuthors": ["Dominic L. R. Melvin", "Peter G. Bruce"],
+    "correspondingAuthorEvidence": "The official article explicitly states Correspondence to Dominic L. R. Melvin or Peter G. Bruce. Both names were read in the publisher article search index; no author-order inference.",
+    "publisherAccessStatus": "Research directory covers the complete current research-article window; article text and correspondence readable in the publisher search index, direct open redirects to the identity service.",
+    "reason": "Contoured Li/Li6PS5Cl interfaces suppress interfacial void growth during lithium stripping in solid-state batteries. The tenfold threshold and pulse-current results concern discharge, not fast charging; void formation is not eliminated."
+  },
+  "10.1002/anie.2524176": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-24",
+    "matchedTopics": ["Lithium-metal and anode-free batteries", "Fast charging and interfacial ion transport"],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2524176",
+    "publisherAccessStatus": "Official Early View verifies Research Article and 23 November Version of Record. Direct article unavailable; no corresponding authors inferred.",
+    "reason": "The full deposited abstract explicitly identifies lithium-metal batteries and anion-specific interfacial solvation/desolvation kinetics. Title-only storage-context matching misses this relevant low-concentration electrolyte study. The abstract provides no quantitative cycling or current-density metrics."
+  },
+  "10.1021/jacs.6c12939": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c12939",
+    "verifiedAt": "2026-11-24",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c12939",
+    "publisherAccessStatus": "Formal article access restricted. Publication date is the precise Crossref online date, not independently verified publisher date. Corresponding authors remain unverified.",
+    "reason": "Electrolyte descriptor selection is used to suppress dissolution of the sodium solid-electrolyte interphase and preserve full-cell reversibility. This is electrolyte/interphase chemistry consistent with existing sodium-interphase inclusions, not a new bulk sodium-cathode topic. EState is a correlation-guided descriptor, not proven as a unique causal mechanism; no fast-charge claim is inferred."
+  },
+  "10.1002/anie.4834219": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-24",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.4834219",
+    "reason": "The experimentally controlled protocol changes high-voltage discharge of bulk Ni-rich cathodes to suppress H3/H2 separation, Ni migration and rock-salt formation. Although extreme fast charging motivates the introduction, the reported intervention is a low-rate discharge segment, not demonstrated fast-charge or interfacial ion-transport engineering. Consistent with existing exclusions for bulk cathode phase/degradation mechanisms."
+  },
+  "10.1002/anie.5091498": {
+    "decision": "exclude",
+    "articleType": "communication",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-24",
+    "evidenceSource": "publisher-early-view",
+    "reason": "Cobalt-backboned oligomers control spin and CO2 adsorption in Li-CO2 cathode catalysis. Consistent with the existing Li-CO2 exclusion; the metal backbone is not evidence of an ion-conducting polymer electrolyte."
   }
 }
