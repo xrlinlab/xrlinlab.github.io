@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:09:56Z",
+  "generatedAt": "2026-11-24T06:05:54Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -45,6 +45,23 @@
       "summaryPromptVersion": 2
     },
     {
+      "title": "Programmable Interfacial Evolution in Seawater Iodine Batteries Guided by an Electrochemical Vector‐Coupled Free‐Energy Descriptor",
+      "authors": "Jia‐Lin Yang, Jun‐Ming Cao, Han‐Hao Liu, Chang‐Yuan Dong, Yue Liu, Miao Du, Jing‐Ping Zhang, Xing‐Long Wu",
+      "authorsCitation": "J. Yang, J. Cao, H. Liu, C. Dong, Y. Liu, M. Du, J. Zhang, X. Wu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-23",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e2419938",
+      "doi": "10.1002/anie.2419938",
+      "link": "https://doi.org/10.1002/anie.2419938",
+      "abstract": "ABSTRACT Interface, as predominant electrochemical reaction region at the metal anode, has to face challenging issues in harsh seawater environment. Highly reactive soluble halogen intermediates can facilitate the multiple electron transfer process during electrochemical reaction, but the severe shuttle behaviors and cascade corrosion would become more serious in chlorine enriched seawater electrolyte. Conventional solution focused on static interfacial regulation with strong confinement, the lack of dynamical electrochemical response results in irreversible active iodine loss, further accelerate the battery failure. Given that, we proposed a novel theoretical descriptor to qualify electrochemical vector coupled free energy landscape, denoted as 𝒢 ev ( E , Δ G 0 ). By coupling electric filed with free energy, the electrochemically programming interface with dynamic self‐adaptive halogen regulation (AHR) can be described quantitively. Taking an α‐aminoketone‐contained bio‐interface as an example, along with the polarization variation over electrochemical reaction, the interface enables reversible capture to release shift of halogen intermediates, and thus realize reversible modulation of Cl‐coordinated iodine species by leveraging thermodynamic gating mechanism. An emergency power supply system based on seawater‐activated flexible fiber batteries could well operate in underwater portable situation. Our work unveils a novel research perspective on interface regulation strategies, to build an initiative adaptive interface rather than conventional ways.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
       "title": "Data-Driven Electrolyte Design by Electrotopological State Descriptors for Na-Ion Batteries with Minimal Solid-Electrolyte Interphase Dissolution",
       "authors": "Minfei Fei, Jingyi Xiao, Shujuan Han, Yue Li, Xujie Cheng, Hanchen Xi, Zhichao Lin, Jingyang Wang, Caterina Ducati, Manish Chhowalla, Ramachandran Vasant Kumar, Jia Zhu, Yan Jin",
       "authorsCitation": "M. Fei, J. Xiao, S. Han, Y. Li, X. Cheng, H. Xi, Z. Lin, J. Wang, C. Ducati, M. Chhowalla, R. V. Kumar, J. Zhu, Y. Jin",
@@ -85,14 +102,32 @@
       ],
       "summaryZh": "新在哪里：研究把锂金属（lithium metal）/Li6PS5Cl固态电解质（solid electrolyte）的接触面制成微米尺度蛋盒状起伏，以界面几何缓解放电剥锂（lithium stripping）时的接触损失。性能：在2 MPa、30 °C下，界面空洞（interfacial voids）开始出现对应的放电电流密度由0.2提高至2 mA cm−2；脉冲放电在30 °C可达3 mA cm−2、60 °C可达8 mA cm−2而不发生电池失效，薄电解质全电池也保留优势。怎么解释：作者将改善归因于起伏界面对局部电流与力学接触的调节，抑制空洞长大及电压极化；并非完全消除空洞。为什么重要：它提供了应对实际车辆动态放电负载的界面设计方法，但这些结果不能直接外推为同等幅度的快充提升。",
       "summarySource": "publisher",
+      "summaryGeneratedAt": "2026-11-23T23:10:24Z",
+      "summaryPromptVersion": 2,
       "correspondingAuthors": [
         "Dominic L. R. Melvin",
         "Peter G. Bruce"
       ],
       "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-24",
-      "summaryGeneratedAt": "2026-11-23T23:10:24Z",
-      "summaryPromptVersion": 2
+      "correspondingAuthorVerifiedAt": "2026-11-24"
+    },
+    {
+      "title": "An Adsorption‐Driven Solvophobic Interface for Stable Lithium‐Rich Manganese‐Based Lithium Metal Batteries",
+      "authors": "ShanBin Goh, Wen‐hui Hou, Yingchun Xia, Qian Chen, Yang Lu, Jiahong Chen, ChangJian Li, Gang Su, Peng Zhang, Xiao Ma, Yu Ou, Yongji Gong, Kai Liu",
+      "authorsCitation": "S. Goh, W. Hou, Y. Xia, Q. Chen, Y. Lu, J. Chen, C. Li, G. Su, P. Zhang, X. Ma, Y. Ou, Y. Gong, K. Liu",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-23",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e8799990",
+      "doi": "10.1002/anie.8799990",
+      "link": "https://doi.org/10.1002/anie.8799990",
+      "abstract": "ABSTRACT Lithium‐rich manganese‐based (LRMO) oxides represent the premier cathode candidates for next‐generation high‐energy‐density batteries due to high specific capacity exceeding 300 mAh g −1 . However, the practical deployment of LRMO cathodes under high voltages (>4.8 V) is severely hindered by severe electrolyte oxidation and transition‐metal (TM) dissolution. Herein, perfluorobutanesulfonyl fluoride (NfF) is introduced as a multifunctional additive to construct a robust solvophobic interphase on LRMO cathodes. The ‐SO 2 F group preferentially anchors to exposed TM sites, suppressing metal dissolution, while the perfluorinated chain excludes free solvent molecules from the cathode surface and mitigates oxidative electrolyte decomposition. The resulting inorganic‐rich (LiF/Li x SO y ) engineered interface mitigates the irreversible layered‐to‐spinel phase transition and inhibits TM crosstalk to the lithium metal anode, ensuring exceptional structural integrity and rapid ionic transport kinetics. Consequently, Li||LRMO coin cells sustain over 1000 cycles at 3 C. The Li||LRMO full cells based on a 40 µm lithium anode and cathode loading of 8 mg cm −2 retain 173 mAh g −1 after 110 cycles. Moreover, the 1.2 Ah Li||LRMO pouch cells achieve 88% capacity retention after 50 cycles at 4.8 V. This work demonstrates solvophobic interphase engineering as an effective strategy for stabilizing high‐voltage cathodes through coordinated regulation of interfacial chemistry and electrolyte accessibility.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ]
     },
     {
       "title": "Entropy‐Compensated Electrolyte Enables Low‐Temperature 400 Wh Kg −1 Silicon‐Based Lithium‐Ion Batteries",
@@ -809,9 +844,9 @@
       "journal": "Macromolecules",
       "publicationDate": "2026-11-12",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "59",
+      "issue": "22",
+      "page": "13054",
       "doi": "10.1021/acs.macromol.6c02680",
       "link": "https://doi.org/10.1021/acs.macromol.6c02680",
       "abstract": "",
@@ -910,9 +945,9 @@
       "journal": "Macromolecules",
       "publicationDate": "2026-11-09",
       "publicationDateSource": "crossref-published-online",
-      "volume": "",
-      "issue": "",
-      "page": "",
+      "volume": "59",
+      "issue": "22",
+      "page": "12970",
       "doi": "10.1021/acs.macromol.6c01509",
       "link": "https://doi.org/10.1021/acs.macromol.6c01509",
       "abstract": "",
@@ -1838,5 +1873,7 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Nature Energy (2058-7546): HTTP Error 429: Too Many Requests"
+  ]
 }
