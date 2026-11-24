@@ -2062,5 +2062,60 @@
     "verifiedAt": "2026-11-24",
     "evidenceSource": "publisher-early-view",
     "reason": "Cobalt-backboned oligomers control spin and CO2 adsorption in Li-CO2 cathode catalysis. Consistent with the existing Li-CO2 exclusion; the metal backbone is not evidence of an ion-conducting polymer electrolyte."
+  },
+  "10.1002/anie.8799990": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-25",
+    "matchedTopics": ["Lithium-metal and anode-free batteries", "Fast charging and interfacial ion transport"],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.8799990",
+    "publisherAccessStatus": "Official Early View explicitly identifies a Research Article and Version of Record online 23 November 2026. The formal article page remains unavailable; corresponding authors are not inferred.",
+    "reason": "NfF adsorption and solvent exclusion regulate the cathode/electrolyte interphase, transition-metal dissolution and crosstalk to the lithium-metal negative electrode. This is an interfacial electrolyte study in lithium-metal cells, not a bulk lithium-rich cathode phase-design inclusion. The 1000-cycle 3C result and 50-cycle pouch-cell retention belong to different cell configurations and must not be combined."
+  },
+  "10.1002/anie.2419938": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-25",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2419938",
+    "publisherAccessStatus": "Early View verifies Research Article and 23 November online date. Formal article and explicit corresponding-author labels remain inaccessible.",
+    "reason": "The deposited abstract explicitly locates the controlled interface at the metal negative electrode in seawater electrolyte and describes polarization-responsive capture/release of halogen intermediates and regulation of Cl-coordinated iodine species. Include for electrolyte/electrode interfacial ion regulation, consistent with existing interfacial-electrolyte inclusions; not as a general iodine-host cathode-redox topic or a fast-charge demonstration. The abstract supplies no quantitative cycling, capacity or rate metrics."
+  },
+  "10.1002/anie.8348441": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-25",
+    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.8348441",
+    "publisherAccessStatus": "Early View explicitly lists Research Article and 23 November Version of Record. The formal article is inaccessible; corresponding authors remain unverified.",
+    "reason": "EEME solvent stereoelectronics regulate PF6 retention near sodium solvation structures, correlated transport toward the negative electrode and NaF-rich interphase formation. Include under the existing interfacial-ion-transport topic, not as a new sodium-metal topic or a lithium-metal paper. This is a title-context false negative: the formal abstract establishes the solvation/interface mechanism. The 5C rate-capability statement is not evidence of a separately verified fast-charging protocol."
+  },
+  "10.1002/anie.2258529": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-23",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-25",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.2258529",
+    "reason": "HATN-ICTO is an electrochemically active COF cathode with dual redox sites, intraparticle electronic/ionic conduction and strain buffering, not a polymer electrolyte or single-ion conductor. High A/g cathode performance and a COF//Li demonstrator do not establish a lithium-metal-interface, solid-state or cell-level fast-charging study. Consistent with existing exclusions for bulk organic/COF cathode-redox and intraparticle transport studies."
+  },
+  "10.1038/s41557-026-02328-x": {
+    "decision": "exclude",
+    "articleType": "correction",
+    "publisherOnlineDate": "2026-11-24",
+    "publisherSource": "https://www.nature.com/articles/s41557-026-02328-x",
+    "verifiedAt": "2026-11-25",
+    "evidenceSource": "publisher-article",
+    "reason": "The publisher explicitly labels Author Correction, published 24 November 2026, correcting Fig. 4e and Source Data of a July 2024 article. This is not a new research paper and must not remain in the semantic-review queue."
   }
 }
