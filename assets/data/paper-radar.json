@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:15:12Z",
+  "generatedAt": "2026-11-25T04:54:01Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,41 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Stress‐Modulated Ionic Transport Limits Composite Cathode Kinetics in Solid‐State Batteries",
+      "authors": "Hung Q. Nguyen, Johannes Hörmann, Benjamin A. D. Williamson, Mikael Kanedal, Juraj Todt, Filip Maletić, Simon Erker, Günther J. Redhammer, Norbert Schell, Jozef Keckes, Arnulf Latz, Timo Danner, Daniel Rettenwander",
+      "authorsCitation": "H. Q. Nguyen, J. Hörmann, B. A. D. Williamson, M. Kanedal, J. Todt, F. Maletić, S. Erker, G. J. Redhammer, N. Schell, J. Keckes, A. Latz, T. Danner, D. Rettenwander",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-24",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e4734767",
+      "doi": "10.1002/anie.4734767",
+      "link": "https://doi.org/10.1002/anie.4734767",
+      "abstract": "ABSTRACT High‐energy all‐solid‐state batteries (ASSBs) require thick composite cathodes, yet these architectures exhibit heterogeneous reaction distributions that limit their performance. Here, we show that chemo‐mechanical transport switching governs the spatiotemporal lithiation behavior of such electrodes. By combining operando depth‐resolved diffraction with microstructure‐resolved and multi‐scale simulations, we link utilization gradients to the dominant transport pathway and demonstrate that the reversal of reaction fronts between charge and discharge arises from dynamically evolving transport limitations. This switching originates from the coupled reconfiguration of electronic and ionic transport networks during cycling. Particle breathing and interfacial delamination disrupt electronic percolation, whereas the contact‐mechanics model indicates that stress‐field interactions within the solid electrolyte (SE) can limit ionic transport. The model predicts that this suppression depends on the activation volume and elastic properties of the electrolyte and can exceed an order of magnitude as interparticle spacing decreases at high active‐material loadings. Our findings establish a direct link between chemo‐mechanical evolution and transport control in solid‐state cathodes, and highlight the need for SEs with low pressure sensitivity and sufficient mechanical compliance to enable high‐energy ASSB architectures.",
+      "matchedTopics": [
+        "Solid-state batteries",
+        "Fast charging and interfacial ion transport"
+      ]
+    },
+    {
+      "title": "A Novel Metal‐Hydrogen‐Bonded Organic Framework (M‐HOF) Cathode Material for High‐Performance Lithium–Sulfur Batteries",
+      "authors": "Yong Cao, Kaiyuan Ge, Meng Zhang, Rongzheng Li, Jiazhu Guan, Yu Liu, Yuchen Jiang, Wenping Liu, Yajuan Zhou, Lin Chen, Zhenfeng Li, Xiaoyi Li, Liaoyun Zhang",
+      "authorsCitation": "Y. Cao, K. Ge, M. Zhang, R. Li, J. Guan, Y. Liu, Y. Jiang, W. Liu, Y. Zhou, L. Chen, Z. Li, X. Li, L. Zhang",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-24",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e1182005",
+      "doi": "10.1002/anie.1182005",
+      "link": "https://doi.org/10.1002/anie.1182005",
+      "abstract": "ABSTRACT Lithium–sulfur (Li–S) batteries (LSBs) are highly promising for next‐generation energy storage devices, yet their practical application is hindered by severe polysulfide shuttling and sluggish sulfur conversion kinetics. Herein, a novel metal‐containing hydrogen‐bonded organic framework (HOF‐21) is constructed and integrated with carbon nanotubes and sulfur as cathode for Li–S batteries. The synergistic combination of hydrogen‐bonding networks and Cu coordination sites enables strong polysulfide anchoring and accelerates sulfur redox conversion. Experimental characterizations and theoretical calculations reveal that the unique framework structure containing metals and rich abundant hydrogen bonds effectively immobilizes soluble lithium polysulfides, while Cu active centers induce interfacial electronic coupling and optimize the thermodynamic conversion pathway of sulfur species. Benefiting from the adsorption–catalysis synergistic regulation, the HOF‐21/CNT@S cathode exhibits enhanced reaction kinetics, suppressed polysulfide migration, and improved interfacial stability. As a result, the assembled HOF‐21/CNT@S battery delivers excellent long‐term cycling stability with a capacity decay rate of only 0.06% per cycle over 500 cycles at 2 C at room temperature. Moreover, it maintains outstanding low‐temperature adaptability, achieving 76.8% capacity retention after 200 cycles at −10°C and 90.6% retention after 200 cycles at −20°C. This work provides a promising strategy for designing advanced cathode materials toward high‐energy‐density Li–S batteries.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries"
+      ]
+    },
     {
       "title": "Steric Asymmetry‐Induced Hyperconjugation Enables Stable Anode‐Free Sodium Pouch Cells",
       "authors": "Xijie Chen, Yixuan Xiao, Ting Ma, Shuicen Ding, Nan Li, Xinke Cui, Zhen Han, Zhen Yao, Xue Han, Weijiang Xue",
@@ -1827,5 +1862,14 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Science (1095-9203): HTTP Error 429: Too Many Requests",
+    "Nature Materials (1476-4660): HTTP Error 429: Too Many Requests",
+    "Nature Chemistry (1755-4349): HTTP Error 429: Too Many Requests",
+    "Nature Nanotechnology (1748-3395): HTTP Error 429: Too Many Requests",
+    "Chem (2451-9294): HTTP Error 429: Too Many Requests",
+    "Journal of the American Chemical Society (0002-7863): HTTP Error 429: Too Many Requests",
+    "Journal of the American Chemical Society (1520-5126): HTTP Error 429: Too Many Requests",
+    "Nature Sustainability (2398-9629): HTTP Error 429: Too Many Requests"
+  ]
 }
