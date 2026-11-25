@@ -2117,5 +2117,107 @@
     "verifiedAt": "2026-11-25",
     "evidenceSource": "publisher-article",
     "reason": "The publisher explicitly labels Author Correction, published 24 November 2026, correcting Fig. 4e and Source Data of a July 2024 article. This is not a new research paper and must not remain in the semantic-review queue."
+  },
+  "10.1002/anie.4734767": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-24",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-26",
+    "matchedTopics": [
+      "Solid-state batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.4734767",
+    "publisherAccessStatus": "Early View explicitly verifies Research Article and 24 November Version of Record. Direct article unavailable; no corresponding-author inference.",
+    "reason": "Operando diffraction and multiscale modeling study competing ionic/electronic transport in composite solid-state cathodes. The order-of-magnitude ionic-transport suppression is a contact-mechanics model prediction, not a measured universal conductivity loss or demonstrated battery-performance gain."
+  },
+  "10.1002/anie.1182005": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": "2026-11-24",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0?page=2",
+    "verifiedAt": "2026-11-26",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.1182005",
+    "publisherAccessStatus": "Early View dates the Version of Record to 24 November and explicitly gives the -20 C, 0.5 C, 200-cycle test. Formal article and corresponding-author labels inaccessible; subtype not inferred.",
+    "reason": "Lithium-sulfur conversion and polysulfide regulation are explicitly within the script's existing lithium-sulfur inclusion. Room-temperature 2C and low-temperature 0.5C tests are different conditions; average capacity decay per cycle is not Coulombic efficiency."
+  },
+  "10.1016/j.joule.2026.102747": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://www.cell.com/joule/fulltext/S2542-4351(26)00431-9",
+    "verifiedAt": "2026-11-26",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-title-and-registration",
+    "metadataSource": "https://api.crossref.org/works/10.1016/j.joule.2026.102747",
+    "registrationDate": "2026-11-25",
+    "publisherAccessStatus": "Cell and ScienceDirect formal article pages return 403. No exact online date, formal abstract or corresponding authors verified. Use the created-date proxy and a title-only guide.",
+    "reason": "Title explicitly concerns lithium-sulfur batteries and lithium-anode heterogeneity, matching the existing configured lithium-sulfur topic. Unknown type/date do not prevent inclusion. A same-title Research Square preprint from 4 November 2025 has a different author list from the 17-author journal record; do not transplant its mechanisms, numerical results or corresponding-author information into the unverified Version of Record.",
+    "preprintSource": "https://doi.org/10.21203/rs.3.rs-7916426/v1"
+  },
+  "10.1021/jacs.6c17386": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c17386",
+    "verifiedAt": "2026-11-26",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c17386",
+    "publisherAccessStatus": "Formal article inaccessible; precise Crossref online date is retained without claiming publisher-page date/type/corresponding-author verification.",
+    "reason": "Li/Na exchange converts the NZSP coating to an ion-conducting interphase while Na enters the NCM811 lattice. The scientific question is interfacial ion transport and protection, not merely a bulk cathode doping study. Do not label the complete cell solid-state from a solid-electrolyte surface coating, or combine the 511-cycle cathode result with the separate 4 Ah, 557 Wh/kg, 118-cycle pouch-cell result."
+  },
+  "10.1021/jacs.6c10351": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c10351",
+    "verifiedAt": "2026-11-26",
+    "matchedTopics": [
+      "Solid-state batteries"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c10351",
+    "publisherAccessStatus": "Formal publisher page inaccessible. Keep exact Crossref online date; corresponding authors and article subtype remain unverified.",
+    "reason": "Polyanion-assisted inorganic halide-network cross-linking regulates bridging/nonbridging oxygens and Li-ion conduction in solid electrolytes. It is not polymer cross-linking. The humid-exposure condition is specifically 5% RH for 12 h, not ordinary ambient-air stability."
+  },
+  "10.1002/anie.6380455": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-24",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-26",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6380455",
+    "reason": "Fe/Mn charge-state and cation-order engineering controls bulk layered-oxide Mn redox, tested in a Mg-compatible potential window. This is not an ion-conducting polymer, solid-state electrolyte, lithium-metal-interface or fast-charge/interfacial-ion-transport study; consistent with existing bulk cathode migration/redox exclusions."
+  },
+  "10.1002/anie.9906288": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-24",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-26",
+    "evidenceSource": "publisher-early-view",
+    "reason": "Partial solvation and chlorate formation on MgCl2-rich sea-salt crystal surfaces are environmental interfacial redox chemistry. No configured battery, polymer ionic conductor or solid electrolyte is established. Solvation alone does not expand the four topics."
+  },
+  "10.1002/anie.3003798": {
+    "decision": "exclude",
+    "articleType": "communication",
+    "publisherOnlineDate": "2026-11-24",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0?page=2",
+    "verifiedAt": "2026-11-26",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.3003798",
+    "reason": "Individual fluorinated foldamer compounds are studied as proton channels across lipid bilayers, including cell-apoptosis/anticancer assays. The accessible primary evidence does not establish an ion-conducting polymer material, a single-ion electrolyte conductor or a configured battery context. Molecular ion selectivity across a lipid membrane alone is not a basis to extend the configured polymer/single-ion-electrolyte topic to all artificial biological ion channels."
   }
 }
