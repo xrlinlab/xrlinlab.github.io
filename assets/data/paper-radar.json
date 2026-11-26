@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:12:51Z",
+  "generatedAt": "2026-11-26T04:10:23Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,23 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "Tailoring the Na+ Transport Microenvironment With an Anion‐Capturing Interface Enables Low‐Temperature, Fast‐Charging Sodium‐Ion Batteries",
+      "authors": "Anran Shi, Shenglu Geng, Liang Deng, Shengwei Dong, Yan Zhang, Yudong Li, Shuaifeng Lou",
+      "authorsCitation": "A. Shi, S. Geng, L. Deng, S. Dong, Y. Zhang, Y. Li, S. Lou",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-25",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e6393193",
+      "doi": "10.1002/anie.6393193",
+      "link": "https://doi.org/10.1002/anie.6393193",
+      "abstract": "ABSTRACT Na+ desolvation and diffusion across the solid‐electrolyte interface (SEI) are two bottlenecks to fast charging at low temperatures in hard‐carbon sodium‐ion batteries. Here, we design an anion‐capturing interface that provides a customized interfacial environment to enhance interfacial dynamics at low temperatures. We demonstrate that phosphate can promote the formation of a homogeneous inorganic SEI by inducing anion enrichment near the inner Helmholtz plane. The phosphorus‐rich interface exhibits multiple benefits, including the formation of a built‐in electric field and a reduced energy barrier for Na+ interphase diffusion. The hard carbon–phosphate interface (NP‐HC) anode maintains a capacity of 183.6 mAh g −1 at 0.5 A g −1 (−30°C). The pouch cell utilizing the NP‐HC anode achieves a 90.2% capacity retention after 1000 cycles at a 2 C rate. Even so, NP‐HC pouch cells can operate stably even at temperatures as low as −40°C, indicating their potential to enhance the performance of sodium‐ion batteries under harsh conditions.",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ]
+    },
     {
       "title": "Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries",
       "authors": "Sejin Kim, Ilju Kim, Jeesoo Park, Cinthya Paulina, Yewon Shin, Dongwoo Kim, Sungwoong Chung, Changhoon Park, Jaewoong Han, Ji Hun Kim, Byung-Kwan Cho, Seong-Hyo Park, Ki-Hyun Kim, Chang Hoon Lee, Kwonnam Sohn, Hyeokjin Kwon, Hee-Tak Kim",
@@ -84,6 +101,24 @@
       "summarySource": "crossref-abstract",
       "summaryGeneratedAt": "2026-11-25T23:13:12Z",
       "summaryPromptVersion": 2
+    },
+    {
+      "title": "Anion‐Anchoring, Anti‐Swelling Polymer Interphase Enables Durable Lithium Metal Anodes in Localized High‐Concentration Electrolytes",
+      "authors": "Dazhuang Wang, Zhuangzhuang Cui, Jiasen Guo, Yuanyi Wang, Digen Ruan, Jun Ma, Zhihao Ma, Liang Li, Jiajia Fan, Zihong Wang, Qingshun Nian, Bingqing Xiong, Jiacheng Yang, Xuan Luo, Junhao Jiang, Yuan Li, Xiaodi Ren",
+      "authorsCitation": "D. Wang, Z. Cui, J. Guo, Y. Wang, D. Ruan, J. Ma, Z. Ma, L. Li, J. Fan, Z. Wang, Q. Nian, B. Xiong, J. Yang, X. Luo, J. Jiang, Y. Li, X. Ren",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-25",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "e5054548",
+      "doi": "10.1002/anie.5054548",
+      "link": "https://doi.org/10.1002/anie.5054548",
+      "abstract": "ABSTRACT Localized high‐concentration electrolytes (LHCEs) can improve the cycling stability of lithium metal batteries by promoting anion‐rich solvation structures that favor the formation of inorganic‐rich solid electrolyte interphases (SEIs). However, their favorable interfacial chemistry is not self‐sustaining because the native SEI is heterogeneous and prone to repeated rupture during Li plating/stripping, thus progressively depleting active Li and electrolyte. Polymeric artificial SEIs have emerged as a complementary strategy for interfacial stabilization, but their effectiveness in LHCEs is limited by an inherent conflict: the polar functional groups that coordinate ions also coordinate solvents, causing polymer swelling, dissolution, and disruption of anion‐rich solvation structures. Here, we develop an anion‐anchoring and anti‐swelling artificial SEI (AS–SEI) by integrating imidazolium cations with long aliphatic side chains. Imidazolium cations enable anion anchoring to sustain the LHCE‐favored anion‐rich environment at the interface, while long aliphatic chains provide anti‐swelling behavior that protects anchoring sites from competitive solvation. Consequently, AS‐SEI exhibits a high Young's modulus (5.0–10.5 GPa) and a high Li+ transference number (0.94), while promoting the formation of LiF/Li 2 O‐rich SEIs. Li||Cu cells achieve 480 cycles with 99.5% average Coulombic efficiency, while Li||NCM811 cells deliver ∼900 cycles with 80% capacity retention (a nearly threefold improvement), with the strategy remaining effective across ether‐, ester‐, and sulfone‐based LHCEs.",
+      "matchedTopics": [
+        "Lithium-metal and anode-free batteries",
+        "Fast charging and interfacial ion transport"
+      ]
     },
     {
       "title": "Stress‐Modulated Ionic Transport Limits Composite Cathode Kinetics in Solid‐State Batteries",
@@ -1763,5 +1798,8 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Joule (2542-4351): HTTP Error 429: Too Many Requests",
+    "Macromolecules (1520-5835): HTTP Error 429: Too Many Requests"
+  ]
 }
