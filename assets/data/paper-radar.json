@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:10:23Z",
+  "generatedAt": "2026-11-26T23:11:36Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -23,21 +23,48 @@
   ],
   "papers": [
     {
+      "title": "An Expandable Library of Solid Polymer Electrolytes for Lithium‐Metal Batteries",
+      "authors": "Lei Wang, Peng Zhao, Yuzheng Xie, Kang Xu, Ruoqian Lin",
+      "authorsCitation": "L. Wang, P. Zhao, Y. Xie, K. Xu, R. Lin",
+      "journal": "Angewandte Chemie International Edition",
+      "publicationDate": "2026-11-26",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "e7301001",
+      "doi": "10.1002/anie.7301001",
+      "link": "https://doi.org/10.1002/anie.7301001",
+      "abstract": "",
+      "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors",
+        "Solid-state batteries",
+        "Lithium-metal and anode-free batteries"
+      ],
+      "summaryZh": "新在哪里：把固态聚合物电解质（solid polymer electrolyte, SPE）的研究从单一配方比较推进到涵盖五类聚合物、12种材料的可扩展样本库，尝试在相近评价框架下比较离子传导、电化学稳定性和锂界面行为。\n性能：摘要报告一种丙烯酸酯三元共聚物支持超过1800 h的锂沉积/剥离；钴酸锂（lithium cobalt oxide, LiCoO₂）/锂电池循环100圈后容量保持率为100%，平均库仑效率（Coulombic efficiency, CE）为99.91% ± 0.09%。1800 h不是全电池循环圈数，摘要未给出上述测试的电流密度、面容量和完整温度条件，不宜据此直接评价实用工况寿命。\n怎么解释：样本内的关联分析将聚合物–锂离子结合、分子结构细节及固态电解质界面膜（solid electrolyte interphase, SEI）组成与性能联系起来，并提出CE波动幅度比均值更能反映循环稳定性；这是特定材料库内的相关性，尚不能视为普适因果规律。\n为什么重要：研究提供了通过骨架接枝和多组分共聚持续扩展材料库的路径，使聚合物化学变量能够被系统比较，而不只依赖孤立的最优配方。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-26T23:03:58Z",
+      "summaryPromptVersion": 2
+    },
+    {
       "title": "Tailoring the Na+ Transport Microenvironment With an Anion‐Capturing Interface Enables Low‐Temperature, Fast‐Charging Sodium‐Ion Batteries",
       "authors": "Anran Shi, Shenglu Geng, Liang Deng, Shengwei Dong, Yan Zhang, Yudong Li, Shuaifeng Lou",
       "authorsCitation": "A. Shi, S. Geng, L. Deng, S. Dong, Y. Zhang, Y. Li, S. Lou",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-25",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e6393193",
       "doi": "10.1002/anie.6393193",
       "link": "https://doi.org/10.1002/anie.6393193",
-      "abstract": "ABSTRACT Na+ desolvation and diffusion across the solid‐electrolyte interface (SEI) are two bottlenecks to fast charging at low temperatures in hard‐carbon sodium‐ion batteries. Here, we design an anion‐capturing interface that provides a customized interfacial environment to enhance interfacial dynamics at low temperatures. We demonstrate that phosphate can promote the formation of a homogeneous inorganic SEI by inducing anion enrichment near the inner Helmholtz plane. The phosphorus‐rich interface exhibits multiple benefits, including the formation of a built‐in electric field and a reduced energy barrier for Na+ interphase diffusion. The hard carbon–phosphate interface (NP‐HC) anode maintains a capacity of 183.6 mAh g −1 at 0.5 A g −1 (−30°C). The pouch cell utilizing the NP‐HC anode achieves a 90.2% capacity retention after 1000 cycles at a 2 C rate. Even so, NP‐HC pouch cells can operate stably even at temperatures as low as −40°C, indicating their potential to enhance the performance of sodium‐ion batteries under harsh conditions.",
+      "abstract": "",
       "matchedTopics": [
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：针对低温硬碳钠离子电池（hard-carbon sodium-ion battery）中钠离子去溶剂化（Na⁺ desolvation）及跨界面迁移缓慢的问题，利用富磷界面捕获阴离子，调节电极附近的局部电解液环境，而非仅改变体相电解液。\n性能：改性硬碳在−30 °C、0.5 A g⁻¹下报告183.6 mAh g⁻¹；另一个软包电池测试在2 C循环1000圈后容量保持率为90.2%。摘要还报告软包可在−40 °C运行，但未给出该温度的完整容量和寿命，不能把2 C、1000圈与−40 °C合并为同一测试。\n怎么解释：作者将性能改善归于磷酸盐促进内亥姆霍兹面（inner Helmholtz plane, IHP）附近阴离子富集、较均匀的无机固态电解质界面膜（solid electrolyte interphase, SEI）形成，以及界面电场和较低的钠离子迁移能垒；这些是摘要和出版社导览支持的解释，具体证据强度仍需正文核查。\n为什么重要：研究将低温快充的调控位置落实到硬碳/电解液界面，提示低温性能不能仅由体相离子电导率判断；它属于界面离子输运研究，并非固态钠电池。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-26T23:03:58Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries",
@@ -108,17 +135,21 @@
       "authorsCitation": "D. Wang, Z. Cui, J. Guo, Y. Wang, D. Ruan, J. Ma, Z. Ma, L. Li, J. Fan, Z. Wang, Q. Nian, B. Xiong, J. Yang, X. Luo, J. Jiang, Y. Li, X. Ren",
       "journal": "Angewandte Chemie International Edition",
       "publicationDate": "2026-11-25",
-      "publicationDateSource": "crossref-published-online",
+      "publicationDateSource": "publisher-online",
       "volume": "",
       "issue": "",
       "page": "e5054548",
       "doi": "10.1002/anie.5054548",
       "link": "https://doi.org/10.1002/anie.5054548",
-      "abstract": "ABSTRACT Localized high‐concentration electrolytes (LHCEs) can improve the cycling stability of lithium metal batteries by promoting anion‐rich solvation structures that favor the formation of inorganic‐rich solid electrolyte interphases (SEIs). However, their favorable interfacial chemistry is not self‐sustaining because the native SEI is heterogeneous and prone to repeated rupture during Li plating/stripping, thus progressively depleting active Li and electrolyte. Polymeric artificial SEIs have emerged as a complementary strategy for interfacial stabilization, but their effectiveness in LHCEs is limited by an inherent conflict: the polar functional groups that coordinate ions also coordinate solvents, causing polymer swelling, dissolution, and disruption of anion‐rich solvation structures. Here, we develop an anion‐anchoring and anti‐swelling artificial SEI (AS–SEI) by integrating imidazolium cations with long aliphatic side chains. Imidazolium cations enable anion anchoring to sustain the LHCE‐favored anion‐rich environment at the interface, while long aliphatic chains provide anti‐swelling behavior that protects anchoring sites from competitive solvation. Consequently, AS‐SEI exhibits a high Young's modulus (5.0–10.5 GPa) and a high Li+ transference number (0.94), while promoting the formation of LiF/Li 2 O‐rich SEIs. Li||Cu cells achieve 480 cycles with 99.5% average Coulombic efficiency, while Li||NCM811 cells deliver ∼900 cycles with 80% capacity retention (a nearly threefold improvement), with the strategy remaining effective across ether‐, ester‐, and sulfone‐based LHCEs.",
+      "abstract": "",
       "matchedTopics": [
         "Lithium-metal and anode-free batteries",
         "Fast charging and interfacial ion transport"
-      ]
+      ],
+      "summaryZh": "新在哪里：聚合物人工界面膜在局部高浓度电解液（localized high-concentration electrolyte, LHCE）中可能因吸溶剂而溶胀，反而破坏原有富阴离子环境；研究把固定咪唑鎓阳离子（tethered imidazolium cation）的阴离子锚定作用与长脂肪侧链的抗溶胀作用结合，分别处理局部组成和膜层稳定性。\n性能：摘要报告膜层杨氏模量（Young’s modulus）为5.0–10.5 GPa、锂离子迁移数（Li-ion transference number）为0.94；锂/铜电池实现480圈、平均库仑效率（Coulombic efficiency）99.5%，锂/高镍正极电池约900圈后容量保持率为80%。摘要未列出对应的面容量、电解液用量和完整倍率条件，不宜直接外推为实用软包寿命。\n怎么解释：作者提出，阴离子锚定维持界面富阴离子环境，疏溶剂侧链减少竞争性溶剂化和溶胀，并促进富氟化锂/氧化锂（lithium fluoride/lithium oxide, LiF/Li₂O）的固态电解质界面膜（solid electrolyte interphase, SEI）形成；机制重点是让保护层在液态电解液中持续工作，而非单纯提高刚度。\n为什么重要：研究指出人工界面膜必须与实际电解液的溶剂化环境共同设计；聚合物膜及较高迁移数并不意味着体系已成为单离子体相电解质或全固态电池。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-26T23:03:58Z",
+      "summaryPromptVersion": 2
     },
     {
       "title": "Stress‐Modulated Ionic Transport Limits Composite Cathode Kinetics in Solid‐State Batteries",
@@ -1686,120 +1717,8 @@
       ],
       "correspondingAuthorSource": "publisher",
       "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "Solvation Cluster Engineering of Non-Fluorinated Ethers toward High-Energy Lithium Metal Batteries",
-      "authors": "Xinyi Liu, Shuang Wu, Jinze Hou, Wenbo Zhou, Mao Guo, Haixia Li, Zhenhua Yan, Yong Lu, Jun Chen",
-      "authorsCitation": "X. Liu, S. Wu, J. Hou, W. Zhou, M. Guo, H. Li, Z. Yan, Y. Lu, J. Chen",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-28",
-      "publicationDateSource": "publisher-online",
-      "volume": "148",
-      "issue": "44",
-      "page": "48290",
-      "doi": "10.1021/jacs.6c16390",
-      "link": "https://doi.org/10.1021/jacs.6c16390",
-      "abstract": "",
-      "matchedTopics": [
-        "Lithium-metal and anode-free batteries",
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：把非氟化多齿长链醚与单齿醚的分子间作用作为溶剂化簇（solvation cluster）的调控变量，而非只比较单一溶剂极性。\n性能：摘要报告锂金属软包电池达472.5 Wh kg⁻¹；20 Ah级无负极电池在1.5 g Ah⁻¹贫液条件下达525 Wh kg⁻¹，120圈容量保持率71.6%。\n怎么解释：弱分子间作用改变配位与簇尺寸，接触离子对（contact ion pair）主导结构与阴离子衍生界面相关联；这些变化共同改善传输和电极稳定，不能归为单一因果。\n为什么重要：为非氟化醚溶剂的配对设计提供路径。注意非氟化溶剂不等于整个配方无氟，文中仍形成富LiF界面。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Yong Lu",
-        "Jun Chen"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "New Insights into the Decoupling Mechanism of Ion Motion from Segmental Relaxation in Glass-Forming Polymers: The Interplay of Cohesive Energy Density",
-      "authors": "Xuhong Zheng, Zhen Chen, Linghui Cui, Gaopeng Shi",
-      "authorsCitation": "X. Zheng, Z. Chen, L. Cui, G. Shi",
-      "journal": "Macromolecules",
-      "publicationDate": "2026-10-28",
-      "publicationDateSource": "publisher-online",
-      "volume": "59",
-      "issue": "21",
-      "page": "11993",
-      "doi": "10.1021/acs.macromol.6c02433",
-      "link": "https://doi.org/10.1021/acs.macromol.6c02433",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：通过聚乙烯醇缩醛（poly(vinyl acetal)）系列研究离子运动与链段松弛（segmental relaxation）的解耦，提出内聚能密度（cohesive energy density）是比单独玻璃化转变温度（glass transition temperature, Tg）更有解释力的变量。性能：登记摘要未给出电导率或电池性能，不作外推。怎么解释：改变缩醛基长度、分子量及增塑条件后，局部慢区仍表现出致密堆积和较高内聚能密度；室温解耦指数与内聚能密度负相关，作者据此提出较强内聚作用限制离子独立运动。该相关性尚不能单独证明全部因果关系。为什么重要：提示仅降低Tg不足以保证传输解耦，需要同时考虑分子间作用与局部堆积。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-27T23:15:00Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Zhen Chen",
-        "Gaopeng Shi"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-11"
-    },
-    {
-      "title": "High-Performance Salt-Lake Water Zinc Batteries Operated at −50 °C",
-      "authors": "Chen Zhao, Peijun He, Leichao Meng, Yan Xin, Le Yu, Huajun Tian",
-      "authorsCitation": "C. Zhao, P. He, L. Meng, Y. Xin, L. Yu, H. Tian",
-      "journal": "Journal of the American Chemical Society",
-      "publicationDate": "2026-10-28",
-      "publicationDateSource": "crossref-published-online",
-      "volume": "148",
-      "issue": "44",
-      "page": "48243",
-      "doi": "10.1021/jacs.6c16008",
-      "link": "https://doi.org/10.1021/jacs.6c16008",
-      "abstract": "",
-      "matchedTopics": [
-        "Fast charging and interfacial ion transport"
-      ],
-      "summaryZh": "新在哪里：将天然高盐湖水与人工合金界面结合，分别处理低温冻结和Zn²⁺界面沉积问题。\n性能：登记摘要报告−50°C锌对称电池超过3200 h；聚苯胺正极全电池在5 A g⁻¹下超过2500圈，相关软包电池在−50°C运行900圈后仍保持长期稳定。\n怎么解释：高盐度降低冻结倾向、改变水配位与活度，三元合金层调节阳离子吸附和静电屏蔽（electrostatic shielding）；溶剂与电极同时改变，不能把效果全部归于湖水。\n为什么重要：为极寒水系电池提供低成本配方线索，但天然水源成分波动、杂质与工况可重复性仍需验证。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-29T23:12:08Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Leichao Meng",
-        "Le Yu",
-        "Huajun Tian"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-12"
-    },
-    {
-      "title": "Bromide‐Activated Four‐Electron Iodine Chemistry Enabled by a Pyridinium‐Integrated Hydrogel Electrolyte",
-      "authors": "Rujiao Ma, Shao‐Jian Zhang, Xun Zhao, Yiyang Hu, Han Wu, Junnan Hao",
-      "authorsCitation": "R. Ma, S. Zhang, X. Zhao, Y. Hu, H. Wu, J. Hao",
-      "journal": "Angewandte Chemie International Edition",
-      "publicationDate": "2026-10-28",
-      "publicationDateSource": "publisher-online",
-      "volume": "",
-      "issue": "",
-      "page": "e3951000",
-      "doi": "10.1002/anie.3951000",
-      "link": "https://doi.org/10.1002/anie.3951000",
-      "abstract": "",
-      "matchedTopics": [
-        "Ion-conducting polymers and single-ion conductors"
-      ],
-      "summaryZh": "新在哪里：把卤素中间体的键极化与水凝胶中的固定作用结合，处理四电子锌碘电池高价碘易水解的问题。\n性能：摘要报告422.6 mAh g⁻¹，在20C循环超过20000圈；500 mAh软包电池在3.5 mAh cm⁻²下运行600圈且容量衰减很小。\n怎么解释：实验与计算支持IBr₂⁻较低键极化和较高抗水解性；吡啶鎓（pyridinium）固定碘中间体，磺酸基有助于Zn²⁺选择性传输。多个作用同时存在，不能将循环提升只归因于溴离子。\n为什么重要：将中间体化学和离子通道设计合并为水凝胶电解质的协同变量。",
-      "summarySource": "crossref-abstract",
-      "summaryGeneratedAt": "2026-10-28T23:08:17Z",
-      "summaryPromptVersion": 2,
-      "correspondingAuthors": [
-        "Junnan Hao"
-      ],
-      "correspondingAuthorSource": "publisher",
-      "correspondingAuthorVerifiedAt": "2026-11-01"
     }
   ],
   "source": "Crossref",
-  "errors": [
-    "Joule (2542-4351): HTTP Error 429: Too Many Requests",
-    "Macromolecules (1520-5835): HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }

@@ -2015,7 +2015,10 @@
     ],
     "evidenceSource": "publisher-research-directory-article-text-and-explicit-correspondence",
     "metadataSource": "https://api.crossref.org/works/10.1038/s41560-026-02172-w",
-    "correspondingAuthors": ["Dominic L. R. Melvin", "Peter G. Bruce"],
+    "correspondingAuthors": [
+      "Dominic L. R. Melvin",
+      "Peter G. Bruce"
+    ],
     "correspondingAuthorEvidence": "The official article explicitly states Correspondence to Dominic L. R. Melvin or Peter G. Bruce. Both names were read in the publisher article search index; no author-order inference.",
     "publisherAccessStatus": "Research directory covers the complete current research-article window; article text and correspondence readable in the publisher search index, direct open redirects to the identity service.",
     "reason": "Contoured Li/Li6PS5Cl interfaces suppress interfacial void growth during lithium stripping in solid-state batteries. The tenfold threshold and pulse-current results concern discharge, not fast charging; void formation is not eliminated."
@@ -2026,7 +2029,10 @@
     "publisherOnlineDate": "2026-11-23",
     "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
     "verifiedAt": "2026-11-24",
-    "matchedTopics": ["Lithium-metal and anode-free batteries", "Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.2524176",
     "publisherAccessStatus": "Official Early View verifies Research Article and 23 November Version of Record. Direct article unavailable; no corresponding authors inferred.",
@@ -2038,7 +2044,9 @@
     "publisherOnlineDate": null,
     "publisherSource": "https://pubs.acs.org/doi/10.1021/jacs.6c12939",
     "verifiedAt": "2026-11-24",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1021/jacs.6c12939",
     "publisherAccessStatus": "Formal article access restricted. Publication date is the precise Crossref online date, not independently verified publisher date. Corresponding authors remain unverified.",
@@ -2069,7 +2077,10 @@
     "publisherOnlineDate": "2026-11-23",
     "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
     "verifiedAt": "2026-11-25",
-    "matchedTopics": ["Lithium-metal and anode-free batteries", "Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.8799990",
     "publisherAccessStatus": "Official Early View explicitly identifies a Research Article and Version of Record online 23 November 2026. The formal article page remains unavailable; corresponding authors are not inferred.",
@@ -2081,7 +2092,9 @@
     "publisherOnlineDate": "2026-11-23",
     "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
     "verifiedAt": "2026-11-25",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.2419938",
     "publisherAccessStatus": "Early View verifies Research Article and 23 November online date. Formal article and explicit corresponding-author labels remain inaccessible.",
@@ -2093,7 +2106,9 @@
     "publisherOnlineDate": "2026-11-23",
     "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
     "verifiedAt": "2026-11-25",
-    "matchedTopics": ["Fast charging and interfacial ion transport"],
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
     "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.8348441",
     "publisherAccessStatus": "Early View explicitly lists Research Article and 23 November Version of Record. The formal article is inaccessible; corresponding authors remain unverified.",
@@ -2219,5 +2234,98 @@
     "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
     "metadataSource": "https://api.crossref.org/works/10.1002/anie.3003798",
     "reason": "Individual fluorinated foldamer compounds are studied as proton channels across lipid bilayers, including cell-apoptosis/anticancer assays. The accessible primary evidence does not establish an ion-conducting polymer material, a single-ion electrolyte conductor or a configured battery context. Molecular ion selectivity across a lipid membrane alone is not a basis to extend the configured polymer/single-ion-electrolyte topic to all artificial biological ion channels."
+  },
+  "10.1002/anie.7301001": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-26",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-27",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors",
+      "Solid-state batteries",
+      "Lithium-metal and anode-free batteries"
+    ],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.7301001",
+    "publisherAccessStatus": "Official EarlyView research classification, date and synopsis readable. Formal article page returns 403; complete corresponding-author designation unverified.",
+    "reason": "A library of 12 solid polymer electrolytes from five families relates polymer chemistry, Li-ion coordination and interphase descriptors to lithium-metal cell performance. Correlations do not establish a universal causal rule, and 1800 h plating/stripping is not a full-cell cycle count."
+  },
+  "10.1002/anie.6393193": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-25",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-27",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6393193",
+    "publisherAccessStatus": "Official EarlyView date and synopsis readable; formal article page inaccessible, correspondence not verified.",
+    "reason": "Phosphate-bearing hard-carbon interfaces regulate anion enrichment, Na-ion desolvation and interphase transport for low-temperature/fast-charge sodium-ion batteries. Include only under existing interfacial-ion-transport topic, not solid-state or lithium-metal. The -30 C electrode capacity, 2 C pouch cycling and -40 C operation are separate results."
+  },
+  "10.1002/anie.5054548": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-25",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0?page=2",
+    "verifiedAt": "2026-11-27",
+    "matchedTopics": [
+      "Lithium-metal and anode-free batteries",
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.5054548",
+    "publisherAccessStatus": "Official EarlyView synopsis and date readable; formal article page inaccessible, correspondence not verified.",
+    "reason": "Tethered imidazolium and long aliphatic chains jointly anchor anions and limit polymer swelling in liquid localized high-concentration electrolytes. An artificial polymer interphase and its Li-ion transference number do not establish a single-ion bulk solid electrolyte or an all-solid-state cell."
+  },
+  "10.1002/anie.3019780": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-26",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-27",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.3019780",
+    "reason": "Ferroelectric LiNbO3 regulates migration of oxygen-redox intermediates and oxygen loss in Li-rich cathodes. This is cathode oxygen-redox/structural stabilization, not lithium-ion interfacial transport, fast charging, an ion-conducting polymer or a solid-state electrolyte. Lithium-metal pouch validation alone does not turn this into a lithium-metal-interface study; consistent with existing cathode-redox exclusions."
+  },
+  "10.1002/anie.anie-26-24714": {
+    "decision": "exclude",
+    "articleType": "highlight",
+    "publisherOnlineDate": "2026-11-26",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-27",
+    "evidenceSource": "publisher-early-view-explicit-article-type",
+    "reason": "Official EarlyView explicitly labels this HIGHLIGHT; deposited abstract attributes the original COF results to another paper in Angewandte Chemie Novit. Exclude commentary, not missing date or abstract."
+  },
+  "10.1002/anie.3906832": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-25",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-27",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.3906832",
+    "reason": "Aqueous all-organic PTCDI/bromine redox chemistry and Hofmeister control of polybromide dissolution/electrode reaction kinetics. No configured polymer/single-ion conductor, solid-state battery, lithium-metal anode or interfacial-ion-transport/fast-charge study established. General electrolyte-solvation engineering does not expand the four topics to all aqueous battery redox couples."
+  },
+  "10.1002/anie.6031873": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-25",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-27",
+    "evidenceSource": "publisher-early-view-and-publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1002/anie.6031873",
+    "reason": "Hydrazone COF membranes separate aqueous Cs/Sr/uranyl mixtures through selective permeation and metal chelation. This is an ion-separation/adsorption membrane, not an established ion-conducting-polymer or single-ion electrolyte conductor, nor a configured battery study. Do not extend the scope to all selective ion-separation membranes."
+  },
+  "10.1002/anie.6715913": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-25",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0?page=2",
+    "verifiedAt": "2026-11-27",
+    "evidenceSource": "publisher-early-view",
+    "reason": "Photocatalytic degradation of spent-electrode PVDF and lithium replenishment repair LiFePO4 cathodes. Polymer recycling/cathode regeneration is not an ion-conducting-polymer, solid-state, lithium-metal-interface or fast-charge/ion-transport study."
   }
 }
