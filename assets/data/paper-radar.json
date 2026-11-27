@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:11:36Z",
+  "generatedAt": "2026-11-27T04:17:15Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -22,6 +22,23 @@
     "Nature Sustainability"
   ],
   "papers": [
+    {
+      "title": "In Situ Catalytic Polymerization on Lithium Lanthanum Zirconium Tantalum Oxide Surface: From Detrimental Passivation Layer to Multifunctional Polycaprolactone Coating for Superior Composite Solid Electrolytes",
+      "authors": "Fen Li, Muyao Lv, Xingping Zhou, Zhigang Xue",
+      "authorsCitation": "F. Li, M. Lv, X. Zhou, Z. Xue",
+      "journal": "Macromolecules",
+      "publicationDate": "2026-11-27",
+      "publicationDateSource": "crossref-published-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1021/acs.macromol.6c01498",
+      "link": "https://doi.org/10.1021/acs.macromol.6c01498",
+      "abstract": "Abstract Garnet-type Li6.4La3Zr1.4Ta0.6O12 (LLZTO) is a promising solid-state electrolyte due to its high ionic conductivity, wide electrochemical window, and stability against lithium metal. However, the practical application of ceramic LLZTO is limited by its inherent brittleness, poor processability, and high interfacial impedance with electrodes, while its use in composite solid-state electrolytes is further hindered by severe particle agglomeration and insulating surface passivation layers that impair filler dispersion and interfacial lithium-ion transport. Herein, we report a facile and innovative strategy that harnesses the native passivation layer of LLZTO as an in situ catalyst for the ring-opening polymerization of ε-caprolactone, yielding a uniform poly(ε-caprolactone) (PCL) coating (LLZTO@P). This dual-functional process simultaneously suppresses the detrimental effects of the passivation layer and constructs a flexible organic interface with excellent compatibility toward the PEO-PCL polymer matrix. The resulting composite solid electrolyte (PEO-PCL-LLZTO@P) exhibits significantly improved filler dispersion, a dense defect-free microstructure, and enhanced ionic transport properties, achieving a room-temperature ionic conductivity of 2.8 × 10−5 S cm−1, a high Li+ transference number of 0.66, and a wide electrochemical window up to 5.2 V. This passivation layer-catalyzed in situ polymerization approach offers a scalable “waste-to-resource” pathway for surface engineering of garnet fillers, providing a new insight for high-performance composite solid-state lithium metal batteries.",
+      "matchedTopics": [
+        "Solid-state batteries"
+      ]
+    },
     {
       "title": "An Expandable Library of Solid Polymer Electrolytes for Lithium‐Metal Batteries",
       "authors": "Lei Wang, Peng Zhao, Yuzheng Xie, Kang Xu, Ruoqian Lin",
