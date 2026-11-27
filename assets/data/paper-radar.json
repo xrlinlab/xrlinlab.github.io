@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:17:15Z",
+  "generatedAt": "2026-11-27T23:16:03Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -34,10 +34,44 @@
       "page": "",
       "doi": "10.1021/acs.macromol.6c01498",
       "link": "https://doi.org/10.1021/acs.macromol.6c01498",
-      "abstract": "Abstract Garnet-type Li6.4La3Zr1.4Ta0.6O12 (LLZTO) is a promising solid-state electrolyte due to its high ionic conductivity, wide electrochemical window, and stability against lithium metal. However, the practical application of ceramic LLZTO is limited by its inherent brittleness, poor processability, and high interfacial impedance with electrodes, while its use in composite solid-state electrolytes is further hindered by severe particle agglomeration and insulating surface passivation layers that impair filler dispersion and interfacial lithium-ion transport. Herein, we report a facile and innovative strategy that harnesses the native passivation layer of LLZTO as an in situ catalyst for the ring-opening polymerization of ε-caprolactone, yielding a uniform poly(ε-caprolactone) (PCL) coating (LLZTO@P). This dual-functional process simultaneously suppresses the detrimental effects of the passivation layer and constructs a flexible organic interface with excellent compatibility toward the PEO-PCL polymer matrix. The resulting composite solid electrolyte (PEO-PCL-LLZTO@P) exhibits significantly improved filler dispersion, a dense defect-free microstructure, and enhanced ionic transport properties, achieving a room-temperature ionic conductivity of 2.8 × 10−5 S cm−1, a high Li+ transference number of 0.66, and a wide electrochemical window up to 5.2 V. This passivation layer-catalyzed in situ polymerization approach offers a scalable “waste-to-resource” pathway for surface engineering of garnet fillers, providing a new insight for high-performance composite solid-state lithium metal batteries.",
+      "abstract": "",
       "matchedTopics": [
+        "Ion-conducting polymers and single-ion conductors",
         "Solid-state batteries"
-      ]
+      ],
+      "summaryZh": "新在哪里：将石榴石型锂镧锆钽氧化物（lithium lanthanum zirconium tantalum oxide, LLZTO）表面的原生钝化层用作催化位点，触发ε-己内酯（ε-caprolactone）的开环聚合（ring-opening polymerization），在填料表面形成聚己内酯（polycaprolactone, PCL）包覆层，而不只是先清除钝化层再额外涂覆。\n性能：所得聚氧化乙烯（polyethylene oxide, PEO）/PCL复合固态电解质的室温离子电导率（ionic conductivity）为2.8×10⁻⁵ S cm⁻¹，锂离子迁移数（Li-ion transference number）为0.66，摘要报告电化学窗口（electrochemical window）达5.2 V。该窗口不等于全电池可在5.2 V长期循环，摘要也未提供完整电池寿命数据。\n怎么解释：作者将改善归于原生钝化层的催化利用、PCL包覆与PEO/PCL基体相容性提高，以及填料分散和复合膜致密性改善；摘要未单独量化各因素的贡献，也不能据此确定唯一传导路径。\n为什么重要：研究把陶瓷表面处理与聚合物/填料界面构筑合并为一个过程，为处理复合固态电解质中的颗粒团聚和界面阻抗提供了可比较的化学设计变量。",
+      "summarySource": "crossref-abstract",
+      "summaryGeneratedAt": "2026-11-27T23:08:53Z",
+      "summaryPromptVersion": 2
+    },
+    {
+      "title": "Dual-cation solvation-tailored electrolyte solutions for low-temperature 48-V/30-Ah lithium-ion battery modules",
+      "authors": "Jia-Yan Liang, Xiaowei Liu, Yanyan Zhang, Ya You, Yang Xia, Bo-Zheng Liu, Qian Li, Yu Zhang, Ji-Lei Shi, Ji-Ling Yue, Yao Zhao, Bo Guan, Jun-Feng Xiang, Fuyi Wang, Wenkui Zhang, Chunhui Yang, Sen Xin, Jiecai Han, Yu-Guo Guo",
+      "authorsCitation": "J.-Y. Liang, X. Liu, Y. Zhang, Y. You, Y. Xia, B.-Z. Liu, Q. Li, Y. Zhang, J.-L. Shi, J.-L. Yue, Y. Zhao, B. Guan, J.-F. Xiang, F. Wang, W. Zhang, C. Yang, S. Xin, J. Han, Y.-G. Guo",
+      "journal": "Nature Nanotechnology",
+      "publicationDate": "2026-11-27",
+      "publicationDateSource": "publisher-online",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "doi": "10.1038/s41565-026-02339-2",
+      "link": "https://doi.org/10.1038/s41565-026-02339-2",
+      "abstract": "",
+      "matchedTopics": [
+        "Fast charging and interfacial ion transport"
+      ],
+      "summaryZh": "新在哪里：不再仅削弱锂离子与溶剂的结合，而是用双锂离子聚集体（dual-cation aggregate）同时调节体相输运和界面去溶剂化（desolvation）。\n性能：添加15 vol%的强配位溶剂后，测试覆盖48 V/30 Ah模组及低至−50 °C的电池运行；摘要未证明该规格模组在−50 °C的完整循环表现，不应合并解读。\n怎么解释：磷酸三乙酯（triethyl phosphate, TEP）参与形成2Li⁺+TEP内核，外侧为二氟草酸硼酸根（difluoro(oxalato)borate, DFOB⁻）及碳酸酯溶剂。作者将界面去溶剂化改善与有效电荷密度降低联系起来，将体相传导改善与外层阴离子更快解离联系起来。\n为什么重要：低温电解液需要分别解决液相中的离子迁移和进入电极前的配位重组，单一溶剂结合强弱未必能同时优化二者。",
+      "summarySource": "publisher-abstract",
+      "summaryGeneratedAt": "2026-11-27T23:08:53Z",
+      "summaryPromptVersion": 2,
+      "correspondingAuthors": [
+        "Yanyan Zhang",
+        "Ya You",
+        "Sen Xin",
+        "Yu-Guo Guo"
+      ],
+      "correspondingAuthorSource": "publisher",
+      "correspondingAuthorVerifiedAt": "2026-11-28"
     },
     {
       "title": "An Expandable Library of Solid Polymer Electrolytes for Lithium‐Metal Batteries",

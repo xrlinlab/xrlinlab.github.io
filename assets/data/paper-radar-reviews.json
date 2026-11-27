@@ -2327,5 +2327,68 @@
     "verifiedAt": "2026-11-27",
     "evidenceSource": "publisher-early-view",
     "reason": "Photocatalytic degradation of spent-electrode PVDF and lithium replenishment repair LiFePO4 cathodes. Polymer recycling/cathode regeneration is not an ion-conducting-polymer, solid-state, lithium-metal-interface or fast-charge/ion-transport study."
+  },
+  "10.1038/s41565-026-02339-2": {
+    "decision": "include",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-27",
+    "publisherSource": "https://www.nature.com/articles/s41565-026-02339-2",
+    "verifiedAt": "2026-11-28",
+    "matchedTopics": [
+      "Fast charging and interfacial ion transport"
+    ],
+    "evidenceSource": "publisher-abstract-and-explicit-correspondence",
+    "metadataSource": "https://api.crossref.org/works/10.1038/s41565-026-02339-2",
+    "correspondingAuthors": [
+      "Yanyan Zhang",
+      "Ya You",
+      "Sen Xin",
+      "Yu-Guo Guo"
+    ],
+    "correspondingAuthorEvidence": "Official article explicitly states Correspondence to Yanyan Zhang, Ya You, Sen Xin or Yu-Guo Guo. Read in both publisher-page text and publisher search index; no inference from order or supervision.",
+    "publisherAccessStatus": "Official abstract, research-directory date and corresponding-author section readable. Subscription body is not claimed as accessed.",
+    "reason": "Dual-lithium-cation/core-shell solvation structures address bulk Li-ion transport and electrode-interface desolvation in liquid electrolytes. Include under interfacial-ion-transport only; not a solid-state or single-ion-polymer study. The abstract's 48-V/30-Ah module and -50 C operation are separate scope statements; do not combine them into an unverified module test condition."
+  },
+  "10.1021/acs.macromol.6c01498": {
+    "decision": "include",
+    "articleType": "unknown",
+    "publisherOnlineDate": null,
+    "publisherSource": "https://pubs.acs.org/doi/10.1021/acs.macromol.6c01498",
+    "verifiedAt": "2026-11-28",
+    "matchedTopics": [
+      "Ion-conducting polymers and single-ion conductors",
+      "Solid-state batteries"
+    ],
+    "evidenceSource": "publisher-deposited-crossref-abstract",
+    "metadataSource": "https://api.crossref.org/works/10.1021/acs.macromol.6c01498",
+    "publisherAccessStatus": "Formal ACS article and journal archive return 403. Full publisher-deposited abstract and four-author metadata available through Crossref; exact Crossref online date retained. Corresponding authors and article subtype unverified.",
+    "reason": "Native LLZTO passivation layers catalyse caprolactone ring-opening polymerization, yielding a PCL-coated filler compatible with a PEO-PCL solid-polymer matrix. This is a composite solid electrolyte, not merely polymer synthesis. A 5.2-V electrochemical-window result does not establish 5.2-V full-cell cycling; abstract provides no cycling lifetime."
+  },
+  "10.1038/s41560-026-02173-9": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-27",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02173-9",
+    "verifiedAt": "2026-11-28",
+    "evidenceSource": "publisher-research-directory-and-article-abstract",
+    "reason": "Lithium dopant immobilization stabilizes molecular Spiro-OMeTAD hole-transport layers in perovskite photovoltaics. Not an ion-conducting-polymer/single-ion electrolyte, solid-state battery, lithium-metal battery or battery interfacial-ion-transport study. Lithium-ion keywords alone do not authorize inclusion."
+  },
+  "10.1038/s41560-026-02158-8": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-27",
+    "publisherSource": "https://www.nature.com/articles/s41560-026-02158-8",
+    "verifiedAt": "2026-11-28",
+    "evidenceSource": "publisher-research-directory-and-article-abstract",
+    "reason": "Proton-current management and hydrogen-oxidation replacement improve reactive CO2 capture/electrolysis. The study concerns an electrolyser process, not a new ion-conducting polymer/single-ion electrolyte material or one of the configured battery topics. Proton transference near one is an operating descriptor, not evidence for a newly designed single-ion polymer; consistent with existing direct-air-capture electrochemical-system exclusions."
+  },
+  "10.1002/anie.6734019": {
+    "decision": "exclude",
+    "articleType": "research",
+    "publisherOnlineDate": "2026-11-26",
+    "publisherSource": "https://onlinelibrary.wiley.com/toc/15213773/0/0",
+    "verifiedAt": "2026-11-28",
+    "evidenceSource": "publisher-early-view",
+    "reason": "Consecutive desolvation controls spin crossover and magnetic bistability in an Fe(III) coordination complex. This is a magnetic phase-transition study, not a polymer ionic conductor, single-ion electrolyte or configured battery/ion-transport study. The shared word desolvation is not scientific relevance."
   }
 }
