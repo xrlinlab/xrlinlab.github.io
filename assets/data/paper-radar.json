@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:16:03Z",
+  "generatedAt": "2026-11-28T03:55:38Z",
   "windowDays": 30,
   "topics": [
     "Ion-conducting polymers and single-ion conductors",
@@ -1771,5 +1771,9 @@
     }
   ],
   "source": "Crossref",
-  "errors": []
+  "errors": [
+    "Nature Chemistry (1755-4349): HTTP Error 429: Too Many Requests",
+    "Nature Nanotechnology (1748-3395): HTTP Error 429: Too Many Requests",
+    "Nature Sustainability (2398-9629): HTTP Error 429: Too Many Requests"
+  ]
 }
